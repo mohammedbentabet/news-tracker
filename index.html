@@ -1,55 +1,466 @@
-[
-  { "id": "bbc-world", "name": "BBC News", "category": "politics", "region": "UK/Global", "lang": "EN", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
-  { "id": "bbc-business", "name": "BBC Business", "category": "finance", "region": "UK/Global", "lang": "EN", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
-  { "id": "bbc-sport", "name": "BBC Sport", "category": "sports", "region": "UK", "lang": "EN", "url": "https://feeds.bbci.co.uk/sport/rss.xml" },
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Signal Desk — Multi-source News Monitor</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --ink: #12181f;
+    --ink-2: #1a222b;
+    --ink-3: #222c37;
+    --paper: #f2ede1;
+    --paper-dim: #e7e0d0;
+    --brass: #b8925a;
+    --brass-bright: #d9ac6e;
+    --signal: #4fb0a5;
+    --danger: #c1543f;
+    --text-on-ink: #e7e2d3;
+    --text-muted-on-ink: #8b93a0;
+    --text-on-paper: #1c2530;
+    --text-muted-on-paper: #756c5e;
+    --font-display: 'Newsreader', serif;
+    --font-body: 'IBM Plex Sans', sans-serif;
+    --font-mono: 'IBM Plex Mono', monospace;
+  }
 
-  { "id": "guardian-world", "name": "The Guardian – World", "category": "politics", "region": "UK/Global", "lang": "EN", "url": "https://www.theguardian.com/world/rss" },
-  { "id": "guardian-business", "name": "The Guardian – Business", "category": "finance", "region": "UK", "lang": "EN", "url": "https://www.theguardian.com/uk/business/rss" },
-  { "id": "guardian-society", "name": "The Guardian – Society", "category": "society", "region": "UK", "lang": "EN", "url": "https://www.theguardian.com/society/rss" },
-  { "id": "guardian-investigations", "name": "The Guardian – Investigations", "category": "osint", "region": "UK", "lang": "EN", "url": "https://www.theguardian.com/world/investigations/rss" },
+  *{ box-sizing:border-box; }
+  html,body{ margin:0; padding:0; background:var(--ink); color:var(--text-on-ink); font-family:var(--font-body); }
 
-  { "id": "aljazeera-all", "name": "Al Jazeera", "category": "politics", "region": "Global/MENA", "lang": "EN", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+  a{ color:inherit; }
 
-  { "id": "france24", "name": "France 24", "category": "politics", "region": "France/Global", "lang": "EN", "url": "https://www.france24.com/en/rss" },
-  { "id": "dw-all", "name": "Deutsche Welle", "category": "politics", "region": "Germany/Global", "lang": "EN", "url": "https://rss.dw.com/xml/rss-en-all" },
-  { "id": "rfi-fr", "name": "RFI", "category": "society", "region": "France", "lang": "FR", "url": "https://www.rfi.fr/fr/rss" },
+  /* ---------- Header ---------- */
+  header.top{
+    padding: 28px 32px 0;
+    max-width: 1280px;
+    margin: 0 auto;
+  }
+  .brand-row{
+    display:flex;
+    align-items:baseline;
+    justify-content:space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+    border-bottom: 1px solid #2a3644;
+    padding-bottom: 18px;
+  }
+  .brand{
+    font-family: var(--font-display);
+    font-weight: 700;
+    font-size: 34px;
+    letter-spacing: 0.5px;
+    color: var(--paper);
+  }
+  .brand em{
+    font-style: italic;
+    color: var(--brass-bright);
+  }
+  .status-line{
+    font-family: var(--font-mono);
+    font-size: 12.5px;
+    color: var(--text-muted-on-ink);
+    display:flex;
+    align-items:center;
+    gap: 8px;
+  }
+  .pulse-dot{
+    width:8px; height:8px; border-radius:50%;
+    background: var(--signal);
+    box-shadow: 0 0 0 0 rgba(79,176,165,0.6);
+    animation: pulse 2.4s infinite;
+  }
+  @keyframes pulse{
+    0%{ box-shadow: 0 0 0 0 rgba(79,176,165,0.5); }
+    70%{ box-shadow: 0 0 0 8px rgba(79,176,165,0); }
+    100%{ box-shadow: 0 0 0 0 rgba(79,176,165,0); }
+  }
 
-  { "id": "lemonde-une", "name": "Le Monde", "category": "economics", "region": "France", "lang": "FR", "url": "https://www.lemonde.fr/rss/une.xml" },
-  { "id": "lemonde-decodeurs", "name": "Le Monde – Les Décodeurs", "category": "osint", "region": "France", "lang": "FR", "url": "https://www.lemonde.fr/les-decodeurs/rss_full.xml" },
-  { "id": "liberation", "name": "Libération", "category": "society", "region": "France", "lang": "FR", "url": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml" },
-  { "id": "mediapart", "name": "Mediapart", "category": "osint", "region": "France", "lang": "FR", "url": "https://www.mediapart.fr/articles/feed" },
+  /* ---------- Ticker ---------- */
+  .ticker-wrap{
+    background: var(--ink-2);
+    border-bottom: 1px solid #2a3644;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+  }
+  .ticker-wrap::before{
+    content: "LATEST";
+    position:absolute; left:0; top:0; bottom:0;
+    display:flex; align-items:center;
+    padding: 0 14px;
+    background: var(--brass);
+    color: var(--ink);
+    font-family: var(--font-mono);
+    font-weight: 600;
+    font-size: 11.5px;
+    letter-spacing: 1.5px;
+    z-index: 2;
+  }
+  .ticker-track{
+    display:inline-block;
+    padding-left: 100%;
+    animation: scroll-left 90s linear infinite;
+    font-family: var(--font-mono);
+    font-size: 13px;
+    color: var(--text-on-ink);
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .ticker-track span.sep{ color: var(--brass); margin: 0 18px; }
+  @keyframes scroll-left{
+    from{ transform: translateX(0); }
+    to{ transform: translateX(-100%); }
+  }
 
-  { "id": "middleeasteye", "name": "Middle East Eye", "category": "osint", "region": "MENA", "lang": "EN", "url": "https://www.middleeasteye.net/rss" },
-  { "id": "arabnews", "name": "Arab News", "category": "politics", "region": "Saudi Arabia/MENA", "lang": "EN", "url": "https://www.arabnews.com/rss.xml" },
+  /* ---------- Controls ---------- */
+  .controls{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 22px 32px 0;
+  }
+  .search-row{
+    display:flex; gap: 10px; flex-wrap: wrap; margin-bottom: 14px;
+  }
+  #search{
+    flex: 1 1 260px;
+    background: var(--ink-2);
+    border: 1px solid #2a3644;
+    color: var(--text-on-ink);
+    font-family: var(--font-body);
+    font-size: 14px;
+    padding: 10px 14px;
+    border-radius: 3px;
+  }
+  #search:focus{ outline: 2px solid var(--brass); outline-offset: 1px; }
+  #search::placeholder{ color: var(--text-muted-on-ink); }
 
-  { "id": "theconversation", "name": "The Conversation", "category": "society", "region": "Global", "lang": "EN", "url": "https://theconversation.com/global/articles.atom" },
-  { "id": "globalwitness", "name": "Global Witness", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.globalwitness.org/en/feed/" },
-  { "id": "amnesty", "name": "Amnesty International", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.amnesty.org/en/latest/news/feed/" },
-  { "id": "hrw", "name": "Human Rights Watch", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.hrw.org/rss/news" },
-  { "id": "propublica", "name": "ProPublica", "category": "osint", "region": "US", "lang": "EN", "url": "https://www.propublica.org/feeds/propublica/main" },
-  { "id": "bellingcat", "name": "Bellingcat", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.bellingcat.com/feed/" },
-  { "id": "occrp", "name": "OCCRP", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.occrp.org/en/rss" },
-  { "id": "intercept", "name": "The Intercept", "category": "osint", "region": "US", "lang": "EN", "url": "https://theintercept.com/feed/" },
+  .tabs{ display:flex; gap:6px; flex-wrap: wrap; margin-bottom: 10px; }
+  .tab{
+    font-family: var(--font-mono);
+    font-size: 12px;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    background: transparent;
+    border: 1px solid #2a3644;
+    color: var(--text-muted-on-ink);
+    padding: 7px 13px;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s ease;
+  }
+  .tab:hover{ border-color: var(--brass); color: var(--paper); }
+  .tab.active{ background: var(--brass); border-color: var(--brass); color: var(--ink); font-weight:600; }
 
-  { "id": "politico", "name": "Politico", "category": "politics", "region": "US/Europe", "lang": "EN", "url": "https://rss.politico.com/politics-news.xml" },
-  { "id": "foreignpolicy", "name": "Foreign Policy", "category": "politics", "region": "US/Global", "lang": "EN", "url": "https://foreignpolicy.com/feed/" },
-  { "id": "thediplomat", "name": "The Diplomat", "category": "politics", "region": "Asia-Pacific", "lang": "EN", "url": "https://thediplomat.com/feed/" },
+  .chip-row{ display:flex; gap:6px; flex-wrap: wrap; margin-bottom: 6px; }
+  .chip{
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-muted-on-ink);
+    border: 1px solid #2a3644;
+    padding: 4px 10px;
+    border-radius: 12px;
+    cursor: pointer;
+  }
+  .chip.active{ background: var(--signal); border-color: var(--signal); color: var(--ink); font-weight:600; }
 
-  { "id": "scmp", "name": "South China Morning Post", "category": "economics", "region": "Hong Kong/Asia", "lang": "EN", "url": "https://www.scmp.com/rss/91/feed" },
-  { "id": "nikkei-asia", "name": "Nikkei Asia", "category": "economics", "region": "Japan/Asia", "lang": "EN", "url": "https://asia.nikkei.com/rss/feed" },
+  /* ---------- Grid ---------- */
+  main{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 20px 32px 40px;
+  }
+  #empty-state{
+    font-family: var(--font-mono);
+    color: var(--text-muted-on-ink);
+    font-size: 13.5px;
+    padding: 40px 10px;
+    text-align:center;
+    border: 1px dashed #2a3644;
+    border-radius: 4px;
+    display:none;
+  }
+  .grid{
+    display:grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 14px;
+  }
+  .card{
+    background: var(--paper);
+    color: var(--text-on-paper);
+    border-radius: 3px;
+    padding: 16px 18px 14px;
+    display:flex;
+    flex-direction: column;
+    gap: 8px;
+    border-top: 3px solid var(--brass);
+    position: relative;
+  }
+  .card.headline-only{ border-top-color: var(--danger); }
+  .card-meta{
+    font-family: var(--font-mono);
+    font-size: 10.5px;
+    letter-spacing: 0.4px;
+    text-transform: uppercase;
+    color: var(--text-muted-on-paper);
+    display:flex;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .card-meta .src{ font-weight:600; color: #43506a; }
+  .card h3{
+    font-family: var(--font-display);
+    font-size: 18px;
+    line-height: 1.32;
+    font-weight: 600;
+    margin: 2px 0 0;
+  }
+  .card h3 a{ text-decoration:none; }
+  .card h3 a:hover{ text-decoration: underline; text-decoration-color: var(--brass); }
+  .card p.summary{
+    font-size: 13px;
+    line-height: 1.5;
+    color: #4a4438;
+    margin: 0;
+  }
+  .card .footer-row{
+    margin-top: auto;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-muted-on-paper);
+    padding-top: 6px;
+  }
+  .badge-headline-only{
+    font-family: var(--font-mono);
+    font-size: 9.5px;
+    background: var(--danger);
+    color: var(--paper);
+    padding: 2px 6px;
+    border-radius: 2px;
+    letter-spacing: 0.5px;
+  }
 
-  { "id": "cbc-top", "name": "CBC News", "category": "politics", "region": "Canada", "lang": "EN", "url": "https://www.cbc.ca/cmlink/rss-topstories" },
-  { "id": "cbc-business", "name": "CBC Business", "category": "finance", "region": "Canada", "lang": "EN", "url": "https://www.cbc.ca/cmlink/rss-business" },
-  { "id": "cbc-sports", "name": "CBC Sports", "category": "sports", "region": "Canada", "lang": "EN", "url": "https://www.cbc.ca/cmlink/rss-sports" },
+  /* ---------- Footer / source health ---------- */
+  footer{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 10px 32px 50px;
+  }
+  footer h4{
+    font-family: var(--font-mono);
+    font-size: 11.5px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: var(--text-muted-on-ink);
+    margin: 30px 0 10px;
+    border-top: 1px solid #2a3644;
+    padding-top: 20px;
+  }
+  .health-grid{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+    font-family: var(--font-mono);
+    font-size: 11px;
+    color: var(--text-muted-on-ink);
+  }
+  .health-item{ display:flex; align-items:center; gap:6px; }
+  .dot{ width:6px; height:6px; border-radius:50%; flex-shrink:0; }
+  .dot.ok{ background: var(--signal); }
+  .dot.error{ background: var(--danger); }
 
-  { "id": "abc-au", "name": "ABC News Australia", "category": "society", "region": "Australia", "lang": "EN", "url": "https://www.abc.net.au/news/feed/51120/rss.xml" },
-  { "id": "globe-mail-business", "name": "Globe and Mail – Report on Business", "category": "finance", "region": "Canada", "lang": "EN", "url": "https://www.theglobeandmail.com/business/rss/" },
-  { "id": "cnbc-world", "name": "CNBC", "category": "finance", "region": "US", "lang": "EN", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
-  { "id": "economic-times", "name": "The Economic Times", "category": "finance", "region": "India/Asia", "lang": "EN", "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cfm" },
+  @media (max-width: 640px){
+    header.top, .controls, main, footer{ padding-left: 16px; padding-right: 16px; }
+    .brand{ font-size: 26px; }
+  }
 
-  { "id": "espn", "name": "ESPN", "category": "sports", "region": "US", "lang": "EN", "url": "https://www.espn.com/espn/rss/news" },
-  { "id": "sky-sports", "name": "Sky Sports", "category": "sports", "region": "UK", "lang": "EN", "url": "https://www.skysports.com/rss/12040" },
+  @media (prefers-reduced-motion: reduce){
+    .ticker-track{ animation: none; }
+    .pulse-dot{ animation: none; }
+  }
+</style>
+</head>
+<body>
 
-  { "id": "ft-headlines", "name": "Financial Times (headlines only – paywalled)", "category": "finance", "region": "UK/Europe", "lang": "EN", "url": "https://www.ft.com/rss/home/international", "headline_only": true },
-  { "id": "reuters-via-gnews", "name": "Reuters (via Google News – no native RSS)", "category": "politics", "region": "Global", "lang": "EN", "url": "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en", "headline_only": true }
-]
+<header class="top">
+  <div class="brand-row">
+    <div class="brand">SIGNAL <em>DESK</em></div>
+    <div class="status-line"><span class="pulse-dot"></span><span id="updated-text">Loading feed status…</span></div>
+  </div>
+</header>
+
+<div class="ticker-wrap">
+  <div class="ticker-track" id="ticker">Loading latest headlines…</div>
+</div>
+
+<div class="controls">
+  <div class="search-row">
+    <input type="text" id="search" placeholder="Search headlines, sources, regions…">
+  </div>
+  <div class="tabs" id="category-tabs">
+    <button class="tab active" data-cat="all">All</button>
+    <button class="tab" data-cat="finance">Finance</button>
+    <button class="tab" data-cat="economics">Economics</button>
+    <button class="tab" data-cat="politics">Politics</button>
+    <button class="tab" data-cat="sports">Sports</button>
+    <button class="tab" data-cat="osint">OSINT</button>
+    <button class="tab" data-cat="society">Society</button>
+  </div>
+  <div class="chip-row" id="lang-chips"></div>
+</div>
+
+<main>
+  <div id="empty-state">No dispatches match your filters yet.</div>
+  <div class="grid" id="grid"></div>
+</main>
+
+<footer>
+  <h4>Source Health — last sync</h4>
+  <div class="health-grid" id="health-grid"></div>
+</footer>
+
+<script>
+  const DATA_URL = 'data/news.json';
+  let allArticles = [];
+  let activeCategory = 'all';
+  let activeLang = 'all';
+  let searchTerm = '';
+
+  function timeAgo(iso){
+    if(!iso) return '—';
+    const diffMs = Date.now() - new Date(iso).getTime();
+    const mins = Math.round(diffMs / 60000);
+    if(mins < 1) return 'just now';
+    if(mins < 60) return mins + 'm ago';
+    const hrs = Math.round(mins/60);
+    if(hrs < 24) return hrs + 'h ago';
+    return Math.round(hrs/24) + 'd ago';
+  }
+
+  function render(){
+    const grid = document.getElementById('grid');
+    const empty = document.getElementById('empty-state');
+    grid.innerHTML = '';
+
+    const filtered = allArticles.filter(a => {
+      if(activeCategory !== 'all' && a.category !== activeCategory) return false;
+      if(activeLang !== 'all' && a.lang !== activeLang) return false;
+      if(searchTerm){
+        const hay = (a.title + ' ' + a.source + ' ' + a.region + ' ' + a.summary).toLowerCase();
+        if(!hay.includes(searchTerm)) return false;
+      }
+      return true;
+    });
+
+    if(filtered.length === 0){
+      empty.style.display = 'block';
+      return;
+    }
+    empty.style.display = 'none';
+
+    for(const a of filtered){
+      const card = document.createElement('div');
+      card.className = 'card' + (a.headline_only ? ' headline-only' : '');
+      card.innerHTML = `
+        <div class="card-meta">
+          <span class="src">${a.source}</span>
+          <span>${a.region || ''}${a.region && a.lang ? ' · ' : ''}${a.lang || ''}</span>
+        </div>
+        <h3><a href="${a.link}" target="_blank" rel="noopener">${a.title}</a></h3>
+        <p class="summary">${a.summary || ''}</p>
+        <div class="footer-row">
+          <span>${timeAgo(a.published)}</span>
+          ${a.headline_only ? '<span class="badge-headline-only">HEADLINE ONLY</span>' : `<span>${a.category.toUpperCase()}</span>`}
+        </div>
+      `;
+      grid.appendChild(card);
+    }
+  }
+
+  function buildTicker(articles){
+    const ticker = document.getElementById('ticker');
+    const top = articles.slice(0, 20);
+    if(top.length === 0){ ticker.textContent = 'No headlines yet — waiting for first sync.'; return; }
+    ticker.innerHTML = top.map(a => `${a.source}: ${a.title}`).join('<span class="sep">//</span>');
+  }
+
+  function buildLangChips(articles){
+    const langs = [...new Set(articles.map(a => a.lang).filter(Boolean))].sort();
+    const container = document.getElementById('lang-chips');
+    container.innerHTML = '';
+    const allChip = document.createElement('span');
+    allChip.className = 'chip active';
+    allChip.textContent = 'All languages';
+    allChip.dataset.lang = 'all';
+    container.appendChild(allChip);
+    for(const l of langs){
+      const chip = document.createElement('span');
+      chip.className = 'chip';
+      chip.textContent = l;
+      chip.dataset.lang = l;
+      container.appendChild(chip);
+    }
+    container.querySelectorAll('.chip').forEach(chip => {
+      chip.addEventListener('click', () => {
+        container.querySelectorAll('.chip').forEach(c => c.classList.remove('active'));
+        chip.classList.add('active');
+        activeLang = chip.dataset.lang;
+        render();
+      });
+    });
+  }
+
+  function buildHealth(sourceStatus){
+    const container = document.getElementById('health-grid');
+    container.innerHTML = '';
+    const entries = Object.values(sourceStatus || {});
+    if(entries.length === 0){
+      container.innerHTML = '<span>No sync data yet — first run pending.</span>';
+      return;
+    }
+    for(const s of entries){
+      const item = document.createElement('div');
+      item.className = 'health-item';
+      item.innerHTML = `<span class="dot ${s.status === 'ok' ? 'ok' : 'error'}"></span><span>${s.name}</span>`;
+      container.appendChild(item);
+    }
+  }
+
+  document.getElementById('category-tabs').addEventListener('click', (e) => {
+    if(!e.target.classList.contains('tab')) return;
+    document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+    e.target.classList.add('active');
+    activeCategory = e.target.dataset.cat;
+    render();
+  });
+
+  document.getElementById('search').addEventListener('input', (e) => {
+    searchTerm = e.target.value.trim().toLowerCase();
+    render();
+  });
+
+  fetch(DATA_URL, { cache: 'no-store' })
+    .then(r => r.json())
+    .then(data => {
+      allArticles = data.articles || [];
+      document.getElementById('updated-text').textContent = data.updated_at
+        ? `Last sync: ${timeAgo(data.updated_at)} (${data.article_count} dispatches)`
+        : 'Awaiting first sync — run the GitHub Action to populate.';
+      buildTicker(allArticles);
+      buildLangChips(allArticles);
+      buildHealth(data.source_status);
+      render();
+    })
+    .catch(err => {
+      document.getElementById('updated-text').textContent = 'Could not load data/news.json';
+      console.error(err);
+    });
+</script>
+
+</body>
+</html>

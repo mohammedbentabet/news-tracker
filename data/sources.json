@@ -1,0 +1,55 @@
+[
+  { "id": "bbc-world", "name": "BBC News", "category": "politics", "region": "UK/Global", "lang": "EN", "url": "https://feeds.bbci.co.uk/news/world/rss.xml" },
+  { "id": "bbc-business", "name": "BBC Business", "category": "finance", "region": "UK/Global", "lang": "EN", "url": "https://feeds.bbci.co.uk/news/business/rss.xml" },
+  { "id": "bbc-sport", "name": "BBC Sport", "category": "sports", "region": "UK", "lang": "EN", "url": "https://feeds.bbci.co.uk/sport/rss.xml" },
+
+  { "id": "guardian-world", "name": "The Guardian – World", "category": "politics", "region": "UK/Global", "lang": "EN", "url": "https://www.theguardian.com/world/rss" },
+  { "id": "guardian-business", "name": "The Guardian – Business", "category": "finance", "region": "UK", "lang": "EN", "url": "https://www.theguardian.com/uk/business/rss" },
+  { "id": "guardian-society", "name": "The Guardian – Society", "category": "society", "region": "UK", "lang": "EN", "url": "https://www.theguardian.com/society/rss" },
+  { "id": "guardian-investigations", "name": "The Guardian – Investigations", "category": "osint", "region": "UK", "lang": "EN", "url": "https://www.theguardian.com/world/investigations/rss" },
+
+  { "id": "aljazeera-all", "name": "Al Jazeera", "category": "politics", "region": "Global/MENA", "lang": "EN", "url": "https://www.aljazeera.com/xml/rss/all.xml" },
+
+  { "id": "france24", "name": "France 24", "category": "politics", "region": "France/Global", "lang": "EN", "url": "https://www.france24.com/en/rss" },
+  { "id": "dw-all", "name": "Deutsche Welle", "category": "politics", "region": "Germany/Global", "lang": "EN", "url": "https://rss.dw.com/xml/rss-en-all" },
+  { "id": "rfi-fr", "name": "RFI", "category": "society", "region": "France", "lang": "FR", "url": "https://www.rfi.fr/fr/rss" },
+
+  { "id": "lemonde-une", "name": "Le Monde", "category": "economics", "region": "France", "lang": "FR", "url": "https://www.lemonde.fr/rss/une.xml" },
+  { "id": "lemonde-decodeurs", "name": "Le Monde – Les Décodeurs", "category": "osint", "region": "France", "lang": "FR", "url": "https://www.lemonde.fr/les-decodeurs/rss_full.xml" },
+  { "id": "liberation", "name": "Libération", "category": "society", "region": "France", "lang": "FR", "url": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml" },
+  { "id": "mediapart", "name": "Mediapart", "category": "osint", "region": "France", "lang": "FR", "url": "https://www.mediapart.fr/articles/feed" },
+
+  { "id": "middleeasteye", "name": "Middle East Eye", "category": "osint", "region": "MENA", "lang": "EN", "url": "https://www.middleeasteye.net/rss" },
+  { "id": "arabnews", "name": "Arab News", "category": "politics", "region": "Saudi Arabia/MENA", "lang": "EN", "url": "https://www.arabnews.com/rss.xml" },
+
+  { "id": "theconversation", "name": "The Conversation", "category": "society", "region": "Global", "lang": "EN", "url": "https://theconversation.com/global/articles.atom" },
+  { "id": "globalwitness", "name": "Global Witness", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.globalwitness.org/en/feed/" },
+  { "id": "amnesty", "name": "Amnesty International", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.amnesty.org/en/latest/news/feed/" },
+  { "id": "hrw", "name": "Human Rights Watch", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.hrw.org/rss/news" },
+  { "id": "propublica", "name": "ProPublica", "category": "osint", "region": "US", "lang": "EN", "url": "https://www.propublica.org/feeds/propublica/main" },
+  { "id": "bellingcat", "name": "Bellingcat", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.bellingcat.com/feed/" },
+  { "id": "occrp", "name": "OCCRP", "category": "osint", "region": "Global", "lang": "EN", "url": "https://www.occrp.org/en/rss" },
+  { "id": "intercept", "name": "The Intercept", "category": "osint", "region": "US", "lang": "EN", "url": "https://theintercept.com/feed/" },
+
+  { "id": "politico", "name": "Politico", "category": "politics", "region": "US/Europe", "lang": "EN", "url": "https://rss.politico.com/politics-news.xml" },
+  { "id": "foreignpolicy", "name": "Foreign Policy", "category": "politics", "region": "US/Global", "lang": "EN", "url": "https://foreignpolicy.com/feed/" },
+  { "id": "thediplomat", "name": "The Diplomat", "category": "politics", "region": "Asia-Pacific", "lang": "EN", "url": "https://thediplomat.com/feed/" },
+
+  { "id": "scmp", "name": "South China Morning Post", "category": "economics", "region": "Hong Kong/Asia", "lang": "EN", "url": "https://www.scmp.com/rss/91/feed" },
+  { "id": "nikkei-asia", "name": "Nikkei Asia", "category": "economics", "region": "Japan/Asia", "lang": "EN", "url": "https://asia.nikkei.com/rss/feed" },
+
+  { "id": "cbc-top", "name": "CBC News", "category": "politics", "region": "Canada", "lang": "EN", "url": "https://www.cbc.ca/cmlink/rss-topstories" },
+  { "id": "cbc-business", "name": "CBC Business", "category": "finance", "region": "Canada", "lang": "EN", "url": "https://www.cbc.ca/cmlink/rss-business" },
+  { "id": "cbc-sports", "name": "CBC Sports", "category": "sports", "region": "Canada", "lang": "EN", "url": "https://www.cbc.ca/cmlink/rss-sports" },
+
+  { "id": "abc-au", "name": "ABC News Australia", "category": "society", "region": "Australia", "lang": "EN", "url": "https://www.abc.net.au/news/feed/51120/rss.xml" },
+  { "id": "globe-mail-business", "name": "Globe and Mail – Report on Business", "category": "finance", "region": "Canada", "lang": "EN", "url": "https://www.theglobeandmail.com/business/rss/" },
+  { "id": "cnbc-world", "name": "CNBC", "category": "finance", "region": "US", "lang": "EN", "url": "https://www.cnbc.com/id/100003114/device/rss/rss.html" },
+  { "id": "economic-times", "name": "The Economic Times", "category": "finance", "region": "India/Asia", "lang": "EN", "url": "https://economictimes.indiatimes.com/rssfeedsdefault.cfm" },
+
+  { "id": "espn", "name": "ESPN", "category": "sports", "region": "US", "lang": "EN", "url": "https://www.espn.com/espn/rss/news" },
+  { "id": "sky-sports", "name": "Sky Sports", "category": "sports", "region": "UK", "lang": "EN", "url": "https://www.skysports.com/rss/12040" },
+
+  { "id": "ft-headlines", "name": "Financial Times (headlines only – paywalled)", "category": "finance", "region": "UK/Europe", "lang": "EN", "url": "https://www.ft.com/rss/home/international", "headline_only": true },
+  { "id": "reuters-via-gnews", "name": "Reuters (via Google News – no native RSS)", "category": "politics", "region": "Global", "lang": "EN", "url": "https://news.google.com/rss/search?q=site:reuters.com+when:1d&hl=en-US&gl=US&ceid=US:en", "headline_only": true }
+]
