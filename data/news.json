@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-15T21:35:40.069693+00:00",
+  "updated_at": "2026-08-15T21:50:48.992114+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:53.532735+00:00"
+      "last_success": "2026-08-15T21:37:09.956119+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:53.670055+00:00"
+      "last_success": "2026-08-15T21:37:10.012351+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:53.855809+00:00"
+      "last_success": "2026-08-15T21:37:10.183068+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:54.040487+00:00"
+      "last_success": "2026-08-15T21:37:10.421672+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:54.178653+00:00"
+      "last_success": "2026-08-15T21:37:10.551835+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:54.312724+00:00"
+      "last_success": "2026-08-15T21:37:10.674195+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:54.694090+00:00"
+      "last_success": "2026-08-15T21:37:11.057049+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-15T21:14:54.909444+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:55.134510+00:00"
+      "last_success": "2026-08-15T21:37:11.548079+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:55.343337+00:00"
+      "last_success": "2026-08-15T21:37:11.708737+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:55.585886+00:00"
+      "last_success": "2026-08-15T21:37:11.869295+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:55.653713+00:00"
+      "last_success": "2026-08-15T21:37:11.917963+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:55.885191+00:00"
+      "last_success": "2026-08-15T21:37:12.327514+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:55.965975+00:00"
+      "last_success": "2026-08-15T21:37:12.888044+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:56.261288+00:00"
+      "last_success": "2026-08-15T21:37:13.007713+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:56.890715+00:00"
+      "last_success": "2026-08-15T21:37:13.530657+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:58.269132+00:00"
+      "last_success": "2026-08-15T21:37:14.876417+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:58.534141+00:00"
+      "last_success": "2026-08-15T21:37:15.134206+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:59.057121+00:00"
+      "last_success": "2026-08-15T21:37:15.522761+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:59.364233+00:00"
+      "last_success": "2026-08-15T21:37:15.786424+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:14:59.929972+00:00"
+      "last_success": "2026-08-15T21:37:16.259517+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:15:00.098678+00:00"
+      "last_success": "2026-08-15T21:37:16.457730+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:15:00.215000+00:00"
+      "last_success": "2026-08-15T21:37:16.558142+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:15:00.322048+00:00"
+      "last_success": "2026-08-15T21:37:16.716485+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:15:01.246856+00:00"
+      "last_success": "2026-08-15T21:37:17.511586+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:35:37.274788+00:00"
+      "last_success": "2026-08-15T21:50:46.486050+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:35:37.837262+00:00"
+      "last_success": "2026-08-15T21:50:47.129527+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,25 +227,25 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:35:38.861503+00:00"
+      "last_success": "2026-08-15T21:50:48.045853+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:35:39.129385+00:00"
+      "last_success": "2026-08-15T21:50:48.268616+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:35:39.386957+00:00"
+      "last_success": "2026-08-15T21:50:48.533147+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T21:35:40.069456+00:00"
+      "last_success": "2026-08-15T21:50:48.991888+00:00"
     }
   },
   "article_count": 299,
@@ -275,6 +275,54 @@
       "headline_only": false
     },
     {
+      "title": "Morocco arrests 111 migrants headed for Spain's Ceuta",
+      "link": "https://www.abc.net.au/news/2026-08-16/morocco-cracks-down-on-spain-ceuta-border-crossing-migrants/107043110",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-15T21:39:18+00:00",
+      "summary": "Authorities in Morocco have arrested 111 people attempting to cross into Spain's Ceuta, amid tightened security triggered by a deadly mass crossing in July.",
+      "headline_only": false
+    },
+    {
+      "title": "Key Demon faces nervous MRO wait with AFL finals near after high shot",
+      "link": "https://www.abc.net.au/news/2026-08-16/jacob-van-rooyen-facers-afl-mro-wait-after-hit-on-aliir-aliir/107043148",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-15T21:37:31+00:00",
+      "summary": "Melbourne forward Jacob van Rooyen faces a nervous wait for the match review officer after collecting a \"flat\" Aliir Aliir during the Demons' commanding 20.12 (132) to 8.8 (56) win over Port Adelaide.",
+      "headline_only": false
+    },
+    {
+      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
+      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-15T21:35:19+00:00",
+      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
+      "headline_only": false
+    },
+    {
+      "title": "Hong Kong’s new university town a test of the city’s global ambitions",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363760/hong-kongs-new-university-town-test-citys-global-ambitions?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-15T21:30:07+00:00",
+      "summary": "Hong Kong’s Northern Metropolis University Town is no longer just a planning concept. After site visits by a university town task force, the government has reportedly absorbed lessons from overseas models, expanded the university town area to more than 1,000 hectares, received…",
+      "headline_only": false
+    },
+    {
       "title": "Hobbies light up life for older people transitioning to retirement",
       "link": "https://www.abc.net.au/news/2026-08-16/hobbies-like-art-bring-joy-to-retirement/107015976",
       "source": "ABC News Australia",
@@ -287,6 +335,30 @@
       "headline_only": false
     },
     {
+      "title": "Israeli settlers injure five Palestinians in Masafer Yatta attacks",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-settlers-injure-five-palestinians-masafer-yatta-attacks",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-15T21:15:30+00:00",
+      "summary": "Israeli settlers injure five Palestinians in Masafer Yatta attacks Five Palestinians, including two women, two men and a child, suffered bruises and contusions when Israeli settlers attacked residents of Umm al-Khair village in Masafer Yatta, south of Hebron in the occupied…",
+      "headline_only": false
+    },
+    {
+      "title": "'Absolutely miles ahead!' GB women win brilliant relay gold",
+      "link": "https://www.bbc.co.uk/sport/athletics/videos/ce8llyzyj27o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-15T21:14:57+00:00",
+      "summary": "Great Britain's Dina Asher-Smith, Amy Hunt, Success Eduan and Imani-Lara Lansiquot dominate the 4x100m relay to win a brilliant gold.",
+      "headline_only": false
+    },
+    {
       "title": "One of Australia's 'most violent' killers makes bid for freedom",
       "link": "https://www.abc.net.au/news/2026-08-16/parole-review-underway-for-convicted-murderer-alistair-macrae/107028580",
       "source": "ABC News Australia",
@@ -296,6 +368,18 @@
       "lang": "EN",
       "published": "2026-08-15T21:14:18+00:00",
       "summary": "An underworld killer who murdered four people, including three members of the same family, is fighting to be released from prison after almost four decades behind bars.",
+      "headline_only": false
+    },
+    {
+      "title": "France: une centaine de vols EasyJet annulés en raison d'une grève des personnels de cabine",
+      "link": "https://www.rfi.fr/fr/%C3%A9conomie/20260815-france-une-centaine-de-vols-easyjet-annul%C3%A9s-en-raison-d-une-gr%C3%A8ve-des-personnels-de-cabine",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-15T21:13:58+00:00",
+      "summary": "Samedi 15 et dimanche 16 août, hôtesses et stewards français de la compagnie aérienne EasyJet sont en grève pour réclamer une amélioration de leurs conditions de travail. Massivement suivi, le mouvement social a conduit à l'annulation d'une centaine de vols.",
       "headline_only": false
     },
     {
@@ -335,7 +419,7 @@
       "headline_only": false
     },
     {
-      "title": "Commissioner leading defence force reform wants to 'hold people to account'",
+      "title": "'No box ticks': Meet the woman charged with steering change in Defence",
       "link": "https://www.abc.net.au/news/2026-08-16/penny-mckay-defence-commissioner-exclusive/107024154",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -479,30 +563,6 @@
       "headline_only": false
     },
     {
-      "title": "Hawaii braces for potential first direct hit by a hurricane in 34 years",
-      "link": "https://www.bbc.co.uk/news/articles/crmrr7kjy9vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-15T20:28:30+00:00",
-      "summary": "In a worst-case scenario, category one Lala could dump up to 25in (63cm) of rain on Big Island.",
-      "headline_only": false
-    },
-    {
-      "title": "Villa begin Suzuki talks - Sunday's gossip",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cnvnndmz4reo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-15T20:23:00+00:00",
-      "summary": "Aston Villa are in negotiations over Zion Suzuki, boosting Juventus' hope of signing Emiliano Martinez, while Arsenal are told price for Victor Osimhen, plus more.",
-      "headline_only": false
-    },
-    {
       "title": "Championnats d’Europe d’athlétisme : Jimmy Gressier décroche la médaille de bronze du 10 000 m",
       "link": "https://www.lemonde.fr/sport/article/2026/08/15/championnats-d-europe-d-athletisme-jimmy-gressier-decroche-la-medaille-de-bronze-du-10-000-m_6746885_3242.html",
       "source": "Le Monde",
@@ -561,6 +621,18 @@
       "published": "2026-08-15T20:18:18+00:00",
       "summary": "Kate O'Connor says her late grandmother \"would have been jumping for joy\" at the Irish athlete claims gold in the heptathlon at the European Championships in Birmingham.",
       "headline_only": false
+    },
+    {
+      "title": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNZ3pfaW5nWDJod3o1WmVuMnludzV4bUF3WllYcXJtV3phQndZbDc1NW5TQkFpODUtN25oLU9sVmhtU0VhNU9PMzhfUjNxWDVyenljaElYb3Y5R0VnN29HUTJGOGdUZnJqUUFOSUxDWlZwdThKcVNqSUhZT19HOWFsN284OFUzWHlLTmdCVXJhemFxUDd2dGhacjFidFlnXzZyTVY5Vk9ZRzcxSUpIelJtcXlRMDNoeFA3dHc4U2xQUDhDSUk?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-15T20:16:56+00:00",
+      "summary": "Nvidia eyes investing $3 billion in SB Energy under OpenAI data center deal, Information says &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Iran condemns Israeli attacks in Lebanon",
@@ -632,30 +704,6 @@
       "lang": "EN",
       "published": "2026-08-15T20:00:08+00:00",
       "summary": "When multiple sclerosis began to affect her fine motor skills, Shakira Hussein found a way to redesign her dream, rather than give it up altogether At first, I failed to recognise the significance of the deterioration in my violin technique. I was preoccupied by other concerns…",
-      "headline_only": false
-    },
-    {
-      "title": "Housing project to help domestic violence survivors secure rental",
-      "link": "https://www.abc.net.au/news/2026-08-16/housing-project-helps-dv-survivors-secure-rental-property/107017226",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-15T20:00:00+00:00",
-      "summary": "Some families flee domestic violence with just the clothes on their back. Now they have a place to call home.",
-      "headline_only": false
-    },
-    {
-      "title": "Israel says it killed Hezbollah commander in strike that left children dead",
-      "link": "https://www.abc.net.au/news/2026-08-16/israel-says-it-killed-hezbollah-commander-in-lebanon-strike/107042916",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-15T19:53:52+00:00",
-      "summary": "Israeli strikes on Lebanon targeting a Hezbollah commander kill 11 people, including three children, making it the deadliest raid since June deals eased hostilities in the region.",
       "headline_only": false
     },
     {
@@ -1355,18 +1403,6 @@
       "headline_only": false
     },
     {
-      "title": "Inde: mis à mal par le «Parti des cafards», le Premier ministre veut regagner la confiance des jeunes",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20260815-inde-mis-%C3%A0-mal-par-le-parti-des-cafards-le-premier-ministre-veut-regagner-la-confiance-des-jeunes",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-15T15:44:35+00:00",
-      "summary": "Après la fronde étudiante portée par le « Parti des cafards » qui a poussé le ministre indien de l'Éducation à la démission, le chef du gouvernement réagit. À l’occasion du 80e anniversaire de l'indépendance du pays ce samedi 15 août, Narendra Modi a annoncé la mise en place de…",
-      "headline_only": false
-    },
-    {
       "title": "South Korea president proposes talks with Pyongyang to formally end Korean War",
       "link": "https://www.france24.com/en/asia-pacific/20260815-south-korea-president-proposes-talks-with-pyongyang-to-formally-end-korean-war",
       "source": "France 24",
@@ -1400,18 +1436,6 @@
       "lang": "EN",
       "published": "2026-08-15T15:35:00+00:00",
       "summary": "Lebanon's prime minister denounced the attacks on villages in southern Lebanon for targeting civilians in their homes. Israel said it was firing on Hezbollah infrastructure.",
-      "headline_only": false
-    },
-    {
-      "title": "Israel’s ‘pilot zones’: Withdrawal on paper, continued occupation of south Lebanon",
-      "link": "https://www.middleeasteye.net/news/israel-pilot-zones-withdrawal-paper-continued-occupation-south-lebanon",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-15T15:31:38+00:00",
-      "summary": "Israel’s ‘pilot zones’: Withdrawal on paper, continued occupation of south Lebanon Submitted by Giovanna Vial on Wed, 08/12/2026 - 15:47 MEE visited two of the villages touted as models for Israel's withdrawal. Residents say Israeli troops were never there to begin with A…",
       "headline_only": false
     },
     {
@@ -1751,18 +1775,6 @@
       "headline_only": false
     },
     {
-      "title": "Trump's 2024 grocery photo op now haunts Republicans in the midterms - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTkhYMUdicFdKRWlLX3R6U0lvcXZQdS1zUjhhX1FsSndyd1dNMVQ4UGs2YjFXaFRNenQ0UGVJUGktcXlPOFl4MENrNXNfLWxQaTdyaUdramJ3Y1FKR3gxZUxleDlRM0xmM2FFeGZ0bzFneElSRUVEYWhPek9fY0h4WDBSd3MyazFIbTJlZURhLXYwSGNJelVSZ0NPSWtycHFtRTNvTGx5eDU?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-15T12:49:49+00:00",
-      "summary": "Trump's 2024 grocery photo op now haunts Republicans in the midterms &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "What can Hong Kong travellers expect from the revamped Huanggang border crossing?",
       "link": "https://www.scmp.com/news/hong-kong/transport/article/3364153/what-can-hong-kong-travellers-expect-revamped-huanggang-border-crossing?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -1917,18 +1929,6 @@
       "published": "2026-08-15T11:45:46+00:00",
       "summary": "Family of Cambridge’s youngest-ever Black professor say ‘campaign of misinformation’ was ‘too much’",
       "headline_only": true
-    },
-    {
-      "title": "Beijing issues ecological report to solidify South China Sea claims amid US row",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3364152/beijing-issues-ecological-report-solidify-south-china-sea-claims-amid-us-row?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-15T11:45:14+00:00",
-      "summary": "China has published ecological assessment reports on nine disputed South China Sea features, amid an escalating row with Washington over Beijing’s establishment of a “national nature reserve” in the contested waters. On Friday, the Ministry of Natural Resources’ South China Sea…",
-      "headline_only": false
     },
     {
       "title": "Afghan allies still waiting for the safety Germany promised",
