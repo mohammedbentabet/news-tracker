@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-15T09:52:47.542800+00:00",
+  "updated_at": "2026-08-15T10:11:43.334729+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:21.327111+00:00"
+      "last_success": "2026-08-15T09:57:55.146135+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:21.430655+00:00"
+      "last_success": "2026-08-15T09:57:55.230497+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:21.714034+00:00"
+      "last_success": "2026-08-15T09:57:55.407816+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:21.906215+00:00"
+      "last_success": "2026-08-15T09:57:55.548467+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:22.022897+00:00"
+      "last_success": "2026-08-15T09:57:55.665127+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:22.524295+00:00"
+      "last_success": "2026-08-15T09:57:55.776910+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:23.077018+00:00"
+      "last_success": "2026-08-15T09:57:56.090505+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-15T09:38:23.229903+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:24.038977+00:00"
+      "last_success": "2026-08-15T09:57:56.458938+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:24.173301+00:00"
+      "last_success": "2026-08-15T09:57:56.645211+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:24.446920+00:00"
+      "last_success": "2026-08-15T09:57:56.809704+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:24.879030+00:00"
+      "last_success": "2026-08-15T09:57:56.872950+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:25.600203+00:00"
+      "last_success": "2026-08-15T09:57:57.178317+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:25.864838+00:00"
+      "last_success": "2026-08-15T09:57:57.435516+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:26.171851+00:00"
+      "last_success": "2026-08-15T09:57:57.650353+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:26.768559+00:00"
+      "last_success": "2026-08-15T09:57:58.236602+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:28.206771+00:00"
+      "last_success": "2026-08-15T09:58:00.132112+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:28.309825+00:00"
+      "last_success": "2026-08-15T09:58:00.401360+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:28.765305+00:00"
+      "last_success": "2026-08-15T09:58:00.806053+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:29.108673+00:00"
+      "last_success": "2026-08-15T09:58:01.057027+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:29.800349+00:00"
+      "last_success": "2026-08-15T09:58:01.876346+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:30.036897+00:00"
+      "last_success": "2026-08-15T09:58:02.077983+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:30.183374+00:00"
+      "last_success": "2026-08-15T09:58:02.164144+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:30.344716+00:00"
+      "last_success": "2026-08-15T09:58:02.267056+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:38:31.075924+00:00"
+      "last_success": "2026-08-15T09:58:02.861244+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:52:44.970785+00:00"
+      "last_success": "2026-08-15T10:11:41.428410+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:52:45.537353+00:00"
+      "last_success": "2026-08-15T10:11:41.685725+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,25 +227,25 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:52:46.424953+00:00"
+      "last_success": "2026-08-15T10:11:42.403487+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:52:46.590795+00:00"
+      "last_success": "2026-08-15T10:11:42.528755+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:52:46.996964+00:00"
+      "last_success": "2026-08-15T10:11:42.855155+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-15T09:52:47.542614+00:00"
+      "last_success": "2026-08-15T10:11:43.334499+00:00"
     }
   },
   "article_count": 299,
@@ -271,7 +271,7 @@
       "region": "UK",
       "lang": "EN",
       "published": "2026-08-15T10:08:00+00:00",
-      "summary": "Paul Walter was left unfazed by the government's emergency alert as he hit a huge six in The Hundred.",
+      "summary": "Paul Walter was left unfazed by the sounds of the government's emergency alert as he hit a huge six in The Hundred on Friday.",
       "headline_only": false
     },
     {
@@ -284,6 +284,30 @@
       "lang": "EN",
       "published": "2026-08-15T10:05:00+00:00",
       "summary": "Bangladesh moved to within sight of one of the biggest wins in their Test history after Australia stumbled to 161-4 at stumps on day three of the first Test in Darwin, still 67 runs behind.",
+      "headline_only": false
+    },
+    {
+      "title": "Le champion du monde espagnol Ferran Torres, 26 ans, s’envole vers le PSG",
+      "link": "https://www.liberation.fr/sports/football/le-champion-du-monde-espagnol-ferran-torres-26-ans-senvole-vers-le-psg-20260815_DFHIA2UA4VGWJO2NSS4I5ZAIXI/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-15T09:39:06+00:00",
+      "summary": "L’unique buteur de la finale de la coupe du monde face à l’Argentine rejoint les doubles champions d’Europe jusqu’en 2031, a annoncé ce samedi le club parisien. Un transfert estimé à 50 millions d’euros.",
+      "headline_only": false
+    },
+    {
+      "title": "PSG sign World Cup final match-winner Torres from Barcelona",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c20jyxjl8yko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-15T09:37:31+00:00",
+      "summary": "Ferran Torres, who scored the winning goal for Spain at the World Cup, has joined European champions Paris St-Germain from Barcelona.",
       "headline_only": false
     },
     {
@@ -464,6 +488,18 @@
       "lang": "EN",
       "published": "2026-08-15T09:00:02+00:00",
       "summary": "At the Goodtime Chinese School in the Bethany suburb of Portland, Oregon, an American child stops school director Zhou Yanzhuo, of China, in the hallway to ask a question in English. She requests that he speak in Chinese and the third grader, who has no Chinese heritage,…",
+      "headline_only": false
+    },
+    {
+      "title": "A Gaza, l’accord sur le désarmement du Hamas entre avancée historique et blocage israélien",
+      "link": "https://www.lemonde.fr/international/article/2026/08/15/a-gaza-l-accord-sur-le-desarmement-du-hamas-entre-avancee-historique-et-blocage-israelien_6746653_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-15T09:00:01+00:00",
+      "summary": "Pour la première fois en trente-neuf ans d’existence, le mouvement islamiste palestinien a accepté de mettre la question de son désarmement sur la table. La feuille de route du Conseil de la paix approuvée par Donald Trump prévoit un processus progressif et vérifié, avançant en…",
       "headline_only": false
     },
     {
@@ -911,7 +947,7 @@
       "headline_only": false
     },
     {
-      "title": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions - Reuters",
+      "title": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPZ1JDMTI4SDNkNEZwRUxyTG41ak5GRENmeEhtR05qemczcXZxWWlYTkthSEJva2V4cEVBSWlFTG9JMXpOSFFUX1hHT0tGaUg1bHZ2UzVFWUZZTV9xTDRIa3hZbHB0cHdDRlJLbXVBbGtNdmx6ZVlieHZ2TGJkdWYtM25uTlNJSzAtSm9OVTlFZ0tjNlBGMjRVc2Fjc1NFemxqejVtX1h4YVV0ZXEzdWZuS2NWRDVnX2VxOWp0azVRdjdnRVBBZ0E?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -919,11 +955,11 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T07:21:51+00:00",
-      "summary": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions &nbsp;&nbsp; Reuters",
+      "summary": "Spain disregarded Ceuta warnings before migrant rush, say border workers' unions &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
-      "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ - Reuters",
+      "title": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdkZWVjh0dVhzeG43NWJfV0kwZnZQc3dXNGVyUXJLV05JVVYzN3ZJYk9RdEdFQ3lfci1fTU44aGQzTG50UjJPQmlNMzBJMTZNT3JjWDY0dkgxTXo4dWc4aExxRTktb0hFWUprNE80ZDhrWHFWeEtwcE5CMVJOVlkzM0wybmdRQ2NZZXBoR1dnS25GOF82ZjRnY0VTSG40cFM3OGFkUjZISFdnTHdBRDAzTExuMHBWT3VsMzlhcUYtcjdmd21wdGhTMTFoV3gwbVU?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -931,20 +967,8 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T07:20:27+00:00",
-      "summary": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ &nbsp;&nbsp; Reuters",
+      "summary": "Hungary to sink two barges near nuclear plant to raise Danube levels to ensure cooling​​ &nbsp;&nbsp; reuters.com",
       "headline_only": true
-    },
-    {
-      "title": "Au Liban, sept personnes tuées par un bombardement israélien dans le sud du pays",
-      "link": "https://www.lemonde.fr/international/article/2026/08/15/au-liban-sept-personnes-tuees-par-un-bombardement-israelien-dans-le-sud-du-pays_6746618_3210.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-15T07:20:08+00:00",
-      "summary": "Il s’agit du bilan le plus meurtrier depuis la trêve conclue en juin avec Beyrouth, laquelle prévoit le désarmement du Hezbollah, un retrait progressif des forces israéliennes du sud du Liban et le déploiement de l’armée libanaise dans la région, en commençant par des « zones…",
-      "headline_only": false
     },
     {
       "title": "Fraud officials charge another over alleged $5 million NDIS dishonesty plot",
@@ -1031,18 +1055,6 @@
       "headline_only": false
     },
     {
-      "title": "Guerre de succession : le savoir haïr des baronnes de Rothschild",
-      "link": "https://www.liberation.fr/plus/speciaux-cahier-ete/guerre-de-succession-le-savoir-hair-des-baronnes-de-rothschild-20260815_HQQI2QLER5AI5O5VERMZ5GRF6M/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-15T07:06:00+00:00",
-      "summary": "Depuis la mort de Benjamin, sa mère, Nadine, célèbre pour ses traités de bonnes manières, et sa femme, Ariane, qui a repris la haute main sur l’empire familial, se déchirent en public. Deux caractères opposés avec, en jeu, une part de l’inestimable patrimoine du clan.",
-      "headline_only": false
-    },
-    {
       "title": "À la garde républicaine, un adjudant-chef expose ses théories racistes sans être inquiété",
       "link": "https://www.mediapart.fr/journal/france/150826/la-garde-republicaine-un-adjudant-chef-expose-ses-theories-racistes-sans-etre-inquiete",
       "source": "Mediapart",
@@ -1115,7 +1127,7 @@
       "headline_only": false
     },
     {
-      "title": "Earthquake hits Spanish city of Granada, damages buildings and cars - Reuters",
+      "title": "Earthquake hits Spanish city of Granada, damages buildings and cars - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd2VZS2R6SVM2SzVhWUhGYzZFRjB6ZlpZeWIxbTA3RnpYN1Bzal9BNkJ4aExVN0ppT3dOWXRZOXBOSFJTLU51M1ExaWRTbzNFZFVfTUU3c3RmMDRfcG51YVNIanlmLXFNYl9aTHQ0VGloX2k3V1NsU0FnVW9TTUdhTld3SmhCY25jejFwUklkaDUzSzZQek1IdzEzMDVnUjAyZE40UTVfYWxPdzNiZ1BHRjFMTXowb3c?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1123,7 +1135,7 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T06:42:00+00:00",
-      "summary": "Earthquake hits Spanish city of Granada, damages buildings and cars &nbsp;&nbsp; Reuters",
+      "summary": "Earthquake hits Spanish city of Granada, damages buildings and cars &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
@@ -1175,18 +1187,6 @@
       "headline_only": false
     },
     {
-      "title": "Au Kenya, la mort préoccupante d’éléphants, victimes de mystérieux empoisonnements",
-      "link": "https://www.lemonde.fr/afrique/article/2026/08/15/au-kenya-la-mort-preoccupante-d-elephants-victimes-de-mysterieux-empoisonnements_6746614_3212.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-15T06:30:04+00:00",
-      "summary": "Au moins 16 pachydermes sont morts dans des circonstances inexpliquées depuis le mois de juin dans la région d’Amboseli, dans le sud du Kenya. L’hypothèse d’une intoxication due à des pesticides est remise en cause par plusieurs experts.",
-      "headline_only": false
-    },
-    {
       "title": "Morning recap",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-recap-153",
       "source": "Middle East Eye",
@@ -1208,18 +1208,6 @@
       "lang": "EN",
       "published": "2026-08-15T06:20:41+00:00",
       "summary": "A Phillip Island penguin has died from H5N1 bird flu in the first detection among the island's little penguin colony, ahead of vaccinations beginning on Monday.",
-      "headline_only": false
-    },
-    {
-      "title": "'This is the right one' - Rohl on leaving Rangers for Salzburg",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj9dpvwl1nmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-15T06:19:19+00:00",
-      "summary": "Danny Rohl explains why he left Rangers for Red Bull Salzburg - where he hopes to win trophies and help develop young players.",
       "headline_only": false
     },
     {
@@ -1415,6 +1403,18 @@
       "headline_only": false
     },
     {
+      "title": "« Se taire sur l’Afghanistan reviendrait à abandonner les femmes qui demandent la reconnaissance de leur combat »",
+      "link": "https://www.lemonde.fr/idees/article/2026/08/15/se-taire-sur-l-afghanistan-reviendrait-a-abandonner-les-femmes-qui-demandent-la-reconnaissance-de-leur-combat_6746542_3232.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-15T04:30:09+00:00",
+      "summary": "Dans une tribune au « Monde », des personnalités, parmi lesquelles les présidentes d’ONU Femmes France, Sophie Pouget, et d’Afghanes de France, Chela Noori, appellent à un « sursaut » pour soutenir les Afghanes, à la fois victimes et résistantes, cinq ans après le retour des…",
+      "headline_only": false
+    },
+    {
       "title": "Fraud charges added to fatal hit-and-run accused",
       "link": "https://www.abc.net.au/news/2026-08-15/benjamin-thomas-simpkins-fraud/107042058",
       "source": "ABC News Australia",
@@ -1448,6 +1448,18 @@
       "lang": "EN",
       "published": "2026-08-15T04:14:24+00:00",
       "summary": "Pokémon cards have spawned into a multi-billion-dollar unregulated industry, which a lawyer fears could be used for money laundering, and its homeland is now considering clamping down.",
+      "headline_only": false
+    },
+    {
+      "title": "Un plongeur italien découvre des centaines d’amphores antique en Sicile",
+      "link": "https://www.lemonde.fr/videos/video/2026/08/15/un-plongeur-italien-decouvre-des-centaines-d-amphores-antiques-en-sicile_6746505_1669088.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-15T04:00:48+00:00",
+      "summary": "Cette trouvaille est déjà considérée par les autorités italiennes comme « l’une des découvertes archéologiques sous-marines les plus importantes de ces dernières années ». Le plongeur Giacomo De Mola a raconté au « Monde » ce qu’il a vécu.",
       "headline_only": false
     },
     {
@@ -1519,7 +1531,7 @@
       "region": "France",
       "lang": "FR",
       "published": "2026-08-15T04:00:18+00:00",
-      "summary": "Selon le chercheur Luc Rouban, qui s’appuie sur des données concernant les attitudes politiques des fonctionnaires en 2026, le parti d’extrême droite est celui dont les agents publics se disent aujourd’hui les plus proches. Une dynamique à l’œuvre aussi bien dans la fonction…",
+      "summary": "Selon le chercheur Luc Rouban, qui s’appuie sur des données concernant les attitudes politiques des fonctionnaires en 2026, le parti d’extrême droite est celui dont les agents publics se disent aujourd’hui le plus proches. Une dynamique à l’œuvre aussi bien dans la fonction…",
       "headline_only": false
     },
     {
@@ -1607,7 +1619,7 @@
       "headline_only": false
     },
     {
-      "title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - Reuters",
+      "title": "Japan defence minister visits contentious Yasukuni Shrine to war dead - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPV2Y1MVdnLWFNQjVJSEhYT3VRT3ZMd2FuanpmUGw1SUNpR3hYWi1oMGtVYTdHTV9rZVVaaTZZWVVKSmRCVU1MR1VBaTBpQTc0Q2FKekhqZG5ZOXVxY2Rpcmt5X3VzdHl0WEJrQWlDSEFGU1hVMUFMdTdMWnFfTUpBVkU5VFYyV0NvcFBzd3BOTDBYLVBoZER4MGNrbzIzeXB5a0xNN2ZnZ0NBRDc2bU05Q3dVVTk?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1615,20 +1627,8 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T03:08:00+00:00",
-      "summary": "Japan defence minister visits contentious Yasukuni Shrine to war dead &nbsp;&nbsp; Reuters",
+      "summary": "Japan defence minister visits contentious Yasukuni Shrine to war dead &nbsp;&nbsp; reuters.com",
       "headline_only": true
-    },
-    {
-      "title": "La fête de l’Assomption, ou l’histoire politique d’une dévotion française à la Vierge Marie",
-      "link": "https://www.lemonde.fr/le-monde-des-religions/article/2026/08/15/la-fete-de-l-assomption-ou-l-histoire-politique-d-une-devotion-francaise-a-la-vierge-marie_6281419_6038515.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-15T03:00:42+00:00",
-      "summary": "Le 15 août occupe une place particulière en France depuis le « vœu » de Louis XIII en 1638, qui consacra son royaume à la Vierge et instaura sa célébration. Ce geste, qui reflète des siècles de référence monarchique à la mère du Christ, a conservé une résonance politique…",
-      "headline_only": false
     },
     {
       "title": "Indonésie: un puissant séisme fait au moins 38 morts et de gros dégâts",
@@ -1643,7 +1643,7 @@
       "headline_only": false
     },
     {
-      "title": "Florida venue cancels rally with Palestinian American lawmaker Rashida Tlaib​​ - Reuters",
+      "title": "Florida venue cancels rally with Palestinian American lawmaker Rashida Tlaib​​ - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3UtTXNsbVo0WElHRlRET2R2c2pBTlJxSlFZLVhvczlxN3NtdDNNOGI5MDR4QTlUNmxwT1NrWGNqUjJGNnZna0tTNmF3a1J4elg0WVJ4djNCMXg4ZlBEeVItbGZPaVJHOVY3Nlk1M1dHVkR2OG1MM1lpWWhfUlBXdjh0b3YzcW9KRU1RNWdPd1J1UElhdkFvUkFyX2h6bHBEaUxHeXNMNVFFMklXc1RRanM4b2NNaklhdVVPRTdR?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1651,7 +1651,7 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T02:38:00+00:00",
-      "summary": "Florida venue cancels rally with Palestinian American lawmaker Rashida Tlaib​​ &nbsp;&nbsp; Reuters",
+      "summary": "Florida venue cancels rally with Palestinian American lawmaker Rashida Tlaib​​ &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
@@ -1667,7 +1667,7 @@
       "headline_only": false
     },
     {
-      "title": "South Korea's Lee urges talks with North Korea to replace armistice with peace - Reuters",
+      "title": "South Korea's Lee urges talks with North Korea to replace armistice with peace - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXUyVVljMUd0SC1sWHJRSGh1RWN5UFhBYU9ZV085UWdudzFNMW9fa2xLcEdCcHJLQkJuNE8tMVRTNm9VbXM4RWtEOXM0WThNTmlmcERobGRkZE1vZE1ydU5IVXNwZlR0aFozdjlucHA1VE1mZ2prYkhJYnZId3pEaERKdWxqMTVuT0YtVWRaVFZfVXRVeWNMX0dlOS1pTll6SUpoR2hkejE3RHVRX3c?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1675,11 +1675,11 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T01:56:00+00:00",
-      "summary": "South Korea's Lee urges talks with North Korea to replace armistice with peace &nbsp;&nbsp; Reuters",
+      "summary": "South Korea's Lee urges talks with North Korea to replace armistice with peace &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
-      "title": "Taiwan passes annual budget after long delay, including drone spending - Reuters",
+      "title": "Taiwan passes annual budget after long delay, including drone spending - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ3UzSjBzSmtiR0FZTWRKenlZLXNvLS1YSkZXdTZlMk1JTnRYOGdhVlpoUHVuQ3VrUGZZZzFyenZhZldPbTRBLUFUMjBoN3AwY1Z3TFFLb3JjRTBONkZtRnBVUnI4ek5aRU9OZG1rZzEzSC0wSGF3YzlkbjJIc3doZ1phYTZEOTd4cFlFYnNfRzlEcGZKX0dXTFVJdm5EQm9lMjVDVUhpeUJ3dFRBM0d5Q3M2RjFGdWRj?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1687,11 +1687,11 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T01:27:00+00:00",
-      "summary": "Taiwan passes annual budget after long delay, including drone spending &nbsp;&nbsp; Reuters",
+      "summary": "Taiwan passes annual budget after long delay, including drone spending &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
-      "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - Reuters",
+      "title": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSDBCMHl6NWFXVjN4bFdxNkxJb0g0TllzQUNXeDVGeUdPZEduUTczSnZhcmE4UFdNZk82UDV4SVpGOTJMT29SUHJINVNubnY1Vkl1UXhMekVOYm52YmxhSk9HSHdkRDBBNEVkUTdTNGFJMkR3Z3hyY1A1VVViaDVIQ1BKOEhMMmxlVmpmSG01bmNZdk1JM2I4WHVROE9oMTdhOWVOaFBPZEZvUDhnblhMMVFHVU9aSGlwakctcU1DOVlPdkU?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1699,7 +1699,7 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-15T00:12:00+00:00",
-      "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say &nbsp;&nbsp; Reuters",
+      "summary": "EXCLUSIVE: Anthropic IPO valuation hinges on $190-200 billion 2028 revenue forecast, sources say &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
@@ -1751,7 +1751,7 @@
       "headline_only": false
     },
     {
-      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - Reuters",
+      "title": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWjY4Y0RmbnNIZU5fWV83TGxRb0M1T0hva0dCRUtWQzcxclJ5TW02NExHQzREZmwwenZIQjh5eU01YjYycGMxNUg5MlJuZVh5RGQyM0M1MHB1Znhld2x2OXFFNF93OGg3SUJMYUNsMTZjZ2VQemtkM3M0SnVDam1vSHNKVUJCWHpKbzVzLXdLWmtlZElxYW5BS0c3MU9iRk41Ty1LUzY4TWl4YVQtRElKWHNFSzg0dTA?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1759,7 +1759,7 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-14T23:44:00+00:00",
-      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports &nbsp;&nbsp; Reuters",
+      "summary": "Nvidia scales back funding guarantee for Ohio OpenAI data center, WSJ reports &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
@@ -1775,7 +1775,7 @@
       "headline_only": false
     },
     {
-      "title": "Williams defeated by Arango in the first round of the Cincinnati Open",
+      "title": "Venus Williams defeated by Arango in the first round of the Cincinnati Open",
       "link": "https://www.skysports.com/watch/video/13573183/emiliana-arango-vs-venus-williams-cincinnati-open-highlights",
       "source": "Sky Sports",
       "source_id": "sky-sports",
@@ -1835,7 +1835,7 @@
       "headline_only": false
     },
     {
-      "title": "Twenty dead after Indonesia's magnitude-7.7 earthquake, rescuers say - Reuters",
+      "title": "At least 38 dead after Indonesia's magnitude-7.7 earthquake, officials say - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQekZqSDNDbk9nUjJMVWd2bEwwTE03eGpyaUN2M3VhQmNEeFhqb0J1SmFFUlJtRE5FMFFJVmhsSWZCZmZwYW9OWWY1c2FDU3hsUUNYTTF4clZiVzRtblRoRmdGcEo3Z2l2Snl0UDJFQWlJeXZPNzd6dTdockZlYUNVVTBGSkEyOUxVNXNMV3d0UGU3SG1mcjk2MnFVTV80TVhLRDlub0tOM3h0OG1QRUluQXI4ZVRJMktwMHc?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
       "source_id": "reuters-via-gnews",
@@ -1843,7 +1843,7 @@
       "region": "Global",
       "lang": "EN",
       "published": "2026-08-14T22:11:00+00:00",
-      "summary": "Twenty dead after Indonesia's magnitude-7.7 earthquake, rescuers say &nbsp;&nbsp; Reuters",
+      "summary": "At least 38 dead after Indonesia's magnitude-7.7 earthquake, officials say &nbsp;&nbsp; reuters.com",
       "headline_only": true
     },
     {
