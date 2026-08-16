@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-16T22:31:43.348346+00:00",
+  "updated_at": "2026-08-16T23:11:35.215349+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:36.812996+00:00"
+      "last_success": "2026-08-16T22:56:54.045506+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:36.867271+00:00"
+      "last_success": "2026-08-16T22:56:54.113728+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:36.937937+00:00"
+      "last_success": "2026-08-16T22:56:54.185386+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:37.095912+00:00"
+      "last_success": "2026-08-16T22:56:54.325693+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:37.222043+00:00"
+      "last_success": "2026-08-16T22:56:54.455130+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:37.337441+00:00"
+      "last_success": "2026-08-16T22:56:54.583931+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:37.766002+00:00"
+      "last_success": "2026-08-16T22:56:54.892879+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-16T22:14:38.017349+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:38.634809+00:00"
+      "last_success": "2026-08-16T22:56:56.475168+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:38.785057+00:00"
+      "last_success": "2026-08-16T22:56:56.710532+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:39.019145+00:00"
+      "last_success": "2026-08-16T22:56:56.819609+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:39.074361+00:00"
+      "last_success": "2026-08-16T22:56:56.877187+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:39.499240+00:00"
+      "last_success": "2026-08-16T22:56:57.237754+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:39.647172+00:00"
+      "last_success": "2026-08-16T22:56:57.642842+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:39.900600+00:00"
+      "last_success": "2026-08-16T22:56:57.875060+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:40.425498+00:00"
+      "last_success": "2026-08-16T22:56:58.553834+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:41.777568+00:00"
+      "last_success": "2026-08-16T22:56:59.836314+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:41.877797+00:00"
+      "last_success": "2026-08-16T22:57:00.097899+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:42.336181+00:00"
+      "last_success": "2026-08-16T22:57:00.560845+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:42.580279+00:00"
+      "last_success": "2026-08-16T22:57:00.905319+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:43.503308+00:00"
+      "last_success": "2026-08-16T22:57:01.440303+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:43.700132+00:00"
+      "last_success": "2026-08-16T22:57:01.662905+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:43.783759+00:00"
+      "last_success": "2026-08-16T22:57:01.764482+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:43.921846+00:00"
+      "last_success": "2026-08-16T22:57:01.956762+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:14:44.537120+00:00"
+      "last_success": "2026-08-16T22:57:02.597247+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:31:41.049031+00:00"
+      "last_success": "2026-08-16T23:11:33.201109+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:31:41.469693+00:00"
+      "last_success": "2026-08-16T23:11:33.740989+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,101 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:31:42.482724+00:00"
+      "last_success": "2026-08-16T23:11:34.593763+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:31:42.712593+00:00"
+      "last_success": "2026-08-16T23:11:34.852785+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:31:43.242454+00:00"
+      "last_success": "2026-08-16T23:11:35.111070+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:31:43.348174+00:00"
+      "last_success": "2026-08-16T23:11:35.215189+00:00"
     }
   },
   "article_count": 296,
   "articles": [
+    {
+      "title": "Copy the link Jared Kushner lands in Israel after meeting Hamas officials",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/copy-link-jared-kushner-lands-israel-after-meeting-hamas-officials",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-16T22:55:46+00:00",
+      "summary": "Copy the link Jared Kushner lands in Israel after meeting Hamas officials US President Donald Trump’s son-in-law and adviser Jared Kushner arrived in Israel after meeting Hamas leaders and Egyptian, Qatari and Turkish officials in Cairo, Al Jazeera reported, citing a…",
+      "headline_only": false
+    },
+    {
+      "title": "Présidentielle au Brésil: Lula et son principal adversaire, Flavio Bolsonaro, lancent leur campagne",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260816-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-son-principal-adversaire-flavio-bolsonaro-lancent-leur-campagne",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-16T22:43:01+00:00",
+      "summary": "La campagne pour la présidentielle d'octobre est officiellement ouverte au Brésil. Les deux principaux candidats, le président sortant Lula et son adversaire de droite, le fils de l'ancien chef de l'État Jair Bolsonaro, ont lancé leur campagne ce dimanche 16 août.",
+      "headline_only": false
+    },
+    {
+      "title": "More than 200,000 without power in Hawaii, 100 homes damaged as Lala shifts to tropical storm - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-16T22:42:42+00:00",
+      "summary": "More than 200,000 without power in Hawaii, 100 homes damaged as Lala shifts to tropical storm &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-16T22:41:34+00:00",
+      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "headline_only": false
+    },
+    {
+      "title": "Man killed in hit-and-run near Ballarat",
+      "link": "https://www.abc.net.au/news/2026-08-17/ballarat-canadian-fatal-hit-run-police-investigate/107044940",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-16T22:40:24+00:00",
+      "summary": "Police say the car that struck the man did not have numberplates. Anyone with information is being urged to come forward.",
+      "headline_only": false
+    },
+    {
+      "title": "Concerns for emergency response during rolling Telstra upgrades",
+      "link": "https://www.abc.net.au/news/2026-08-17/telstra-outage-upgrades-in-regional-wa/107043342",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-16T22:32:33+00:00",
+      "summary": "The planned outages pose concerns for remote SES managers, who say mobile coverage is vital for coordinating staff in an emergency.",
+      "headline_only": false
+    },
     {
       "title": "Papers: Delap & Neto move closer to Chelsea exit",
       "link": "https://www.skysports.com/football/news/12040/13573816/chelsea-transfer-news-liam-delap-and-pedro-neto-move-closer-to-exit-door-paper-talk",
@@ -263,6 +335,42 @@
       "headline_only": false
     },
     {
+      "title": "Trump orders Pentagon to scale back joint military exercises with South Korea",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3364222/trump-orders-pentagon-scale-back-joint-military-exercises-south-korea?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-16T22:29:55+00:00",
+      "summary": "US President Donald Trump ordered the Pentagon on Sunday to scale back planned joint military exercises with South Korea after the Republican president said South Korea declined to help denuclearise Iran. Trump said in a social media post that the exercises scheduled to begin…",
+      "headline_only": false
+    },
+    {
+      "title": "Trump: South Korea says ‘no thanks’ to his request to help denuclearise Iran",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-south-korea-says-no-thanks-his-request-help-denuclearise-iran",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-16T22:18:53+00:00",
+      "summary": "Trump: South Korea says ‘no thanks’ to his request to help denuclearise Iran US President Donald Trump said he had asked his South Korean counterpart whether Seoul wanted to join US efforts to disarm Iran of its nuclear weapons but received a negative response. \"While somewhat…",
+      "headline_only": false
+    },
+    {
+      "title": "Plan de paix à Gaza: Jared Kushner rencontre le Hamas en Égypte avant une visite en Israël",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20260816-plan-de-paix-%C3%A0-gaza-jared-kushner-rencontre-le-hamas-en-%C3%A9gypte-avant-une-visite-en-isra%C3%ABl",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-16T22:14:55+00:00",
+      "summary": "L'émissaire spécial des États-Unis pour le Proche-Orient, Jared Kushner, s'est rendu dimanche 16 août en Égypte où il a rencontré différents médiateurs et une délégation du Hamas dans le but de pousser pour la mise en œuvre du plan de paix à Gaza voulu par Donald Trump. Ce…",
+      "headline_only": false
+    },
+    {
       "title": "Clinical Scheffler claims emphatic win at FedEx St. Jude Championship",
       "link": "https://www.skysports.com/golf/news/12040/13573858/scottie-scheffler-claims-dominant-victory-at-fedex-st-jude-championship-as-tommy-fleetwood-fades-on-tough-back-nine",
       "source": "Sky Sports",
@@ -272,6 +380,18 @@
       "lang": "EN",
       "published": "2026-08-16T22:13:00+00:00",
       "summary": "Scottie Scheffler produced a clinical performance at TPC Southwind to claim an emphatic eight-shot victory at the FedEx St. Jude Championship on Sunday evening.",
+      "headline_only": false
+    },
+    {
+      "title": "Englishman Whaley wins US Amateur title",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/c1711189q2ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-16T22:05:54+00:00",
+      "summary": "Jack Whaley becomes only the second Englishman since 1911 to win the US Amateur Championship as he beats American Jay Leng Jr 4&3 at Merion.",
       "headline_only": false
     },
     {
@@ -311,15 +431,15 @@
       "headline_only": true
     },
     {
-      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
+      "title": "What could stop Israeli settler attacks on Palestinians?",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
       "category": "politics",
-      "region": "UK/Global",
+      "region": "Global/MENA",
       "lang": "EN",
-      "published": "2026-08-16T21:57:13+00:00",
-      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "published": "2026-08-16T21:54:58+00:00",
+      "summary": "Violence in the occupied West Bank has intensified under Israel&#039;s far-right Netanyahu government.",
       "headline_only": false
     },
     {
@@ -395,7 +515,7 @@
       "headline_only": false
     },
     {
-      "title": "Cameron Green backed for 'extended run' after drought-breaking ton",
+      "title": "After constant chopping and changing, Green goes 'back to what worked'",
       "link": "https://www.abc.net.au/news/2026-08-17/cameron-green-extended-run-after-bangladesh-test-century/107044844",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -623,18 +743,6 @@
       "headline_only": false
     },
     {
-      "title": "Aussie star Lani Pallister ends American GOAT's 16-year win streak",
-      "link": "https://www.abc.net.au/news/2026-08-17/lani-pallister-beats-katie-ledecky-in-800m-at-pan-pacs/107044782",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-16T20:49:33+00:00",
-      "summary": "Lani Pallister becomes the first wimmer to beat American Katie Ledecky over 800m at a senior international swim meet as Australia wraps up a glittering Pan Pacific Swimming Championships.",
-      "headline_only": false
-    },
-    {
       "title": "US admiral praises USS Lincoln crew amid reported mental health concerns",
       "link": "https://www.aljazeera.com/news/2026/8/16/us-admiral-praises-uss-lincoln-crew-amid-reported-mental-health-concerns?traffic_source=rss",
       "source": "Al Jazeera",
@@ -644,18 +752,6 @@
       "lang": "EN",
       "published": "2026-08-16T20:46:01+00:00",
       "summary": "Politicians voiced alarm over mental health struggles on carrier, with reports of sailors attempting to jump overboard.",
-      "headline_only": false
-    },
-    {
-      "title": "Batemans Bay ED closing despite population hitting 80k over summer",
-      "link": "https://www.abc.net.au/news/2026-08-17/batemans-bay-emergency-department-to-close-despite-outcry/106994122",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-16T20:43:25+00:00",
-      "summary": "Batemans Bay's hospital and emergency department will close next year, despite the NSW South Coast's growing population and the influx of thousands of tourists each holiday season.",
       "headline_only": false
     },
     {
@@ -740,18 +836,6 @@
       "lang": "EN",
       "published": "2026-08-16T20:04:51+00:00",
       "summary": "Thousands gathered in Saint-Louis, Senegal, for the annual regatta.",
-      "headline_only": false
-    },
-    {
-      "title": "Anti-corruption raids in Baghdad as dozens of officials arrested",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/anti-corruption-raids-in-baghdad-as-dozens-of-officials-arrested?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-16T20:02:09+00:00",
-      "summary": "Iraq’s Integrity Commission seized of millions in cash and jewelry said to be linked to corruption charges.",
       "headline_only": false
     },
     {
@@ -1187,18 +1271,6 @@
       "headline_only": false
     },
     {
-      "title": "Oliveira dedicates Portugal stage win to Tarling family",
-      "link": "https://www.bbc.co.uk/sport/cycling/articles/cy07720z94no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-16T17:59:03+00:00",
-      "summary": "Rui Oliveira wins the final stage of the Volta a Portugal in his home city of Porto before dedicating the win to Finlay Tarling's family.",
-      "headline_only": false
-    },
-    {
       "title": "California billionaires add millions to bolster fight against wealth tax",
       "link": "https://www.ft.com/content/10aba768-20fc-46eb-8503-4658181bffc5?syn-25a6b1a6=1",
       "source": "Financial Times (headlines only – paywalled)",
@@ -1245,6 +1317,18 @@
       "published": "2026-08-16T17:47:11+00:00",
       "summary": "A passenger bus travelling on a highway in Hungary early on Sunday went off the road and into a ditch where it overturned, killing 12 and injuring others, police said. The bus, which was carrying a group of Polish tourists, was travelling on eastbound lanes near the town of…",
       "headline_only": false
+    },
+    {
+      "title": "US considers new sanctions on Brazilian judge, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOVozRlpuTURmbFhZTEprd083bUZ6X1d4aFpNSUZFNVlxc1RnQ3J5dHpfaTZvbEhldGZtQWQ5RkxHbWpianVFZGJJUjRPOWpiOW4ta1lodHdhY0FEUThZbm9LRWp6WllKb3BTQ2FodVRLN05FLXVxeWwzSWpsRFFib2RnY0xrVXhVNlBCeVF3MzNfMy1yZ3ZEYkx6RkQyeHFlWG1URXlhMA?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-16T17:43:15+00:00",
+      "summary": "US considers new sanctions on Brazilian judge, FT reports &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Léon Marchand champion d’Europe sur 400 m nage libre : la réinvention du nageur français, qu’on n’attendait pas sur cette distance",
@@ -1403,30 +1487,6 @@
       "headline_only": false
     },
     {
-      "title": "Israeli military attacks strategic hill in southern Lebanon",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-military-attacks-southern-lebanon",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-16T17:05:01+00:00",
-      "summary": "Israeli military attacks strategic hill in southern Lebanon The Israeli military has attacked&nbsp;Ali al-Taher Hill in southern Lebanon with explosives, according to the National News Agency. The strategically important high ground on the outskirts of Nabatieh al-Fawqa has…",
-      "headline_only": false
-    },
-    {
-      "title": "Arsenal humble Man City to win Community Shield - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbDR1anJWcnJPUU5oN2tGX1VyS1lURnlPei12NldTTm84ck5STlRiNF9iRHFOMDFzQmxRUkRubE85Um9vdkF5MUtZQzhsT2UxeHRjUEZ2c3ducENDR1ktMFhTZVU2V0laNjJUTHlpZVVHSUxyeV9Jb1lLd29nelZ2WG1XalZ0RzREX3EyM0toZmRZQ0dxZnB2RXRDRDY?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-16T17:02:35+00:00",
-      "summary": "Arsenal humble Man City to win Community Shield &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Incendie «stable» dans les Landes, l’or de Léon Marchand, le piratage du fisc (suite)… L’actu de ce week-end des 15 et 16 août",
       "link": "https://www.liberation.fr/international/europe/incendie-stable-dans-les-landes-lor-de-leon-marchand-le-piratage-du-fisc-suite-lactu-de-ce-week-end-des-15-et-16-aout-20260816_BD63MNAGPBC27MTFBDIQ3NI5BQ/",
       "source": "Libération",
@@ -1499,18 +1559,6 @@
       "headline_only": true
     },
     {
-      "title": "Eight countries condemn Israel's rejection of Trump's Gaza plan",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/five-arab-countries-condemn-israels-rejection-trumps-gaza-plan",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-16T16:39:02+00:00",
-      "summary": "Eight countries condemn Israel's rejection of Trump's Gaza plan Five Arab countries together with Turkey, Pakistan and Indonesia on Sunday condemned Israel's rejection&nbsp;of US President Donald Trump's plan for Gaza. In a joint statement, the countries including Egypt, Qatar,…",
-      "headline_only": false
-    },
-    {
       "title": "Bulle IA: tant que l’orchestre joue",
       "link": "https://www.mediapart.fr/journal/economie-et-social/160826/bulle-ia-tant-que-l-orchestre-joue",
       "source": "Mediapart",
@@ -1559,18 +1607,6 @@
       "headline_only": false
     },
     {
-      "title": "Customs steps in after woman claims beauty chain Opatra cheated her out of HK$60,000",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364213/customs-steps-after-woman-claims-beauty-chain-opatra-cheated-her-out-hk60000?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-16T16:27:36+00:00",
-      "summary": "Hong Kong customs has said it is actively following up on a case involving a London‑based beauty chain after a woman complained that she was cheated into paying more than HK$60,000 (US$7,700) for products and raised concerns about the company’s sales practices. Opatra London’s…",
-      "headline_only": false
-    },
-    {
       "title": "Zambia's Hichilema leads presidential vote count - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUhnanphMWxUemllZGRNTXJqZE16ZHBWdUFIS2Q0TzZDdVBQUXFPSUUtU2xHUDVDLWRNZl9heVh1Sk9kNExJUGNEWDlZdzBmTVlCZ3NYSWZLTnJBS2hhLVQ3NXhHTWZsdkRCcTduelg5V0cwWHExbl81d1E0ai1yUkVCeThJcWdhZTI2M3RZb19iM0tab09iaVpxSGU?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -1580,18 +1616,6 @@
       "lang": "EN",
       "published": "2026-08-16T16:13:43+00:00",
       "summary": "Zambia's Hichilema leads presidential vote count &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
-      "title": "More than 100,000 without power in Hawaii as Lala downgraded to tropical storm - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVWp3QXBkLU5sd2piVkkwODRCOEpFZFV6MGY2OFZyUlM2TUcxcXVubEgzS2R5VlZVUFMzZEo3d0ZGS0FxS1BxVXgwQWdVdHZVbGpMaGJIRzFOOG50YUp2T2RXbl9wTEhPUlpvTmZZOGlVamdnQUlmUGxPaktaTElqN0dTS1lZLTR6NUtfZ3NOb1JUT1lUcGJZQmtBY1d0bkpxeWtfSnNjUUM3dXBEQTNoQl9BbmE0SjRBVjdveWhkTzdmREU?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-16T16:09:36+00:00",
-      "summary": "More than 100,000 without power in Hawaii as Lala downgraded to tropical storm &nbsp;&nbsp; Reuters",
       "headline_only": true
     },
     {
@@ -1823,18 +1847,6 @@
       "headline_only": false
     },
     {
-      "title": "En France, les vendanges battent des records de précocité à cause de la chaleur",
-      "link": "https://www.rfi.fr/fr/france/20260816-en-france-les-vendanges-battent-des-records-de-pr%C3%A9cocit%C3%A9-%C3%A0-cause-de-la-chaleur",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-16T13:53:20+00:00",
-      "summary": "Le raisin n'a jamais été coupé aussi tôt en France. Effet de la sécheresse et des canicules, les vendanges ont déjà débuté en Champagne, dans le Bordelais, le Beaujolais ou encore dans le vignoble nantais où l’on produit du muscadet, un vin blanc sec. Ce démarrage intervient…",
-      "headline_only": false
-    },
-    {
       "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
       "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1880,18 +1892,6 @@
       "lang": "EN",
       "published": "2026-08-16T13:00:27+00:00",
       "summary": "There are more than 70,000 hysteroscopies every year in England alone. The NHS calls them ‘low complexity’ – yet a shocking number of patients complain of inadequate pain relief and medical staff who refuse to take them seriously In February this year, Beth Harris sat in the…",
-      "headline_only": false
-    },
-    {
-      "title": "Législatives en Israël: «Actuellement, c'est mal parti pour Netanyahu»",
-      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20260816-l%C3%A9gislatives-en-isra%C3%ABl-actuellement-c-est-mal-parti-pour-netanyahu",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-16T12:57:09+00:00",
-      "summary": "Fin de campagne pour le Likoud en Israël. Le principal parti du pays organise sa primaire demain. Élections internes en vue des élections législatives du 27 octobre prochain. Benyamin Netanyahu se représentera, mais le Premier ministre est en pleine zone de turbulences. En…",
       "headline_only": false
     },
     {
@@ -2075,18 +2075,6 @@
       "headline_only": false
     },
     {
-      "title": "Secret outperformer: Dispelling the 'myths' about an unloved stock market",
-      "link": "https://www.cnbc.com/2026/08/16/goldman-stock-market-outperformance.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-16T09:45:45+00:00",
-      "summary": "European markets fly under the radar when compared with larger and more liquid U.S. markets, but Goldman Sachs offered to dispel some of the myths.",
-      "headline_only": false
-    },
-    {
       "title": "A positive new report raises the question: was Reeves undermined by dodgy data? | Heather Stewart",
       "link": "https://www.theguardian.com/business/2026/aug/16/uk-productivity-data-rachel-reeves-national-statistician",
       "source": "The Guardian – Business",
@@ -2147,7 +2135,7 @@
       "headline_only": false
     },
     {
-      "title": "DIRECT - Moyen-Orient: le Liban condamne l'attaque israélienne menée dans le sud du pays",
+      "title": "DIRECT - Moyen-Orient: Trump se réjouit du pacte de défense entre l'Arabie saoudite, la Turquie et le Pakistan",
       "link": "https://www.rfi.fr/fr/moyen-orient/20260816-direct-moyen-orient-le-liban-condamne-l-attaque-isra%C3%A9lienne-men%C3%A9e-dans-le-sud-du-pays",
       "source": "RFI",
       "source_id": "rfi-fr",
@@ -2155,7 +2143,7 @@
       "region": "France",
       "lang": "FR",
       "published": "2026-08-16T07:43:53+00:00",
-      "summary": "D'après le bureau du Premier ministre israélien Benyamin Netanyahu, les bombardements dans le sud du Liban font suite à une attaque de drone contre des soldats israéliens, où trois militaires dont un officier, ont été blessés. Ces frappes menées en représailles ont fait onze…",
+      "summary": "Le président des États-Unis s'est déclaré « très content », dimanche 16 août, de la signature récente d'un pacte de défense entre l'Arabie saoudite, la Turquie et le Pakistan, trois pays alliés de Washington. « Cela montre que le Moyen-Orient se rassemble et que les pays seront…",
       "headline_only": false
     },
     {
@@ -2348,18 +2336,6 @@
       "lang": "EN",
       "published": "2026-08-15T14:46:43+00:00",
       "summary": "Smarkets is entering the U.S. prediction market race but also applying to run as a sportsbook within states amid regulatory uncertainty at the federal level.",
-      "headline_only": false
-    },
-    {
-      "title": "Anthropic revenue reportedly jumps to more than $11.5 billion in second quarter",
-      "link": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-15T14:45:31+00:00",
-      "summary": "The jump in revenue underscores the rapid growth of the Claude chatbot maker as it prepares for a potential blockbuster initial public offering.",
       "headline_only": false
     },
     {
@@ -2915,6 +2891,18 @@
       "headline_only": false
     },
     {
+      "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+      "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-14T00:09:11+00:00",
+      "summary": "Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.",
+      "headline_only": false
+    },
+    {
       "title": "Fiji’s HIV outbreak is a public health emergency. Pacific neighbours must step up",
       "link": "https://theconversation.com/fijis-hiv-outbreak-is-a-public-health-emergency-pacific-neighbours-must-step-up-286066",
       "source": "The Conversation",
@@ -3308,6 +3296,18 @@
       "lang": "EN",
       "published": "2026-08-12T07:54:42+00:00",
       "summary": "The movement had been riding high off a string of primary victories this cycle. But Francesca Hong’s loss Wednesday led to an immediate round of finger-pointing.",
+      "headline_only": false
+    },
+    {
+      "title": "Why the historic U.S.-Japan intervention has failed to halt the yen’s slide",
+      "link": "https://www.cnbc.com/2026/08/12/japan-yen-us-dollar-intervention-.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-12T07:20:31+00:00",
+      "summary": "The Japanese yen has erased about half of the gains from an unprecedented U.S.-Japan intervention less than two weeks ago.",
       "headline_only": false
     },
     {
