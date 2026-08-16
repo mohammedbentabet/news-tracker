@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-16T23:11:35.215349+00:00",
+  "updated_at": "2026-08-16T23:55:39.629074+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:54.045506+00:00"
+      "last_success": "2026-08-16T23:42:11.982008+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:54.113728+00:00"
+      "last_success": "2026-08-16T23:42:12.268335+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:54.185386+00:00"
+      "last_success": "2026-08-16T23:42:12.406158+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:54.325693+00:00"
+      "last_success": "2026-08-16T23:42:12.700786+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:54.455130+00:00"
+      "last_success": "2026-08-16T23:42:12.871636+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:54.583931+00:00"
+      "last_success": "2026-08-16T23:42:13.134984+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:54.892879+00:00"
+      "last_success": "2026-08-16T23:42:13.568931+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "error",
-      "error": "<unknown>:10:92: not well-formed (invalid token)",
-      "last_success": "using cached data"
+      "status": "ok",
+      "error": null,
+      "last_success": "2026-08-16T23:42:13.786347+00:00"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:56.475168+00:00"
+      "last_success": "2026-08-16T23:42:14.760675+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:56.710532+00:00"
+      "last_success": "2026-08-16T23:42:14.995921+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:56.819609+00:00"
+      "last_success": "2026-08-16T23:42:15.230186+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:56.877187+00:00"
+      "last_success": "2026-08-16T23:42:15.367173+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:57.237754+00:00"
+      "last_success": "2026-08-16T23:42:16.297058+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:57.642842+00:00"
+      "last_success": "2026-08-16T23:42:16.569607+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:57.875060+00:00"
+      "last_success": "2026-08-16T23:42:16.834563+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:58.553834+00:00"
+      "last_success": "2026-08-16T23:42:17.498137+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:56:59.836314+00:00"
+      "last_success": "2026-08-16T23:42:18.901483+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:00.097899+00:00"
+      "last_success": "2026-08-16T23:42:19.111886+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:00.560845+00:00"
+      "last_success": "2026-08-16T23:42:19.509083+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:00.905319+00:00"
+      "last_success": "2026-08-16T23:42:19.854498+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:01.440303+00:00"
+      "last_success": "2026-08-16T23:42:20.538171+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:01.662905+00:00"
+      "last_success": "2026-08-16T23:42:20.884792+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:01.764482+00:00"
+      "last_success": "2026-08-16T23:42:21.109643+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:01.956762+00:00"
+      "last_success": "2026-08-16T23:42:21.354545+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T22:57:02.597247+00:00"
+      "last_success": "2026-08-16T23:42:22.115690+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T23:11:33.201109+00:00"
+      "last_success": "2026-08-16T23:55:36.664763+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T23:11:33.740989+00:00"
+      "last_success": "2026-08-16T23:55:37.385457+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,161 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T23:11:34.593763+00:00"
+      "last_success": "2026-08-16T23:55:38.410282+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T23:11:34.852785+00:00"
+      "last_success": "2026-08-16T23:55:38.614095+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T23:11:35.111070+00:00"
+      "last_success": "2026-08-16T23:55:38.999974+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T23:11:35.215189+00:00"
+      "last_success": "2026-08-16T23:55:39.628871+00:00"
     }
   },
-  "article_count": 296,
+  "article_count": 295,
   "articles": [
+    {
+      "title": "Elderly man charged after claiming to be a Vietnam veteran",
+      "link": "https://www.abc.net.au/news/2026-08-17/man-charged-over-vietnam-war-service-claims/107045074",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-16T23:47:40+00:00",
+      "summary": "A 79-year-old man who allegedly claimed to be a Vietnam veteran and improperly wore service medals is charged by police.",
+      "headline_only": false
+    },
+    {
+      "title": "Trump scales back joint military drills with South Korea, calling them 'hostile'",
+      "link": "https://www.abc.net.au/news/2026-08-17/trump-says-south-korean-military-drills-to-scale-back-/107045056",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-16T23:39:59+00:00",
+      "summary": "US President Donald Trump has ordered the Pentagon to scale back planned joint military exercises with South Korea, saying it declined to help denuclearise Iran and citing his good relationship with North Korea's Kim Jong Un.",
+      "headline_only": false
+    },
+    {
+      "title": "Tourists at 'right place, right time' find emus swimming in WA river",
+      "link": "https://www.abc.net.au/news/2026-08-17/emus-swimming-murchison-river/107041812",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-16T23:30:52+00:00",
+      "summary": "A Kalbarri tourism operator says it is the first time they have seen emus swimming in one of WA's longest rivers.",
+      "headline_only": false
+    },
+    {
+      "title": "Launch of Northern Metropolis flats attracts strong interest from Hong Kong homebuyers",
+      "link": "https://www.scmp.com/business/article/3364205/launch-northern-metropolis-flats-attracts-strong-interest-hong-kong-homebuyers?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-16T23:30:08+00:00",
+      "summary": "Hong Kong homebuyers flocked to the first batch of units at a major residential project in the Northern Metropolis with 44 – or more than half – of the 82 flats made available via regular sale finding buyers as of 7.30pm on Sunday, according to agents. Wheelock Properties’ Park…",
+      "headline_only": false
+    },
+    {
+      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-16T23:28:14+00:00",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
+      "headline_only": false
+    },
+    {
+      "title": "New privately operated prison announced by NT government",
+      "link": "https://www.abc.net.au/news/2026-08-17/nt-new-privately-operated-mens-prison-announced-clp-gov/107044994",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-16T23:16:37+00:00",
+      "summary": "The Northern Territory government has announced plans for a new prison that will be built, financed and operated by a private company.",
+      "headline_only": false
+    },
+    {
+      "title": "McIlroy admits concerns as Scheffler regains winning feeling at St Jude",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cre44r1y17no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-16T23:15:12+00:00",
+      "summary": "Rory McIlroy says \"he felt lost\" as he toils to a 66th-place finish - 25 strokes behind champion Scottie Scheffler - at the St Jude Championship in Memphis.",
+      "headline_only": false
+    },
+    {
+      "title": "Donald Trump a demandé à réduire les exercices militaires menés avec la Corée du Sud pour préserver ses liens avec le dirigeant nord-coréen, Kim Jong-un",
+      "link": "https://www.lemonde.fr/international/article/2026/08/17/donald-trump-demande-a-reduire-les-exercices-militaires-menes-avec-la-coree-du-sud-pour-preserver-ses-liens-avec-le-dirigeant-nord-coreen-kim-jong-un_6747888_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-16T23:14:58+00:00",
+      "summary": "Selon le président américain, ces exercices, qui doivent commencer lundi, sont « coûteux » et « envoient un signal totalement inapproprié et hostile » envers Pyongyang. Séoul affirme que ces manœuvres avec les Etats-Unis « se dérouleront comme prévu ».",
+      "headline_only": false
+    },
+    {
+      "title": "Summer jobs bounce back in UK thanks to busy calendar of sport and music",
+      "link": "https://www.theguardian.com/business/2026/aug/17/summer-jobs-bounce-back-in-uk-thanks-to-busy-calendar-of-sport-and-music",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
+      "category": "finance",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-16T23:01:38+00:00",
+      "summary": "Industry tracker finds ‘exceptionally warm weather’ has helped boost job listings in hospitality and tourism sector The summer job has staged a comeback this year thanks to the hot weather and a packed calendar of events such as the men’s football World Cup, new UK figures…",
+      "headline_only": false
+    },
+    {
+      "title": "Trump says US will scale back military drills with South Korea",
+      "link": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1",
+      "source": "Financial Times (headlines only – paywalled)",
+      "source_id": "ft-headlines",
+      "category": "finance",
+      "region": "UK/Europe",
+      "lang": "EN",
+      "published": "2026-08-16T23:01:17+00:00",
+      "summary": "President claims the joint exercises send a ‘hostile’ message to North Korea",
+      "headline_only": true
+    },
+    {
+      "title": "Jared Kushner lands in Israel after meeting Hamas officials",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/jared-kushner-lands-israel-after-meeting-hamas-officials",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-16T22:57:43+00:00",
+      "summary": "Jared Kushner lands in Israel after meeting Hamas officials US President Donald Trump’s son-in-law and adviser Jared Kushner arrived in Israel after meeting Hamas leaders and Egyptian, Qatari and Turkish officials in Cairo, a Palestinian source told Al Jazeera. Kushner and…",
+      "headline_only": false
+    },
     {
       "title": "Copy the link Jared Kushner lands in Israel after meeting Hamas officials",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/copy-link-jared-kushner-lands-israel-after-meeting-hamas-officials",
@@ -261,6 +393,18 @@
       "published": "2026-08-16T22:55:46+00:00",
       "summary": "Copy the link Jared Kushner lands in Israel after meeting Hamas officials US President Donald Trump’s son-in-law and adviser Jared Kushner arrived in Israel after meeting Hamas leaders and Egyptian, Qatari and Turkish officials in Cairo, Al Jazeera reported, citing a…",
       "headline_only": false
+    },
+    {
+      "title": "Trump instructs Pentagon to reduce military exercises with South Korea - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-16T22:54:26+00:00",
+      "summary": "Trump instructs Pentagon to reduce military exercises with South Korea &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Présidentielle au Brésil: Lula et son principal adversaire, Flavio Bolsonaro, lancent leur campagne",
@@ -287,18 +431,6 @@
       "headline_only": true
     },
     {
-      "title": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-16T22:41:34+00:00",
-      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-      "headline_only": false
-    },
-    {
       "title": "Man killed in hit-and-run near Ballarat",
       "link": "https://www.abc.net.au/news/2026-08-17/ballarat-canadian-fatal-hit-run-police-investigate/107044940",
       "source": "ABC News Australia",
@@ -307,7 +439,7 @@
       "region": "Australia",
       "lang": "EN",
       "published": "2026-08-16T22:40:24+00:00",
-      "summary": "Police say the car that struck the man did not have numberplates. Anyone with information is being urged to come forward.",
+      "summary": "Police say the car that struck the man did not have number plates. Anyone with information is being urged to come forward.",
       "headline_only": false
     },
     {
@@ -379,7 +511,7 @@
       "region": "UK",
       "lang": "EN",
       "published": "2026-08-16T22:13:00+00:00",
-      "summary": "Scottie Scheffler produced a clinical performance at TPC Southwind to claim an emphatic eight-shot victory at the FedEx St. Jude Championship on Sunday evening.",
+      "summary": "Scottie Scheffler produced a clinical performance at TPC Southwind on his way to sealing an eight-shot victory at the FedEx St. Jude Championship.",
       "headline_only": false
     },
     {
@@ -419,18 +551,6 @@
       "headline_only": false
     },
     {
-      "title": "Trump instructs Pentagon to reduce military exercises with South Korea - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-16T21:58:09+00:00",
-      "summary": "Trump instructs Pentagon to reduce military exercises with South Korea &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "What could stop Israeli settler attacks on Palestinians?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/16/what-could-stop-israeli-settler-attacks-on-palestinians?traffic_source=rss",
       "source": "Al Jazeera",
@@ -443,7 +563,7 @@
       "headline_only": false
     },
     {
-      "title": "Stroke rates buck trends in young people amid missed signs and misdiagnosis",
+      "title": "Strokes are increasingly impacting young people and experts say the factors are complex",
       "link": "https://www.abc.net.au/news/2026-08-17/increasing-incidence-of-strokes-in-young-people/106999484",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -451,7 +571,7 @@
       "region": "Australia",
       "lang": "EN",
       "published": "2026-08-16T21:53:41+00:00",
-      "summary": "Experts warn the rate of stroke in young people is increasing, with one in four occurring in those aged under 65, despite the overall incidence going down.",
+      "summary": "The Stroke Foundation says one in four strokes in Australia now occur in those aged under 65, despite the overall incidence going down.",
       "headline_only": false
     },
     {
@@ -524,18 +644,6 @@
       "lang": "EN",
       "published": "2026-08-16T21:37:27+00:00",
       "summary": "Captain Pat Cummins says Cameron Green will get an \"extended run\" in one position in Australia's line-up after scoring his first Test century on home soil.",
-      "headline_only": false
-    },
-    {
-      "title": "DV advocates call for action as under-18 violence increases",
-      "link": "https://www.abc.net.au/news/2026-08-17/nt-residents-experiencing-and-using-violence-from-younger-age/107036332",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-16T21:30:56+00:00",
-      "summary": "Advocates in Alice Springs say people are increasingly experiencing domestic, family and sexual violence from a younger age and it needs to be addressed.",
       "headline_only": false
     },
     {
@@ -671,30 +779,6 @@
       "headline_only": false
     },
     {
-      "title": "Director faces investigations following Mundella collapse",
-      "link": "https://www.abc.net.au/news/2026-08-17/mundella-dairy-collapse-liquidation-investigation/105507238",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-16T20:58:54+00:00",
-      "summary": "The collapse of a well-known WA dairy processor and associated companies has left unsecured creditors empty-handed. Now liquidators are set to investigate possible insolvent trading and hundreds of potentially \"unreasonable transactions\" by the director.",
-      "headline_only": false
-    },
-    {
-      "title": "Live: One Nation wants Australians hit by cost of living to have early super access",
-      "link": "https://www.abc.net.au/news/2026-08-17/federal-politics-live-blog-august-7/107044768",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-16T20:57:54+00:00",
-      "summary": "Cash-strapped Australians struggling with the cost of living should be able to apply for early access to their superannuation, One Nation says. Follow live.",
-      "headline_only": false
-    },
-    {
       "title": "CAN féminine 2026: le Cameroun s’impose en finale face au Malawi et s’offre le trophée pour la première fois",
       "link": "https://www.rfi.fr/fr/afrique-foot/20260816-can-f%C3%A9minine-2026-can-f%C3%A9minine-2026-le-cameroun-s-impose-en-finale-face-au-malawi-et-s-offre-le-troph%C3%A9e-pour-la-premi%C3%A8re-fois",
       "source": "RFI",
@@ -728,18 +812,6 @@
       "lang": "EN",
       "published": "2026-08-16T20:55:04+00:00",
       "summary": "US Attorney General Todd Blanche said ⁠on Sunday that ⁠he backs top Washington prosecutor ⁠Jeanine Pirro, who was criticised by US President Donald Trump for the way she handled a case of alleged vandalism at the Lincoln Memorial Reflecting Pool. “I absolutely support US…",
-      "headline_only": false
-    },
-    {
-      "title": "Live: Wall Street dips as consumer sentiment slumps, ASX to keep sliding",
-      "link": "https://www.abc.net.au/news/2026-08-17/asx-markets-business-live-news/107043886",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-16T20:51:10+00:00",
-      "summary": "Wilting consumer confidence has halted Wall Street's recent rally and the ASX is priced to slide lower again today. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
       "headline_only": false
     },
     {
@@ -800,18 +872,6 @@
       "lang": "EN",
       "published": "2026-08-16T20:25:07+00:00",
       "summary": "Shifting the playing style, maintaining qualification for major tournaments and refreshing the squad await the new Scotland boss.",
-      "headline_only": false
-    },
-    {
-      "title": "Super Giants survive late wobble to win men's Hundred",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/c2dkk2j086lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-16T20:22:18+00:00",
-      "summary": "Trent Rockets fail in their bid to become the first team to win both Hundred trophies in the same year, as they are beaten by Manchester Super Giants in the men's final.",
       "headline_only": false
     },
     {
@@ -1043,18 +1103,6 @@
       "headline_only": false
     },
     {
-      "title": "Jamie Dimon warns UK chancellor against higher bank taxes",
-      "link": "https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1",
-      "source": "Financial Times (headlines only – paywalled)",
-      "source_id": "ft-headlines",
-      "category": "finance",
-      "region": "UK/Europe",
-      "lang": "EN",
-      "published": "2026-08-16T19:00:04+00:00",
-      "summary": "JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget",
-      "headline_only": true
-    },
-    {
       "title": "Forest latest: Pre-season rounded off with Brest win",
       "link": "https://www.skysports.com/football/live-blog/12040/13279316/nottingham-forest-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
       "source": "Sky Sports",
@@ -1271,18 +1319,6 @@
       "headline_only": false
     },
     {
-      "title": "California billionaires add millions to bolster fight against wealth tax",
-      "link": "https://www.ft.com/content/10aba768-20fc-46eb-8503-4658181bffc5?syn-25a6b1a6=1",
-      "source": "Financial Times (headlines only – paywalled)",
-      "source_id": "ft-headlines",
-      "category": "finance",
-      "region": "UK/Europe",
-      "lang": "EN",
-      "published": "2026-08-16T17:55:36+00:00",
-      "summary": "Tech owner Chris Larsen and venture capitalist John Doerr step up efforts to kill proposed 5% levy on the rich",
-      "headline_only": true
-    },
-    {
       "title": "Euro de natation: Léon Marchand sacré champion d'Europe du 400 m nage libre",
       "link": "https://www.rfi.fr/fr/sports/20260816-euro-de-natation-l%C3%A9on-marchand-sacr%C3%A9-champion-d-europe-du-400-m-nage-libre",
       "source": "RFI",
@@ -1352,18 +1388,6 @@
       "lang": "EN",
       "published": "2026-08-16T17:31:00+00:00",
       "summary": "The statement came as US envoy Jared Kushner and Gaza peace envoy Nickolay Mladenov held ceasefire and implementation talks with regional mediators and Hamas in Egypt.",
-      "headline_only": false
-    },
-    {
-      "title": "Report: US envoy Kushner meets Hamas leaders in Egypt",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/report-us-envoy-kushner-meets-hamas-leaders-egypt",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-16T17:30:49+00:00",
-      "summary": "Report: US envoy Kushner meets Hamas leaders in Egypt Hamas leaders met on Sunday in Egypt with President Donald Trump's son-in-law and envoy Jared Kushner, who is seeking to push a Gaza plan rejected by Israel, sources with knowledge of the talks told AFP. Hamas in the meeting…",
       "headline_only": false
     },
     {
@@ -1535,18 +1559,6 @@
       "headline_only": false
     },
     {
-      "title": "BBC asks US court for help with testimony from the Trump family in defamation suit",
-      "link": "https://www.scmp.com/news/world/europe/article/3364214/bbc-asks-us-court-help-testimony-trump-family-defamation-suit?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-16T16:45:18+00:00",
-      "summary": "Britain’s BBC asked a US court for help in getting documents and testimony from members of US President Donald Trump’s family in connection with his US$10-billion defamation lawsuit against the British broadcaster, a court document showed. Lawyers for the BBC argued that Ivanka…",
-      "headline_only": false
-    },
-    {
       "title": "Iranian parliament advances bill to curb foreign influence - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1l5UHpVYkM5cWxRVlYyTGVJWkVlWXJaWkxrNXZYaEhOSG9nYU9sdWVwSm4xeGkxV1U2ZXJrVlR2WlhFbjBZTWxYeE5sOWFWaWVLUC1CQ0NoV0VsVFJnU2Q3T2g4UFRUSUk1WWZDZGp1SVMzZ2xzdHJSRXRMWDctVXlBekt4ODhIeGJjOUFvLUtrb2NZclVBejZtbkg2djNWeG15QjEwNTE1eEZ6YlA5ZXNJdlljdDlRS2U3WklxZURuZ2VOSmJrRFF3cEw3QQ?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -1664,18 +1676,6 @@
       "lang": "FR",
       "published": "2026-08-16T16:00:13+00:00",
       "summary": "Près de 2 700 articles scientifiques publiés par l’Institut hospitalo-universitaire Méditerranée Infection, établissement anciennement dirigé par Didier Raoult, ont été examinés. Au final, plus de 850 soulèvent des « préoccupations ».",
-      "headline_only": false
-    },
-    {
-      "title": "« L’extrême droite française a voué une détestation tenace au général de Gaulle ; aujourd’hui, elle pourrait réussir sa stratégie de captation d’héritage »",
-      "link": "https://www.lemonde.fr/idees/article/2026/08/16/l-extreme-droite-francaise-a-voue-une-detestation-tenace-au-general-de-gaulle-aujourd-hui-elle-pourrait-reussir-sa-strategie-de-captation-d-heritage_6747643_3232.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-16T16:00:06+00:00",
-      "summary": "A huit mois de l’élection présidentielle, et alors que de Gaulle est plébiscité au cinéma, le documentariste Jonathan Hayoun observe, dans une tribune au « Monde », que la mémoire du Général est devenue un héritage à prendre, et qu’il s’agirait de ne pas laisser l’extrême…",
       "headline_only": false
     },
     {
@@ -2096,18 +2096,6 @@
       "lang": "FR",
       "published": "2026-08-16T09:21:04+00:00",
       "summary": "La députée new-yorkaise a rendu public son projet de congeler ses ovocytes sans raison médicale, transformant ce sujet privé en débat public. Dans le même temps, cette figure populaire de la gauche progressiste n’exclut pas de se présenter à la présidentielle en 2028.",
-      "headline_only": false
-    },
-    {
-      "title": "University spinout to launch water quality app for UK and US waters",
-      "link": "https://www.theguardian.com/business/2026/aug/16/plymouth-university-spinout-water-quality-app-uk-us-waters-molendotech-e-coli",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-16T09:00:22+00:00",
-      "summary": "Molendotech will collate data from daily tests that detect E coli and other bacteria amid reports of swimmers falling ill A UK university spinout behind a rapid bacterial water testing kit is planning to launch live water quality maps, as scores of beachgoers report falling ill…",
       "headline_only": false
     },
     {
