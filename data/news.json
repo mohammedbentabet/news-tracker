@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-16T11:09:12.938378+00:00",
+  "updated_at": "2026-08-16T11:27:58.142300+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:11.276398+00:00"
+      "last_success": "2026-08-16T11:14:37.088722+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:11.359491+00:00"
+      "last_success": "2026-08-16T11:14:37.164345+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:11.626779+00:00"
+      "last_success": "2026-08-16T11:14:37.241402+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:11.778633+00:00"
+      "last_success": "2026-08-16T11:14:37.519754+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:12.337023+00:00"
+      "last_success": "2026-08-16T11:14:37.639468+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:12.463571+00:00"
+      "last_success": "2026-08-16T11:14:37.753076+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:12.831574+00:00"
+      "last_success": "2026-08-16T11:14:38.034939+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-16T10:47:12.984492+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:14.039393+00:00"
+      "last_success": "2026-08-16T11:14:40.160926+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:14.190668+00:00"
+      "last_success": "2026-08-16T11:14:40.346333+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:14.479689+00:00"
+      "last_success": "2026-08-16T11:14:40.512116+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:14.703857+00:00"
+      "last_success": "2026-08-16T11:14:40.586296+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:15.106522+00:00"
+      "last_success": "2026-08-16T11:14:40.916527+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:15.359874+00:00"
+      "last_success": "2026-08-16T11:14:41.169484+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:15.530623+00:00"
+      "last_success": "2026-08-16T11:14:41.307055+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:16.210253+00:00"
+      "last_success": "2026-08-16T11:14:41.867964+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:17.732056+00:00"
+      "last_success": "2026-08-16T11:14:43.325683+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:17.928508+00:00"
+      "last_success": "2026-08-16T11:14:43.606301+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:18.368915+00:00"
+      "last_success": "2026-08-16T11:14:44.072117+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:18.674664+00:00"
+      "last_success": "2026-08-16T11:14:44.389970+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:19.355784+00:00"
+      "last_success": "2026-08-16T11:14:44.836756+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:19.534095+00:00"
+      "last_success": "2026-08-16T11:14:45.075846+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:19.674007+00:00"
+      "last_success": "2026-08-16T11:14:45.186950+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:19.826457+00:00"
+      "last_success": "2026-08-16T11:14:45.369544+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T10:47:20.381408+00:00"
+      "last_success": "2026-08-16T11:14:46.176180+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T11:09:10.474026+00:00"
+      "last_success": "2026-08-16T11:27:55.545727+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T11:09:11.144859+00:00"
+      "last_success": "2026-08-16T11:27:56.206377+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,185 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T11:09:11.957299+00:00"
+      "last_success": "2026-08-16T11:27:57.139130+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T11:09:12.094820+00:00"
+      "last_success": "2026-08-16T11:27:57.336740+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T11:09:12.444253+00:00"
+      "last_success": "2026-08-16T11:27:57.678908+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-16T11:09:12.938201+00:00"
+      "last_success": "2026-08-16T11:27:58.142091+00:00"
     }
   },
-  "article_count": 298,
+  "article_count": 299,
   "articles": [
+    {
+      "title": "Eat, move, live well: Hong Kong style",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/series/3364192/eat-move-live-well-hong-kong-style?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-16T11:02:18+00:00",
+      "summary": "",
+      "headline_only": false
+    },
+    {
+      "title": "Maguire wants 'huge threat' Rashford to stay at Man Utd",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c4g442me1k8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-16T11:00:14+00:00",
+      "summary": "Manchester United defender Harry Maguire says he hopes Marcus Rashford will stay at the club because he can improve Michael Carrick's team.",
+      "headline_only": false
+    },
+    {
+      "title": "Tuning the body: why Hongkongers turn to supplements to keep their ‘engine’ running",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364161/tuning-body-why-hongkongers-turn-supplements-keep-their-engine-running?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-16T11:00:10+00:00",
+      "summary": "In the first instalment of a five-part Health Matters wellness series on Hong Kong’s growing wellness trends, Lo Hoi-ying examines why younger residents are turning to supplements to boost energy, immunity and performance, as experts warn that excessive use should not replace a…",
+      "headline_only": false
+    },
+    {
+      "title": "How economics is changing",
+      "link": "https://www.ft.com/content/ea4d4326-878d-4e9e-9303-466c8a382c60?syn-25a6b1a6=1",
+      "source": "Financial Times (headlines only – paywalled)",
+      "source_id": "ft-headlines",
+      "category": "finance",
+      "region": "UK/Europe",
+      "lang": "EN",
+      "published": "2026-08-16T11:00:02+00:00",
+      "summary": "The subject is becoming more inventive and empirical, but questions about reproducibility and AI abound",
+      "headline_only": true
+    },
+    {
+      "title": "Arsenal vs Manchester City LIVE: FA Community Shield",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/16/arsenal-vs-manchester-city-live-fa-community-shield?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-16T11:00:00+00:00",
+      "summary": "Follow updates from the Community Shield, including the build-up, analysis and live text commentary of the game.",
+      "headline_only": false
+    },
+    {
+      "title": "Why has Israel escalated attacks in southern Lebanon despite ceasefire?",
+      "link": "https://www.aljazeera.com/news/2026/8/16/why-has-israel-escalated-attacks-in-southern-lebanon-despite-ceasefire?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-16T10:59:10+00:00",
+      "summary": "At least 11 people killed in one day of Israeli attacks despite truce extension brokered by US in June.",
+      "headline_only": false
+    },
+    {
+      "title": "Ukraine launches one of its largest attacks of war",
+      "link": "https://www.dw.com/en/ukraine-launches-one-of-its-largest-attacks-of-war/a-78386779?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-08-16T10:59:00+00:00",
+      "summary": "Moscow says hundreds of drones targeted the Russian capital overnight, with six fatalities in the Russian capital and southern Rostov region. Five people were killed in strikes across Ukraine.",
+      "headline_only": false
+    },
+    {
+      "title": "Houthi missile barrage hits Mocha port as fighting escalates in Yemen",
+      "link": "https://www.middleeasteye.net/news/houthi-missile-barrage-hits-mocha-port-fighting-escalates-yemen",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-16T10:57:46+00:00",
+      "summary": "Houthi missile barrage hits Mocha port as fighting escalates in Yemen Submitted by MEE staff on Sun, 08/16/2026 - 10:32 Officials say Houthi strikes have damaged civilian property in Marib and caused an estimated $16m in losses at the strategic Red Sea port The navigation…",
+      "headline_only": false
+    },
+    {
+      "title": "Hong Kong boy, 14, arrested for animal cruelty after badly injured cat dies",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364188/hong-kong-boy-14-arrested-animal-cruelty-after-badly-injured-cat-dies?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-16T10:54:11+00:00",
+      "summary": "A 14-year-old Hong Kong boy has been arrested on suspicion of animal cruelty after bringing a badly injured cat that later died to a clinic for treatment. Police said on Sunday that they received a report from an employee of a veterinary clinic in Cheung Sha Wan at 6.25pm on…",
+      "headline_only": false
+    },
+    {
+      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
+      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-16T10:53:50+00:00",
+      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
+      "headline_only": false
+    },
+    {
+      "title": "Ukraine presses drone attacks on Moscow and Russian logistics",
+      "link": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
+      "source": "Financial Times (headlines only – paywalled)",
+      "source_id": "ft-headlines",
+      "category": "finance",
+      "region": "UK/Europe",
+      "lang": "EN",
+      "published": "2026-08-16T10:52:58+00:00",
+      "summary": "Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer",
+      "headline_only": true
+    },
+    {
+      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
+      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-16T10:52:08+00:00",
+      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
+      "headline_only": false
+    },
+    {
+      "title": "Le contrôle judiciaire de Patrick Bruel allégé, révèle «Mediapart», colère de Corinne Hermann, l’avocate de Flavie Flament",
+      "link": "https://www.liberation.fr/societe/police-justice/le-controle-judiciaire-de-patrick-bruel-allege-revele-mediapart-20260815_6IWMFMS3XFD45H632N4T3BV7SU/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-16T10:47:48+00:00",
+      "summary": "Interrogé par des lecteurs racontant avoir croisé le chanteur à l’étranger, le site d’investigation a découvert que le juge d’instruction avait levé l’interdiction de quitter le pays, mise en place il y a deux mois dans le cadre de sa mise en examen.",
+      "headline_only": false
+    },
     {
       "title": "Rahman will not visit India until Hasina extradited to Bangladesh",
       "link": "https://www.scmp.com/news/asia/south-asia/article/3364191/rahman-will-not-visit-india-until-hasina-extradited-bangladesh?utm_source=rss_feed",
@@ -287,6 +443,18 @@
       "headline_only": false
     },
     {
+      "title": "Premier League: Key talking points heading into the new 2026-27 season",
+      "link": "https://www.aljazeera.com/sports/2026/8/16/premier-league-key-talking-points-heading-into-the-new-2026-27-season?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-16T10:33:42+00:00",
+      "summary": "City, Liverpool and Chelsea have new faces in the dugout as Arsenal attempt to defend title for first time in 90 years.",
+      "headline_only": false
+    },
+    {
       "title": "Accident d’un car polonais en Hongrie : Varsovie envoie un avion sanitaire à Budapest",
       "link": "https://www.liberation.fr/international/europe/un-bus-sest-renverse-en-hongrie-12-morts-et-au-moins-10-blesses-graves-20260816_KUJ7HFXN6FAQPO7X3J4HL7XEXU/",
       "source": "Libération",
@@ -296,6 +464,18 @@
       "lang": "FR",
       "published": "2026-08-16T10:33:29+00:00",
       "summary": "L’autocar qui venait de Serbie s’est renversé dans la nuit sur l’autoroute faisant 12 morts et au moins 10 blessés graves. Il s’agit du plus grave accident de bus survenu dans le pays depuis la catastrophe de Siófok en 2003.",
+      "headline_only": false
+    },
+    {
+      "title": "Doctor describes amputating girl’s leg in Gaza without anaesthesia",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/doctor-describes-amputating-girls-leg-in-gaza-without-anaesthesia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-16T10:32:42+00:00",
+      "summary": "‘We were praying for her to faint’.",
       "headline_only": false
     },
     {
@@ -371,18 +551,6 @@
       "headline_only": false
     },
     {
-      "title": "Five killed as Russia launches fresh aerial attacks across Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-16T10:09:10+00:00",
-      "summary": "Ukrainian President Volodymyr Zelensky accuses Russia of targeting civilian infrastructure, while Moscow reports that a warehouse was hit.",
-      "headline_only": false
-    },
-    {
       "title": "Angela Rayner moves to protect pubs from being turned into houses or offices",
       "link": "https://www.theguardian.com/politics/2026/aug/16/angela-rayner-pubs-developers-houses-offices-planning-shakeup",
       "source": "The Guardian – Business",
@@ -391,7 +559,7 @@
       "region": "UK",
       "lang": "EN",
       "published": "2026-08-16T10:09:09+00:00",
-      "summary": "Housing secretary says developers will have to prove there’s no way to save pub, as she prepares planning shakeup All pubs will get protection from being turned into housing or offices under a shakeup of planning laws in England to be presented by Angela Rayner this week. The…",
+      "summary": "Housing secretary says developers will have to prove there’s no way to save pub, as she prepares planning shakeup All pubs will get protection from being turned into housing or offices under a shake-up of planning laws in England to be presented by Angela Rayner this week. The…",
       "headline_only": false
     },
     {
@@ -695,18 +863,6 @@
       "headline_only": false
     },
     {
-      "title": "Exam body defends denying unwell DSE candidate access to lift before assessment",
-      "link": "https://www.scmp.com/news/hong-kong/education/article/3364185/exam-body-defends-denying-unwell-dse-candidate-access-lift-assessment?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-16T09:42:09+00:00",
-      "summary": "Hong Kong’s examination authority has defended an invigilator who refused to let a candidate with anxiety use a school lift after he started feeling unwell before his second assessment, arguing the man had not requested the facility in advance. Speaking to the South China…",
-      "headline_only": false
-    },
-    {
       "title": "German companies cut US investment to three-year low, data show - Reuters",
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQTk3Q1V1UFUwM0ZRa1BjcTh6SjBuZzJfZjZ5NS1sdjlQZVl3MndHSzQzeVhWdjlTQzRDM2x2QlFHYnBldzNLR2l1dTlqOW1vaWkzYVhGTGs0bVVKT1FVOXJOWFNmajdSMUtteXA5am1BaUZvYjZqSVBJR3dUSS1oYmQ5TUtUdjdxWXhmal9LN0tKdmVCbG5ITmV6NWZWWGptRGxaM3AwcU1lQ0JxZlF1dWhn?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -717,18 +873,6 @@
       "published": "2026-08-16T09:41:47+00:00",
       "summary": "German companies cut US investment to three-year low, data show &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "Indoor ‘feels-like’ heat soars to 52 degrees in Hong Kong subdivided homes: study",
-      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3364183/indoor-feels-heat-soars-52-degrees-hong-kong-subdivided-homes-study?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-16T09:41:29+00:00",
-      "summary": "Indoor heat levels in Hong Kong’s subdivided flats and rooftop huts felt like a blistering 52.21 degrees Celsius (126 Fahrenheit) this summer, with 80 per cent of homemakers living in those homes reporting dizziness and headaches, according to a survey released on Sunday. The…",
-      "headline_only": false
     },
     {
       "title": "Shields eyes Price after dominant middleweight return",
@@ -863,18 +1007,6 @@
       "headline_only": false
     },
     {
-      "title": "EN DIRECT - Incendies : 3 000 hectares ravagés en Belgique par l’un des pires feux de son histoire",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendie-dans-les-landes-la-situation-evolue-plutot-favorablement-mais-pas-encore-de-retour-a-domicile-20260816_RXAJR6YU4NGMRAXNPXSLV4I2PE/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-16T09:10:51+00:00",
-      "summary": "Le feu s’est déclenché vendredi dans une grande réserve boisée dans l’est du pays, difficile d’accès. Plus d’une centaine de pompiers se relayent pour tenter de contenir ce brasier dans les Fagnes, région prisée des randonneurs.",
-      "headline_only": false
-    },
-    {
       "title": "Cincinnati Open: Djokovic stunned by Tirante in second round",
       "link": "https://www.aljazeera.com/sports/2026/8/16/cincinnati-open-djokovic-stunned-by-tirante-in-second-round?traffic_source=rss",
       "source": "Al Jazeera",
@@ -995,18 +1127,6 @@
       "headline_only": false
     },
     {
-      "title": "Suspected Russian drone shot down in Romanian airspace - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-16T08:47:47+00:00",
-      "summary": "Suspected Russian drone shot down in Romanian airspace &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "À Ceuta, les mineurs marocains refusent le retour réclamé par Rabat",
       "link": "https://www.rfi.fr/fr/afrique/20260816-ceuta-les-conditions-de-vie-des-migrants-mineurs",
       "source": "RFI",
@@ -1043,30 +1163,6 @@
       "headline_only": false
     },
     {
-      "title": "Photos: Patriotic music and flags mark Taliban rule anniversary in Kabul",
-      "link": "https://www.aljazeera.com/gallery/2026/8/16/photos-patriotic-music-and-flags-mark-taliban-rule-anniversary-in-kabul?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-16T08:40:34+00:00",
-      "summary": "Crowds create carnival-like atmosphere in Afghan capital as Taliban celebrates five years since its return to power.",
-      "headline_only": false
-    },
-    {
-      "title": "Douglass breaks 50m freestyle swimming world record, Ledecky loses 800m",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/pallister-ledecky-pan-pacific-swimming-championship-800m-free-douglass-50m-free-world-record?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-16T08:39:38+00:00",
-      "summary": "US swim superstar Katie Ledecky was upstaged by Lani Pallister, while Kate Douglass made history twice in 50m freestyle.",
-      "headline_only": false
-    },
-    {
       "title": "EN DIRECT, incendies et canicule : la Belgique affronte l’un des pires feux de son histoire ; dans les Landes, la situation évolue « plutôt favorablement »",
       "link": "https://www.lemonde.fr/climat/live/2026/08/16/en-direct-incendies-et-canicule-la-belgique-affronte-l-un-des-pires-feux-de-son-histoire-dans-les-landes-la-situation-evolue-plutot-favorablement_6744636_1652612.html",
       "source": "Le Monde",
@@ -1076,18 +1172,6 @@
       "lang": "FR",
       "published": "2026-08-16T08:39:37+00:00",
       "summary": "Près de 3 000 hectares ont été ravagés par les flammes dans les Fagnes, une grande réserve de l’est de la Belgique. A Luglon, dans les Landes, l’incendie qui s’est déclaré jeudi n’a pas connu de « reprise majeure » dans la nuit, a annoncé le préfet dimanche matin, tout en…",
-      "headline_only": false
-    },
-    {
-      "title": "Death knell? Hong Kong’s five-year plan is a starting gun",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3363897/death-knell-hong-kongs-five-year-plan-starting-gun?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-16T08:30:07+00:00",
-      "summary": "I’m a little perplexed and bemused by the brouhaha surrounding Hong Kong’s decision to draft its first five-year plan, as if the sky is falling in around the city’s famed laissez-faire economy. Predictably, Yale University’s Stephen Roach (he of “Hong Kong is over” fame) warned…",
       "headline_only": false
     },
     {
@@ -1139,30 +1223,6 @@
       "headline_only": false
     },
     {
-      "title": "Moscow says 600 drones targeted region overnight",
-      "link": "https://www.dw.com/en/moscow-says-600-drones-targeted-region-overnight/a-78386779?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-08-16T08:13:00+00:00",
-      "summary": "Moscow says hundreds of drones targeted the Russian capital overnight, while NATO jets were again called into action farther south. Six people were reported to have been killed in the attacks on Russia.",
-      "headline_only": false
-    },
-    {
-      "title": "Australia to begin gun buyback scheme in response to Bondi shooting",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/australia-to-begin-gun-buyback-scheme-in-response-to-bondi-shooting?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-16T08:11:47+00:00",
-      "summary": "Australia will begin buying back guns in November, almost a year after a shooting at Sydney&#039;s Bondi killed 15 people.",
-      "headline_only": false
-    },
-    {
       "title": "En Hongrie, 12 morts et 10 blessés dans l’accident d’un car immatriculé en Pologne",
       "link": "https://www.lemonde.fr/international/article/2026/08/16/en-hongrie-12-morts-et-10-blesses-dans-l-accident-d-un-car-immatricule-en-pologne_6747299_3210.html",
       "source": "Le Monde",
@@ -1196,18 +1256,6 @@
       "lang": "FR",
       "published": "2026-08-16T07:58:44+00:00",
       "summary": "La COP17 contre la désertification se tient à Oulan-Bator du 17 au 28 août 2026. La Mongolie a accueilli, cette semaine, le « Global Pastoralist Gathering and Conference ». Ce sommet inédit a rassemblé plus de 400 pastoralistes du monde entier, des éleveurs qui pratiquent…",
-      "headline_only": false
-    },
-    {
-      "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-16T07:47:45+00:00",
-      "summary": "Messi&#039;s record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup.",
       "headline_only": false
     },
     {
@@ -1340,18 +1388,6 @@
       "lang": "EN",
       "published": "2026-08-16T07:04:27+00:00",
       "summary": "On paper, Australia's full-strength team should have wiped the floor with Bangladesh. But a lack of application to their Test match craft has left Australia vulnerable to teams that are driven to succeed in the longest format.",
-      "headline_only": false
-    },
-    {
-      "title": "Twelve killed as Polish bus veers off Hungarian motorway",
-      "link": "https://www.bbc.co.uk/news/articles/ckg4424zd7go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-16T07:04:17+00:00",
-      "summary": "Dozens more are seriously injured after the tourist bus overturned in the early hours of Sunday morning.",
       "headline_only": false
     },
     {
@@ -1531,7 +1567,7 @@
       "region": "UK",
       "lang": "EN",
       "published": "2026-08-16T05:20:47+00:00",
-      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped as they for the challenge?",
+      "summary": "Arsenal begin this season as Premier League champions but just how difficult is it to defend the league title, and how well equipped are they for the challenge?",
       "headline_only": false
     },
     {
@@ -1568,18 +1604,6 @@
       "lang": "FR",
       "published": "2026-08-16T05:02:19+00:00",
       "summary": "Partout dans le monde, les sols sont malmenés par nos activités, alors qu’ils garantissent la vie. Dans les climats arides, cela s'appelle la désertification. Comment en prendre soin ? Chercheur émérite à l'Institut de recherche et développement (IRD), expert des sols, Jean-Luc…",
-      "headline_only": false
-    },
-    {
-      "title": "Israeli forces incur into Syria’s Quneitra, fire flares",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-incur-syrias-quneitra-fire-flares",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-16T04:46:47+00:00",
-      "summary": "Israeli forces incur into Syria’s Quneitra, fire flares A fire that erupted following incursions by Israeli forces in the town of Al-Rafid in Syria’s Quneitra region has been doused by local civil defence teams, according to the Quneitra Media Directorate. In a post on…",
       "headline_only": false
     },
     {
@@ -1691,30 +1715,6 @@
       "headline_only": true
     },
     {
-      "title": "Can we stop with the public ‘blasterbating’, actually?",
-      "link": "https://www.ft.com/content/8c9e43d2-636a-449e-a376-b4b262143e38?syn-25a6b1a6=1",
-      "source": "Financial Times (headlines only – paywalled)",
-      "source_id": "ft-headlines",
-      "category": "finance",
-      "region": "UK/Europe",
-      "lang": "EN",
-      "published": "2026-08-16T04:00:11+00:00",
-      "summary": "It is now hard to take public transport without having to endure the sound of someone else’s smartphone speaker",
-      "headline_only": true
-    },
-    {
-      "title": "World’s largest carmakers seek to avert motor oil crisis",
-      "link": "https://www.ft.com/content/161ee092-d2b6-4375-a853-e7a6fbee60e2?syn-25a6b1a6=1",
-      "source": "Financial Times (headlines only – paywalled)",
-      "source_id": "ft-headlines",
-      "category": "finance",
-      "region": "UK/Europe",
-      "lang": "EN",
-      "published": "2026-08-16T04:00:11+00:00",
-      "summary": "Shortage of Group III base oils prompts auto manufacturers to turn to new blends",
-      "headline_only": true
-    },
-    {
       "title": "European companies count the costs and gains of extreme heat",
       "link": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
       "source": "Financial Times (headlines only – paywalled)",
@@ -1737,6 +1737,18 @@
       "published": "2026-08-16T03:51:02+00:00",
       "summary": "St George Illawarra still have a chance to avoid the NRL's wooden spoon after they outlasted a fast-finishing Wests Tigers outfit.",
       "headline_only": false
+    },
+    {
+      "title": "Suspected Russian drone shot down in Romanian airspace - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaEYyM3ZsTmtyUnloWUNXS0V4aUx6elJfWmp5UGlZRjJId3N2bkVSYzBZUHdpRXZudEc3aGJoemhNTGdoQUJ5al95MG9EMFA0OW1FVWlGRHBUeVdiRnBQZ1RsY1JZQ1FBQVAxNHNYRDN3REktaXpWOEFWM2RKQ09NNE4xYVpqc0czcE5jcXpLT0ZRLXM4UFFtSDlfREpxQnAwd3liT1IwaG50bmk1X2VRajRMb1FkbDhabTctR25CM0lBd3d2aHZ3?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-16T03:40:00+00:00",
+      "summary": "Suspected Russian drone shot down in Romanian airspace &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Thousands evacuate after Indonesia quake kills 51, cuts roads - Reuters",
@@ -2051,18 +2063,6 @@
       "headline_only": false
     },
     {
-      "title": "Rashford returns as AC Milan highlight issues facing Carrick",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cg5ll71pqv1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-15T19:25:09+00:00",
-      "summary": "Manchester United finish their pre-season campaign with a 4-2 defeat by Ruben Amorim's AC Milan in Poland, as Marcus Rashford returns to Red Devils action.",
-      "headline_only": false
-    },
-    {
       "title": "'Fury' at Tarling death as cycling union calls for better helmets",
       "link": "https://www.bbc.co.uk/sport/cycling/articles/czxqqlpnx98o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -2277,6 +2277,18 @@
       "published": "2026-08-15T12:24:30+00:00",
       "summary": "Les premiers raisins bourguignons ont été coupés dès le 8 août. En vingt-cinq ans, les vendanges ont avancé en moyenne de vingt-cinq jours. Cette année, la sécheresse et les canicules accélèrent encore le calendrier et réduisent les marges de manœuvre des vignerons.",
       "headline_only": false
+    },
+    {
+      "title": "Ukraine left exposed as Patriot launchers run empty",
+      "link": "https://www.ft.com/content/6448b0af-f2ed-4067-b814-73f41b56fa78?syn-25a6b1a6=1",
+      "source": "Financial Times (headlines only – paywalled)",
+      "source_id": "ft-headlines",
+      "category": "finance",
+      "region": "UK/Europe",
+      "lang": "EN",
+      "published": "2026-08-15T12:00:05+00:00",
+      "summary": "Kyiv’s military momentum at risk as dwindling interceptor stocks leave it vulnerable to Russia’s winter campaign",
+      "headline_only": true
     },
     {
       "title": "I drove Tesla FSD, Rivian Autonomy+ ‘hands-free’ driving systems. Here’s how they compare",
