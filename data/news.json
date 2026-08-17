@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-17T13:38:50.288068+00:00",
+  "updated_at": "2026-08-17T14:14:06.005764+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:24.028372+00:00"
+      "last_success": "2026-08-17T14:00:37.039557+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:24.282606+00:00"
+      "last_success": "2026-08-17T14:00:37.103673+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:24.391139+00:00"
+      "last_success": "2026-08-17T14:00:37.263041+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:24.671530+00:00"
+      "last_success": "2026-08-17T14:00:37.482322+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:24.832871+00:00"
+      "last_success": "2026-08-17T14:00:37.602511+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:25.301436+00:00"
+      "last_success": "2026-08-17T14:00:37.713437+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:25.739774+00:00"
+      "last_success": "2026-08-17T14:00:37.953422+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-17T13:25:25.950647+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:27.308644+00:00"
+      "last_success": "2026-08-17T14:00:38.476427+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:27.516097+00:00"
+      "last_success": "2026-08-17T14:00:38.624144+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:27.847878+00:00"
+      "last_success": "2026-08-17T14:00:38.808281+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:27.957792+00:00"
+      "last_success": "2026-08-17T14:00:38.857957+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:29.028418+00:00"
+      "last_success": "2026-08-17T14:00:39.135181+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:29.339337+00:00"
+      "last_success": "2026-08-17T14:00:39.693666+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:29.611247+00:00"
+      "last_success": "2026-08-17T14:00:39.986903+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:30.336275+00:00"
+      "last_success": "2026-08-17T14:00:40.465072+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:32.299948+00:00"
+      "last_success": "2026-08-17T14:00:41.561598+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:32.608382+00:00"
+      "last_success": "2026-08-17T14:00:41.857387+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:33.113268+00:00"
+      "last_success": "2026-08-17T14:00:42.287540+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:33.444467+00:00"
+      "last_success": "2026-08-17T14:00:42.517827+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:34.264115+00:00"
+      "last_success": "2026-08-17T14:00:43.041398+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:34.586481+00:00"
+      "last_success": "2026-08-17T14:00:43.319250+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:34.802873+00:00"
+      "last_success": "2026-08-17T14:00:43.384506+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:34.982872+00:00"
+      "last_success": "2026-08-17T14:00:43.481864+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:25:35.734645+00:00"
+      "last_success": "2026-08-17T14:00:44.327176+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:38:47.261282+00:00"
+      "last_success": "2026-08-17T14:14:03.498851+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:38:48.027542+00:00"
+      "last_success": "2026-08-17T14:14:04.010084+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,173 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:38:48.953420+00:00"
+      "last_success": "2026-08-17T14:14:04.935732+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:38:49.181990+00:00"
+      "last_success": "2026-08-17T14:14:05.149320+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:38:49.550363+00:00"
+      "last_success": "2026-08-17T14:14:05.434805+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-17T13:38:50.287842+00:00"
+      "last_success": "2026-08-17T14:14:06.005526+00:00"
     }
   },
   "article_count": 298,
   "articles": [
+    {
+      "title": "Nvidia backs financing for OpenAI data center in Ohio",
+      "link": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-17T14:10:16+00:00",
+      "summary": "Technology giants are shelling out billions to scale capacity to meet massive data center demand.",
+      "headline_only": false
+    },
+    {
+      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
+      "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-17T14:09:49+00:00",
+      "summary": "Meta faces a federal trial over child safety claims that could bring major financial penalties and changes to Facebook and Instagram.",
+      "headline_only": false
+    },
+    {
+      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
+      "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-17T14:07:16+00:00",
+      "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
+      "headline_only": false
+    },
+    {
+      "title": "S&P 500 inches lower as Middle East tensions outweigh tech gains - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-17T13:59:19+00:00",
+      "summary": "S&amp;P 500 inches lower as Middle East tensions outweigh tech gains &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
+      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-17T13:58:38+00:00",
+      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "headline_only": false
+    },
+    {
+      "title": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-17T13:56:50+00:00",
+      "summary": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Man City move for £85m Bouaddi and still want Fernandez",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-17T13:50:22+00:00",
+      "summary": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
+      "headline_only": false
+    },
+    {
+      "title": "Trump hails Mecca pact: Can it replace the region’s US security umbrella?",
+      "link": "https://www.aljazeera.com/news/2026/8/17/trump-hails-mecca-pact-can-it-replace-the-regions-us-security-umbrella?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-17T13:48:09+00:00",
+      "summary": "As Trump pushes allies to do more for their own defence, three US partners have created a security pact of their own.",
+      "headline_only": false
+    },
+    {
+      "title": "Les aveux, c’est l’affaire des journalistes",
+      "link": "https://www.mediapart.fr/journal/international/170826/les-aveux-c-est-l-affaire-des-journalistes",
+      "source": "Mediapart",
+      "source_id": "mediapart",
+      "category": "osint",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-17T13:46:25+00:00",
+      "summary": "Interrogé par la chaîne Fox peu après son arrestation, James Broadnax avoue les meurtres de deux jeunes musiciens et fanfaronne. Les autorités locales ont l’habitude, déplorent les avocats, de laisser les journalistes passer les premiers. Deuxième volet de notre série consacrée…",
+      "headline_only": false
+    },
+    {
+      "title": "Indonesia neutrality tested by joint naval drill with China",
+      "link": "https://www.dw.com/en/indonesia-neutrality-tested-by-joint-naval-drill-with-china/a-78400288?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-08-17T13:37:00+00:00",
+      "summary": "Indonesia maintains a non-aligned foreign policy, but Jakarta's limited participation in a low-level naval exercise with China's navy near Taiwan has raised concerns.",
+      "headline_only": false
+    },
+    {
+      "title": "EN DIRECT - Incendies : Sébastien Lecornu annonce le déblocage de 12 millions d’euros pour les Landes et la Gironde",
+      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-17T13:36:46+00:00",
+      "summary": "La visite du Premier ministre ce lundi sur le territoire ravagé par les flammes en juillet a cristallisé beaucoup d’espoirs et de colère. Il s’est déjà rendu au Porge dimanche soir, sans l’avoir mentionné dans son programme officiel.",
+      "headline_only": false
+    },
+    {
+      "title": "Unleashed 60kg dog runs amok, fatally mauls poodle, bichon frise in Hong Kong",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364330/unleashed-60kg-dog-runs-amok-fatally-mauls-poodle-bichon-frise-hong-kong?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-17T13:35:25+00:00",
+      "summary": "A large unleashed dog has fatally mauled two smaller pets in separate attacks within 20 minutes in Hong Kong, but authorities have yet to determine whether it is microchipped, as the animal remains too “aggressive” to handle. Police on Monday said the first attack occurred at…",
+      "headline_only": false
+    },
     {
       "title": "OpenAI's Brockman brushes off concerns about leadership changes in CNBC exclusive",
       "link": "https://www.cnbc.com/2026/08/17/openai-brockman-leadership-changes.html",
@@ -261,6 +405,18 @@
       "published": "2026-08-17T13:33:04+00:00",
       "summary": "Brockman told CNBC he doesn't think the wave of recent departures at OpenAI are 'actually that atypical.'",
       "headline_only": false
+    },
+    {
+      "title": "Second wave of fuel shortages at petrol stations sweeps across Russia - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-17T13:32:22+00:00",
+      "summary": "Second wave of fuel shortages at petrol stations sweeps across Russia &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "MCC Female Young Broadcaster of the Year joins Hundred final coverage",
@@ -275,16 +431,40 @@
       "headline_only": false
     },
     {
-      "title": "Meta faces ‘astronomical’ consequences as legal fight reaches critical moment in California",
-      "link": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
+      "title": "Government borrowing costs hit multi-year highs as markets fear inflation, and oil and gas prices rise – business live",
+      "link": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
       "category": "finance",
-      "region": "US",
+      "region": "UK",
       "lang": "EN",
-      "published": "2026-08-17T13:23:20+00:00",
-      "summary": "Less than two weeks after a loss in New Mexico, Meta faces a much bigger legal test in a case being co-led by California's attorney general.",
+      "published": "2026-08-17T13:27:07+00:00",
+      "summary": "British house prices expected to fall this year, despite ‘Burnham bounce’, Rightmove reports Asking prices for newly listed homes in UK’s richest borough fall by £100k in one month JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks Back in the markets,…",
       "headline_only": false
+    },
+    {
+      "title": "French Serie A footballer Yael Trepy in intensive care after near-drowning",
+      "link": "https://www.aljazeera.com/sports/2026/8/17/french-serie-a-footballer-yael-trepy-in-intensive-care-after-near-drowning?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-17T13:24:57+00:00",
+      "summary": "Italian media reports that the Cagliari forward was rescued after swallowing a lot of water in a swimming pool in Porto Cervo.",
+      "headline_only": false
+    },
+    {
+      "title": "US awards Raytheon $22.9 billion seven-year deal to boost Tomahawk output - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOZ0hQT00ybHQzbWM2bDJBam45dVpTWmdscVpRM2t1YnItV0RXbmNPUW14Qml5dVNTdGtvSUx0VVk5Sk41ZFdVdjhuSmt5eFRHVzFkc1lsUndIYU5Jd05FcXlmaHhLaFpvR0RKVEhXeFFwczhZUVJtaENuWXhId0Y2NWN6VkdnRXV4dDdrWG9tLU4wcVZzWUNvYjVQR2ZRSTRFdFYxQWNtdGRzczRXell5UkUzOWh5dkhrYmh1cFlFa3M2TXU0dnZ0Qw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-17T13:24:08+00:00",
+      "summary": "US awards Raytheon $22.9 billion seven-year deal to boost Tomahawk output &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Iran bars two French diplomats from returning",
@@ -296,6 +476,18 @@
       "lang": "EN",
       "published": "2026-08-17T13:21:59+00:00",
       "summary": "Iran bars two French diplomats from returning Iran said on Monday that two French diplomats briefly arrested last month over alleged “interference” would not be allowed to return to the country. Foreign ministry spokesperson Esmaeil Baqaei said the pair had left Iran and that…",
+      "headline_only": false
+    },
+    {
+      "title": "Sainsbury’s store pauses AI scanning after false shoplifting accusation",
+      "link": "https://www.theguardian.com/technology/2026/aug/17/humiliated-sainsburys-store-pauses-ai-scanning-after-false-shoplifting-accusation",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
+      "category": "finance",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-17T13:21:25+00:00",
+      "summary": "Supermarket chain says ‘human error’, not its Facewatch technology, to blame for ejecting a customer Sainsbury’s has paused the use of AI face scanning in one of its stores after a customer was wrongly identified as a shoplifter and ejected from the shop. “I was embarrassed,…",
       "headline_only": false
     },
     {
@@ -320,6 +512,18 @@
       "lang": "EN",
       "published": "2026-08-17T13:20:15+00:00",
       "summary": "Hong Kong’s hygiene authorities are investigating two officers caught smoking in public while in uniform, an act that is strictly prohibited, adding that such behaviour will result in disciplinary action. A viral clip circulating on social media platform Threads shows two men…",
+      "headline_only": false
+    },
+    {
+      "title": "Is All Blacks' tour of South Africa a new chapter for rugby union?",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/c2dkz3k94dlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-17T13:18:44+00:00",
+      "summary": "Is New Zealand's 'Greatest Rivalry' tour of world champions South Africa a signpost to the future of rugby union?",
       "headline_only": false
     },
     {
@@ -371,18 +575,6 @@
       "headline_only": false
     },
     {
-      "title": "EN DIRECT - Incendies : Sébastien Lecornu annonce le déblocage de 12 millions d’euros pour les Landes et la Gironde",
-      "link": "https://www.liberation.fr/environnement/climat/en-direct-incendies-sebastien-lecornu-en-gironde-pour-lancer-la-reconstruction-apres-le-megafeu-20260817_IQPIDOC3MRHAXLPHHRRRXO3QZY/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-17T13:15:35+00:00",
-      "summary": "La visite du Premier ministre ce lundi sur le territoire ravagé par les flammes en juillet a cristallisé beaucoup d’espoirs et de colère. Il s’est déjà rendu au Porge dimanche soir, sans l’avoir mentionné dans son programme officiel.",
-      "headline_only": false
-    },
-    {
       "title": "EN DIRECT, incendies et canicule : le gouvernement promet une aide de 12 millions d’euros et un fonds de garantie pour les sinistrés en Gironde et dans les Landes",
       "link": "https://www.lemonde.fr/climat/live/2026/08/17/en-direct-incendies-et-canicule-le-gouvernement-promet-une-aide-de-12-millions-d-euros-et-un-fonds-de-garantie-pour-les-sinistres-en-gironde-et-dans-les-landes_6744636_1652612.html",
       "source": "Le Monde",
@@ -431,18 +623,6 @@
       "headline_only": false
     },
     {
-      "title": "Government borrowing costs hit multi-year highs as markets fear inflation, and oil and gas prices rise – business live",
-      "link": "https://www.theguardian.com/business/live/2026/aug/17/british-house-prices-fall-burnham-interest-rates-oil-bank-taxes-stock-markets-live-updates",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-17T13:05:19+00:00",
-      "summary": "British house prices expected to fall this year, despite ‘Burnham bounce’, Rightmove reports Asking prices for newly listed homes in UK’s richest borough fall by £100k in one month JP Morgan boss Jamie Dimon warns UK chancellor not to hike taxes on banks Back in the markets,…",
-      "headline_only": false
-    },
-    {
       "title": "Taiwan teams up with US start-up on underwater drones to boost island’s defences",
       "link": "https://www.scmp.com/news/china/military/article/3364328/taiwan-teams-us-start-underwater-drones-boost-islands-defences?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -451,7 +631,7 @@
       "region": "Hong Kong/Asia",
       "lang": "EN",
       "published": "2026-08-17T13:04:02+00:00",
-      "summary": "Taiwan has signed a deal with US defence start-up Vatn Systems to develop autonomous underwater vehicles and strengthen its asymmetric warfare capabilities amid growing military pressure from Beijing. The agreement with the National Chung-Shan Institute of Science and…",
+      "summary": "Taiwan has signed a deal with US defence start-up Vatn Systems to develop autonomous underwater vehicles and strengthen its asymmetric warfare capabilities amid growing military pressure from Beijing. Executed through the National Chung-Shan Institute of Science and Technology…",
       "headline_only": false
     },
     {
@@ -465,18 +645,6 @@
       "published": "2026-08-17T13:03:28+00:00",
       "summary": "Nvidia to invest $1.5 billion in SB Energy under OpenAI data center deal &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "Vista Energy up 4% after billionaire Peter Thiel buys stake in the Argentine shale oil producer",
-      "link": "https://www.cnbc.com/2026/08/17/peter-thiel-hedge-fund-vista-energy-argentina-stake.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-17T13:02:32+00:00",
-      "summary": "Peter Thiel’s hedge fund disclosed a $76 million stake in Argentine oil producer Vista Energy, sending its shares higher in premarket trading.",
-      "headline_only": false
     },
     {
       "title": "UAE billionaire questions normalisation with Israel after Ben Gvir calls for nightly killings of Palestinians",
@@ -599,7 +767,7 @@
       "headline_only": false
     },
     {
-      "title": "Swansea Au Vodka reportedly in talks over £500m sale to BuzzBallz owner",
+      "title": "Viral vodka brand Au set to sell for £500m to BuzzBallz owner",
       "link": "https://www.bbc.co.uk/news/articles/cp8e0nny6zzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
       "source_id": "bbc-business",
@@ -607,7 +775,7 @@
       "region": "UK/Global",
       "lang": "EN",
       "published": "2026-08-17T12:43:09+00:00",
-      "summary": "Au Vodka co-owner Charlie Morgan earned infamy in 2013 after being kicked by the Chelsea footballer.",
+      "summary": "The distinctive gold Au bottles have become a staple of poolside parties in Ibiza and Dubai.",
       "headline_only": false
     },
     {
@@ -635,6 +803,18 @@
       "headline_only": false
     },
     {
+      "title": "Houthis say they attacked Saudi vessels off Yemen’s Mocha - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTEViWjVJeVRDNlYyWjhiN2VaLVltUW9OcUJLRGJfU055NkVreDRrUHNxUDlZS3VFVVVDMUhJZk1tNE9JMlhUeGctaWlzY0VtSFo0ekZrRGFfYWU3elI3dVNNX0J1b0k4NTRsQzdTOHlvZEtrTFBvUXRBa1dIaHlONUNjY0NmUjlKV19FRDh6TTl6R0FqbGZpWHJXRDFFZzBBaDJpUE5wS3lDSDlHQUZB?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-17T12:36:27+00:00",
+      "summary": "Houthis say they attacked Saudi vessels off Yemen’s Mocha &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
       "title": "Houthis say they targeted Saudi military ship in Red Sea",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/houthis-say-they-targeted-saudi-military-ship-red-sea",
       "source": "Middle East Eye",
@@ -644,30 +824,6 @@
       "lang": "EN",
       "published": "2026-08-17T12:35:03+00:00",
       "summary": "Houthis say they targeted Saudi military ship in Red Sea Yemen’s Iran-aligned Houthis said on Monday that they had targeted a Saudi military vessel and four escort ships in the Red Sea with missiles. Houthi military spokesperson Yahya Saree announced the attack on Telegram.…",
-      "headline_only": false
-    },
-    {
-      "title": "Trump threatens to 'bomb' Oman if it 'gets in the way' as U.S.-Iran ceasefire expires",
-      "link": "https://www.cnbc.com/2026/08/17/us-iran-war-trump-hormuz.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-17T12:34:07+00:00",
-      "summary": "Shipping traffic in the Strait of Hormuz sank to a new low as a ceasefire between the U.S. and Iran is set to expire on Monday with no deal in sight.",
-      "headline_only": false
-    },
-    {
-      "title": "Fery named in GB Davis Cup team to face Ecuador",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cz97zew58xxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-17T12:32:54+00:00",
-      "summary": "Wimbledon semi-finalist Arthur Fery is selected in Great Britain's Davis Cup team to face Ecuador in September.",
       "headline_only": false
     },
     {
@@ -692,18 +848,6 @@
       "lang": "EN",
       "published": "2026-08-17T12:30:08+00:00",
       "summary": "Last month, two Chinese companies released artificial intelligence models most people outside the industry know little about: Kimi K3 by Moonshot AI and Qwen3.8-Max by Alibaba Group Holding (which owns the South China Morning Post). The markets reacted even before publicly…",
-      "headline_only": false
-    },
-    {
-      "title": "Trump envoy Kushner meets Netanyahu after Hamas talks on peace plan",
-      "link": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-17T12:27:11+00:00",
-      "summary": "US President Trump's son-in-law Jared Kushner is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
       "headline_only": false
     },
     {
@@ -899,18 +1043,6 @@
       "headline_only": false
     },
     {
-      "title": "S&P 500, Nasdaq futures rise on tech boost - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-17T11:52:24+00:00",
-      "summary": "S&amp;P 500, Nasdaq futures rise on tech boost &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "EU plans most far-reaching sanctions on Russia in coming months",
       "link": "https://www.scmp.com/news/world/europe/article/3364321/eu-plans-most-far-reaching-sanctions-russia-coming-months?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -923,18 +1055,6 @@
       "headline_only": false
     },
     {
-      "title": "L3Harris names insider Sam Mehta CEO as Christopher Kubasik steps down - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWFNybGl1cWJiVThKUWVveG9waWY1cjdXc2hsRDZxMGlXTTFfektkcXBLZUV1Vml5dHZlSEhwVlVHaGc3QlNvOVkxRDI3M1RFcnQxekhoS0J4NzRKTVRSalVXc2Z0bkVsQjlaRnFNOWNGTGhBa1Izc29MT2lfSWFHakhwNlAyS1RvUmJ0V2lKS043LTRTZzdxYlNILWJrNXFMbEVVcW9SVVRQYWk4WjB2V2ZPczZtb0Q3TFNPQkNGbUJ6TXJ5RXpzNzhR?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-17T11:47:27+00:00",
-      "summary": "L3Harris names insider Sam Mehta CEO as Christopher Kubasik steps down &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Putin visited Kuril to 'punish' Japan over Ukraine stance",
       "link": "https://www.dw.com/en/putin-visited-kuril-to-punish-japan-over-ukraine-stance/a-78398035?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -944,18 +1064,6 @@
       "lang": "EN",
       "published": "2026-08-17T11:47:00+00:00",
       "summary": "Analysts have said a visit by Russia's leader to a disputed island chain sent a \"message\" to Japan, which for decades has sought to reclaim control of the territory.",
-      "headline_only": false
-    },
-    {
-      "title": "Arsenal preview: Key questions heading into 2026-27 Premier League season",
-      "link": "https://www.aljazeera.com/sports/2026/8/17/arsenal-preview-key-questions-heading-into-2026-27-premier-league-season?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-17T11:44:01+00:00",
-      "summary": "Does Guimaraes complete the midfield? Can they finally win the Champions League? And who is set for a breakout season?",
       "headline_only": false
     },
     {
@@ -1007,6 +1115,18 @@
       "headline_only": false
     },
     {
+      "title": "Suspected gang leader's mother-in-law and sister killed in drug-related shooting in Spain - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZV8xSndxWmQxMWcwSVVVNXc0MThTSHV0dV92SVgyTWJjekxwSGFQcEIxNW5XSDI1VnU4LVliM2JqcngzclF1S1NMbFEybnlBd1dIUDhjLU9hUktOYmV0Q29Eejc2ZlduZU5LN25BaDloenFFY19LTjNqWDlVQ0tFcFo5dHNSb2hnTDFxYjJVbjFEWDQ2NHo2VnhJRDUxandTZTZHNDR2Nm0zZ09qZzFhVEIycUhIUGVzQ1ZGVg?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-17T11:31:26+00:00",
+      "summary": "Suspected gang leader's mother-in-law and sister killed in drug-related shooting in Spain &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
       "title": "Iraq: Government must chart a new course by ending impunity and upholding human rights",
       "link": "https://www.amnesty.org/en/latest/news/2026/08/iraq-government-must-chart-a-new-course-by-ending-impunity-and-upholding-human-rights/",
       "source": "Amnesty International",
@@ -1016,18 +1136,6 @@
       "lang": "EN",
       "published": "2026-08-17T11:30:22+00:00",
       "summary": "Iraq’s government must deliver on its human rights commitments to end systemic impunity for human rights violations, uphold women’s and girls’ rights, and guarantee fundamental freedoms, Amnesty International said today in an open letter to Prime Minister Ali Al-Zaidi marking…",
-      "headline_only": false
-    },
-    {
-      "title": "Trump orders US to scale back South Korea military drills",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-17T11:29:00+00:00",
-      "summary": "Donald Trump has ordered the US military to scale back joint exercises with South Korea.",
       "headline_only": false
     },
     {
@@ -1223,18 +1331,6 @@
       "headline_only": false
     },
     {
-      "title": "Second wave of fuel shortages at petrol stations sweeps across Russia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWVpqRUVqYVlKdHYySHdET1NlSGZhdzlDX2RKUzBFZm5EYndqXzFYNFFieGVjVFFnTHg5NXNiOEo1eVc5bVFJX0VfcmNBd21wSl96akVOQWsxaldjUkdSUTRfNW9UalMtSlhxeHo0czRwN3RiNzNzbWZLYThJVnJUNEh4cm1venZfRm15QU9XR1JPQlh4c1ZfZU9rdl9kSDUyMmFBYkRuNXZTOW9VNDg2OG05dkpjZw?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-17T10:45:06+00:00",
-      "summary": "Second wave of fuel shortages at petrol stations sweeps across Russia &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "En Allemagne, le théâtre de la Volksbühne dénonce les coupes budgétaires du service public avec une «piscine du peuple»",
       "link": "https://www.liberation.fr/culture/scenes/en-allemagne-le-theatre-de-la-volksbuhne-denonce-les-coupes-budgetaires-du-service-public-avec-une-piscine-du-peuple-20260817_TUGEQBR2A5FXTHAHYCC7PT7VSU/",
       "source": "Libération",
@@ -1379,30 +1475,6 @@
       "headline_only": true
     },
     {
-      "title": "South Korea on edge over Trump’s call to cut military drills, goodwill for Kim",
-      "link": "https://www.scmp.com/week-asia/politics/article/3364307/south-korea-edge-over-trumps-call-cut-military-drills-goodwill-kim?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-17T10:22:16+00:00",
-      "summary": "US President Donald Trump’s call to “substantially” reduce US-South Korea military drills has revived speculation that he is trying to persuade North Korea’s leader Kim Jong-un to attend another summit between them even though Kim has expressed no such interest. Trump’s…",
-      "headline_only": false
-    },
-    {
-      "title": "US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQaTBtTmZiNU1ldVB5OEZrTGJ4QXp0M1BwVG90ZXVxa3FRN0F3NVRTTC1fNDA3SE51Q0FrcFhGLXVUU3VCN2U0SFBYZ0VOeHBISVJfZWRRdTVQOU1aRTkxMXVfQ0tQWFdFLTVZVXk4OWtBTHBPRERnN2NJRjk3c213T2c0QVh6QWRQU2s0MVQxZVJrQUc5d2E3aDd5ZTczWHQtaHQwVkRLSHVYVUhXaU1Hbm9pME02QjE2V2ZJdVBGbG83U3J0V0RkWg?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-17T10:06:51+00:00",
-      "summary": "US railroad Union Pacific turned charges meant to cover fuel cost spike from Iran war into profit &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "DRC Ebola outbreak becomes deadliest in country's history",
       "link": "https://www.dw.com/en/drc-ebola-outbreak-becomes-deadliest-in-country-s-history/a-78394992?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -1472,18 +1544,6 @@
       "lang": "FR",
       "published": "2026-08-17T09:48:18+00:00",
       "summary": "Olivier Nora lance sa propre maison d'édition avec le soutien minoritaire du groupe Editis, numéro deux de l'édition en France. Baptisée Olivier Nora Éditions, elle publiera entre trente et cinquante titres par an et démarrera en octobre 2026. Cette annonce intervient quatre…",
-      "headline_only": false
-    },
-    {
-      "title": "Russia targets Danube port after one of Ukraine’s largest aerial attacks of the war",
-      "link": "https://www.cnbc.com/2026/08/17/ukraine-war-russia-putin-moscow.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-17T09:46:08+00:00",
-      "summary": "Russia struck port infrastructure in Ukraine’s Odesa region, damaging a Togo-flagged civilian vessel near Izmail after Kyiv launched a major drone attack on Moscow.",
       "headline_only": false
     },
     {
@@ -1559,30 +1619,6 @@
       "headline_only": false
     },
     {
-      "title": "Man City in advanced talks for £85m Bouaddi, 18",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd7l9n4qnlno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-17T09:23:32+00:00",
-      "summary": "Manchester City are in advanced talks with Lille over a move for Morocco midfielder Ayyoub Bouaddi.",
-      "headline_only": false
-    },
-    {
-      "title": "AI market correction is coming, ECB blog predicts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOejNkZVFTSjVNZEVpMms5aWtNbzdCcWMyZFQwT2xHRnQzanhqbHoxZzZKSGdTblptSHhUT0Jjamk3ZWI1VnJHOFZPWnk0VERidlZsNFItMzE2T2UyOEhfYWVGOUt1MkRLLVlNTWlNYnViUGhnalAtS3RDSS0tX3ZSckR1MjM4UmF4YzNDZ3hyN1AxYVhEaE1fMWpOQlFhVlZBbXdJVF9sVTNhNjJGMEQ0THlBVHc?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-17T09:18:51+00:00",
-      "summary": "AI market correction is coming, ECB blog predicts &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Virgin Trains gets go ahead to run services to Europe in new blow to Eurostar monopoly",
       "link": "https://www.theguardian.com/business/2026/aug/17/virgin-trains-services-to-europe-eurostar",
       "source": "The Guardian – Business",
@@ -1605,18 +1641,6 @@
       "published": "2026-08-17T09:05:54+00:00",
       "summary": "Tottenham accept a loan offer from Juventus for goalkeeper Guglielmo Vicario, which includes an option to buy.",
       "headline_only": false
-    },
-    {
-      "title": "New Syria-Iraq crude pipeline still years away, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeHZIdzRNYTA4MEEyekhWalhJbFZPX24wa1FlR1JwaGl2Wk1ldjJZR0dSOWtRNEh2aFF6UVVTRk9VSEQtUFJBNW5OM2N6aDVkT2VzM1ZPa1JiNGV5SVJiNGdMazlVS0dmR3ZZSGpoMmg1dVVZN3psRTdkWHhhY2FtZDFyUjFlV0pLanB5ZWRCeFlfUVJNSko1WlJTYmx5cFo3WlR0Q1hYS0RDUzJDUHdZ?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-17T09:03:14+00:00",
-      "summary": "New Syria-Iraq crude pipeline still years away, sources say &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "En pleine sécheresse: une COP contre la désertification à la réussite incertaine",
@@ -1928,18 +1952,6 @@
       "lang": "EN",
       "published": "2026-08-17T06:49:00+00:00",
       "summary": "Did you know fatty foods can increase production of an acid in your gut that promotes tumor growth? That's on top of all the other health risks linked to fatty foods, like fries and burgers.",
-      "headline_only": false
-    },
-    {
-      "title": "Germany news: Belgium blaze kept out of Germany for now",
-      "link": "https://www.dw.com/en/germany-news-belgium-blaze-kept-out-of-germany-for-now/live-78391144?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-08-17T06:42:00+00:00",
-      "summary": "Some residents in the Eifel town of Monschau were evacuated as a massive fire in Belgium threatened to cross the border. Meanwhile, shipping shortfalls amid low river water levels could hit the construction industry.",
       "headline_only": false
     },
     {
@@ -2519,18 +2531,6 @@
       "headline_only": false
     },
     {
-      "title": "Water companies in England and Wales explore ‘surge pricing’ during drought",
-      "link": "https://www.theguardian.com/business/2026/aug/16/water-companies-england-and-wales-explore-surge-pricing-bills-drought",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-16T16:28:00+00:00",
-      "summary": "Suppliers could factor water scarcity into charges as part of Ofwat proposal to reduce consumption Water companies could be allowed to raise bills for customers during periods of drought under proposals being considered by the sector’s regulator for England and Wales. Suppliers…",
-      "headline_only": false
-    },
-    {
       "title": "Turbocharge special needs internships to help tackle UK youth jobs crisis, says Milburn",
       "link": "https://www.theguardian.com/society/2026/aug/16/special-needs-internships-youth-jobs-crisis-milburn-review",
       "source": "The Guardian – Society",
@@ -2540,18 +2540,6 @@
       "lang": "EN",
       "published": "2026-08-16T16:00:30+00:00",
       "summary": "Exclusive: Government review led by former minister to recommend huge expansion of onsite schemes for those who need support Specialist internships designed to secure work for young people with special educational needs should be put on “turbocharge” to help tackle the growing…",
-      "headline_only": false
-    },
-    {
-      "title": "Incendies: le gouvernement rattrapé par ses mensonges",
-      "link": "https://www.mediapart.fr/journal/ecologie/160826/incendies-le-gouvernement-rattrape-par-ses-mensonges",
-      "source": "Mediapart",
-      "source_id": "mediapart",
-      "category": "osint",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-16T15:41:34+00:00",
-      "summary": "Alors que Sébastien Lecornu et Laurent Nuñez se rendent lundi en Gironde, le ministre de l’intérieur reconnaît dans un enregistrement consulté par «Mediapart» que les discours officiels sur les moyens suffisants face aux incendies relèvent de la «posture» politique. Des…",
       "headline_only": false
     },
     {
@@ -2708,6 +2696,18 @@
       "lang": "EN",
       "published": "2026-08-15T16:00:01+00:00",
       "summary": "Exclusive: More than 100 homes on King Charles and Prince William’s inherited estates have EPC ratings of F or G • ‘It’s archaic’: the struggle to heat poorly insulated homes let by royal estates More than 100 homes on the inherited royal estates of King Charles and Prince…",
+      "headline_only": false
+    },
+    {
+      "title": "College can cost $100,000 a year. Here's how families are covering the tab",
+      "link": "https://www.cnbc.com/2026/08/15/how-families-pay-for-college-as-tuition-costs-soar.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-15T13:30:01+00:00",
+      "summary": "Because families struggle to pay for school, many students and their parents increasingly depend on federal and private aid to help foot the bill.",
       "headline_only": false
     },
     {
