@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-19T19:52:50.769221+00:00",
+  "updated_at": "2026-08-19T20:11:58.295666+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:07.172087+00:00"
+      "last_success": "2026-08-19T19:58:13.004328+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:07.277014+00:00"
+      "last_success": "2026-08-19T19:58:13.062119+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:07.558812+00:00"
+      "last_success": "2026-08-19T19:58:13.244750+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:07.704437+00:00"
+      "last_success": "2026-08-19T19:58:13.447450+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:07.842151+00:00"
+      "last_success": "2026-08-19T19:58:13.573693+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:07.955252+00:00"
+      "last_success": "2026-08-19T19:58:13.681376+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:08.251466+00:00"
+      "last_success": "2026-08-19T19:58:13.941747+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-19T19:37:08.369277+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:08.467226+00:00"
+      "last_success": "2026-08-19T19:58:14.763610+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:08.605966+00:00"
+      "last_success": "2026-08-19T19:58:14.912424+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:08.719417+00:00"
+      "last_success": "2026-08-19T19:58:14.962751+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:08.906999+00:00"
+      "last_success": "2026-08-19T19:58:15.012311+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:09.568911+00:00"
+      "last_success": "2026-08-19T19:58:15.242042+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:09.781459+00:00"
+      "last_success": "2026-08-19T19:58:15.391458+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:09.979785+00:00"
+      "last_success": "2026-08-19T19:58:15.600855+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:10.537344+00:00"
+      "last_success": "2026-08-19T19:58:16.048829+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -125,19 +125,19 @@
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:12.527842+00:00"
+      "last_success": "2026-08-19T19:58:17.523266+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:12.912189+00:00"
+      "last_success": "2026-08-19T19:58:17.957762+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:13.186476+00:00"
+      "last_success": "2026-08-19T19:58:18.233181+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:13.787947+00:00"
+      "last_success": "2026-08-19T19:58:18.719601+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:13.931046+00:00"
+      "last_success": "2026-08-19T19:58:18.969583+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:14.038386+00:00"
+      "last_success": "2026-08-19T19:58:19.114364+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:14.157262+00:00"
+      "last_success": "2026-08-19T19:58:19.265737+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:37:14.838060+00:00"
+      "last_success": "2026-08-19T19:58:20.108307+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:52:48.782892+00:00"
+      "last_success": "2026-08-19T20:11:56.191054+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:52:49.290287+00:00"
+      "last_success": "2026-08-19T20:11:56.868668+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,53 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:52:50.245156+00:00"
+      "last_success": "2026-08-19T20:11:57.718360+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:52:50.341670+00:00"
+      "last_success": "2026-08-19T20:11:57.925830+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:52:50.620974+00:00"
+      "last_success": "2026-08-19T20:11:58.209277+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T19:52:50.768981+00:00"
+      "last_success": "2026-08-19T20:11:58.295456+00:00"
     }
   },
   "article_count": 299,
   "articles": [
+    {
+      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
+      "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-19T20:10:14+00:00",
+      "summary": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
+      "headline_only": false
+    },
+    {
+      "title": "Coalition's power line pledge could win back farmer votes",
+      "link": "https://www.abc.net.au/news/2026-08-20/coalition-one-nation-ripon-vni-west-election-nationals/107054552",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-19T20:09:24+00:00",
+      "summary": "West Victorian farmers, increasingly supportive of One Nation, welcome the Coalition's announcement to scrap a controversial transmission line.",
+      "headline_only": false
+    },
     {
       "title": "'Strange one!' | The bizarre reason why Hadjar is set to miss Dutch GP!",
       "link": "https://www.skysports.com/watch/video/13574845/the-bizarre-reason-why-isack-hadjar-is-set-to-miss-dutch-grand-prix",
@@ -263,6 +287,18 @@
       "headline_only": false
     },
     {
+      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 177%",
+      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-19T20:07:55+00:00",
+      "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
+      "headline_only": false
+    },
+    {
       "title": "OpenAI 'will be a public company in 2027' or sooner, CFO Friar tells employees",
       "link": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
       "source": "CNBC",
@@ -270,8 +306,56 @@
       "category": "finance",
       "region": "US",
       "lang": "EN",
-      "published": "2026-08-19T19:52:03+00:00",
+      "published": "2026-08-19T20:07:09+00:00",
       "summary": "In an all hands meeting, Friar told employees not worry about rival Anthropic's IPO timeline.",
+      "headline_only": false
+    },
+    {
+      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
+      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-19T20:03:44+00:00",
+      "summary": "Longer-term U.S. Treasury yields pulled back on Wednesday after the Treasury Department announced an upscaled buyback operation of the nation's debt.",
+      "headline_only": false
+    },
+    {
+      "title": "Injured farm worker left homeless as labour hire firm collapses",
+      "link": "https://www.abc.net.au/news/2026-08-20/palm-worker-injury-exposes-scheme-gaps/107032010",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-19T19:59:05+00:00",
+      "summary": "A Tongan mechanic, who came to Australia under a Pacific worker scheme, is stuck in visa limbo after suffering a workplace injury and experiencing homelessness and unemployment when the labour hire company he worked for collapsed.",
+      "headline_only": false
+    },
+    {
+      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-19T19:53:05+00:00",
+      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+      "headline_only": false
+    },
+    {
+      "title": "Remains of 11 Palestinians recovered from rubble in Gaza City",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/remains-11-palestinians-recovered-rubble-gaza-city",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-19T19:53:03+00:00",
+      "summary": "Remains of 11 Palestinians recovered from rubble in Gaza City Gaza’s civil defence recovered the remains of 11 Palestinians from the al-Sawafiri house in Gaza City’s Zeitoun neighbourhood during a three-day operation, Al Jazeera reported. Muhammad Abu Dan, executive supervisor…",
       "headline_only": false
     },
     {
@@ -299,7 +383,7 @@
       "headline_only": false
     },
     {
-      "title": "Previous migration policies 'taking the p*ss' warns migrant rich-lister",
+      "title": "Not enough people to do 'the hard work' if migration slashed, businesses warn",
       "link": "https://www.abc.net.au/news/2026-08-20/business-leaders-care-about-skills-not-numbers-migration-debate/107052186",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -371,6 +455,18 @@
       "headline_only": false
     },
     {
+      "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-19T19:26:58+00:00",
+      "summary": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
+      "headline_only": false
+    },
+    {
       "title": "US long-term borrowing costs ease after government steps in",
       "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -419,6 +515,18 @@
       "headline_only": false
     },
     {
+      "title": "Protests in Kyiv back ex-defence minister Fedorov’s call for elections",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/19-08-reported-audreymacalpine-kyiv-ua?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-19T19:09:53+00:00",
+      "summary": "Ukrainians in Kyiv held a protest in support of ousted defence Minister Mykailo Fedorov.",
+      "headline_only": false
+    },
+    {
       "title": "Zelenskyy fires top aide as corruption allegations pile up",
       "link": "https://www.ft.com/content/5799e5fa-c836-443b-935d-eb9fb58681b6?syn-25a6b1a6=1",
       "source": "Financial Times (headlines only – paywalled)",
@@ -441,18 +549,6 @@
       "published": "2026-08-19T19:04:07+00:00",
       "summary": "LG Energy, once fixed on EV batteries, jumps to Plan B &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-19T19:02:50+00:00",
-      "summary": "Treasury yields pulled back on Wednesday from multi-year highs seen earlier this week.",
-      "headline_only": false
     },
     {
       "title": "Fed policymakers' inflation concerns increased at July meeting, minutes show - Reuters",
@@ -647,7 +743,7 @@
       "headline_only": false
     },
     {
-      "title": "Zambian opposition leader to challenge election result in ⁠court",
+      "title": "Zambia opposition leader to challenge Hichilema election victory in court",
       "link": "https://www.aljazeera.com/news/2026/8/19/zambian-opposition-leader-to-challenge-election-result-in-%e2%81%a0court?traffic_source=rss",
       "source": "Al Jazeera",
       "source_id": "aljazeera-all",
@@ -656,18 +752,6 @@
       "lang": "EN",
       "published": "2026-08-19T18:43:28+00:00",
       "summary": "Opposition leader claims &#039;serious irregularities&#039; in the vote that handed President Hakainde Hichilema a second term.",
-      "headline_only": false
-    },
-    {
-      "title": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "link": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-19T18:43:11+00:00",
-      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
       "headline_only": false
     },
     {
@@ -776,30 +860,6 @@
       "lang": "EN",
       "published": "2026-08-19T18:30:00+00:00",
       "summary": "Peter Garrett is well aware of his place in Australian music history. But at 73, he's far more interested in what's next than what's behind him.",
-      "headline_only": false
-    },
-    {
-      "title": "Keen to plant native flowers in your garden? We asked an expert for tips",
-      "link": "https://www.abc.net.au/news/science/2026-08-20/native-plants-australia-how-to-guide/107049034",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-19T18:30:00+00:00",
-      "summary": "We often think that native plants thrive on little water and poor soil, but according to our expert it takes a bit more TLC than that, at least to get them started.",
-      "headline_only": false
-    },
-    {
-      "title": "From Seachange to Secret Life of Us, test your Aussie TV knowledge",
-      "link": "https://www.abc.net.au/news/2026-08-20/australian-tv-quiz-classics-new-shows/106989412",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-19T18:30:00+00:00",
-      "summary": "Do you know where The Secret Life of Us was set? How about the year Fisk premiered? Find out if you're on the money with our quiz.",
       "headline_only": false
     },
     {
@@ -923,7 +983,7 @@
       "headline_only": false
     },
     {
-      "title": "Kennedy Center board says it won’t try to immediately restore Trump’s name",
+      "title": "Kennedy Center agrees not to restore Trump’s name before September 8",
       "link": "https://www.aljazeera.com/news/2026/8/19/kennedy-center-board-says-it-wont-try-to-immediately-restore-trumps-name?traffic_source=rss",
       "source": "Al Jazeera",
       "source_id": "aljazeera-all",
@@ -1043,18 +1103,6 @@
       "headline_only": false
     },
     {
-      "title": "US Department of Justice defends prosecution of Comey over seashell post",
-      "link": "https://www.aljazeera.com/news/2026/8/19/us-department-of-justice-defends-prosecution-of-comey-over-seashell-post?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-19T17:50:26+00:00",
-      "summary": "The ex-FBI chief faces accusations of transmitting threats and exploiting controversy to market his upcoming novel.",
-      "headline_only": false
-    },
-    {
       "title": "«Eliminez-en 30 ou 40» chaque «nuit à Gaza» : la France et l’Allemagne dénoncent les propos «inhumains» d’un ministre israélien",
       "link": "https://www.liberation.fr/international/moyen-orient/eliminez-en-30-ou-40-chaque-nuit-a-gaza-la-france-et-lallemagne-denoncent-les-propos-inhumains-dun-ministre-israelien-20260819_2DXG2G3FI5HCRFWE742PLQF4YU/",
       "source": "Libération",
@@ -1064,18 +1112,6 @@
       "lang": "FR",
       "published": "2026-08-19T17:50:04+00:00",
       "summary": "Itamar Ben Gvir a appelé dans un podcast à des tueries dans l’enclave palestinienne. Jean-Michel Barrot, Friedrich Merz et le patron de l’ONU António Guterres s’en sont offusqués ce mercredi 19 août.",
-      "headline_only": false
-    },
-    {
-      "title": "Moderna, Merck cancer vaccine shows promise in late-stage trial; Moderna stock soars 150%",
-      "link": "https://www.cnbc.com/2026/08/19/moderna-merck-cancer-vaccine-shows-initial-late-stage-melanoma-data.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-19T17:48:08+00:00",
-      "summary": "The combination regimen significantly extended the time patients lived without their melanoma returning, compared with Keytruda alone.",
       "headline_only": false
     },
     {
@@ -1136,18 +1172,6 @@
       "lang": "FR",
       "published": "2026-08-19T17:35:44+00:00",
       "summary": "Estimant que l’armée ukrainienne était, « pour la première fois dans l’histoire », capable de frapper des cibles jusque dans la lointaine Sibérie, le ministre, dont la nomination a été approuvée par le Parlement, a dit que les frappes à moyenne et longue portée sont une priorité.",
-      "headline_only": false
-    },
-    {
-      "title": "North Korea leader’s sister denies talks with ‘hostile’ US",
-      "link": "https://www.aljazeera.com/news/2026/8/19/north-korea-leaders-sister-denies-talks-with-hostile-us?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-19T17:32:36+00:00",
-      "summary": "US President Donald Trump claimed North Korean leader Kim Jong Un had responded positively to his proposal for talks.",
       "headline_only": false
     },
     {
@@ -1401,18 +1425,6 @@
       "published": "2026-08-19T16:41:28+00:00",
       "summary": "US warns Siemens devices can be hacked amid fears Iran is breaching water plants &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "Trump touted a deal to avert new tariffs on Canada. Here's what we know so far",
-      "link": "https://www.cnbc.com/2026/08/19/trump-canada-tariffs-deal-carney.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-19T16:40:21+00:00",
-      "summary": "Trump's new tariffs on about $20 billion worth of Canadian goods were set to take effect Wednesday, but were postponed by three days.",
-      "headline_only": false
     },
     {
       "title": "CAR: Scores killed in landslide at illegal gold mine",
@@ -1772,18 +1784,6 @@
       "lang": "EN",
       "published": "2026-08-19T15:33:32+00:00",
       "summary": "The five-year old Gaza girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "headline_only": false
-    },
-    {
-      "title": "Israel’s Ben Gvir boasts of planned execution facility for Palestinian prisoners",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israels-ben-gvir-boasts-planned-execution-facility-palestinian-prisoners",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-19T15:32:47+00:00",
-      "summary": "Israel’s Ben Gvir boasts of planned execution facility for Palestinian prisoners Israel ’s National Security Minister Itamar Ben Gvir boasted on Tuesday about the construction of a facility intended for the execution of&nbsp; Palestinian&nbsp; prisoners. “In this place, the…",
       "headline_only": false
     },
     {
