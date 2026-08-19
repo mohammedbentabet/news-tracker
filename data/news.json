@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-18T23:29:33.825014+00:00",
+  "updated_at": "2026-08-19T00:05:50.333354+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:22.779380+00:00"
+      "last_success": "2026-08-18T23:44:27.341101+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:22.876663+00:00"
+      "last_success": "2026-08-18T23:44:27.520907+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:23.044963+00:00"
+      "last_success": "2026-08-18T23:44:27.708002+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:23.195065+00:00"
+      "last_success": "2026-08-18T23:44:27.950921+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:23.337434+00:00"
+      "last_success": "2026-08-18T23:44:28.107952+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:23.456552+00:00"
+      "last_success": "2026-08-18T23:44:28.340261+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:23.773310+00:00"
+      "last_success": "2026-08-18T23:44:28.783107+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-18T23:16:23.898926+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:24.169910+00:00"
+      "last_success": "2026-08-18T23:44:29.449271+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:24.463708+00:00"
+      "last_success": "2026-08-18T23:44:29.621098+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:24.627965+00:00"
+      "last_success": "2026-08-18T23:44:29.774713+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:24.700302+00:00"
+      "last_success": "2026-08-18T23:44:29.937541+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:24.877899+00:00"
+      "last_success": "2026-08-18T23:44:31.008025+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:25.136241+00:00"
+      "last_success": "2026-08-18T23:44:31.083098+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:25.363298+00:00"
+      "last_success": "2026-08-18T23:44:31.353877+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:25.864401+00:00"
+      "last_success": "2026-08-18T23:44:31.933177+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -125,19 +125,19 @@
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:27.452464+00:00"
+      "last_success": "2026-08-18T23:44:35.075270+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:27.940957+00:00"
+      "last_success": "2026-08-18T23:44:35.519427+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:28.234568+00:00"
+      "last_success": "2026-08-18T23:44:35.774963+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:28.716352+00:00"
+      "last_success": "2026-08-18T23:44:36.299225+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:28.964433+00:00"
+      "last_success": "2026-08-18T23:44:36.555687+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:29.073918+00:00"
+      "last_success": "2026-08-18T23:44:36.645559+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:29.224088+00:00"
+      "last_success": "2026-08-18T23:44:36.767025+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:16:29.821748+00:00"
+      "last_success": "2026-08-18T23:44:37.614137+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:29:28.007300+00:00"
+      "last_success": "2026-08-19T00:05:47.905655+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:29:28.526745+00:00"
+      "last_success": "2026-08-19T00:05:48.847008+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,137 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:29:32.841801+00:00"
+      "last_success": "2026-08-19T00:05:49.776394+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:29:32.971823+00:00"
+      "last_success": "2026-08-19T00:05:49.946533+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:29:33.288424+00:00"
+      "last_success": "2026-08-19T00:05:50.218960+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-18T23:29:33.824800+00:00"
+      "last_success": "2026-08-19T00:05:50.333140+00:00"
     }
   },
   "article_count": 299,
   "articles": [
+    {
+      "title": "FIFA accused of 'management by fear' after key executive's sudden exit",
+      "link": "https://www.abc.net.au/news/2026-08-19/fifa-fear-tactics-accusations-klaveness-lamour-infantino/107053144",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-18T23:57:52+00:00",
+      "summary": "Norway's head of football takes aim at FIFA and what she deems to be fear tactics after Kevin Lamour's exit as COO.",
+      "headline_only": false
+    },
+    {
+      "title": "Breaking: NT politician Yiŋiya Guyla resigns, labelling CLP policies 'dehumanising'",
+      "link": "https://www.abc.net.au/news/2026-08-19/nt-mla-yingiya-guyula-resigns-clp-government-dehumanising/107053272",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-18T23:57:06+00:00",
+      "summary": "The Independent Member for Mulka Yiŋiya Guyula has resigned from NT parliament effective immediately, saying the Country Liberal Party's \"dehumanising\" legislation is part of his decision.",
+      "headline_only": false
+    },
+    {
+      "title": "Bush kids raise thousands for charities with 19yo bike ride fundraiser",
+      "link": "https://www.abc.net.au/news/2026-08-19/outback-kids-continue-bike-ride-fundraiser/107046802",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-18T23:55:28+00:00",
+      "summary": "A small outback Queensland town remembers community members with its annual Tour De Prairie bike-ride fundraiser.",
+      "headline_only": false
+    },
+    {
+      "title": "Live: Mushroom killer Erin Patterson appeals murder conviction",
+      "link": "https://www.abc.net.au/news/2026-08-19/live-blog-erin-patterson-appeal-day-1/107050704",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-18T23:44:05+00:00",
+      "summary": "Lawyers for triple murderer Erin Patterson will appeal her conviction on multiple grounds, while Crown prosecutors will appeal to have any possibility of parole revoked. Follow live.",
+      "headline_only": false
+    },
+    {
+      "title": "UAE says Iran fired 2 missiles at country, as war drags on",
+      "link": "https://www.scmp.com/news/world/middle-east/article/3364490/uae-says-iran-fired-2-missiles-country-war-drags?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-18T23:40:16+00:00",
+      "summary": "The United Arab Emirates said that two ballistic missiles were fired towards the country from Iran, the Islamic Republic’s first known attack on the Gulf nation since May as the wider Middle East war continues unabated. Both missiles fell into the sea, with one of them dropping…",
+      "headline_only": false
+    },
+    {
+      "title": "How chickens and cattle are a surprising fit in soil restoration",
+      "link": "https://www.abc.net.au/news/2026-08-19/wildflower-chickens-experiment-grazier-improves-soil-health/107032622",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-18T23:38:15+00:00",
+      "summary": "Chickens and cattle are an unusual combination, but a West Australian pastoralist believes they can complement each other to improve soil health.",
+      "headline_only": false
+    },
+    {
+      "title": "Iran’s top negotiator says Hormuz Strait will remain closed until US abides by MoU",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irans-top-negotiator-says-hormuz-strait-will-remain-closed-until-us",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-18T23:36:30+00:00",
+      "summary": "Iran’s top negotiator says Hormuz Strait will remain closed until US abides by MoU Iran’s top negotiator, Mohammad Bagher Ghalibaf, said on Tuesday that the Strait of Hormuz would remain closed until the US meets the commitments stipulated in the memorandum of understanding,…",
+      "headline_only": false
+    },
+    {
+      "title": "US urged to follow China’s lead in treating data as an economic asset",
+      "link": "https://www.scmp.com/news/us/economy-trade-business/article/3364489/us-urged-follow-chinas-lead-treating-data-economic-asset?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-18T23:27:39+00:00",
+      "summary": "As China deepens the commercialisation of its vast troves of data, the United States needs to develop its own national data strategy that treats data as an economic asset to better position itself to prevail in emerging technologies such as artificial intelligence and robotics,…",
+      "headline_only": false
+    },
+    {
+      "title": "The critical tech staying safe by going underground",
+      "link": "https://www.bbc.co.uk/news/articles/c20ydrndr0wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "source_id": "bbc-business",
+      "category": "finance",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-18T23:25:21+00:00",
+      "summary": "The war in Ukraine has spurred people to consider putting vital infrastructure underground.",
+      "headline_only": false
+    },
     {
       "title": "Closed highway gets $100m overtaking lane after community push",
       "link": "https://www.abc.net.au/news/2026-08-19/federal-government-great-western-highway-funding/107052766",
@@ -275,7 +383,19 @@
       "headline_only": false
     },
     {
-      "title": "What are whole-body deodorants, and do you need them?",
+      "title": "'Banned over a pair of £2 sandals': Why some sellers are complaining about Vinted",
+      "link": "https://www.bbc.co.uk/news/articles/cx2kwnrn5zpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "source_id": "bbc-business",
+      "category": "finance",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-18T23:14:49+00:00",
+      "summary": "Several thousands of Vinted users say they have been wrongly suspended or permanently banned from the preloved app.",
+      "headline_only": false
+    },
+    {
+      "title": "'Marketing shame': What experts think about whole-body deodorants",
       "link": "https://www.abc.net.au/news/2026-08-19/what-are-whole-body-deodorants-for-sweat/107049218",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -319,7 +439,19 @@
       "region": "Australia",
       "lang": "EN",
       "published": "2026-08-18T23:01:36+00:00",
-      "summary": "Panettiere's on-again, off-again boyfriend and his brother were at the apartment where the actor died over the weekend, according to a heavily redacted police report.",
+      "summary": "Panettiere's on-off boyfriend and his brother were at the apartment where the actor died over the weekend, according to a heavily redacted police report.",
+      "headline_only": false
+    },
+    {
+      "title": "Do not cut benefits for disabled young people, dozens of UK charities urge ministers",
+      "link": "https://www.theguardian.com/society/2026/aug/19/benefits-disabled-young-people-uk-charities-letter",
+      "source": "The Guardian – Society",
+      "source_id": "guardian-society",
+      "category": "society",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-18T23:01:03+00:00",
+      "summary": "More than 40 charities write to Pat McFadden and review head Alan Milburn over fears of stricter eligibility rules More than 40 of the UK’s leading charities have warned ministers against imposing tougher benefit sanctions or cuts on disabled young people, as the government…",
       "headline_only": false
     },
     {
@@ -359,7 +491,7 @@
       "headline_only": true
     },
     {
-      "title": "Man charged with murder over alleged stabbing south of Brisbane",
+      "title": "Two people charged with murder over alleged stabbing south of Brisbane",
       "link": "https://www.abc.net.au/news/2026-08-19/man-charged-with-murder-after-alleged-stabbing-at-beenleigh/107052858",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -431,18 +563,6 @@
       "headline_only": false
     },
     {
-      "title": "Dees star's ban upheld as AFL tribunal rejects biomechanist evidence bid",
-      "link": "https://www.abc.net.au/news/2026-08-19/afl-demons-van-rooyen-suspension-upheld-tribunal/107052932",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-18T22:43:51+00:00",
-      "summary": "The AFL tribunal bars Melbourne from using a biomechanist to defend star forward Jacob van Rooyen as his three-match suspension for striking Aliir Aliir is upheld.",
-      "headline_only": false
-    },
-    {
       "title": "US sanctions ICC president, senior trial lawyer in latest attack on court - Reuters",
       "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNa216Q2JDZGZ2enFuVmRjLXkzbFU5RmdyZkszQnJnVHFkZExkRmI4ZWpOV2FGMVpZV29qNzhtaFhyZmZKYUxMRDRyTlduM3J4ZHF1N0czVlo1dGs2amxDektLMFR5a0VjQ2I3MGNQTHRSWE5Mck9lMnUxNWZiVTJQX2ZPdlJlQmFKYUktOUdHeXRSYlFYSG8xbk80bUxJNVVhS1h5dDNhNm9RV2UyYWJ4QTFXY090SzFOV2VEYmpwRnp0RXZFQ21xTW9sWTJnNmM?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -488,6 +608,18 @@
       "lang": "FR",
       "published": "2026-08-18T22:28:31+00:00",
       "summary": "Après l'ancien président lui-même, une semaine plus tôt, c'est un cousin de Bachar el-Assad qui a été reconnu coupable mardi de crimes de guerre et de crimes contre l'humanité par la justice syrienne. Wassim el-Assad a été condamné à mort, dans une vague de procès des…",
+      "headline_only": false
+    },
+    {
+      "title": "ZZ Top drummer Frank Beard dies aged 77",
+      "link": "https://www.bbc.co.uk/news/articles/czdmzdnp3z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-18T22:25:46+00:00",
+      "summary": "A statement on the blues-rock band's website said he died on Monday in hospice",
       "headline_only": false
     },
     {
@@ -587,18 +719,6 @@
       "headline_only": false
     },
     {
-      "title": "Accidental fire destroys family home in South West WA",
-      "link": "https://www.abc.net.au/news/2026-08-19/boyup-brook-house-fire-destroyed-family-home/107050394",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-18T21:51:34+00:00",
-      "summary": "Lisa Fawcett is still grappling with the reality of an accidental fire that destroyed her entire home and belongings.",
-      "headline_only": false
-    },
-    {
       "title": "Bolivia arrests political adviser to Latin American right-wingers",
       "link": "https://www.aljazeera.com/news/2026/8/18/bolivia-arrests-political-adviser-to-latin-american-right-wingers?traffic_source=rss",
       "source": "Al Jazeera",
@@ -632,18 +752,6 @@
       "lang": "EN",
       "published": "2026-08-18T21:45:00+00:00",
       "summary": "The US has announced it will impose additional sanctions on members of the International Criminal Court. The ICC said the latest US move against it \"undermines the rule of law.\"",
-      "headline_only": false
-    },
-    {
-      "title": "Live: 'Coordinated mortgage fraud' uncovered by financial crimes watchdog",
-      "link": "https://www.abc.net.au/news/2026-08-19/asx-markets-business-live-news/107051926",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-18T21:41:29+00:00",
-      "summary": "AUSTRAC identifies potentially hundreds of millions of dollars in suspected fraudulent home loans. The Australian share market is likely to fall in morning trade, following another weak session on Wall Street. Follow live.",
       "headline_only": false
     },
     {
@@ -779,18 +887,6 @@
       "headline_only": true
     },
     {
-      "title": "Venus Williams receives US Open wildcard at 46, Serena may follow",
-      "link": "https://www.abc.net.au/news/2026-08-19/venus-williams-popyrin-receive-us-open-wildcards/107052864",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-18T21:21:10+00:00",
-      "summary": "One Williams sister is officially in this year's US Open women's singles draw and the tournament is keeping one spot open for the other, four years after her farewell.",
-      "headline_only": false
-    },
-    {
       "title": "UAE says two missiles detected earlier were launched from Iran - Reuters",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -801,18 +897,6 @@
       "published": "2026-08-18T21:21:04+00:00",
       "summary": "UAE says two missiles detected earlier were launched from Iran &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "Parent says primary schools don't teach computer skills like they used to",
-      "link": "https://www.abc.net.au/news/2026-08-19/nsw-digital-native-primary-students-lack-basic-computer-skills/107030526",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-18T21:19:22+00:00",
-      "summary": "Despite devices often being introduced to the classroom in the early years of primary school, research shows children still write to a higher quality on pen and paper.",
-      "headline_only": false
     },
     {
       "title": "Israel says Syria acceptance of Turkish troops at its air base posed a 'threat'",
@@ -1019,18 +1103,6 @@
       "headline_only": false
     },
     {
-      "title": "Disney and ABC sue Trump's media regulator to stop early licence renewal",
-      "link": "https://www.bbc.co.uk/news/articles/cx2rzr49vr2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "source_id": "bbc-business",
-      "category": "finance",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-18T20:39:36+00:00",
-      "summary": "The network accuses the administration of retaliating against ABC because it \"disapproves of what ABC broadcasts\".",
-      "headline_only": false
-    },
-    {
       "title": "US chip stocks slide as government borrowing costs hit multiyear highs",
       "link": "https://www.ft.com/content/61354e68-c4ba-4716-b849-b332608c8c65?syn-25a6b1a6=1",
       "source": "Financial Times (headlines only – paywalled)",
@@ -1127,6 +1199,18 @@
       "headline_only": false
     },
     {
+      "title": "US announces new sanctions on top ICC figures",
+      "link": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-18T20:21:49+00:00",
+      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "headline_only": false
+    },
+    {
       "title": "Trump, Carney reportedly in talks ahead of new 50% tariffs on Canadian goods",
       "link": "https://www.cnbc.com/2026/08/18/trump-carney-canada-tariffs-dealine-talks.html",
       "source": "CNBC",
@@ -1163,18 +1247,6 @@
       "headline_only": false
     },
     {
-      "title": "Syrian petroleum company says explosion of gas pipeline 'deliberate act of sabotage'",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syrian-petroleum-company-says-explosion-gas-pipeline-deliberate-act",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-18T20:11:13+00:00",
-      "summary": "Syrian petroleum company says explosion of gas pipeline 'deliberate act of sabotage' Syria's petroleum company said on Tuesday that an explosion occurred at a gas export pipeline at the Al-Jabsah gas plant, halting oil flow through the pipeline. In a statement to Syria's state…",
-      "headline_only": false
-    },
-    {
       "title": "DOJ unseals new charges against 17 hackers in Iran-backed campaign - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQYk0tOWhsY2J3Vnp5Q3B5ek1SaW9UOTVqbnFGU3pQREFHUERJSTFYWndYODZ3MDduQ2tuWUtOSjNGN29McFM4Zk81MDEzcHlNalE4aEpaWXRCUlVTSERDajdpSnU3SC16azNwSG8zRFZCVnJWbGF1QzlSZ2hqYl93RlNIcHc1VV9ra0tfTGp4c0ttQl82Z2JHc3A0ZC1Nd0pQV2RmbTVBcHFJdlpwS3RuLU5IQnB3UDg?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -1196,18 +1268,6 @@
       "lang": "EN",
       "published": "2026-08-18T19:57:08+00:00",
       "summary": "Bayern Munich midfielder Jamal Musiala says he is being treated for a \"neurological dysfunction\" after collapsing during a match for the second time in a four-day period.",
-      "headline_only": false
-    },
-    {
-      "title": "Judge swapped in Trump's defamation case against BBC",
-      "link": "https://www.bbc.co.uk/news/articles/cvgvyz8e27zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-18T19:52:32+00:00",
-      "summary": "A judge who was recently nominated by the US president to serve in Florida's federal court will now preside over his $10bn defamation case against the BBC.",
       "headline_only": false
     },
     {
@@ -1595,18 +1655,6 @@
       "headline_only": false
     },
     {
-      "title": "Russia’s Putin hosts Myanmar leader, talks up energy projects",
-      "link": "https://www.scmp.com/news/world/russia-central-asia/article/3364481/russias-putin-hosts-myanmar-leader-talks-energy-projects?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-18T17:41:02+00:00",
-      "summary": "Russian President Vladimir Putin held talks in Moscow ⁠on Tuesday with ⁠Myanmar’s junta chief-turned-president, Min Aung ⁠Hlaing, discussing a wide range of issues including prospective energy deals. Russia is the first non-neighbouring country Min Aung Hlaing has visited since…",
-      "headline_only": false
-    },
-    {
       "title": "Ministers are waking up to Britain’s gas supply risks. It’s time for decisions",
       "link": "https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/18/ministers-are-waking-up-to-britains-gas-supply-risks-its-time-for-decisions",
       "source": "The Guardian – Business",
@@ -1616,18 +1664,6 @@
       "lang": "EN",
       "published": "2026-08-18T17:30:47+00:00",
       "summary": "Despite declining consumption, the country will still need lots of gas in coming years but solutions aren’t forthcoming UK risks running out of gas by 2030s, ministers told The penny is dropping in government. Britain, even in rapid energy transition mode, will still need a lot…",
-      "headline_only": false
-    },
-    {
-      "title": "Trump and Carney hold urgent talks as steep 50% US tariffs on Canada loom",
-      "link": "https://www.scmp.com/news/world/united-states-canada/article/3364480/trump-and-carney-hold-urgent-talks-steep-50-us-tariffs-canada-loom?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-18T17:29:31+00:00",
-      "summary": "Canada’s Prime Minister Mark Carney has held urgent talks with US President Donald Trump, Ottawa confirmed Tuesday, in an effort to avoid fresh US tariffs on Canadian goods as a midnight deadline fast approaches. Trump signed orders for the steep 50 per cent duties last month,…",
       "headline_only": false
     },
     {
@@ -1796,18 +1832,6 @@
       "lang": "EN",
       "published": "2026-08-18T16:35:00+00:00",
       "summary": "Officials in Nigeria have said at least 25 people were killed in their homes when armed men stormed their village Monday night. Fears of reprisal are real as violence between Muslim herders and Christian farmers spirals.",
-      "headline_only": false
-    },
-    {
-      "title": "Nigeria influencer arrested after seizure of cocaine worth $28m destined for the UK",
-      "link": "https://www.bbc.co.uk/news/articles/c1e155428qyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-18T16:26:22+00:00",
-      "summary": "Afolabi Kazeem Micheal has not commented on allegations he is linked to a global drug trafficking network.",
       "headline_only": false
     },
     {
@@ -2555,18 +2579,6 @@
       "headline_only": false
     },
     {
-      "title": "'I'm in Barbados': The dos and don'ts of writing an out-of-office reply",
-      "link": "https://www.bbc.co.uk/news/articles/c934xy32919o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "source_id": "bbc-business",
-      "category": "finance",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-18T07:52:24+00:00",
-      "summary": "As we hit peak holiday season, the BBC looks at the dos and don'ts of composing a good out-of-office message.",
-      "headline_only": false
-    },
-    {
       "title": "Haaland's main rivals for the Premier League Golden Boot",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgwjgxend0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -2792,18 +2804,6 @@
       "lang": "EN",
       "published": "2026-08-17T20:08:49+00:00",
       "summary": "A push in California to tax billionaires will be an important test of the political power of the rich – and the health of US democracy.",
-      "headline_only": false
-    },
-    {
-      "title": "People with severe intellectual disabilities live 24 years less on average",
-      "link": "https://www.theguardian.com/society/2026/aug/17/severe-intellectual-disabilities-life-expectancy-study",
-      "source": "The Guardian – Society",
-      "source_id": "guardian-society",
-      "category": "society",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-17T18:00:02+00:00",
-      "summary": "Exclusive: Research also finds stark ethnic disparities, and 40% of deaths among group classed as avoidable People living with severe intellectual disabilities are dying 24 years younger on average than the wider population, a study has found, with 40% of such deaths being…",
       "headline_only": false
     },
     {
