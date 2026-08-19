@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-19T22:42:49.286719+00:00",
+  "updated_at": "2026-08-19T23:07:20.614350+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:40.258617+00:00"
+      "last_success": "2026-08-19T22:53:15.184343+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:40.379999+00:00"
+      "last_success": "2026-08-19T22:53:15.351007+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:40.639252+00:00"
+      "last_success": "2026-08-19T22:53:15.562717+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:40.789699+00:00"
+      "last_success": "2026-08-19T22:53:15.772487+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:40.935496+00:00"
+      "last_success": "2026-08-19T22:53:15.925039+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:41.057148+00:00"
+      "last_success": "2026-08-19T22:53:16.278100+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:41.400098+00:00"
+      "last_success": "2026-08-19T22:53:16.749890+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "error",
-      "error": "<unknown>:10:92: not well-formed (invalid token)",
-      "last_success": "using cached data"
+      "status": "ok",
+      "error": null,
+      "last_success": "2026-08-19T22:53:16.889614+00:00"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:42.301722+00:00"
+      "last_success": "2026-08-19T22:53:17.294208+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:42.467178+00:00"
+      "last_success": "2026-08-19T22:53:17.497610+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:42.640275+00:00"
+      "last_success": "2026-08-19T22:53:17.672973+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:42.710136+00:00"
+      "last_success": "2026-08-19T22:53:17.760454+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:43.300585+00:00"
+      "last_success": "2026-08-19T22:53:18.185075+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:43.472985+00:00"
+      "last_success": "2026-08-19T22:53:18.274503+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:43.729202+00:00"
+      "last_success": "2026-08-19T22:53:18.580676+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:44.256057+00:00"
+      "last_success": "2026-08-19T22:53:19.172843+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -125,19 +125,19 @@
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:45.905031+00:00"
+      "last_success": "2026-08-19T22:53:20.729367+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:46.354938+00:00"
+      "last_success": "2026-08-19T22:53:21.043446+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:46.620937+00:00"
+      "last_success": "2026-08-19T22:53:21.380753+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:47.200906+00:00"
+      "last_success": "2026-08-19T22:53:21.965527+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:47.415132+00:00"
+      "last_success": "2026-08-19T22:53:22.172943+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:47.603281+00:00"
+      "last_success": "2026-08-19T22:53:22.371546+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:47.787511+00:00"
+      "last_success": "2026-08-19T22:53:22.555832+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:29:48.659114+00:00"
+      "last_success": "2026-08-19T22:53:23.509994+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:42:47.241948+00:00"
+      "last_success": "2026-08-19T23:07:17.571584+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:42:47.593902+00:00"
+      "last_success": "2026-08-19T23:07:18.807214+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,89 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:42:48.554101+00:00"
+      "last_success": "2026-08-19T23:07:19.701116+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:42:48.874237+00:00"
+      "last_success": "2026-08-19T23:07:19.790600+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:42:49.181685+00:00"
+      "last_success": "2026-08-19T23:07:20.040429+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-19T22:42:49.286482+00:00"
+      "last_success": "2026-08-19T23:07:20.614133+00:00"
     }
   },
   "article_count": 299,
   "articles": [
+    {
+      "title": "Socceroos star Circati seals $33m transfer move to Portuguese giants",
+      "link": "https://www.abc.net.au/news/2026-08-20/football-alessandro-circati-signs-with-benfica-33m-transfer/107056752",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-19T22:56:24+00:00",
+      "summary": "Alessandro Circati becomes the latest member of the Socceroos' World Cup squad to secure a big-money move across Europe during the transfer window.",
+      "headline_only": false
+    },
+    {
+      "title": "The Freedom Caucus is having a brutal primary run",
+      "link": "https://www.politico.com/news/2026/08/19/freedom-caucus-struggles-primaries-01042990",
+      "source": "Politico",
+      "source_id": "politico",
+      "category": "politics",
+      "region": "US/Europe",
+      "lang": "EN",
+      "published": "2026-08-19T22:49:36+00:00",
+      "summary": "The hard-right Freedom Caucus has struggled to elevate its picks this year.",
+      "headline_only": false
+    },
+    {
+      "title": "Industry condemns labour hire company that misled inspectors on farm",
+      "link": "https://www.abc.net.au/news/2026-08-20/strawberry-labour-hire-company-fined-fair-work-queensland/107053352",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-19T22:47:38+00:00",
+      "summary": "The Queensland Strawberry Growers Association president condemns the operators of a former labour hire provider for deliberately falsifying documents and breaching workplace laws.",
+      "headline_only": false
+    },
+    {
+      "title": "Prince Harry and Meghan to move back to UK six years after royal exit",
+      "link": "https://www.france24.com/en/europe/20260819-prince-harry-meghan-move-back-uk-six-years-after-royal-exit",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-08-19T22:39:43+00:00",
+      "summary": "Prince Harry and his wife Meghan plan to move back to Britain six years after stepping down as working royals, British media reported on Wednesday. The couple are expected to leave the United States by month-end and live outside London, while their two children have reportedly…",
+      "headline_only": false
+    },
+    {
+      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades",
+      "link": "https://www.cnbc.com/2026/08/19/call-buying-bonanza-around-trumps-hyperliquid-comments-includes-eyebrow-raising-trades.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-19T22:39:40+00:00",
+      "summary": "President Donald Trump hinted that regulation may be in the works for Hyperliquid. Interesting trading activity followed.",
+      "headline_only": false
+    },
     {
       "title": "U.S. government debt passes $40 trillion, more than doubling in a decade",
       "link": "https://www.cnbc.com/2026/08/19/us-government-debt-passes-40-trillion-mark-for-the-first-time.html",
@@ -260,6 +320,66 @@
       "lang": "EN",
       "published": "2026-08-19T22:34:33+00:00",
       "summary": "",
+      "headline_only": false
+    },
+    {
+      "title": "Tongue & Robinson cut Headingley ball in half",
+      "link": "https://www.bbc.co.uk/sport/cricket/articles/ceqe3zd9wleo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-19T22:33:05+00:00",
+      "summary": "England seamers Josh Tongue and Ollie Robinson find a solution as to who keeps the ball after the both claim a five-wicket haul at Headingley - split it in half.",
+      "headline_only": false
+    },
+    {
+      "title": "South Korean container ship will test Arctic route to Europe amid Western concern",
+      "link": "https://www.scmp.com/news/asia/east-asia/article/3364610/south-korean-container-ship-will-test-arctic-route-europe-amid-western-concern?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-19T22:33:05+00:00",
+      "summary": "South Korea will flag off ⁠on Saturday a container ship bound for Europe via the Arctic, testing whether a route opened by melting sea ice can be commercially viable, but risking friction with Western allies, as the voyage requires Russian cooperation. If successful, the trip…",
+      "headline_only": false
+    },
+    {
+      "title": "Rescue mission for ageing Nasa space telescope fails",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3364617/rescue-mission-ageing-nasa-space-telescope-fails?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-19T22:32:21+00:00",
+      "summary": "A mission to ⁠rescue Nasa’s ageing Swift observatory in space was cancelled on Wednesday after the spacecraft that was launched to tug the satellite to a higher orbit suffered irredeemable technical issues in space, the rescue craft’s owner, Katalyst Space, said. Katalyst’s…",
+      "headline_only": false
+    },
+    {
+      "title": "US national debt passes $40tn after doubling in a decade",
+      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Business",
+      "source_id": "bbc-business",
+      "category": "finance",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-19T22:31:46+00:00",
+      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
+      "headline_only": false
+    },
+    {
+      "title": "À la COP 17 contre la désertification, les États-Unis et la Russie bloquent les négociations",
+      "link": "https://www.rfi.fr/fr/environnement/20260819-%C3%A0-la-cop-17-contre-la-d%C3%A9sertification-les-%C3%A9tats-unis-et-la-russie-bloquent-les-n%C3%A9gociations",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-19T22:24:19+00:00",
+      "summary": "Mercredi 18 août était le quatrième jour de la 17e réunion de la conférence des parties de la Convention des Nations Unies sur la lutte contre la désertification, plus connue sous le nom de COP 17. À Oulan-Bator en Mongolie, les objectifs de lutte contre la dégradation des…",
       "headline_only": false
     },
     {
@@ -307,7 +427,19 @@
       "region": "Hong Kong/Asia",
       "lang": "EN",
       "published": "2026-08-19T22:13:39+00:00",
-      "summary": "Six years after stepping down as working royals, Prince Harry and his wife Meghan are moving back to the UK, British press reported late on Wednesday. In a surprise move, the youngest son of King Charles, and his wife, Meghan, “plan to leave the United States by the end of the…",
+      "summary": "Six years after stepping down as working royals, Prince Harry and his wife Meghan are moving back to the UK, British press reported late on Wednesday. In a surprise move, the youngest son of King Charles, and his wife, “plan to leave the United States by the end of the month to…",
+      "headline_only": false
+    },
+    {
+      "title": "US national debt exceeds $40 trillion for first time amid rising borrowing",
+      "link": "https://www.france24.com/en/economy/20260819-us-national-debt-exceeds-40-trillion-for-first-time-amid-rising-borrowing",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-08-19T22:12:39+00:00",
+      "summary": "The US gross national debt surpassed $40 trillion for the first time, Treasury data showed on Wednesday, exceeding earlier forecasts as borrowing, interest costs and long-term obligations rose. Total public debt reached $40.05 trillion on Tuesday, above a Congressional Budget…",
       "headline_only": false
     },
     {
@@ -344,6 +476,18 @@
       "lang": "EN",
       "published": "2026-08-19T22:04:21+00:00",
       "summary": "Foreign minister says she will summon Israeli ambassador over 'insulting' Zomi Frankcom decision.",
+      "headline_only": false
+    },
+    {
+      "title": "What the social media addiction lawsuit could cost Meta",
+      "link": "https://www.aljazeera.com/economy/2026/8/19/what-the-social-media-addiction-lawsuit-could-cost-meta?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-19T22:01:26+00:00",
+      "summary": "Landmark trial against Meta could lead to fines and fundamental changes in Facebook and Instagram&#039;s operations.",
       "headline_only": false
     },
     {
@@ -467,7 +611,7 @@
       "headline_only": false
     },
     {
-      "title": "Live: ASX to open higher as price of gold surges",
+      "title": "Live: Australia's debt hits $1 trillion",
       "link": "https://www.abc.net.au/news/2026-08-20/asx-markets-business-news-live-updates-thursday-20-august/107056572",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -475,7 +619,19 @@
       "region": "Australia",
       "lang": "EN",
       "published": "2026-08-19T21:42:51+00:00",
-      "summary": "The Aussie share market is set to open higher in morning trading after mixed results on Wall Street. The price of gold has surged above 4 per cent. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "summary": "Australia's federal debt reaches $1 trillion at the same time the United States sees debt pass $US40 trillion. Follow the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "headline_only": false
+    },
+    {
+      "title": "Angélique Kidjo makes Hollywood history as first Black African on Walk of Fame",
+      "link": "https://www.france24.com/en/tv-shows/eye-on-africa/20260819-ang%C3%A9lique-kidjo-makes-hollywood-history-as-first-black-african-on-walk-of-fame",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-08-19T21:36:37+00:00",
+      "summary": "Beninese music icon Angélique Kidjo celebrates her global legacy with a star on the Hollywood Walk of Fame, the first dedicated to a Black African. In Nigeria, the town of Ogijo has more lead-recycling factories than anywhere else in Africa, supplying the American auto industry…",
       "headline_only": false
     },
     {
@@ -695,18 +851,6 @@
       "headline_only": false
     },
     {
-      "title": "Images of suspected hitmen released after Melbourne gangland killing",
-      "link": "https://www.abc.net.au/news/2026-08-20/police-release-cctv-athan-boursinos-murder/107056472",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-19T21:10:19+00:00",
-      "summary": "Police have released images of men torching a getaway vehicle after the fatal shooting of Melbourne man Athan Boursinos last year.",
-      "headline_only": false
-    },
-    {
       "title": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
       "source": "Al Jazeera",
@@ -728,18 +872,6 @@
       "lang": "EN",
       "published": "2026-08-19T21:06:48+00:00",
       "summary": "The brutish group has been surprisingly stable since snatching power in 2021. Rockier times may lie ahead.",
-      "headline_only": false
-    },
-    {
-      "title": "Live: Wong outraged, ambassador called in after IDF soldiers cleared over Australian's death",
-      "link": "https://www.abc.net.au/news/2026-08-20/federal-politics-live-blog-zomi-frankcom/107055724",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-19T21:05:19+00:00",
-      "summary": "Penny Wong says the government will haul in Israel's ambassador to Australia after the IDF cleared soldiers involved a strike that killed Zomi Frankcom. Follow live.",
       "headline_only": false
     },
     {
@@ -849,6 +981,18 @@
       "published": "2026-08-19T20:41:12+00:00",
       "summary": "In photos: Aftermath of Israeli strikes on Gaza Displaced Palestinians carry victims away from the site of an Israeli strike on Gaza City, on 19 August 2026 (AFP) Palestinian emergency personnel carry a victim away from the site of an Israeli strike in Gaza City, on 19 August…",
       "headline_only": false
+    },
+    {
+      "title": "Netflix sued by band Demon Hunter over 'KPop Demon Hunters' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSjk4U3h5RDFrZGVjUDJuWHE0dkdDVGhrdXJJOGR2R3BOYUlMbVZmUkFkcXRYREJkTDk3dzRES19QZFo5aHdGX0ZncFNoWE9sSVctUHdiVUtsa2ZrUkR0WlVQM2ZDRkJGUW5GRzVTUnhmTlc3UmEtNTZGdW5MdXVMMlgzZ0tvUm4tUW5DazdReEROQXlZSkU5VzFiVVRRMGtyUzV5QjJhZ2tTWDJfQzRsRXd5UQ?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-19T20:39:43+00:00",
+      "summary": "Netflix sued by band Demon Hunter over 'KPop Demon Hunters' &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Moderna, Merck unveil mRNA-based cancer vaccine that cuts spread",
@@ -1007,15 +1151,15 @@
       "headline_only": false
     },
     {
-      "title": "Yields pull back from multi-year highs after Treasury Department says it will double government debt repurchase size",
-      "link": "https://www.cnbc.com/2026/08/19/treasury-yields-multi-decade-highs-bonds-inflation.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-19T20:03:44+00:00",
-      "summary": "Longer-term U.S. Treasury yields pulled back on Wednesday after the Treasury Department announced an upscaled buyback operation of the nation's debt.",
+      "title": "Ukraine: Volodymyr Zelensky limoge une nouvelle cadre de son cabinet dans une affaire de corruption",
+      "link": "https://www.rfi.fr/fr/europe/20260819-ukraine-volodymyr-zelensky-limoge-une-nouvelle-cadre-de-son-cabinet-dans-une-affaire-de-corruption",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-19T20:02:33+00:00",
+      "summary": "Un nouveau scandale de corruption éclabousse la présidence de Volodymyr Zelensky. Le président ukrainien a limogé ce mercredi Iryna Moudra, l'une des plus hautes responsables de son cabinet, quelques heures seulement après l'annonce de plusieurs perquisitions visant des membres…",
       "headline_only": false
     },
     {
@@ -1175,30 +1319,6 @@
       "headline_only": false
     },
     {
-      "title": "582 skeletons, including children discovered in Sri Lanka mass grave",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/19/582-skeletons-including-children-discovered-in-sri-lanka-mass-grave?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-19T19:26:58+00:00",
-      "summary": "A Sri Lankan mass grave excavation has uncovered 582 skeletons, including babies and children.",
-      "headline_only": false
-    },
-    {
-      "title": "US long-term borrowing costs ease after government steps in",
-      "link": "https://www.bbc.co.uk/news/articles/c70gp8252ejo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Business",
-      "source_id": "bbc-business",
-      "category": "finance",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-19T19:26:06+00:00",
-      "summary": "It comes after the interest rate on 30-year bonds reached the highest level in almost 20 years.",
-      "headline_only": false
-    },
-    {
       "title": "Ceuta: Madrid to transfer 500 vulnerable youths to mainland",
       "link": "https://www.dw.com/en/ceuta-madrid-to-transfer-500-vulnerable-youths-to-mainland/a-78437405?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -1343,6 +1463,18 @@
       "headline_only": false
     },
     {
+      "title": "SLB, Formentera working to activate drilling rigs in Venezuela, executives say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWGlQZDZDeWwwaHc5X1o5Mmpkck9LWDRteUplR2FDaXg0V3BsQkFhTXE3NEwxMEdtTmdmTDMxUFZXSF83UGlEbTItNnZEd1YwbHk5d0d1T3YxMVo1Sll2Q2ZUZUo2dzdTZnF3TllUMlQ0QVJ3cUMyOUhVMUNEeldMWndVMmxRa3p1ZDg1ampTUmNZQnJLNVZaNHFfUm5UeTAxdW1UcjVkU2M3Zk5YZHljQzFjdHI1ZThBaC1WNlh0OA?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-19T18:45:45+00:00",
+      "summary": "SLB, Formentera working to activate drilling rigs in Venezuela, executives say &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
       "title": "Retraites, niches fiscales, politiques familiales… Pour le budget 2027, une nuée de ballons d’essai à arbitrer",
       "link": "https://www.liberation.fr/economie/retraites-niches-fiscales-politiques-familiales-pour-le-budget-2027-une-nuee-de-ballons-dessai-a-arbitrer-20260819_5DWUKVVJSFHBVPX7QQNTOUHKPU/",
       "source": "Libération",
@@ -1463,18 +1595,6 @@
       "headline_only": false
     },
     {
-      "title": "UK PM Burnham launches bid to help homeless, donating 15% of his wages",
-      "link": "https://www.scmp.com/news/world/europe/article/3364611/uk-pm-burnham-launches-bid-help-homeless-donating-15-his-wages?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-19T18:11:10+00:00",
-      "summary": "New UK Prime Minister Andy Burnham unveiled plans on Wednesday to offer those sleeping rough a way off the streets by Christmas and vowed to donate part of his wages to help curb homelessness. “No one should have to bed down in a doorway or outside a station,” Burnham said in a…",
-      "headline_only": false
-    },
-    {
       "title": "«Fjord», une Palme d’or qui étrille la protection de l’enfance et séduit les réactionnaires",
       "link": "https://www.mediapart.fr/journal/culture-et-idees/190826/fjord-une-palme-d-or-qui-etrille-la-protection-de-l-enfance-et-seduit-les-reactionnaires",
       "source": "Mediapart",
@@ -1583,18 +1703,6 @@
       "headline_only": false
     },
     {
-      "title": "Central African Republic artisanal gold mine collapses, killing more than 100 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSHZsdEVCYk1ZeVc2SlBVRy1Qak55bGh3SW9teGRxY0RuSm15ZDQweUYwM0NQVlpHSmJDUnU5cTR1SE9mc1dTN1JwYjFyM1U1Y1ctUFRUNlI2SUIyc09sX0JDNW51Zy1oY1E3bU85TWFBUzgtbVllZ2ZlNnFlMnByZXJhTlN4Ry12S1Npb1NWTm1fZ003TWk3Q25MUWxGRC1zUm8tWGFSSG9xMzVQVEhFTS1PVC1JQnFtVDF4UG1ldG1LQlZZdzNB?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-19T17:48:05+00:00",
-      "summary": "Central African Republic artisanal gold mine collapses, killing more than 100 &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "South Korea shortens war games with US, citing Washington request",
       "link": "https://www.bbc.co.uk/news/articles/cnvn0j31qj8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1653,18 +1761,6 @@
       "published": "2026-08-19T17:28:15+00:00",
       "summary": "A White House endorsement could improve the Israeli leader’s chances of winning.",
       "headline_only": false
-    },
-    {
-      "title": "Trump says he plans to meet with North Korea's Kim this year - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZjlyRG93Zk1yZ01NcGdqcVlhN2JDWDFfRndXM1VvSEF4UmExQ3NMVkJFcTRIYkdSSGNYR1UwRnU5cUUxa3QwMHl2MWFVQmswdVlqbUxvNU9GOXpiU3VJTktyLXktMk9BMVQwNGVTYW5VZUlQVEJYNlFtdHlUSE80aEtvRldkM2FHYVBaSXEyVHZVbzdNc1pWOHIyMDU5Z0tBMW90QQ?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-19T17:26:19+00:00",
-      "summary": "Trump says he plans to meet with North Korea's Kim this year &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "Andy Burnham calls on wider society to help end rough sleeping by Christmas",
@@ -1760,18 +1856,6 @@
       "lang": "FR",
       "published": "2026-08-19T16:52:02+00:00",
       "summary": "Le corps de l’enfant avait été retrouvé dans une voiture criblée de balles à Gaza, plusieurs jours après que la fillette avait été entendue pour la dernière fois, lors d’un long appel téléphonique désespéré avec le Croissant-Rouge palestinien, le 29 janvier 2024.",
-      "headline_only": false
-    },
-    {
-      "title": "Victoire d’une socialiste, défaite de candidats soutenus par Trump: les leçons des primaires en Floride",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260819-victoire-d-une-socialiste-d%C3%A9faite-de-candidats-soutenus-par-trump-les-le%C3%A7ons-des-primaires-en-floride",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-19T16:47:15+00:00",
-      "summary": "Les électeurs républicains et démocrates de Floride étaient appelés mardi 18 août à désigner leurs candidats pour les midterms de novembre. Voici ce qu’il faut en retenir.",
       "headline_only": false
     },
     {
@@ -2015,18 +2099,6 @@
       "headline_only": false
     },
     {
-      "title": "7,300 excess deaths and counting as France battles historically hot summer",
-      "link": "https://www.scmp.com/news/world/europe/article/3364605/7300-excess-deaths-and-counting-france-battles-historically-hot-summer?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-19T15:46:52+00:00",
-      "summary": "France saw more than 7,300 excess deaths during heatwaves so far this year, health authorities said on Wednesday, as the country also endured a record number of hot days since mid-June, according to an Agence France-Presse analysis. France has been hit by three summer heatwaves…",
-      "headline_only": false
-    },
-    {
       "title": "Libyan government in Tunisia for crisis talks",
       "link": "https://www.france24.com/en/video/20260819-libyan-government-in-tunisia-for-crisis-talks",
       "source": "France 24",
@@ -2036,18 +2108,6 @@
       "lang": "EN",
       "published": "2026-08-19T15:40:46+00:00",
       "summary": "On Tuesday, Libya's national oil corporation said the country needs around 40 billion dollars in investment to make the most of its energy resources. The country's unreliable access to energy is feeding into instability stemming from fighting between rival factions and…",
-      "headline_only": false
-    },
-    {
-      "title": "«Le surpoids est devenu une norme»: la Polynésie française, l’un des taux d’obésité les plus élevés du monde",
-      "link": "https://www.rfi.fr/fr/france/20260819-le-surpoids-est-devenu-une-norme-la-polyn%C3%A9sie-fran%C3%A7aise-l-un-des-taux-d-ob%C3%A9sit%C3%A9-les-plus-%C3%A9lev%C3%A9s-du-monde",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-19T15:35:36+00:00",
-      "summary": "Avec un adulte sur deux en situation d’obésité, la Polynésie française détient l’un des taux d’obésité les plus élevés au monde. Entre 2014 et 2021, le nombre d’adultes en situation d’obésité est passé de 40% à 51%. La docteure Raihei Ansquer, ministre polynésienne de la Santé,…",
       "headline_only": false
     },
     {
@@ -2207,18 +2267,6 @@
       "headline_only": false
     },
     {
-      "title": "Zelensky's office probed for corruption as fired defence minister demands elections",
-      "link": "https://www.france24.com/en/video/20260819-zelensky-s-office-probed-for-corruption-as-fired-defence-minister-demands-elections",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-08-19T14:37:26+00:00",
-      "summary": "Ukrainian anti-corruption agencies announced Wednesday that they are investigating senior officials in President Volodymyr Zelenskyy's office, a day after the country’s recently fired defence minister called for national elections despite the ongoing fight against Russia’s…",
-      "headline_only": false
-    },
-    {
       "title": "Man Utd's decision to make Baleba their 'third midfielder'",
       "link": "https://www.bbc.co.uk/sport/football/articles/clylk1wexgno?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -2228,30 +2276,6 @@
       "lang": "EN",
       "published": "2026-08-19T14:35:36+00:00",
       "summary": "Manchester United are in talks to make Carlos Baleba their 'third midfielder' as the club revamp Michael Carrick's squad.",
-      "headline_only": false
-    },
-    {
-      "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base",
-      "link": "https://www.france24.com/en/video/20260819-turkey-slams-israel-s-untenable-claims-after-strikes-on-syrian-base",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-08-19T14:35:12+00:00",
-      "summary": "Turkey firmly rejected on Wednesday ⁠what it called \"untenable ​allegations\" by Israel regarding its military position in Syria, after Israel bombed a Syrian air base near ​the Turkish border and said Syria was on the verge of permitting Turkish troops to deploy there. Israel…",
-      "headline_only": false
-    },
-    {
-      "title": "Ukraine MPs approve new defence minister after divisive reshuffle",
-      "link": "https://www.france24.com/en/video/20260819-ukraine-mps-approve-new-defence-minister-after-divisive-reshuffle",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-08-19T14:34:28+00:00",
-      "summary": "Ukraine's lawmakers approved the country's new defence minister on Wednesday, a month after a reshuffle that triggered a public backlash after the dismissal of his popular predecessor Mykhailo Fedorov. The decision comes a day after Fedorov in a video statement called for a…",
       "headline_only": false
     },
     {
@@ -2276,18 +2300,6 @@
       "lang": "EN",
       "published": "2026-08-19T14:29:50+00:00",
       "summary": "Expected quarterly price cap rise of 4% likely to wipe out benefits of Andy Burnham’s VAT cut on electricity bills Household energy bills across Great Britain are expected to climb to a three-year high this winter as the impact of the Middle East war wipes out Andy Burnham’s…",
-      "headline_only": false
-    },
-    {
-      "title": "Inter close in on £30m deal for Liverpool's Jones",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clye43vge5jo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-19T14:23:20+00:00",
-      "summary": "Italian champions Inter Milan are closing in on a deal worth 35m euros (£30m) for Liverpool midfielder Curtis Jones.",
       "headline_only": false
     },
     {
@@ -3404,18 +3416,6 @@
       "lang": "EN",
       "published": "2026-08-13T17:23:15+00:00",
       "summary": "In one of his first interviews since winning the Democratic gubernatorial nomination, David Crowley shares his plan to bring in Francesca Hong voters — but he won’t commit to campaigning with far left surrogates.",
-      "headline_only": false
-    },
-    {
-      "title": "Platner announced as speaker for activist-led event in Maine",
-      "link": "https://www.politico.com/news/2026/08/13/graham-platner-maine-event-speaker-01036207",
-      "source": "Politico",
-      "source_id": "politico",
-      "category": "politics",
-      "region": "US/Europe",
-      "lang": "EN",
-      "published": "2026-08-13T16:58:02+00:00",
-      "summary": "He dropped out of Maine’s Senate race last month after a woman he dated accused him of sexual assault, an allegation he denied.",
       "headline_only": false
     },
     {
