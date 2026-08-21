@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-21T16:40:54.809034+00:00",
+  "updated_at": "2026-08-21T17:15:00.396156+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:42.459044+00:00"
+      "last_success": "2026-08-21T17:00:18.382618+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:43.012705+00:00"
+      "last_success": "2026-08-21T17:00:18.438017+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:44.189497+00:00"
+      "last_success": "2026-08-21T17:00:18.761032+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:44.376838+00:00"
+      "last_success": "2026-08-21T17:00:19.004561+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:44.501335+00:00"
+      "last_success": "2026-08-21T17:00:19.130452+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:44.731649+00:00"
+      "last_success": "2026-08-21T17:00:19.247395+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:45.122158+00:00"
+      "last_success": "2026-08-21T17:00:19.525335+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-21T16:25:45.320334+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:45.804564+00:00"
+      "last_success": "2026-08-21T17:00:19.961550+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:46.150102+00:00"
+      "last_success": "2026-08-21T17:00:20.294268+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:46.417298+00:00"
+      "last_success": "2026-08-21T17:00:20.520818+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:46.612847+00:00"
+      "last_success": "2026-08-21T17:00:20.583662+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:47.444331+00:00"
+      "last_success": "2026-08-21T17:00:20.879404+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:47.774725+00:00"
+      "last_success": "2026-08-21T17:00:21.101428+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:48.038979+00:00"
+      "last_success": "2026-08-21T17:00:21.290873+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:48.486266+00:00"
+      "last_success": "2026-08-21T17:00:21.751959+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:50.081439+00:00"
+      "last_success": "2026-08-21T17:00:24.667431+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:50.252670+00:00"
+      "last_success": "2026-08-21T17:00:24.760412+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:50.582087+00:00"
+      "last_success": "2026-08-21T17:00:27.109649+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:50.826707+00:00"
+      "last_success": "2026-08-21T17:00:27.416211+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:51.356375+00:00"
+      "last_success": "2026-08-21T17:00:28.100658+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:51.581019+00:00"
+      "last_success": "2026-08-21T17:00:28.273324+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:51.833180+00:00"
+      "last_success": "2026-08-21T17:00:28.381118+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:51.958246+00:00"
+      "last_success": "2026-08-21T17:00:28.551070+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:25:52.875935+00:00"
+      "last_success": "2026-08-21T17:00:29.349181+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:40:51.581111+00:00"
+      "last_success": "2026-08-21T17:14:57.884168+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:40:52.384725+00:00"
+      "last_success": "2026-08-21T17:14:58.270279+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,65 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:40:53.462486+00:00"
+      "last_success": "2026-08-21T17:14:59.396796+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:40:53.739970+00:00"
+      "last_success": "2026-08-21T17:14:59.594503+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:40:54.137786+00:00"
+      "last_success": "2026-08-21T17:14:59.914893+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-21T16:40:54.808842+00:00"
+      "last_success": "2026-08-21T17:15:00.395933+00:00"
     }
   },
   "article_count": 298,
   "articles": [
+    {
+      "title": "The Premier League is back! Arsenal vs Coventry LIVE on Sky!",
+      "link": "https://www.skysports.com/football/arsenal-vs-coventry-city/live/559444",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-21T18:00:00+00:00",
+      "summary": "",
+      "headline_only": false
+    },
+    {
+      "title": "Russell: Sprint pole a good reminder that 'I've still got it'",
+      "link": "https://www.skysports.com/f1/news/12040/13575269/george-russell-mercedes-driver-says-dutch-gp-sprint-pole-a-good-reminder-of-his-talent-as-kimi-antonelli-bemoans-car-damage",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-21T17:30:00+00:00",
+      "summary": "George Russell admitted it was \"good to remind myself I've still got it\" after returning to form by taking Sprint pole for the Dutch Grand Prix.",
+      "headline_only": false
+    },
+    {
+      "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
+      "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-21T17:14:24+00:00",
+      "summary": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
+      "headline_only": false
+    },
     {
       "title": "Draper ruled out of US Open as injury absence continues",
       "link": "https://www.skysports.com/tennis/news/12040/13575532/jack-draper-british-star-ruled-out-of-the-us-open-due-to-ongoing-injury-woes",
@@ -260,6 +296,30 @@
       "lang": "EN",
       "published": "2026-08-21T17:12:00+00:00",
       "summary": "British star Jack Draper has been ruled out of the US Open as he continues to battle a bone bruise in his dominant left arm.",
+      "headline_only": false
+    },
+    {
+      "title": "Ukraine’s Shakhtar to use ex-Russian-owned Chelsea as Champions League home",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/ukraines-shakhtar-donetsk-to-play-champions-league-home-games-at-chelsea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-21T16:53:57+00:00",
+      "summary": "Shakhtar have not played at home since 2014 when Russia annexed the Donetsk region and now switch to Stamford Bridge.",
+      "headline_only": false
+    },
+    {
+      "title": "El Niño pourrait être «le plus intense depuis plus d’un siècle», selon l’agence météorologique du Royaume-Uni",
+      "link": "https://www.liberation.fr/environnement/climat/el-nino-pourrait-etre-le-plus-intense-depuis-plus-dun-siecle-selon-lagence-meteorologique-du-royaume-uni-20260821_TDZTJO33NFHEDILI66NELHJQ7I/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-21T16:48:29+00:00",
+      "summary": "Ce phénomène naturel temporaire, qui provoque des évènements climatiques extrêmes notamment autour des Tropiques, pourrait se faire sentir cette année jusqu’en Europe de l’ouest en novembre, selon les experts britanniques.",
       "headline_only": false
     },
     {
@@ -275,6 +335,102 @@
       "headline_only": false
     },
     {
+      "title": "Six killed in 'despicable' Russian attack on shopping centre in Ukraine",
+      "link": "https://www.abc.net.au/news/2026-08-22/six-dead-in-ukraine-shopping-centre-attack/107066370",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-21T16:42:21+00:00",
+      "summary": "About 90 others, including six children, were injured in the Russian drone attack.",
+      "headline_only": false
+    },
+    {
+      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
+      "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-21T16:42:13+00:00",
+      "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
+      "headline_only": false
+    },
+    {
+      "title": "Iran and Oman discuss resuming talks over Strait of Hormuz",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-oman-discuss-resuming-talks-strait-hormuz-navigation",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-21T16:42:07+00:00",
+      "summary": "Iran and Oman discuss resuming talks over Strait of Hormuz The Omani and Iranian foreign ministers discussed in a phone call ways to create suitable conditions for resuming dialogue and negotiations, and developments affecting navigation in the Strait of Hormuz, Oman's state…",
+      "headline_only": false
+    },
+    {
+      "title": "Fleuves trop chauds ou à sec, méduses… La relance du nucléaire déjà contrariée par le réchauffement climatique",
+      "link": "https://www.liberation.fr/environnement/nucleaire/fleuves-trop-chauds-ou-a-sec-meduses-la-relance-du-nucleaire-deja-contrariee-par-le-rechauffement-climatique-20260821_U32FG76L3ZDOPBUJK53664SCNQ/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-21T16:41:00+00:00",
+      "summary": "La température de l’eau a forcé EDF à mettre à l’arrêt plusieurs réacteurs en juillet et en août. Une «indisponibilité» environnementale qui a affecté jusqu’à 20 % de ses capacités de production. De quoi interroger la résilience de l’atome face au changement climatique.",
+      "headline_only": false
+    },
+    {
+      "title": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+      "link": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-21T16:38:15+00:00",
+      "summary": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
+      "headline_only": false
+    },
+    {
+      "title": "France issues warning over thousands of substandard condoms",
+      "link": "https://www.dw.com/en/france-issues-warning-over-thousands-of-substandard-condoms/a-78462877?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-08-21T16:35:00+00:00",
+      "summary": "French anti-fraud and health agencies have issued a recall order for roughly 260,000 condoms. They advised users to consider sexually transmitted infection and pregnancy tests amid risks of bursting or perforations.",
+      "headline_only": false
+    },
+    {
+      "title": "Two teenagers seriously injured after sword attack at Swedish school",
+      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-21T16:32:37+00:00",
+      "summary": "Police say one man has been arrested, while several other local schools were locked down.",
+      "headline_only": false
+    },
+    {
+      "title": "Sinner & Draper withdraw from US Open",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-21T16:31:26+00:00",
+      "summary": "World number one Jannik Sinner and Britain's Jack Draper pull out of the upcoming US Open through injury.",
+      "headline_only": false
+    },
+    {
       "title": "Chelsea to host Shakhtar's Champions League home games amid ongoing exile",
       "link": "https://www.skysports.com/football/news/12040/13575487/why-are-shakhtar-playing-at-chelsea-stamford-bridge-to-host-exiled-ukrainian-sides-champions-league-home-games",
       "source": "Sky Sports",
@@ -287,15 +443,51 @@
       "headline_only": false
     },
     {
-      "title": "U.S. military says it aided passage of 660 million barrels of oil through Strait of Hormuz since May",
-      "link": "https://www.cnbc.com/2026/08/21/strait-hormuz-central-command-centcom-oil-iran-war.html",
+      "title": "Energy sector is in focus because of Iran, AI and California. Here are hedge funds' top plays",
+      "link": "https://www.cnbc.com/2026/08/21/energy-sector-is-in-focus-because-of-iran-ai-and-california-here-are-hedge-funds-top-plays.html",
       "source": "CNBC",
       "source_id": "cnbc-world",
       "category": "finance",
       "region": "US",
       "lang": "EN",
-      "published": "2026-08-21T16:27:06+00:00",
-      "summary": "The security situation in Hormuz remains contested but the U.S. is helping oil get through the strait.",
+      "published": "2026-08-21T16:29:13+00:00",
+      "summary": "The favorite energy stocks of hedge funds - including one with a projected 65% upside",
+      "headline_only": false
+    },
+    {
+      "title": "What to know about the Freedom 250 Grand Prix, Trump’s capital car race",
+      "link": "https://www.aljazeera.com/news/2026/8/21/what-to-know-about-the-freedom-250-grand-prix-trumps-capital-car-race?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-21T16:27:32+00:00",
+      "summary": "The president says the 147-lap race will be an event &#039;like no other&#039; as drivers zip through Washington, DC.",
+      "headline_only": false
+    },
+    {
+      "title": "Russell takes pole position for Dutch GP sprint race",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c8xn09wkw79o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-21T16:27:20+00:00",
+      "summary": "Mercedes' George Russell secures pole position for the Dutch Grand Prix sprint race, ahead of Lando Norris and Charles Leclerc.",
+      "headline_only": false
+    },
+    {
+      "title": "La Turquie émet un mandat d’arrêt d’international contre Benyamin Nétanyahou, qui répond en traitant Recep Tayyip Erdogan de « dictateur antisémite »",
+      "link": "https://www.lemonde.fr/international/article/2026/08/21/la-turquie-emet-un-mandat-d-arret-d-international-contre-benyamin-netanyahou-dans-le-cadre-de-l-enquete-sur-la-flottille-pour-gaza-il-repond-en-traitant-recep-tayyip-erdogan-de-dictateur-antisemite_6752275_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-21T16:25:35+00:00",
+      "summary": "Le premier ministre israélien est poursuivi pour « crimes contre l’humanité, génocide, privation aggravée de liberté » et « torture ». 430 militants de la flottille pour Gaza avaient été emprisonnés après avoir été interceptés en mer, au large de la Grèce.",
       "headline_only": false
     },
     {
@@ -320,6 +512,18 @@
       "lang": "FR",
       "published": "2026-08-21T16:24:54+00:00",
       "summary": "La rédaction de «Libération» récapitule les principales actualités de la journée.",
+      "headline_only": false
+    },
+    {
+      "title": "England thrash Pakistan by an innings and 103 runs in first Test",
+      "link": "https://www.aljazeera.com/sports/2026/8/21/england-thrash-pakistan-by-an-innings-and-103-runs-in-first-test?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-21T16:24:39+00:00",
+      "summary": "Joe Root&#039;s return as England captain results in a thumping win inside three days against Pakistan in first Test.",
       "headline_only": false
     },
     {
@@ -419,6 +623,18 @@
       "headline_only": true
     },
     {
+      "title": "Arsenal vs Coventry LIVE: Premier League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/21/arsenal-vs-coventry-live-premier-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-21T16:15:39+00:00",
+      "summary": "Follow updates from the opening match of the season - including the build-up, analysis and live text commentary.",
+      "headline_only": false
+    },
+    {
       "title": "Apollo says hackers accessed personal data in latest Wall Street breach",
       "link": "https://www.ft.com/content/ac3f252d-bd49-4340-8565-f27a29652759?syn-25a6b1a6=1",
       "source": "Financial Times (headlines only – paywalled)",
@@ -479,18 +695,6 @@
       "headline_only": false
     },
     {
-      "title": "En Ukraine, « les gens sont assommés par la répétition des alertes aériennes »",
-      "link": "https://www.lemonde.fr/international/article/2026/08/21/en-ukraine-les-gens-sont-assommes-par-la-repetition-des-alertes-aeriennes_6752273_3210.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-21T16:00:13+00:00",
-      "summary": "Face à la recrudescence des frappes russes, de plus en plus meurtrières, les grandes villes ukrainiennes s’efforcent de moderniser leurs systèmes d’alerte. Mais, lassés par les incessantes sirènes et le flot de messages anxiogènes, une partie croissante des civils n’y réagit…",
-      "headline_only": false
-    },
-    {
       "title": "« Je suis le gars qui part et qui revient toujours » : les pots de départ à répétition de Medhi, architecte",
       "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/21/je-suis-le-gars-qui-part-et-qui-revient-toujours-les-pots-de-depart-a-repetition-de-medhi-architecte_6752272_3451060.html",
       "source": "Le Monde",
@@ -500,6 +704,30 @@
       "lang": "FR",
       "published": "2026-08-21T16:00:11+00:00",
       "summary": "« Bon vent ! » (17/18). Medhi, 46 ans, travaille comme indépendant dans la même agence depuis 2007. A chaque fin de mission, il organise un pot de départ, façon « running gag ».",
+      "headline_only": false
+    },
+    {
+      "title": "En Ukraine, « les gens sont assommés par la répétition des alertes aériennes »",
+      "link": "https://www.lemonde.fr/international/article/2026/08/21/en-ukraine-les-gens-sont-assommes-par-la-repetition-des-alertes-aeriennes_6752273_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-21T16:00:09+00:00",
+      "summary": "Face à la recrudescence des frappes russes, de plus en plus meurtrières, les grandes villes ukrainiennes s’efforcent de moderniser leurs systèmes d’alerte. Mais, lassés par les incessantes sirènes et le flot de messages anxiogènes, une partie croissante des civils n’y réagit…",
+      "headline_only": false
+    },
+    {
+      "title": "« Fjord » : le réalisateur Cristian Mungiu décrypte la première scène de son film, Palme d’or du Festival de Cannes 2026",
+      "link": "https://www.lemonde.fr/videos/video/2026/08/21/fjord-le-realisateur-cristian-mungiu-decrypte-la-premiere-scene-de-son-film-palme-d-or-du-festival-de-cannes-2026_6752274_1669088.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-21T16:00:09+00:00",
+      "summary": "Palme d’or du Festival 2026, « Fjord » est disponible dans les salles françaises depuis le 19 août. Dans cette vidéo, son réalisateur, le roumain Cristian Mungiu, décrypte pour « Le Monde » comment il a construit la première scène du film.",
       "headline_only": false
     },
     {
@@ -515,18 +743,6 @@
       "headline_only": false
     },
     {
-      "title": "En Provence, les vagues de chaleur ont « mis sous contrainte » le réseau électrique",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/21/en-provence-les-vagues-de-chaleur-ont-mis-sous-contrainte-le-reseau-electrique_6752271_3244.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-21T15:59:59+00:00",
-      "summary": "Entre le 13 et le 19 août, plusieurs milliers de clients ont subi des coupures à répétition dans les Bouches-du-Rhône et le Vaucluse.",
-      "headline_only": false
-    },
-    {
       "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
       "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
       "source": "CNBC",
@@ -537,6 +753,18 @@
       "published": "2026-08-21T15:59:25+00:00",
       "summary": "Broadcom is in talks to raise upwards of $70 to $80 billion in debt for a chip financing deal, CNBC's David Faber reported on Friday.",
       "headline_only": false
+    },
+    {
+      "title": "Tesla and others begin record vehicle recall in China - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-21T15:58:55+00:00",
+      "summary": "Tesla and others begin record vehicle recall in China &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "En Ethiopie, l’escalade de la violence met à mal un secteur de la santé exsangue",
@@ -560,18 +788,6 @@
       "lang": "EN",
       "published": "2026-08-21T15:57:54+00:00",
       "summary": "Five-time major champion Sinner, who won the US Open in 2024, will not be competing at Flushing Meadows this year.",
-      "headline_only": false
-    },
-    {
-      "title": "Trump to allow import of 300,000 metric tons of ground beef without tariff",
-      "link": "https://www.cnbc.com/2026/08/21/trump-ground-beef-import-tariff.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-21T15:56:37+00:00",
-      "summary": "Beef prices in the U.S have soared in 2026 due to a reduction in the nation's cattle herd.",
       "headline_only": false
     },
     {
@@ -635,30 +851,6 @@
       "headline_only": false
     },
     {
-      "title": "Russell on pole position for Dutch GP sprint race",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/c8xn09wkw79o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-21T15:43:31+00:00",
-      "summary": "Mercedes' George Russell secures pole position for the Dutch Grand Prix sprint race, ahead of Lando Norris and Charles Leclerc.",
-      "headline_only": false
-    },
-    {
-      "title": "Several injured after sword attack at Swedish school",
-      "link": "https://www.bbc.co.uk/news/articles/c3r0g7gj2n3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-21T15:42:47+00:00",
-      "summary": "Police say one man has been arrested, while several other local schools have been locked down.",
-      "headline_only": false
-    },
-    {
       "title": "England romp to three-day win as new Test era starts in style",
       "link": "https://www.skysports.com/cricket/news/12040/13575406/england-thrash-pakistan-inside-three-days-as-joe-roots-second-era-as-captain-starts-with-innings-win-at-headingley",
       "source": "Sky Sports",
@@ -716,18 +908,6 @@
       "lang": "EN",
       "published": "2026-08-21T15:34:06+00:00",
       "summary": "Premier Wab Kinew's comments signal a tough battle for Prime Minister Mark Carney to get buy-in from Canadians on a possible trade deal with the US.",
-      "headline_only": false
-    },
-    {
-      "title": "L’assurance maladie reconnaît officiellement le «syndrome de fatigue chronique», et ne le qualifie plus de trouble psychiatrique",
-      "link": "https://www.liberation.fr/societe/sante/lassurance-maladie-reconnait-officiellement-le-syndrome-de-fatigue-chronique-et-ne-le-qualifie-plus-de-trouble-psychiatrique-20260821_QIGDXKD4LJEATBFBF4MXMTDSPE/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-21T15:33:07+00:00",
-      "summary": "L’encéphalomyélite myalgique se traduit par un épuisement quotidien et très invalidant. Les associations saluent ce changement effectué au début du mois d’août, une première étape pour mieux prendre en charge les malades, plusieurs centaines de milliers en France selon les…",
       "headline_only": false
     },
     {
@@ -896,18 +1076,6 @@
       "lang": "FR",
       "published": "2026-08-21T15:20:24+00:00",
       "summary": "L’affaire porte sur des incidents survenus en Europe de 2020 à 2022, à la suite d’une plainte déposée en France. Il s’agit de la deuxième plus importante sanction jamais infligée au titre du RGPD.",
-      "headline_only": false
-    },
-    {
-      "title": "Après deux mois d’absence, la main de Paul Biya de retour au Cameroun",
-      "link": "https://www.liberation.fr/international/afrique/apres-deux-mois-dabsence-paul-biya-93-ans-est-rentre-au-cameroun-20260820_7YFB2GDUPJBFNMJUXAM67XBFZE/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-21T15:20:04+00:00",
-      "summary": "Le doyen des chefs d’Etat dans le monde est rentré jeudi 20 août à Yaoundé après un «court séjour privé» de 74 jours à Genève. La seule image de son arrivée aura été un salut glissé à travers la vitre de son véhicule. En coulisses, la bataille de succession se prépare.",
       "headline_only": false
     },
     {
@@ -1127,30 +1295,6 @@
       "headline_only": false
     },
     {
-      "title": "Trump tariff deadline looms as U.S. and Canada say final trade deal is near",
-      "link": "https://www.cnbc.com/2026/08/21/trump-canada-tariffs-trade-deal-deadline.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-21T14:53:47+00:00",
-      "summary": "Businesses have warned that Trump's new 50% duties could cripple their U.S. sales if they take effect.",
-      "headline_only": false
-    },
-    {
-      "title": "Weekend Winners: Kate, Sam and Declan have their say on the Ebor",
-      "link": "https://www.skysports.com/racing/news/12040/13575444/super-sprint-tips-kate-sam-and-dec-make-three-different-cases-in-the-york-feature",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-21T14:52:00+00:00",
-      "summary": "The panel of Kate Tracey, Sam Boswell and Declan Rix paid special attention to York&#8217;s feature event, the Sky Bet Ebor Handicap.",
-      "headline_only": false
-    },
-    {
       "title": "Citadel offloads 80% of portfolio scooped up from Situational Awareness",
       "link": "https://www.ft.com/content/1603577e-89d8-4cfa-884b-b83fbb8dd20e?syn-25a6b1a6=1",
       "source": "Financial Times (headlines only – paywalled)",
@@ -1211,18 +1355,6 @@
       "headline_only": false
     },
     {
-      "title": "L’OM à l’aube d’une saison de doutes, après le départ de plusieurs joueurs-clés",
-      "link": "https://www.lemonde.fr/sport/article/2026/08/21/l-om-a-l-aube-d-une-saison-de-doutes-apres-le-depart-de-plusieurs-joueurs-cles_6752257_3242.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-21T14:45:03+00:00",
-      "summary": "L’Olympique de Marseille accueille Strasbourg, vendredi, en ouverture du championnat de France de football. Le club phocéen, sans garantie sur sa pérennité financière, a été contraint cet été de vendre une partie des stars de son effectif sans pouvoir se renforcer.",
-      "headline_only": false
-    },
-    {
       "title": "FIFA suspends Argentina's Paredes for 10 games over World Cup final clashes",
       "link": "https://www.france24.com/en/sport/20260821-fifa-suspends-argentina-s-paredes-for-10-games-over-world-cup-final-clashes",
       "source": "France 24",
@@ -1235,18 +1367,6 @@
       "headline_only": false
     },
     {
-      "title": "Fury says fight with Joshua looks unlikely with venue yet to be agreed",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/tyson-fury-anthony-joshua-fight-boxing-venue-date-unlikely-hearn?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-21T14:38:45+00:00",
-      "summary": "The all-British, much anticipated boxing showdown between Fury and Joshua was scheduled for November.",
-      "headline_only": false
-    },
-    {
       "title": "Tesla forced to recall record 3 million cars in China over door-handle issue",
       "link": "https://www.scmp.com/business/china-evs/article/3364887/tesla-forced-recall-record-3-million-cars-china-over-door-handle-issue?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -1256,18 +1376,6 @@
       "lang": "EN",
       "published": "2026-08-21T14:38:14+00:00",
       "summary": "Tesla has issued the largest-ever product recall in mainland China’s electric vehicle (EV) market, as Elon Musk’s firm pledges to fix a door-handle issue affecting nearly 3 million cars. The massive recall comes as Chinese regulators move to ban retractable car door handles…",
-      "headline_only": false
-    },
-    {
-      "title": "Manchester City’s Maresca admits he needs time as Bournemouth visit in EPL",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/manchester-citys-maresca-admits-he-needs-time-after-big-changes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-21T14:36:24+00:00",
-      "summary": "Enzo Maresca replaced Pep Guardiola between seasons but says Man City may need patience before more trophies arrive.",
       "headline_only": false
     },
     {
@@ -1331,6 +1439,18 @@
       "headline_only": false
     },
     {
+      "title": "US and Canada haggle over trade deal as midnight tariffs threat looms",
+      "link": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+      "source": "Financial Times (headlines only – paywalled)",
+      "source_id": "ft-headlines",
+      "category": "finance",
+      "region": "UK/Europe",
+      "lang": "EN",
+      "published": "2026-08-21T14:24:09+00:00",
+      "summary": "Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner",
+      "headline_only": true
+    },
+    {
       "title": "Airbus bows to remote working demands after series of strikes",
       "link": "https://www.theguardian.com/business/2026/aug/21/airbus-bows-remote-working-strikes",
       "source": "The Guardian – Business",
@@ -1340,18 +1460,6 @@
       "lang": "EN",
       "published": "2026-08-21T14:20:08+00:00",
       "summary": "Aeroplane maker said to have watered down plans to restrict working from home to one day a week Airbus has bowed to employee demands on remote working, after a series of strikes over its chief executive’s return-to-the office orders. The world’s largest aeroplane maker is said…",
-      "headline_only": false
-    },
-    {
-      "title": "Djibouti Football Federation accused of misusing funds from FIFA",
-      "link": "https://www.aljazeera.com/sports/2026/8/21/djibouti-football-federation-accused-misusing-funds-fifa?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-21T14:18:23+00:00",
-      "summary": "FIFA and CAF provides more than $1m a year to Djibouti&#039;s federation, which faces corruption allegations over misuse.",
       "headline_only": false
     },
     {
@@ -1427,18 +1535,6 @@
       "headline_only": true
     },
     {
-      "title": "'Difficult decision' as Sinner withdraws from US Open",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/cvgw2qg3e70o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-21T14:05:08+00:00",
-      "summary": "World number one Jannik Sinner pulls out of the upcoming US Open with a knee injury.",
-      "headline_only": false
-    },
-    {
       "title": "A party, 101 princesses and an eccentric millionaire: Jon Ronson on a mysterious castle – and what it taught him about masculinity in crisis",
       "link": "https://www.theguardian.com/society/2026/aug/21/jon-ronson-chris-mark-mysterious-connecticut-castle-masculinity-crisis",
       "source": "The Guardian – Society",
@@ -1499,30 +1595,6 @@
       "headline_only": false
     },
     {
-      "title": "War on Iran: The US could focus on economically isolating Iran",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/war-on-iran-the-us-could-focus-on-economically-isolating-iran?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-21T13:59:28+00:00",
-      "summary": "The US Treasury Secretary, has indicated a change in US strategy towards Iran, focusing on economic isolation.",
-      "headline_only": false
-    },
-    {
-      "title": "Tesla and others begin record vehicle recall in China - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQjEyamNWRHVrWi10M3pudDZBWVhwa1pMU2MtRkhpY1BEUEVab1lOaVljX296UVVraG9vcUVOczZndEFfVXp4Y0lEdUpzX2tHMERTMGFsYnQ4UklkMVBRbGx1RElGbFRDdGVsazdUVlhuQjQ3NU9XTXNaMFlqNi1GWFdXV01zWjFVZ0pRaklBdFFuRnFVOElxSG1YVHlKNWFY?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-21T13:58:40+00:00",
-      "summary": "Tesla and others begin record vehicle recall in China &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Ukraine's farmers struggle to sell harvest amid war, drought",
       "link": "https://www.dw.com/en/ukraine-s-farmers-struggle-to-sell-harvest-amid-war-drought/a-78435344?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -1568,18 +1640,6 @@
       "lang": "EN",
       "published": "2026-08-21T13:48:16+00:00",
       "summary": "How China eased pressure on oil markets by halting purchases and relying on reserves The closure of the&nbsp; Strait of Hormuz &nbsp;should, in principle, have caused a far greater shock to oil markets than it has. This, in large part, is due to&nbsp; China’s &nbsp;policy of…",
-      "headline_only": false
-    },
-    {
-      "title": "Several people injured in sword attack at school in Sweden",
-      "link": "https://www.aljazeera.com/news/2026/8/21/several-people-injured-in-sword-attack-at-swedish-school?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-21T13:48:09+00:00",
-      "summary": "One person has been taken into custody after the attack at a high school in Fagersta, local authorities said.",
       "headline_only": false
     },
     {
@@ -1751,18 +1811,6 @@
       "headline_only": false
     },
     {
-      "title": "'Keep on running!' Fury claims AJ fight in doubt",
-      "link": "https://www.skysports.com/boxing/news/12040/13575393/tyson-fury-claims-anthony-joshua-fight-in-serious-doubt-after-his-british-rival-asked-for-more-money",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-21T13:05:00+00:00",
-      "summary": "Tyson Fury has claimed his fight against Anthony Joshua is now in serious doubt after his British heavyweight rival asked for 'more money'.",
-      "headline_only": false
-    },
-    {
       "title": "'He hates Palestine': West Ham urges fans to drop chant about Solomon's pro‑Israel stance",
       "link": "https://www.middleeasteye.net/news/he-hates-palestine-west-ham-urges-fans-drop-chant-solomon-pro%E2%80%91israel-stance",
       "source": "Middle East Eye",
@@ -1881,18 +1929,6 @@
       "published": "2026-08-21T12:30:04+00:00",
       "summary": "The question is more important than the answer",
       "headline_only": true
-    },
-    {
-      "title": "Belgium condemns Israel’s E1 settlement expansion",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/belgium-condemns-israels-e1-settlement-expansion",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-21T12:20:50+00:00",
-      "summary": "Belgium condemns Israel’s E1 settlement expansion Belgium has condemned Israel’s decision to advance settlement construction in the E1 area of the occupied West Bank, warning that the project would further fragment Palestinian territory. In a joint statement issued on Friday,…",
-      "headline_only": false
     },
     {
       "title": "How can Spurs afford all these players?",
@@ -2049,18 +2085,6 @@
       "published": "2026-08-21T10:51:12+00:00",
       "summary": "How Tether's bitcoin mining plans in Uruguay unraveled &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "North Korea: Will Trump-Kim talks happen anytime soon?",
-      "link": "https://www.dw.com/en/north-korea-will-trump-kim-talks-happen-anytime-soon/a-78456342?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-08-21T10:47:00+00:00",
-      "summary": "As Donald Trump claims a meeting is planned with Kim Jong Un, North Korea's response sends a signal that it wants maximum concessions in return for talks with the US.",
-      "headline_only": false
     },
     {
       "title": "Pakistan ex-PM Imran Khan back in jail after hospital examination",
@@ -2447,18 +2471,6 @@
       "headline_only": false
     },
     {
-      "title": "Teenage boy charged with alleged murder of 13-year-old girl fronts court",
-      "link": "https://www.abc.net.au/news/2026-08-21/teenage-boy-charged-with-teen-girls-murder-childrens-court/107062512",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-21T07:51:50+00:00",
-      "summary": "The teenage boy charged with 13-year-old Layla Jeffery's murder faces a Children's Court.",
-      "headline_only": false
-    },
-    {
       "title": "Panama Canal to cut number of ships passing through due to El Niño",
       "link": "https://www.bbc.co.uk/news/articles/cwyl0jkxxryo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Business",
@@ -2601,18 +2613,6 @@
       "published": "2026-08-21T04:16:12+00:00",
       "summary": "Le président iranien Massoud Pezeshkian a estimé vendredi qu'il était temps de mettre fin à la guerre avec les États-Unis, affirmant que Téhéran était actuellement « en position de force ». Une déclaration qui intervient alors que Washington durcit sa pression économique sur…",
       "headline_only": false
-    },
-    {
-      "title": "Bessent takes on bond vigilantes in $32tn Treasury market",
-      "link": "https://www.ft.com/content/f01ff762-3e68-4bac-bb73-6f35a6bf2771?syn-25a6b1a6=1",
-      "source": "Financial Times (headlines only – paywalled)",
-      "source_id": "ft-headlines",
-      "category": "finance",
-      "region": "UK/Europe",
-      "lang": "EN",
-      "published": "2026-08-21T04:00:21+00:00",
-      "summary": "Wall Street investors say move to buy more long-term US debt is a ‘band-aid on a bullet hole’",
-      "headline_only": true
     },
     {
       "title": "Feminism didn’t kill the male breadwinner model, the economy did",
