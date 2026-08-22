@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-22T14:59:33.971366+00:00",
+  "updated_at": "2026-08-22T15:57:46.210049+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:40:58.326948+00:00"
+      "last_success": "2026-08-22T15:43:56.940715+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:40:58.559374+00:00"
+      "last_success": "2026-08-22T15:43:57.128200+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:40:58.841616+00:00"
+      "last_success": "2026-08-22T15:43:57.342892+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:40:58.973288+00:00"
+      "last_success": "2026-08-22T15:43:57.520098+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:40:59.082985+00:00"
+      "last_success": "2026-08-22T15:43:57.639468+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:40:59.194222+00:00"
+      "last_success": "2026-08-22T15:43:57.746895+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:40:59.702950+00:00"
+      "last_success": "2026-08-22T15:43:58.084563+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-22T14:40:59.982218+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:00.763118+00:00"
+      "last_success": "2026-08-22T15:43:58.748437+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:00.949425+00:00"
+      "last_success": "2026-08-22T15:43:58.859147+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:01.212826+00:00"
+      "last_success": "2026-08-22T15:43:59.121346+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:01.433092+00:00"
+      "last_success": "2026-08-22T15:43:59.190161+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:01.791401+00:00"
+      "last_success": "2026-08-22T15:43:59.498674+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:02.380116+00:00"
+      "last_success": "2026-08-22T15:43:59.734215+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:02.688984+00:00"
+      "last_success": "2026-08-22T15:43:59.909033+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:03.092763+00:00"
+      "last_success": "2026-08-22T15:44:00.384367+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:04.186117+00:00"
+      "last_success": "2026-08-22T15:44:05.246475+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:04.505939+00:00"
+      "last_success": "2026-08-22T15:44:08.736429+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:05.007727+00:00"
+      "last_success": "2026-08-22T15:44:09.119189+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:05.325441+00:00"
+      "last_success": "2026-08-22T15:44:09.429807+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:05.921470+00:00"
+      "last_success": "2026-08-22T15:44:09.828495+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:06.129365+00:00"
+      "last_success": "2026-08-22T15:44:10.159070+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:06.295860+00:00"
+      "last_success": "2026-08-22T15:44:10.253273+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:06.510187+00:00"
+      "last_success": "2026-08-22T15:44:10.436857+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:41:07.437456+00:00"
+      "last_success": "2026-08-22T15:44:11.092717+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:59:31.045314+00:00"
+      "last_success": "2026-08-22T15:57:43.899177+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:59:31.610846+00:00"
+      "last_success": "2026-08-22T15:57:44.458771+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,65 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:59:32.630365+00:00"
+      "last_success": "2026-08-22T15:57:45.324942+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:59:33.016580+00:00"
+      "last_success": "2026-08-22T15:57:45.491612+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:59:33.403358+00:00"
+      "last_success": "2026-08-22T15:57:45.725710+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T14:59:33.971216+00:00"
+      "last_success": "2026-08-22T15:57:46.209830+00:00"
     }
   },
   "article_count": 297,
   "articles": [
+    {
+      "title": "Daiquiri keeps rivals at Bay in thrilling Ebor",
+      "link": "https://www.skysports.com/racing/news/12040/13575927/york-daiquiri-bay-fends-off-rivals-to-land-thrilling-ebor-on-the-knavesmire",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T16:43:00+00:00",
+      "summary": "Daiquiri Bay followed up Royal Ascot success with another lucrative victory in the Sky Bet Ebor at York.",
+      "headline_only": false
+    },
+    {
+      "title": "Norris beats Russell to Dutch GP pole",
+      "link": "https://www.skysports.com/f1/news/12040/13575698/dutch-gp-lando-norris-beats-george-russell-and-kimi-antonelli-to-zandvoort-pole-as-lewis-hamilton-struggles",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T16:18:00+00:00",
+      "summary": "Lando Norris beat Mercedes duo George Russell and Kimi Antonelli to pole position at the Dutch Grand Prix in a hectic end to qualifying.",
+      "headline_only": false
+    },
+    {
+      "title": "Norris beats Russell to pole position at Zandvoort",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/cgr7rwqyn0xo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T15:41:26+00:00",
+      "summary": "Lando Norris beats George Russell to pole position at the Dutch Grand Prix in a frantic scramble to complete laps before a late shower of rain.",
+      "headline_only": false
+    },
     {
       "title": "Dream Team! Serena Williams to team up with Alcaraz for US Open mixed doubles",
       "link": "https://www.skysports.com/tennis/news/12040/13575872/serena-williams-tennis-icon-to-team-up-with-carlos-alcaraz-for-us-open-mixed-doubles-tournament",
@@ -263,6 +299,102 @@
       "headline_only": false
     },
     {
+      "title": "Carrick defends dismal Man Utd loss: 'We did some good things'",
+      "link": "https://www.skysports.com/football/news/12040/13575881/michael-carrick-insists-man-utd-did-some-good-things-despite-dismal-hull-defeat-on-opening-premier-league-weekend",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T15:36:00+00:00",
+      "summary": "Man Utd boss Michael Carrick focused on the \"good things\" his side had done despite a dismal 2-0 defeat at newly-promoted Hull City on the opening day of the new season.",
+      "headline_only": false
+    },
+    {
+      "title": "Matthieu Pigasse assure qu’il y a « pas mal de convergences » entre lui et les « insoumis », pendant les universités d’été de LFI",
+      "link": "https://www.lemonde.fr/politique/article/2026/08/22/matthieu-pigasse-assure-qu-il-y-a-pas-mal-de-convergences-entre-lui-et-les-insoumis-pendant-les-universites-d-ete-de-lfi_6753471_823448.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T15:34:03+00:00",
+      "summary": "Comme lors de son débat chez les Ecologistes vendredi, le banquier d’affaires millionnaire a martelé samedi son impression que la France était actuellement dans une période « prérévolutionnaire », une analyse répétée depuis longtemps par Jean-Luc Mélenchon.",
+      "headline_only": false
+    },
+    {
+      "title": "Daiquiri Bay wins Ebor in three-way sprint finish",
+      "link": "https://www.bbc.co.uk/sport/horse-racing/articles/c62q2wdpgr6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T15:32:04+00:00",
+      "summary": "Daiquiri Bay edges out Hopewell Rock and Opportunity in a three-way sprint finish at York to win the Ebor Handicap.",
+      "headline_only": false
+    },
+    {
+      "title": "États-Unis: la justice déclare illégal le gel des visas imposé par Donald Trump à 75 pays",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260822-%C3%A9tats-unis-la-justice-d%C3%A9clare-ill%C3%A9gal-le-gel-des-visas-impos%C3%A9-par-donald-trump-%C3%A0-75-pays",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T15:23:28+00:00",
+      "summary": "Une juge fédérale américaine a déclaré illégal, ce vendredi 21 août 2026, le gel des procédures des visas permettant de résider de manière permanente aux États-Unis, décrété par Donald Trump en janvier dernier pour 75 pays. Un nouveau revers infligé à la politique de lutte…",
+      "headline_only": false
+    },
+    {
+      "title": "Familles de France et la CGT s’inquiètent des pistes d’économies envisagées sur les politiques familiales",
+      "link": "https://www.liberation.fr/societe/familles/familles-de-france-et-la-cgt-sinquietent-des-pistes-deconomies-envisagees-sur-les-politiques-familiales-20260822_YN6BYSH2QRDMRBKMCSZ3RU7TQA/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T15:19:00+00:00",
+      "summary": "La CGT accuse notamment le gouvernement de préparer «des économies au détriment des familles et des étudiants». Un rapport de deux inspections générales préconise jusqu’à 4,2 milliards d’économies.",
+      "headline_only": false
+    },
+    {
+      "title": "Guilt, grief and strength: Gaza’s ‘sole survivor’ children face life alone",
+      "link": "https://www.middleeasteye.net/news/guilt-grief-and-strength-gazas-sole-survivor-children-face-life-alone",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-22T15:10:57+00:00",
+      "summary": "Guilt, grief and strength: Gaza’s ‘sole survivor’ children face life alone Submitted by Huda Skaik on Fri, 08/21/2026 - 13:25 Thousands of children who lost their families in Israeli strikes navigate grief, trauma and adulthood with little support A Palestinian mourns the death…",
+      "headline_only": false
+    },
+    {
+      "title": "A Ceuta, un hébergement d’urgence enfin aménagé pour les 2 000 migrants restés sur place",
+      "link": "https://www.liberation.fr/international/afrique/a-ceuta-un-hebergement-durgence-enfin-amenage-pour-les-2-000-migrants-restes-sur-place-20260822_E3OC3PVQVZGE7M5RBV6Y36NJ2E/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T15:09:32+00:00",
+      "summary": "Trois semaines après l’afflux de 70 000 personnes dans l’enclave espagnole du Maroc, ceux qui s’y trouvent toujours peuvent dormir sous un toit. Mais leur sort reste en suspens, notamment pour 500 mineures vulnérables, en raison d’une instrumentalisation politique.",
+      "headline_only": false
+    },
+    {
+      "title": "Colombie: le nouveau gouvernement va relancer les exportations de charbon vers Israël",
+      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260822-colombie-le-nouveau-gouvernement-va-relancer-les-exportations-de-charbon-vers-isra%C3%ABl",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T15:07:09+00:00",
+      "summary": "La Colombie va relancer ses exportations de charbon vers Israël, a annoncé le ministre colombien du Commerce vendredi 21 août 2026. Une nouvelle étape dans le rapprochement entre les deux pays depuis l'élection d'Aberlardo de la Espriella, nouveau président colombien d'extrême…",
+      "headline_only": false
+    },
+    {
       "title": "Notable Speech clinches City Of York crown for Appleby",
       "link": "https://www.skysports.com/racing/news/12040/13575863/york-notable-speech-shines-in-city-of-york-stakes-for-charlie-appleby",
       "source": "Sky Sports",
@@ -272,6 +404,18 @@
       "lang": "EN",
       "published": "2026-08-22T15:07:00+00:00",
       "summary": "Notable Speech bounced back to his brilliant best to claim his sixth Group One victory in the Sky Bet City of York Stakes.",
+      "headline_only": false
+    },
+    {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-22T15:00:27+00:00",
+      "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
       "headline_only": false
     },
     {
@@ -299,6 +443,66 @@
       "headline_only": true
     },
     {
+      "title": "Au Mans, l’arrivée en Ligue 1 redonne du lustre au stade Marie-Marvingt, premier « éléphant blanc » de France",
+      "link": "https://www.lemonde.fr/sport/article/2026/08/22/au-mans-l-arrivee-en-ligue-1-redonne-du-lustre-au-stade-marie-marvingt-premier-elephant-blanc-de-france_6753437_3242.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T14:45:11+00:00",
+      "summary": "Inaugurée en 2011, l’imposante enceinte a rapidement été sous-utilisée après la liquidation judiciaire du club sarthois, deux ans plus tard. Elle va accueillir son premier match de Ligue 1, samedi, lors de la rencontre du Mans face à Brest.",
+      "headline_only": false
+    },
+    {
+      "title": "Iran says repair of South Pars refinery 70 percent complete",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-says-repair-south-pars-refinery-70-percent-complete",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-22T14:43:28+00:00",
+      "summary": "Iran says repair of South Pars refinery 70 percent complete The repair of Iran's South Pars Phase 14 gas refinery, hit during an Israeli attack in June last year, is 70 percent complete, the Pars Oil and Gas Company's chief executive said, according to Iran's oil ministry news…",
+      "headline_only": false
+    },
+    {
+      "title": "Kazakhstan's future after the elections: Russia, EU or China",
+      "link": "https://www.dw.com/en/kazakhstan-s-future-after-the-elections-russia-eu-or-china/a-78449637?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-08-22T14:42:00+00:00",
+      "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
+      "headline_only": false
+    },
+    {
+      "title": "Sword attack in Sweden that killed 1 prompts probe into social media",
+      "link": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-one-prompts-probe-social-media?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-22T14:41:45+00:00",
+      "summary": "Swedish police are investigating whether an 18-year-old man who attacked students at a high school with a sword on Friday, killing one, was involved in online communities promoting school violence, a police source said. The attacker struck at a school in the central ‌Swedish…",
+      "headline_only": false
+    },
+    {
+      "title": "Williams and Alcaraz to play US Open mixed doubles",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T14:41:20+00:00",
+      "summary": "Serena Williams will pair up with Carlos Alcaraz for the mixed doubles at the US Open at Flushing Meadows.",
+      "headline_only": false
+    },
+    {
       "title": "Israeli forces reportedly use phosphorus shells in attacks on southern Lebanon",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-reportedly-use-phosphorus-shells-attacks-southern-lebanon",
       "source": "Middle East Eye",
@@ -323,7 +527,19 @@
       "headline_only": false
     },
     {
-      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike, reports say",
+      "title": "Israeli drone strike on ‘civilian vehicle’ injures several in Syria",
+      "link": "https://www.aljazeera.com/news/2026/8/22/israeli-drone-strike-on-civilian-vehicle-causes-injuries-in-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-22T14:37:40+00:00",
+      "summary": "Syria condemns attack in southwest as a &#039;flagrant violation of sovereignty&#039; and a &#039;blatant breach of international law&#039;.",
+      "headline_only": false
+    },
+    {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
       "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "source_id": "bbc-world",
@@ -344,18 +560,6 @@
       "lang": "EN",
       "published": "2026-08-22T14:35:00+00:00",
       "summary": "The blaze, near Valencia, forced more than 1,000 people from their homes. In nearby Catalonia, civil defense teams carried out 200 rescue operations after floods trapped residents in cars and homes.",
-      "headline_only": false
-    },
-    {
-      "title": "Williams and Alcaraz to play US Open mixed doubles",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c4g3gp9k2njo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T14:34:36+00:00",
-      "summary": "Serena Williams will pair up with Carlos Alcaraz for the mixed doubles at the US Open at Flushing Meadows.",
       "headline_only": false
     },
     {
@@ -479,7 +683,7 @@
       "headline_only": false
     },
     {
-      "title": "Dutch GP: Norris on provisional pole from Russell LIVE!",
+      "title": "Dutch GP: Norris snatches pole from Russell, Antonelli LIVE!",
       "link": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend",
       "source": "Sky Sports",
       "source_id": "sky-sports",
@@ -488,18 +692,6 @@
       "lang": "EN",
       "published": "2026-08-22T14:16:00+00:00",
       "summary": "",
-      "headline_only": false
-    },
-    {
-      "title": "Millwall ease past 10-man Norwich",
-      "link": "https://www.skysports.com/football/millwall-vs-norwich-city/report/560514",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T14:15:00+00:00",
-      "summary": "Tairyk Arconte scored his first two goals for Millwall as they breezed past 10-man Norwich 3-0 to make it two wins from two in the Sky Bet Championship this season.",
       "headline_only": false
     },
     {
@@ -515,16 +707,16 @@
       "headline_only": false
     },
     {
-      "title": "Israël affirme que les critiques américaines sur ses frappes en Syrie sont « pleines d’inexactitudes »",
-      "link": "https://www.lemonde.fr/international/article/2026/08/22/israel-affirme-que-les-critiques-americaines-sur-ses-frappes-en-syrie-sont-pleines-d-inexactitudes_6753404_3210.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T14:00:29+00:00",
-      "summary": "L’envoyé spécial américain en Syrie, également ambassadeur en Turquie, Tom Barrack, a critiqué une frappe israélienne menée mardi contre une base militaire syrienne, accusant l’Etat hébreu d’« escalade inutile ».",
-      "headline_only": false
+      "title": "Hull stun Manchester United 2-0 on Premier League return - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONkNEcEVKSFZQVFBPWmdRblhfM19wRHdGbTc0WXZkMVI2YWwxTzdrWE0wWWVPSkdnclJVbm9XVTFpemhzczBhZk1PZjExYi1oanRRYkw4eENtRC1CUzA0WFNxMTJhNEdRaVo5RlZYdXpuQlRlV0dFanV1cG8ycWJnWEVmbGNwTGl5WnQtZl9oOENUZ3dYWVpSUDc1bGtULXBGYnpwcDVn?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-22T14:03:38+00:00",
+      "summary": "Hull stun Manchester United 2-0 on Premier League return &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Why China may have little to lose as ‘weakened’ Trump seeks North Korea talks",
@@ -536,6 +728,18 @@
       "lang": "EN",
       "published": "2026-08-22T14:00:07+00:00",
       "summary": "China may have “little to lose” from talks between the United States and North Korea which, analysts say, may lead to Washington watering down its security commitments. US President Donald Trump has already ordered the Pentagon to “substantially reduce” the scale of the annual…",
+      "headline_only": false
+    },
+    {
+      "title": "38-year-old runs a mobile pizzeria out of his Smart car in New York City: It's 'like a circus or a magic act'",
+      "link": "https://www.cnbc.com/2026/08/22/bradley-alvelo-runs-pizza-pod-mobile-pizzeria-smart-car-new-york-city.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-22T14:00:01+00:00",
+      "summary": "\"Pizza Pod started with a pretty ridiculous idea: What if I could turn a tiny Smart car into a mobile pizzeria?\" says founder Bradley Alvelo.",
       "headline_only": false
     },
     {
@@ -563,7 +767,7 @@
       "headline_only": false
     },
     {
-      "title": "Ukraine strikes Russian retail warehouse in wave of drone attacks",
+      "title": "Ukraine's deadly strikes on Russia open 'Pandora's Box', Putin says",
       "link": "https://www.abc.net.au/news/2026-08-22/civilians-killed-in-ukrainian-drone-strikes-over-russia-/107067556",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -573,18 +777,6 @@
       "published": "2026-08-22T13:52:25+00:00",
       "summary": "Ukraine has launched drone attacks targeting a Russian oil refinery and a online retail warehouse, while Russia continues its campaign of missile attacks on Kyiv.",
       "headline_only": false
-    },
-    {
-      "title": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGw0X0lOUmZESVVqMWhVeV84V3ptaFJTWDhqSzdPUm9CUEF5QmppQUExYWVwN09OZjhqYnpOcUxaRDZHdngzTHNaWWtPZy1namVHODNULWtCNkpSV0hvSmRfMkRFeXQ2bkNIR05qQUFSdzc4bWV4ZFZud0ppWWVGQVVnbTR0ZXhSMUVWQ3Y5ZXluc1VrUXh6NUhmNEJ2RDAzdElkMjZKS3lqMXNHdHR1ZlJB?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-22T13:51:03+00:00",
-      "summary": "Let there be sunlight: Vatican plans solar and agriculture plant to cover its electricity needs &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "Aux universités d’été insoumise et écologiste, le vent du rapprochement",
@@ -647,7 +839,7 @@
       "headline_only": false
     },
     {
-      "title": "Israelis says Syria air base strike motivated by alleged Turkish plans to deploy forces there",
+      "title": "Israel says Syria air base strike motivated by alleged Turkish plans to deploy forces there",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/katz-says-syria-air-base-strike-motivated-alleged-turkish-plans-deploy",
       "source": "Middle East Eye",
       "source_id": "middleeasteye",
@@ -655,7 +847,7 @@
       "region": "MENA",
       "lang": "EN",
       "published": "2026-08-22T13:41:32+00:00",
-      "summary": "Israelis says Syria air base strike motivated by alleged Turkish plans to deploy forces there Israeli defence minister Israel Katz has said that a strike on northwestern Syria’s Abu Duhur military airport was conducted due to alleged plans by Turkey to deploy troops there. Katz…",
+      "summary": "Israel says Syria air base strike motivated by alleged Turkish plans to deploy forces there Israeli defence minister Israel Katz has said that a strike on northwestern Syria’s Abu Duhur military airport was conducted due to alleged plans by Turkey to deploy troops there. Katz…",
       "headline_only": false
     },
     {
@@ -680,18 +872,6 @@
       "lang": "EN",
       "published": "2026-08-22T13:35:57+00:00",
       "summary": "Fires between January and July burned more than 200,000 hectares of land, says the government.",
-      "headline_only": false
-    },
-    {
-      "title": "Olivier Faure dit ne pas vouloir « rejouer les gauches irréconciliables », lors des Journées d’été des Ecologistes",
-      "link": "https://www.lemonde.fr/politique/article/2026/08/22/olivier-faure-dit-ne-pas-vouloir-rejouer-les-gauches-irreconciliables-lors-des-journees-d-ete-des-ecologistes_6753370_823448.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T13:33:26+00:00",
-      "summary": "« Aujourd’hui, personne à gauche, dans un deuxième tour, ne peut imaginer gagner sans l’ensemble des électeurs de gauche », a affirmé, samedi, le premier secrétaire du PS, qui pourrait participer à une primaire sociale-démocrate avec, parmi d’autres candidats, Raphaël Glucksmann.",
       "headline_only": false
     },
     {
@@ -887,18 +1067,6 @@
       "headline_only": false
     },
     {
-      "title": "How a physician with a 1 a.m. bedtime optimizes his health: I try to 'tick all the longevity boxes that I can'",
-      "link": "https://www.cnbc.com/2026/08/22/longevity-doctor-daily-habits-healthy-aging.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-22T13:05:01+00:00",
-      "summary": "Dr. Ronald Primas, a longevity physician, offers concierge services like developing personalized health plans for clients. Here are his own wellness practices.",
-      "headline_only": false
-    },
-    {
       "title": "Israeli army claims attack in southern Syria",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-army-claims-attack-southern-syria",
       "source": "Middle East Eye",
@@ -918,7 +1086,7 @@
       "category": "economics",
       "region": "France",
       "lang": "FR",
-      "published": "2026-08-22T13:00:06+00:00",
+      "published": "2026-08-22T13:00:05+00:00",
       "summary": "« François d’Assise, le saint contemporain » (6/6). Depuis son retour d’Egypte, François n’est plus un frère parmi d’autres. Nimbé d’une aura surnaturelle, il souffre de l’institutionnalisation de son ordre grandissant, sans s’y opposer frontalement.",
       "headline_only": false
     },
@@ -1091,18 +1259,6 @@
       "headline_only": false
     },
     {
-      "title": "Au Japon, la faiblesse de la réaction du gouvernement aux sanctions américaines contre la présidente de la CPI ne passe pas",
-      "link": "https://www.lemonde.fr/international/article/2026/08/22/au-japon-la-faiblesse-de-la-reaction-du-gouvernement-aux-sanctions-americaines-contre-la-presidente-de-la-cpi-ne-passe-pas_6753301_3210.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T12:30:06+00:00",
-      "summary": "La première ministre, Sanae Takaichi, s’est contentée de qualifier de « très regrettables » les restrictions imposées par l’administration Trump à la magistrate à la tête de la Cour pénale internationale, la Japonaise Tomoko Akane.",
-      "headline_only": false
-    },
-    {
       "title": "Thousands of Ervebo vaccine doses arrive in Ebola-stricken DRC",
       "link": "https://www.abc.net.au/news/2026-08-22/congo-receives-more-than-16-000-doses-of-ebola-vaccine/107067554",
       "source": "ABC News Australia",
@@ -1211,18 +1367,6 @@
       "headline_only": false
     },
     {
-      "title": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
-      "link": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T12:09:09+00:00",
-      "summary": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
-      "headline_only": false
-    },
-    {
       "title": "Warren Buffett Watch: It's Buffett, not Abel, who appears to be calling the shots on stocks",
       "link": "https://www.cnbc.com/2026/08/22/warren-buffett-not-greg-abel-appears-to-still-be-calling-the-shots-on-stocks.html",
       "source": "CNBC",
@@ -1307,7 +1451,7 @@
       "headline_only": false
     },
     {
-      "title": "West Ham behind; 10-man Leicester TRAIL Burton - EFL LIVE!",
+      "title": "West Ham miss late pen in defeat! 10-man Leicester lose to Burton - EFL LIVE!",
       "link": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/live/560520",
       "source": "Sky Sports",
       "source_id": "sky-sports",
@@ -1316,18 +1460,6 @@
       "lang": "EN",
       "published": "2026-08-22T12:00:00+00:00",
       "summary": "",
-      "headline_only": false
-    },
-    {
-      "title": "Promising signs for new England but Pakistan absolutely dire",
-      "link": "https://www.skysports.com/cricket/news/12040/13575703/england-vs-pakistan-joe-roots-captaincy-and-harry-brooks-maturity-promising-for-hosts-in-first-test-as-tourists-outclassed",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T12:00:00+00:00",
-      "summary": "Joe Root's return match as England Test captain could hardly have gone better - a three-day win and a weekend off.",
       "headline_only": false
     },
     {
@@ -1367,42 +1499,6 @@
       "headline_only": false
     },
     {
-      "title": "Over 350,000 people in need of medicines in Gaza: Palestinian Medical Relief Society",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/over-350000-people-need-medicines-gaza-palestinian-medical-relief",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-22T11:37:12+00:00",
-      "summary": "Over 350,000 people in need of medicines in Gaza: Palestinian Medical Relief Society Over 350,000 patients in Gaza need medicines, the head of&nbsp;the Palestinian Medical Relief Society,&nbsp;Mohammad Abu Afash, has warned. He told Al Jazeera that supplies in the territory are…",
-      "headline_only": false
-    },
-    {
-      "title": "​​​​​Russell wins Dutch Sprint to trim title gap to Antonelli",
-      "link": "https://www.skysports.com/f1/news/12040/13575695/dutch-gp-sprint-george-russell-wins-from-charles-leclerc-to-trim-f1-world-championship-deficit-to-kimi-antonelli-at-zandvoort",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T11:30:00+00:00",
-      "summary": "George Russell won the Dutch Grand Prix Sprint to maintain his perfect start to Formula 1's return to action and trim his championship deficit to Mercedes team-mate Kimi Antonelli.",
-      "headline_only": false
-    },
-    {
-      "title": "A Kobané, l’épineux processus d’intégration des zones kurdes à la Syrie d’Ahmed Al-Charaa",
-      "link": "https://www.lemonde.fr/international/article/2026/08/22/a-kobane-l-epineux-processus-d-integration-des-zones-kurdes-a-la-syrie-d-ahmed-al-charaa_6753296_3210.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T11:25:58+00:00",
-      "summary": "Après plus d’une décennie de guerre, les combattants kurdes ont vu s’effondrer leur rêve d’autonomie au Rojava, dans le nord du pays. Si l’intégration des Forces démocratiques syriennes et de l’Administration autonome du Nord-Est syrien est en bonne voie, l’incorporation…",
-      "headline_only": false
-    },
-    {
       "title": "Hong Kong-built greenhouse gas tracker device ‘functioning well’ on space station",
       "link": "https://www.scmp.com/news/hong-kong/society/article/3364930/hong-kong-built-greenhouse-gas-tracker-device-functioning-well-space-station?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -1412,18 +1508,6 @@
       "lang": "EN",
       "published": "2026-08-22T11:22:40+00:00",
       "summary": "A greenhouse gas monitoring instrument developed by a university in Hong Kong is operating successfully aboard the Tiangong space station and is expected to contribute to sustainable development, the city’s technology minister has said. Secretary for Innovation, Technology and…",
-      "headline_only": false
-    },
-    {
-      "title": "Israeli strike on Palestinian home kills at least one in central Gaza",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-palestinian-home-kills-least-one-central-gaza",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-22T11:22:30+00:00",
-      "summary": "Israeli strike on Palestinian home kills at least one in central Gaza At least one person has been killed and others wounded in an Israeli attack on a home in central Gaza's Deir el-Balah, Al Jazeera Arabic is reporting. The report cited&nbsp;Al-Aqsa Martyrs Hospital who…",
       "headline_only": false
     },
     {
@@ -1535,19 +1619,7 @@
       "headline_only": false
     },
     {
-      "title": "La ville de Paris annonce «la mise à l’abri» de 253 personnes d’un campement du centre de la capitale",
-      "link": "https://www.liberation.fr/societe/immigration/la-ville-de-paris-annonce-la-mise-a-labri-de-253-personnes-dun-campement-du-centre-de-la-capitale-20260822_DJYDVENB5JCKFMALGBE5PEGUUU/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T10:45:51+00:00",
-      "summary": "Taclant l’Etat pour son inaction, la mairie a décidé d’accueillir ce samedi les SDF, migrants et familles sans logement dans des gymnases. Certains avaient été évacués il y a plus d’une semaine du camp de fortune du Samu social.",
-      "headline_only": false
-    },
-    {
-      "title": "Russell wins Dutch GP sprint from pole position",
+      "title": "Mercedes' Russell secures Zandvoort sprint victory",
       "link": "https://www.bbc.co.uk/sport/formula1/articles/cn0n03rn711o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "source_id": "bbc-sport",
@@ -1595,18 +1667,6 @@
       "headline_only": false
     },
     {
-      "title": "Man hospitalised after bamboo scaffolding collapses in Sham Shui Po",
-      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3364927/man-hospitalised-after-bamboo-scaffolding-collapses-sham-shui-po?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T10:34:33+00:00",
-      "summary": "A Hong Kong man has been hospitalised after being trapped under collapsed bamboo scaffolding at a building in Sham Shui Po. Emergency services were called to 105-107 Nam Cheong Street at around 3.49pm on Saturday following reports of the incident. A section of scaffolding…",
-      "headline_only": false
-    },
-    {
       "title": "Ahead of tough new U.S. sanctions, Iran criticizes 'extraterritorial sovereignty'",
       "link": "https://www.cnbc.com/2026/08/22/iran-criticizes-us-sanctions-extraterritorial-sovereignty.html",
       "source": "CNBC",
@@ -1616,18 +1676,6 @@
       "lang": "EN",
       "published": "2026-08-22T10:34:23+00:00",
       "summary": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that the proposed economic measures will likely negate the need for major U.S. military operations.",
-      "headline_only": false
-    },
-    {
-      "title": "«On arrive» : quand les jeunes racisés bravent l’hostilité pour découvrir la montagne",
-      "link": "https://www.liberation.fr/sports/on-arrive-quand-les-jeunes-racises-bravent-lhostilite-pour-decouvrir-la-montagne-20260822_UXYDGFVNFRAZ3HMAVAZRDVVUDQ/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T10:23:00+00:00",
-      "summary": "En réponse à une vidéo haineuse sur les réseaux sociaux, de nombreux internautes mettent en avant leur attrait pour la randonnée. Ils doivent parfois braver un sentiment de «ne pas être les bienvenus» dans ces espaces généralement peu accessibles aux catégories populaires.",
       "headline_only": false
     },
     {
@@ -1643,18 +1691,6 @@
       "headline_only": false
     },
     {
-      "title": "En Grèce, l’île-prison de Gyaros est devenue un havre de biodiversité",
-      "link": "https://www.lemonde.fr/planete/article/2026/08/22/en-grece-l-ile-prison-de-gyaros-est-devenue-un-havre-de-biodiversite_6753228_3244.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T10:18:17+00:00",
-      "summary": "Au cœur de l’archipel des Cyclades, cette île qui fut longtemps terre de relégation s’est transformée en sanctuaire pour la faune sauvage, et notamment les phoques moines. L’aire marine est désormais officiellement protégée par un décret présidentiel.",
-      "headline_only": false
-    },
-    {
       "title": "Les dérives de l’Ultra-trail du Mont-Blanc",
       "link": "https://www.mediapart.fr/journal/france/220826/les-derives-de-l-ultra-trail-du-mont-blanc",
       "source": "Mediapart",
@@ -1664,6 +1700,18 @@
       "lang": "FR",
       "published": "2026-08-22T10:11:03+00:00",
       "summary": "L’ampleur de l’événement sportif, prévu du lundi 24 au dimanche 30 août, provoque aujourd’hui des critiques de plus en plus acerbes: trop de monde, trop de marques, trop d’impact sur l’environnement. L’association créatrice de la course s’est métamorphosée en une puissante…",
+      "headline_only": false
+    },
+    {
+      "title": "« Avant, on voyait ça comme un sport de Blancs » : en Afrique du Sud, l’engouement toujours plus important autour de l’équipe nationale de rugby",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/22/avant-on-voyait-ca-comme-un-sport-de-blancs-en-afrique-du-sud-l-engouement-toujours-plus-important-autour-de-l-equipe-nationale-de-rugby_6753161_3212.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T10:00:09+00:00",
+      "summary": "Les Springboks affrontent à domicile les All Blacks néo-zélandais, samedi 22 août. Le premier d’une série de trois matchs très attendus. En dix ans, l’équipe nationale est parvenue à fédérer un large public, exauçant le rêve porté par Nelson Mandela en 1995.",
       "headline_only": false
     },
     {
@@ -1703,6 +1751,18 @@
       "headline_only": false
     },
     {
+      "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-22T09:32:13+00:00",
+      "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
       "title": "Un navire sud-coréen à son tour sur la nouvelle route maritime de l'Arctique",
       "link": "https://www.rfi.fr/fr/asie-pacifique/20260822-un-navire-sud-cor%C3%A9en-%C3%A0-son-tour-sur-la-nouvelle-route-maritime-de-l-arctique",
       "source": "RFI",
@@ -1724,18 +1784,6 @@
       "lang": "EN",
       "published": "2026-08-22T09:11:19+00:00",
       "summary": "Barry Jansen mortgaged his house to help build a cricket arena in the Queensland city of Mackay. Forty years later his club is hosting its first international Test match.",
-      "headline_only": false
-    },
-    {
-      "title": "'Shambolic' - Stokes and Root question Ashes venues",
-      "link": "https://www.bbc.co.uk/sport/cricket/articles/cm2g5xpl33no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T09:11:15+00:00",
-      "summary": "Captain Joe Root said it is \"a shame\" his England team will not play at Headingley again until 2029, with predecessor Ben Stokes calling it \"shambolic\".",
       "headline_only": false
     },
     {
@@ -1787,18 +1835,6 @@
       "headline_only": false
     },
     {
-      "title": "How new-look Spurs are shaping up under De Zerbi",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx25xy7p9zpo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T08:41:57+00:00",
-      "summary": "Roberto de Zerbi has had time and money over the summer to start creating a new-look Tottenham. So how are they shaping up?",
-      "headline_only": false
-    },
-    {
       "title": "Ukraine: Russia steps up attacks as German Foreign Minister Johan Wadephul visits Kyiv",
       "link": "https://www.dw.com/en/ukraine-russia-steps-up-attacks-as-german-foreign-minister-johan-wadephul-visits-kyiv/a-78467414?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -1823,15 +1859,15 @@
       "headline_only": false
     },
     {
-      "title": "Germany news: Friedrich Merz to visit area struck by fires",
-      "link": "https://www.dw.com/en/germany-news-friedrich-merz-to-visit-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Germany news: Friedrich Merz visits area struck by fires",
+      "link": "https://www.dw.com/en/germany-news-friedrich-merz-visits-area-struck-by-fires/live-78467416?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
       "source_id": "dw-all",
       "category": "politics",
       "region": "Germany/Global",
       "lang": "EN",
       "published": "2026-08-22T08:20:00+00:00",
-      "summary": "Chancellor Merz is set to thank firefighters who tackled recent devastating blazes in western Germany. Meanwhile, a German Cup soccer match ended in a mass brawl with over 100 injuries. DW has more.",
+      "summary": "Chancellor Merz thanked firefighters who tackled recent devastating blazes in western Germany. Meanwhile, a German Cup soccer match ended in a mass brawl with over 100 injuries. DW has more.",
       "headline_only": false
     },
     {
@@ -1883,18 +1919,6 @@
       "headline_only": false
     },
     {
-      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
-      "link": "https://www.bbc.co.uk/news/articles/cvg92y1wzn8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-22T07:53:57+00:00",
-      "summary": "Online sleuths detected the error after Sydney Marathon unveiled the double-sided medal.",
-      "headline_only": false
-    },
-    {
       "title": "Ukraine: les frappes russes se multiplient et le bilan des victimes civiles s'alourdit",
       "link": "https://www.rfi.fr/fr/europe/20260822-ukraine-les-frappes-russes-se-multiplient-et-les-bilans-des-victimes-civiles-s-alourdissent",
       "source": "RFI",
@@ -1943,18 +1967,6 @@
       "headline_only": false
     },
     {
-      "title": "South Korea ship to test Arctic commercial route amid Western concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-22T06:47:00+00:00",
-      "summary": "South Korea ship to test Arctic commercial route amid Western concerns &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "US, Canada fail to reach tariff deal, deepen trade war",
       "link": "https://www.abc.net.au/news/2026-08-22/us-imposes-tariffs-on-20-billion-worth-of-canadian-products/107067128",
       "source": "ABC News Australia",
@@ -1964,18 +1976,6 @@
       "lang": "EN",
       "published": "2026-08-22T06:40:21+00:00",
       "summary": "The United States and Canada have failed to reach a trade deal, and the US says it will impose 50 per cent tariffs on some imports from Canada.",
-      "headline_only": false
-    },
-    {
-      "title": "États-Unis: le vice-président JD Vance en campagne dans l'Ohio pour les élections de mi-mandat",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260822-%C3%A9tats-unis-le-vice-pr%C3%A9sident-jd-vance-en-campagne-dans-l-ohio-pour-les-%C3%A9lections-de-mi-mandat",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T06:21:47+00:00",
-      "summary": "Aux États-Unis, les républicains intensifient leur campagne à moins de trois mois des élections de mi-mandat. Ce 21 août, le président Trump est allé soutenir en Caroline du Sud, Darline Graham, candidate pour récupérer le siège de son frère, le sénateur Lindsey Graham, décédé…",
       "headline_only": false
     },
     {
@@ -2039,18 +2039,6 @@
       "headline_only": false
     },
     {
-      "title": "RDC et AFC/M23 se retrouvent en Suisse pour tenter de relancer le processus de paix",
-      "link": "https://www.rfi.fr/fr/afrique/20260822-rdc-et-afc-m23-se-retrouvent-en-suisse-pour-tenter-de-relancer-le-processus-de-paix",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T04:27:32+00:00",
-      "summary": "Près de cinq mois après leur dernière rencontre, près de Montreux, en Suisse, le gouvernement congolais et l’AFC/M23 s’y sont de nouveau retrouvés cette semaine. Les délégations ont discuté pendant près de sept jours, loin des regards. Objectif : tenter de relancer un processus…",
-      "headline_only": false
-    },
-    {
       "title": "‘My ability to cope was unravelling’: how I navigated ADHD and childbirth – and seven things I learned",
       "link": "https://www.theguardian.com/society/2026/aug/22/my-ability-to-cope-was-unravelling-how-i-navigated-adhd-and-childbirth-and-seven-things-i-learned",
       "source": "The Guardian – Society",
@@ -2111,6 +2099,18 @@
       "headline_only": true
     },
     {
+      "title": "A Sao Joao del-Rei, au Brésil, une prison sans gardiens armés, à contre-courant du modèle ultra-répressif du Salvadorien Nayib Bukele",
+      "link": "https://www.lemonde.fr/international/article/2026/08/22/a-sao-joao-del-rei-au-bresil-une-prison-sans-gardiens-armes-a-contre-courant-du-modele-ultra-repressif-du-salvadorien-nayib-bukele_6752627_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T04:00:13+00:00",
+      "summary": "Dans l’établissement autogéré, c’est la réinsertion qui prime. Et le taux de récidive est très inférieur à celui du système traditionnel. Un système que Flavio Bolsonaro, adversaire de Lula pour la présidentielle du 4 octobre, voudrait pourtant durcir plus encore.",
+      "headline_only": false
+    },
+    {
       "title": "Germany becomes Europe’s largest regulated cannabis market",
       "link": "https://www.ft.com/content/6541cb37-1bc7-4f52-a8ef-f503d13be4ce",
       "source": "Financial Times (headlines only – paywalled)",
@@ -2121,6 +2121,18 @@
       "published": "2026-08-22T04:00:09+00:00",
       "summary": "Critics are calling for legislation to be tightened two years after the drug was partially liberalised",
       "headline_only": true
+    },
+    {
+      "title": "Pour la loi Climat et résilience, issue de propositions citoyennes, un cinquième et amer anniversaire : « Presque toutes les mesures ont été détricotées »",
+      "link": "https://www.lemonde.fr/planete/article/2026/08/22/cinq-ans-apres-l-amer-anniversaire-de-la-loi-climat-et-resilience-inspiree-par-des-propositions-citoyennes-presque-toutes-les-mesures-ont-ete-detricotees_6752625_3244.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T04:00:02+00:00",
+      "summary": "Le texte promulgué en août 2021 ans se voulait la traduction dans la loi du travail de la convention citoyenne pour le climat visant à guider la France vers la décarbonation. Mais ses principales dispositions n’ont cessé d’être assouplies ou annulées depuis.",
+      "headline_only": false
     },
     {
       "title": "Le long calvaire du vraquier «Banglar Joyjatra» au cœur du conflit dans le golfe Persique",
@@ -2147,27 +2159,15 @@
       "headline_only": false
     },
     {
-      "title": "La canicule, piège silencieux pour les personnes atteintes de maladies chroniques",
-      "link": "https://www.lemonde.fr/sante/article/2026/08/22/la-canicule-piege-silencieux-pour-les-personnes-atteintes-de-maladies-chroniques_6752521_1651302.html",
+      "title": "Miles Davis et John Coltrane, une séparation au sommet de leur complicité",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/22/miles-davis-et-john-coltrane-au-sommet-de-leur-complicite-se-separent_6752523_3451060.html",
       "source": "Le Monde",
       "source_id": "lemonde-une",
       "category": "economics",
       "region": "France",
       "lang": "FR",
-      "published": "2026-08-22T03:00:00+00:00",
-      "summary": "Les malades qui souffrent d’insuffisance cardiaque, rénale ou de troubles psychiatriques sont particulièrement fragiles lors des vagues de chaleur. Le corps médical se heurte à plusieurs difficultés pour adapter et maintenir leurs traitements.",
-      "headline_only": false
-    },
-    {
-      "title": "Pentagon fires military newspaper leadership for 'insubordination'",
-      "link": "https://www.dw.com/en/pentagon-fires-military-newspaper-leadership-for-insubordination/a-78466373?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-08-22T02:55:00+00:00",
-      "summary": "The editor-in-chief of Stars and Stripes said he was fired, alongside the newspaper's publisher and a reporter, for insubordination after he objected to potential editorial interference.",
+      "published": "2026-08-22T03:00:11+00:00",
+      "summary": "« Davis et Coltrane, centenaires de légende » (6/6). Avec l’album best-seller « Kind of Blue », en 1959, les deux musiciens révolutionnent le langage du jazz. Le saxophoniste finit par s’émanciper.",
       "headline_only": false
     },
     {
