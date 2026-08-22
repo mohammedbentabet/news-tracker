@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-22T16:11:50.274893+00:00",
+  "updated_at": "2026-08-22T16:42:18.846401+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:32.602413+00:00"
+      "last_success": "2026-08-22T16:28:33.052702+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:32.718313+00:00"
+      "last_success": "2026-08-22T16:28:33.123811+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:32.798255+00:00"
+      "last_success": "2026-08-22T16:28:33.338999+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:33.008022+00:00"
+      "last_success": "2026-08-22T16:28:33.498545+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:33.137304+00:00"
+      "last_success": "2026-08-22T16:28:33.607513+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:33.255350+00:00"
+      "last_success": "2026-08-22T16:28:33.705597+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:33.633045+00:00"
+      "last_success": "2026-08-22T16:28:33.995032+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-22T15:58:33.796802+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:34.219349+00:00"
+      "last_success": "2026-08-22T16:28:34.468318+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:34.395166+00:00"
+      "last_success": "2026-08-22T16:28:34.616395+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:34.473146+00:00"
+      "last_success": "2026-08-22T16:28:34.678706+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:34.540905+00:00"
+      "last_success": "2026-08-22T16:28:34.725809+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:34.936695+00:00"
+      "last_success": "2026-08-22T16:28:35.050346+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:35.167214+00:00"
+      "last_success": "2026-08-22T16:28:35.289035+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:35.362369+00:00"
+      "last_success": "2026-08-22T16:28:35.544908+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:35.835242+00:00"
+      "last_success": "2026-08-22T16:28:35.999741+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:36.830655+00:00"
+      "last_success": "2026-08-22T16:28:37.032197+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:37.132554+00:00"
+      "last_success": "2026-08-22T16:28:37.301527+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:37.453724+00:00"
+      "last_success": "2026-08-22T16:28:39.605970+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:37.757553+00:00"
+      "last_success": "2026-08-22T16:28:39.841317+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:38.348678+00:00"
+      "last_success": "2026-08-22T16:28:40.319098+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:38.578702+00:00"
+      "last_success": "2026-08-22T16:28:40.565948+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:38.708492+00:00"
+      "last_success": "2026-08-22T16:28:40.712107+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:38.828262+00:00"
+      "last_success": "2026-08-22T16:28:40.868729+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T15:58:39.592573+00:00"
+      "last_success": "2026-08-22T16:28:41.647039+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:11:48.044807+00:00"
+      "last_success": "2026-08-22T16:42:16.515658+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:11:48.590410+00:00"
+      "last_success": "2026-08-22T16:42:17.126124+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,63 +227,135 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:11:49.439879+00:00"
+      "last_success": "2026-08-22T16:42:17.930550+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:11:49.693428+00:00"
+      "last_success": "2026-08-22T16:42:18.072104+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:11:50.167552+00:00"
+      "last_success": "2026-08-22T16:42:18.356699+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:11:50.274667+00:00"
+      "last_success": "2026-08-22T16:42:18.846197+00:00"
     }
   },
   "article_count": 297,
   "articles": [
     {
-      "title": "Three things we've learned from Man Utd's loss at Hull",
-      "link": "https://www.skysports.com/watch/video/13575951/hull-city-vs-manchester-united-three-things-weve-learned-from-man-utd-vs-hull",
+      "title": "Clarke's late strike gives Ipswich winning return to the Premier League",
+      "link": "https://www.skysports.com/watch/video/13575982/ipswich-2-1-sunderland-premier-league-highlights",
       "source": "Sky Sports",
       "source_id": "sky-sports",
       "category": "sports",
       "region": "UK",
       "lang": "EN",
-      "published": "2026-08-22T17:03:00+00:00",
-      "summary": "Danyal Khan gives us his three things to take away from Manchester United's loss to Hull City on the opening day of the season.",
+      "published": "2026-08-22T17:21:00+00:00",
+      "summary": "FREE TO WATCH: Highlights from Ipswich's game against Sunderland in the Premier League.",
       "headline_only": false
     },
     {
-      "title": "Daiquiri keeps rivals at Bay in thrilling Ebor",
-      "link": "https://www.skysports.com/racing/news/12040/13575927/york-daiquiri-bay-fends-off-rivals-to-land-thrilling-ebor-on-the-knavesmire",
+      "title": "Everton down Palace to spoil Sage’s Premier League welcome",
+      "link": "https://www.skysports.com/watch/video/13575973/everton-2-0-crystal-palace-premier-league-highlights",
       "source": "Sky Sports",
       "source_id": "sky-sports",
       "category": "sports",
       "region": "UK",
       "lang": "EN",
-      "published": "2026-08-22T16:43:00+00:00",
-      "summary": "Daiquiri Bay followed up Royal Ascot success with another lucrative victory in the Sky Bet Ebor at York.",
+      "published": "2026-08-22T17:18:00+00:00",
+      "summary": "Highlights from the Premier League match between Everton and Crystal Palace.",
       "headline_only": false
     },
     {
-      "title": "Norris beats Russell to Dutch GP pole",
-      "link": "https://www.skysports.com/f1/news/12040/13575698/dutch-gp-lando-norris-beats-george-russell-and-kimi-antonelli-to-zandvoort-pole-as-lewis-hamilton-struggles",
+      "title": "Swansea & Sheff Utd play out dour draw",
+      "link": "https://www.skysports.com/football/swansea-city-vs-sheffield-united/report/560518",
       "source": "Sky Sports",
       "source_id": "sky-sports",
       "category": "sports",
       "region": "UK",
       "lang": "EN",
-      "published": "2026-08-22T16:18:00+00:00",
-      "summary": "Lando Norris beat Mercedes duo George Russell and Kimi Antonelli to pole position at the Dutch Grand Prix in a hectic end to qualifying.",
+      "published": "2026-08-22T17:15:00+00:00",
+      "summary": "Sheffield United put their latest financial worries to one side to earn a gritty draw against a toothless Swansea.",
+      "headline_only": false
+    },
+    {
+      "title": "Fer Lopez scores twice in Wolves win",
+      "link": "https://www.skysports.com/football/preston-north-end-vs-wolverhampton-wanderers/report/560515",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:15:00+00:00",
+      "summary": "Fer Lopez bagged a brace as Wolves secured their first victory of the Championship season with a convincing 3-1 success over Preston at Deepdale.",
+      "headline_only": false
+    },
+    {
+      "title": "Castellanos misses late penalty as West Ham beaten by Charlton",
+      "link": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/report/560520",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:15:00+00:00",
+      "summary": "Charlton maintained their perfect start to the Championship season with a 2-1 victory at West Ham in a pulsating London derby to pile pressure on Hammers boss Nuno Espirito Santo.",
+      "headline_only": false
+    },
+    {
+      "title": "Hull stun Man Utd in perfect Premier League return",
+      "link": "https://www.skysports.com/watch/video/13575830/hull-2-0-manchester-united-premier-league-highlights",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:15:00+00:00",
+      "summary": "Highlights from the Premier League match between Hull and Manchester United.",
+      "headline_only": false
+    },
+    {
+      "title": "Wrexham hit back to hold Watford",
+      "link": "https://www.skysports.com/football/wrexham-vs-watford/report/560521",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:15:00+00:00",
+      "summary": "Wrexham were kept waiting for their first Sky Bet Championship win of the season as they drew 1-1 with Watford in front of Hollywood owners Ryan Reynolds and Rob Mac.",
+      "headline_only": false
+    },
+    {
+      "title": "Derby hold Cardiff in entertaining draw",
+      "link": "https://www.skysports.com/football/derby-county-vs-cardiff-city/report/560512",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:15:00+00:00",
+      "summary": "Cardiff remain unbeaten two games into their return to Championship football after Cian Ashford and Yousef Salech's goals earned a 2-2 draw at Derby.",
+      "headline_only": false
+    },
+    {
+      "title": "Everton outclass wasteful Palace in Premier League opener",
+      "link": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:05:00+00:00",
+      "summary": "Everton made a winning start to the new Premier League campaign by beating Crystal Palace 2-0 thanks to classy goals from Kiernan Dewsbury-Hall and Thierno Barry.",
       "headline_only": false
     },
     {
@@ -294,9 +366,141 @@
       "category": "finance",
       "region": "US",
       "lang": "EN",
-      "published": "2026-08-22T15:59:29+00:00",
+      "published": "2026-08-22T16:38:52+00:00",
       "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
       "headline_only": false
+    },
+    {
+      "title": "Canada will impose retaliatory tariffs on US, prime minister says",
+      "link": "https://www.abc.net.au/news/2026-08-23/canada-to-impose-retaliatory-tariffs-on-us-goods/107067920",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-22T16:28:51+00:00",
+      "summary": "Negotiations over the United States' newly announced tariffs on Canada have fallen apart, as Canadian Prime Minister Mark Carney says the countries won't \"return to our old relationship\".",
+      "headline_only": false
+    },
+    {
+      "title": "Nigeria: Jihadis kidnap dozens during Friday prayers",
+      "link": "https://www.dw.com/en/nigeria-jihadis-kidnap-dozens-during-friday-prayers/a-78471356?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-08-22T16:22:00+00:00",
+      "summary": "Witnesses said men carrying guns and machetes set upon two villages in Niger State. Many details about the attack have yet to be confirmed by police.",
+      "headline_only": false
+    },
+    {
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-22T16:20:51+00:00",
+      "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
+      "headline_only": false
+    },
+    {
+      "title": "Droits de douane : le premier ministre canadien, Mark Carney, dénonce la « guerre » commerciale lancée par Donald Trump",
+      "link": "https://www.lemonde.fr/international/article/2026/08/22/droits-de-douane-le-premier-ministre-canadien-mark-carney-denonce-la-guerre-commerciale-lancee-par-donald-trump_6753507_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T16:19:55+00:00",
+      "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes à l’acier et aux produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
+      "headline_only": false
+    },
+    {
+      "title": "How is the pro-Israel lobby influencing US elections?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/how-is-the-pro-israel-lobby-influencing-us-midterm-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-22T16:17:54+00:00",
+      "summary": "As the 2026 US midterms approach, millions of dollars are pouring into races involving candidates who challenge Israel.",
+      "headline_only": false
+    },
+    {
+      "title": "'Maybe people will stop sleeping on us' - Hull enjoy dream return",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c62x2z0k0p6o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T16:17:18+00:00",
+      "summary": "Relegation favourites Hull City start the season well with a victory over Manchester United as their manager says \"we are trying to prove people wrong\".",
+      "headline_only": false
+    },
+    {
+      "title": "Journalistes français détenus au Togo : Lomé affirme disposer « d’indices graves et concordants » à leur encontre",
+      "link": "https://www.lemonde.fr/afrique/article/2026/08/22/journalistes-francais-detenus-au-togo-lome-affirme-disposer-d-indices-graves-et-concordants-a-leur-encontre_6753474_3212.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T16:11:46+00:00",
+      "summary": "Arrêtés fin juillet alors qu’ils tournaient un documentaire dans le nord du pays, les deux réalisateurs français sont poursuivis pour de supposées fausses déclarations liées à leur visa.",
+      "headline_only": false
+    },
+    {
+      "title": "Elche vs Barcelona: La Liga – prediction, team news, lineups",
+      "link": "https://www.aljazeera.com/sports/2026/8/22/elche-vs-barcelona-la-liga-prediction-team-news-lineups?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-22T16:10:21+00:00",
+      "summary": "Barcelona start their season at Elche in La Liga on Sunday but will do so without their new signing, Rodri.",
+      "headline_only": false
+    },
+    {
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-22T16:05:04+00:00",
+      "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
+      "headline_only": false
+    },
+    {
+      "title": "Thousands of sex offenders in England and Wales could get libido-suppressing drugs",
+      "link": "https://www.theguardian.com/society/2026/aug/22/sex-offenders-libido-control-drugs-prisons-england-wales",
+      "source": "The Guardian – Society",
+      "source_id": "guardian-society",
+      "category": "society",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T16:00:07+00:00",
+      "summary": "Voluntary use of sex drive-suppressing medication to expand to 20 prisons and expert says it could be rolled out widely by late 2028 Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders Drugs that help control the libidos of people who have…",
+      "headline_only": false
+    },
+    {
+      "title": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-22T15:59:41+00:00",
+      "summary": "Canada to impose retaliatory tariffs across a raft of US sectors, Carney says &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Fontainebleau forest reopens after devastating wildfire",
@@ -308,6 +512,30 @@
       "lang": "EN",
       "published": "2026-08-22T15:57:29+00:00",
       "summary": "Fontainebleau forest reopened to the public Saturday, with 80 percent of the popular Paris-area nature reserve accessible again after a wildfire scorched around 2,000 hectares last month. A fifth of the forest remains closed because of safety risks.",
+      "headline_only": false
+    },
+    {
+      "title": "«Ils étaient nos modèles» : au Nigeria, une génération grandie dans la fascination pour Boko Haram",
+      "link": "https://www.liberation.fr/international/afrique/ils-etaient-nos-modeles-au-nigeria-une-generation-grandie-dans-la-fascination-pour-boko-haram-20260820_2I2ITNHWVRHCXK6J3PGRLLVU4I/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T15:53:00+00:00",
+      "summary": "Comme des millions d’enfants du nord-est du pays, Mohammed Ali et Abubakar Abba Kaka ont été fascinés par les combattants jihadistes mais ont échappé au recrutement grâce à la vigilance de leurs proches. Ils racontent leurs parcours à «Libération».",
+      "headline_only": false
+    },
+    {
+      "title": "Walk-In “Human Fridges” are Japan’s newest heatwave weapon",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/walk-in-human-fridges-are-japans-newest-heatwave-weapon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-22T15:48:27+00:00",
+      "summary": "Designed to stop heatstroke in its tracks, the &quot;Do Hiemon Box&quot; delivers rapid, targeted cooling during extreme weather.",
       "headline_only": false
     },
     {
@@ -359,18 +587,6 @@
       "headline_only": false
     },
     {
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-22T15:44:57+00:00",
-      "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-      "headline_only": false
-    },
-    {
       "title": "Man Utd 'didn't look ready' - but hurting Carrick remains calm",
       "link": "https://www.bbc.co.uk/sport/football/articles/c87n78p070do?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -395,19 +611,7 @@
       "headline_only": false
     },
     {
-      "title": "Serena to play US Open mixed doubles with Alcaraz - but not singles!",
-      "link": "https://www.skysports.com/tennis/news/12040/13575872/serena-williams-tennis-icon-to-team-up-with-carlos-alcaraz-for-us-open-mixed-doubles-tournament",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T15:37:00+00:00",
-      "summary": "The dream team of Serena Williams and Carlos Alcaraz have signed up to the US Open mixed doubles championship, but the American great won't be playing in the women's singles.",
-      "headline_only": false
-    },
-    {
-      "title": "Carrick defends dismal Man Utd loss: 'We did some good things'",
+      "title": "Carrick defends dismal Man Utd loss: 'It was never going to be perfect'",
       "link": "https://www.skysports.com/football/news/12040/13575881/michael-carrick-insists-man-utd-did-some-good-things-despite-dismal-hull-defeat-on-opening-premier-league-weekend",
       "source": "Sky Sports",
       "source_id": "sky-sports",
@@ -426,8 +630,8 @@
       "category": "economics",
       "region": "France",
       "lang": "FR",
-      "published": "2026-08-22T15:34:03+00:00",
-      "summary": "Comme lors de son débat chez les Ecologistes vendredi, le banquier d’affaires millionnaire a martelé samedi son impression que la France était actuellement dans une période « prérévolutionnaire », une analyse répétée depuis longtemps par Jean-Luc Mélenchon.",
+      "published": "2026-08-22T15:34:00+00:00",
+      "summary": "Comme lors de son débat chez Les Ecologistes vendredi, le banquier d’affaires millionnaire a martelé samedi son impression que la France était actuellement dans une période « prérévolutionnaire », une analyse répétée depuis longtemps par Jean-Luc Mélenchon.",
       "headline_only": false
     },
     {
@@ -527,30 +731,6 @@
       "headline_only": false
     },
     {
-      "title": "Notable Speech clinches City Of York crown for Appleby",
-      "link": "https://www.skysports.com/racing/news/12040/13575863/york-notable-speech-shines-in-city-of-york-stakes-for-charlie-appleby",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T15:07:00+00:00",
-      "summary": "Notable Speech bounced back to his brilliant best to claim his sixth Group One victory in the Sky Bet City of York Stakes.",
-      "headline_only": false
-    },
-    {
-      "title": "Carney faces crucial test after walking away from Trump's deal",
-      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-22T15:00:27+00:00",
-      "summary": "The Canadian prime minister will have the sell his gamble that walking away from talks with the White House will be worth the consequences.",
-      "headline_only": false
-    },
-    {
       "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
       "link": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
       "source": "France 24",
@@ -573,18 +753,6 @@
       "published": "2026-08-22T14:45:51+00:00",
       "summary": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "Au Mans, l’arrivée en Ligue 1 redonne du lustre au stade Marie-Marvingt, premier « éléphant blanc » de France",
-      "link": "https://www.lemonde.fr/sport/article/2026/08/22/au-mans-l-arrivee-en-ligue-1-redonne-du-lustre-au-stade-marie-marvingt-premier-elephant-blanc-de-france_6753437_3242.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T14:45:11+00:00",
-      "summary": "Inaugurée en 2011, l’imposante enceinte a rapidement été sous-utilisée après la liquidation judiciaire du club sarthois, deux ans plus tard. Elle va accueillir son premier match de Ligue 1, samedi, lors de la rencontre du Mans face à Brest.",
-      "headline_only": false
     },
     {
       "title": "Iran says repair of South Pars refinery 70 percent complete",
@@ -719,18 +887,6 @@
       "headline_only": false
     },
     {
-      "title": "Birmingham strike late to hold Bristol City",
-      "link": "https://www.skysports.com/football/birmingham-city-vs-bristol-city/report/560510",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T14:30:00+00:00",
-      "summary": "Demarai Gray rescued a point for Birmingham with a late penalty in their 2-2 Championship draw at home to Bristol City.",
-      "headline_only": false
-    },
-    {
       "title": "Infantino asked to stay away from youth tournament",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq6d627y8g7o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -767,18 +923,6 @@
       "headline_only": false
     },
     {
-      "title": "Mauled by the Tigers! Lacklustre Man Utd stunned by brilliant Hull",
-      "link": "https://www.skysports.com/football/hull-city-vs-manchester-united/report/559447",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T14:20:00+00:00",
-      "summary": "A lacklustre Man Utd were left stunned as they slipped to a 2-0 defeat to newly-promoted Hull City in their Premier League season opener at the MKM Stadium.",
-      "headline_only": false
-    },
-    {
       "title": "What did war with the US reveal about Iran’s weapons capabilities?",
       "link": "https://www.aljazeera.com/news/2026/8/22/what-did-war-with-the-us-reveal-about-irans-weapons-capabilities?traffic_source=rss",
       "source": "Al Jazeera",
@@ -788,18 +932,6 @@
       "lang": "EN",
       "published": "2026-08-22T14:19:06+00:00",
       "summary": "Iran says production is ongoing, but details will not be revealed during war conditions.",
-      "headline_only": false
-    },
-    {
-      "title": "Dutch GP: Norris snatches pole from Russell, Antonelli LIVE!",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13575287/f1-dutch-gp-live-sprint-qualifying-updates-results-stream-highlights-video-from-zandvoort-race-weekend",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T14:16:00+00:00",
-      "summary": "",
       "headline_only": false
     },
     {
@@ -971,18 +1103,6 @@
       "headline_only": false
     },
     {
-      "title": "Indonesia bolsters troop numbers to combat Borneo wildfires",
-      "link": "https://www.aljazeera.com/news/2026/8/22/indonesia-bolsters-troop-numbers-to-combat-borneo-wildfires?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T13:35:57+00:00",
-      "summary": "Fires between January and July burned more than 200,000 hectares of land, says the government.",
-      "headline_only": false
-    },
-    {
       "title": "Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16",
       "link": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1",
       "source": "Financial Times (headlines only – paywalled)",
@@ -1052,18 +1172,6 @@
       "lang": "EN",
       "published": "2026-08-22T13:24:59+00:00",
       "summary": "How Hull City and Manchester United's players rated following their Premier League match.",
-      "headline_only": false
-    },
-    {
-      "title": "Is Trump making Latin America great again?",
-      "link": "https://www.aljazeera.com/opinions/2026/8/22/is-trump-making-latin-america-great-again?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T13:23:56+00:00",
-      "summary": "A right-wing wave is sweeping through the region and that is not good news.",
       "headline_only": false
     },
     {
@@ -1148,18 +1256,6 @@
       "lang": "EN",
       "published": "2026-08-22T13:13:16+00:00",
       "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
-      "headline_only": false
-    },
-    {
-      "title": "As families retrieve bodies, Gaza is running out of places to bury the dead",
-      "link": "https://www.aljazeera.com/features/2026/8/22/as-families-retrive-bodies-gaza-is-running-out-of-places-to-bury-the-dead?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T13:10:45+00:00",
-      "summary": "Israel&#039;s genocidal war on Gaza has seen thousands of bodies buried in makeshift sites.",
       "headline_only": false
     },
     {
@@ -1351,7 +1447,7 @@
       "region": "France",
       "lang": "FR",
       "published": "2026-08-22T12:29:03+00:00",
-      "summary": "LFI poursuit ses universités d'été à Châteauneuf-sur-Isère, dans la Drôme, avec un « grand entretien », ce samedi, entre le milliardaire de gauche Mathieu Pigasse et le coordinateur du parti Manuel Bompard. La formation de Jean-Luc Mélenchon, qui a lancé sa campagne depuis déjà…",
+      "summary": "LFI poursuivait ses universités d'été à Châteauneuf-sur-Isère, dans la Drôme, ce samedi 22 août 2026. Un « grand entretien » a notamment été organisé entre le multimillionnaire de gauche Mathieu Pigasse et le coordinateur du parti, Manuel Bompard. La formation de Jean-Luc…",
       "headline_only": false
     },
     {
@@ -1400,18 +1496,6 @@
       "lang": "EN",
       "published": "2026-08-22T12:17:08+00:00",
       "summary": "Somali pirates hijacked an oil products tanker off Yemen, a Somali maritime security official said, the latest in a resurgence of piracy that has seen six commercial vessels seized since April across the Gulf of Aden and western Indian Ocean. Six armed pirates hijacked the…",
-      "headline_only": false
-    },
-    {
-      "title": "Un mort et trois blessés après une attaque à l’épée dans un lycée de Suède",
-      "link": "https://www.liberation.fr/international/europe/plusieurs-blesses-apres-une-attaque-a-larme-blanche-dans-un-lycee-de-suede-20260821_BWV2XQ6RABGFXCR7X3XSRCXWNI/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T12:14:26+00:00",
-      "summary": "L’assaillant a été arrêté par la police après avoir tué une lycéenne de 17 ans, et a été placé en détention. A ce stade, le mobile n’est pas connu.",
       "headline_only": false
     },
     {
@@ -1499,18 +1583,6 @@
       "headline_only": false
     },
     {
-      "title": "West Ham miss late pen in defeat! 10-man Leicester lose to Burton - EFL LIVE!",
-      "link": "https://www.skysports.com/football/west-ham-united-vs-charlton-athletic/live/560520",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T12:00:00+00:00",
-      "summary": "",
-      "headline_only": false
-    },
-    {
       "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dit son « horreur » après les frappes russes à Kryvy Rih et annonce l’envoi de nouveaux missiles intercepteurs",
       "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-des-attaques-russes-font-quatre-morts-pres-de-kiev-et-a-zaporijia-une-frappe-de-drones-ukrainiens-fait-trois-morts-en-russie_6746952_3210.html",
       "source": "Le Monde",
@@ -1520,18 +1592,6 @@
       "lang": "FR",
       "published": "2026-08-22T11:50:39+00:00",
       "summary": "Des drones russes ont visé vendredi un centre commercial, faisant 16 morts. « Avec ces frappes et celles cette semaine contre Kiev, la Russie poursuit et aggrave le crime de son agression », a dénoncé le président français, qui a annoncé « l’envoi d’intercepteurs » pour…",
-      "headline_only": false
-    },
-    {
-      "title": "Martinelli deserves better from Arsenal - Wright",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cj636ewwz46o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T11:49:08+00:00",
-      "summary": "Ian Wright says Gabriel Martinelli deserves \"more respect\" from Arsenal and questions the way the club have handled the winger's potential exit.",
       "headline_only": false
     },
     {
@@ -1715,18 +1775,6 @@
       "headline_only": false
     },
     {
-      "title": "« Avant, on voyait ça comme un sport de Blancs » : en Afrique du Sud, l’engouement toujours plus important autour de l’équipe nationale de rugby",
-      "link": "https://www.lemonde.fr/afrique/article/2026/08/22/avant-on-voyait-ca-comme-un-sport-de-blancs-en-afrique-du-sud-l-engouement-toujours-plus-important-autour-de-l-equipe-nationale-de-rugby_6753161_3212.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T10:00:09+00:00",
-      "summary": "Les Springboks affrontent à domicile les All Blacks néo-zélandais, samedi 22 août. Le premier d’une série de trois matchs très attendus. En dix ans, l’équipe nationale est parvenue à fédérer un large public, exauçant le rêve porté par Nelson Mandela en 1995.",
-      "headline_only": false
-    },
-    {
       "title": "Zolani Tete shot dead outside his home in South Africa",
       "link": "https://www.abc.net.au/news/2026-08-22/south-africas-former-world-boxing-champion-zolani-tete-shot-dead/107067524",
       "source": "ABC News Australia",
@@ -1811,18 +1859,6 @@
       "headline_only": true
     },
     {
-      "title": "L’échec des discussions commerciales entre les Etats-Unis et le Canada met à l’épreuve la stratégie de fermeté d’Ottawa",
-      "link": "https://www.lemonde.fr/economie/article/2026/08/22/l-echec-des-discussions-commerciales-entre-etats-unis-et-canada-met-a-l-epreuve-la-strategie-de-fermete-d-ottawa_6753060_3234.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T08:48:20+00:00",
-      "summary": "De nouveaux droits de douane américains de 50 % entrent en vigueur, samedi 22 août, sur une série de produits canadiens, après l’interruption des tractations entre les deux pays, vendredi. Ottawa promet une riposte de même ampleur.",
-      "headline_only": false
-    },
-    {
       "title": "«Je n’arrive pas à comprendre ce système»: des victimes de Joël Le Scouarnec atterrées par l’opération de communication de Darmanin",
       "link": "https://www.mediapart.fr/journal/france/220826/je-n-arrive-pas-comprendre-ce-systeme-des-victimes-de-joel-le-scouarnec-atterrees-par-l-operation-de-commu",
       "source": "Mediapart",
@@ -1895,18 +1931,6 @@
       "headline_only": false
     },
     {
-      "title": "Imran Khan's party seeks contempt action over jailed leader's hospital move - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOblRkaFZsa2c5ZW5wU1ZUV0Y1SXBlZVVPRTE0YTV2aXY4c2JGVUNJMHo2cTFkUVVBSi01TWRlS1JpdWk4b1o4dVJrQ2N6dURlTDg2NEZZczljY3U0Ul9FMHpnRlEteldCT1dCYm9tb2JyNzZWbFliWFl2VGdfWGg5WEFHcEN6SlpaVzZvZDluelp0VVowYm44RjBTZmhaXzdXRkNCSG51ZGF5TGY1QkRKM3ZleVRVUkt4NTZiQjVwT0U3Yk5VMmdB?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-22T08:02:28+00:00",
-      "summary": "Imran Khan's party seeks contempt action over jailed leader's hospital move &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Unions worry Labour’s plan for zero-hours contracts may break manifesto pledge",
       "link": "https://www.theguardian.com/uk-news/2026/aug/22/unions-worry-labours-plan-for-zero-hours-contracts-may-break-manifesto-pledge",
       "source": "The Guardian – Business",
@@ -1967,18 +1991,6 @@
       "headline_only": false
     },
     {
-      "title": "US, Canada fail to reach tariff deal, deepen trade war",
-      "link": "https://www.abc.net.au/news/2026-08-22/us-imposes-tariffs-on-20-billion-worth-of-canadian-products/107067128",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-22T06:40:21+00:00",
-      "summary": "The United States and Canada have failed to reach a trade deal, and the US says it will impose 50 per cent tariffs on some imports from Canada.",
-      "headline_only": false
-    },
-    {
       "title": "Battery fires at recycling centres are costing UK £1bn a year, figures show",
       "link": "https://www.theguardian.com/environment/2026/aug/22/lithium-battery-fires-waste-recycling-centres-vapes-uk",
       "source": "The Guardian – Business",
@@ -2012,18 +2024,6 @@
       "lang": "EN",
       "published": "2026-08-22T05:00:01+00:00",
       "summary": "Investors see different risks threatening markets, but broadly agree that traders should diversify beyond recent winners.",
-      "headline_only": false
-    },
-    {
-      "title": "Industry and residents clash over water near Berlin",
-      "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-08-22T04:31:00+00:00",
-      "summary": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?",
       "headline_only": false
     },
     {
@@ -2121,6 +2121,18 @@
       "published": "2026-08-22T04:00:09+00:00",
       "summary": "Critics are calling for legislation to be tightened two years after the drug was partially liberalised",
       "headline_only": true
+    },
+    {
+      "title": "Le Tupperware, doudou alimentaire des étudiants  : « A chaque bouchée, je ressens l’amour de ma mère »",
+      "link": "https://www.lemonde.fr/series-d-ete/article/2026/08/22/le-tupperware-doudou-alimentaire-des-etudiants-a-chaque-bouchee-je-ressens-l-amour-de-ma-mere_6752624_3451060.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T04:00:05+00:00",
+      "summary": "« Les jeunes à table » (6/6). Beaucoup d’étudiants remplissent les fameuses boîtes en plastique chez leurs parents. Une option économique et à forte valeur sentimentale ajoutée. Car elles et les plats maison qu’elles contiennent activent ce que les marques peinent à reproduire…",
+      "headline_only": false
     },
     {
       "title": "Pour la loi Climat et résilience, issue de propositions citoyennes, un cinquième et amer anniversaire : « Presque toutes les mesures ont été détricotées »",
@@ -2852,18 +2864,6 @@
       "lang": "EN",
       "published": "2026-08-21T06:46:08+00:00",
       "summary": "The crucial waterway's operator says low rainfall caused by the ocean pattern had led to the decision.",
-      "headline_only": false
-    },
-    {
-      "title": "UK men with heart disease at higher risk of developing and dying from cancer",
-      "link": "https://www.theguardian.com/society/2026/aug/21/uk-men-heart-disease-higher-cancer-risk",
-      "source": "The Guardian – Society",
-      "source_id": "guardian-society",
-      "category": "society",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-21T05:01:25+00:00",
-      "summary": "Decade-long study finds stark gender difference in outcomes of people with heart disease Millions of men with heart disease have a higher risk of developing and dying from cancer, according to a decades-long study. The biggest drivers behind male cases were smoking, obesity and…",
       "headline_only": false
     },
     {
