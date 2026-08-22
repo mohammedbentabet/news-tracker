@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-22T16:42:18.846401+00:00",
+  "updated_at": "2026-08-22T17:06:24.596026+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:33.052702+00:00"
+      "last_success": "2026-08-22T16:51:36.392369+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:33.123811+00:00"
+      "last_success": "2026-08-22T16:51:36.483583+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:33.338999+00:00"
+      "last_success": "2026-08-22T16:51:36.799338+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:33.498545+00:00"
+      "last_success": "2026-08-22T16:51:36.931689+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:33.607513+00:00"
+      "last_success": "2026-08-22T16:51:37.043671+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:33.705597+00:00"
+      "last_success": "2026-08-22T16:51:37.153431+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:33.995032+00:00"
+      "last_success": "2026-08-22T16:51:37.466264+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "error",
-      "error": "<unknown>:10:92: not well-formed (invalid token)",
-      "last_success": "using cached data"
+      "status": "ok",
+      "error": null,
+      "last_success": "2026-08-22T16:51:37.626490+00:00"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:34.468318+00:00"
+      "last_success": "2026-08-22T16:51:38.243720+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:34.616395+00:00"
+      "last_success": "2026-08-22T16:51:38.314120+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:34.678706+00:00"
+      "last_success": "2026-08-22T16:51:38.444359+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:34.725809+00:00"
+      "last_success": "2026-08-22T16:51:38.491707+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:35.050346+00:00"
+      "last_success": "2026-08-22T16:51:38.665782+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:35.289035+00:00"
+      "last_success": "2026-08-22T16:51:38.873769+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:35.544908+00:00"
+      "last_success": "2026-08-22T16:51:39.001355+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:35.999741+00:00"
+      "last_success": "2026-08-22T16:51:39.500522+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:37.032197+00:00"
+      "last_success": "2026-08-22T16:51:40.601180+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:37.301527+00:00"
+      "last_success": "2026-08-22T16:51:40.696825+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:39.605970+00:00"
+      "last_success": "2026-08-22T16:51:41.093138+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:39.841317+00:00"
+      "last_success": "2026-08-22T16:51:41.343731+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:40.319098+00:00"
+      "last_success": "2026-08-22T16:51:41.723292+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:40.565948+00:00"
+      "last_success": "2026-08-22T16:51:41.898829+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:40.712107+00:00"
+      "last_success": "2026-08-22T16:51:41.970252+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:40.868729+00:00"
+      "last_success": "2026-08-22T16:51:42.088045+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:28:41.647039+00:00"
+      "last_success": "2026-08-22T16:51:42.713533+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:42:16.515658+00:00"
+      "last_success": "2026-08-22T17:06:21.962332+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:42:17.126124+00:00"
+      "last_success": "2026-08-22T17:06:22.499760+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,41 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:42:17.930550+00:00"
+      "last_success": "2026-08-22T17:06:23.716094+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:42:18.072104+00:00"
+      "last_success": "2026-08-22T17:06:23.817029+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:42:18.356699+00:00"
+      "last_success": "2026-08-22T17:06:24.104819+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T16:42:18.846197+00:00"
+      "last_success": "2026-08-22T17:06:24.595868+00:00"
     }
   },
   "article_count": 297,
   "articles": [
+    {
+      "title": "'The car is better for the race' - Hamilton 'optimistic' of Ferrari turnaround",
+      "link": "https://www.skysports.com/f1/news/12040/13575702/lewis-hamilton-ferrari-driver-optimistic-of-challenging-top-four-in-dutch-gp-after-qualifying-improvement",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:45:00+00:00",
+      "summary": "Lewis Hamilton believes his Ferrari car is in a \"better place\" after changes going into Dutch Grand Prix qualifying and that the team can still be \"optimistic\" for Sunday's race despite starting on the third row.",
+      "headline_only": false
+    },
     {
       "title": "Clarke's late strike gives Ipswich winning return to the Premier League",
       "link": "https://www.skysports.com/watch/video/13575982/ipswich-2-1-sunderland-premier-league-highlights",
@@ -323,30 +335,6 @@
       "headline_only": false
     },
     {
-      "title": "Wrexham hit back to hold Watford",
-      "link": "https://www.skysports.com/football/wrexham-vs-watford/report/560521",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T17:15:00+00:00",
-      "summary": "Wrexham were kept waiting for their first Sky Bet Championship win of the season as they drew 1-1 with Watford in front of Hollywood owners Ryan Reynolds and Rob Mac.",
-      "headline_only": false
-    },
-    {
-      "title": "Derby hold Cardiff in entertaining draw",
-      "link": "https://www.skysports.com/football/derby-county-vs-cardiff-city/report/560512",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T17:15:00+00:00",
-      "summary": "Cardiff remain unbeaten two games into their return to Championship football after Cian Ashford and Yousef Salech's goals earned a 2-2 draw at Derby.",
-      "headline_only": false
-    },
-    {
       "title": "Everton outclass wasteful Palace in Premier League opener",
       "link": "https://www.skysports.com/football/everton-vs-crystal-palace/report/559446",
       "source": "Sky Sports",
@@ -366,8 +354,68 @@
       "category": "finance",
       "region": "US",
       "lang": "EN",
-      "published": "2026-08-22T16:38:52+00:00",
+      "published": "2026-08-22T17:01:18+00:00",
       "summary": "New 50% Trump administration tariffs on some Canadian exports went into place after the U.S. and Canada failed to reach a deal on Friday.",
+      "headline_only": false
+    },
+    {
+      "title": "Leicester booed off after nightmare defeat to Burton",
+      "link": "https://www.skysports.com/football/leicester-city-vs-burton-albion/report/561617",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T17:00:00+00:00",
+      "summary": "Burton Albion stunned Leicester City at the King Power Stadium, as the former Premier League champions were booed off after being beaten 2-1 by Gary Bowyer's side.",
+      "headline_only": false
+    },
+    {
+      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
+      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-22T16:45:02+00:00",
+      "summary": "Canada's prime minister said he was \"reluctantly\" announcing retaliatory tariffs as he accused the US of starting a trade war.",
+      "headline_only": false
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Vladimir Poutine assume l’intensification des frappes contre Kiev, qu’il accuse d’avoir ouvert la « boîte de Pandore », et promet des attaques « beaucoup plus destructrices »",
+      "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-vladimir-poutine-assume-l-intensification-des-frappes-contre-kiev-qu-il-accuse-d-avoir-ouvert-la-boite-de-pandore-et-promet-des-attaques-beaucoup-plus-destructrices_6746952_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-22T16:32:59+00:00",
+      "summary": "Le président russe a directement lié, samedi, l’augmentation de la puissance et du nombre des frappes russes aux attaques ukrainiennes contre des infrastructures économiques et logistiques en Russie.",
+      "headline_only": false
+    },
+    {
+      "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-22T16:31:06+00:00",
+      "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Espanyol vs Real Madrid LIVE: La Liga",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/8/22/espanyol-vs-real-madrid-live-la-liga?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-22T16:30:09+00:00",
+      "summary": "Follow updates as Jose Mourinho returns to lead Madrid - including the build-up, analysis and live text commentary.",
       "headline_only": false
     },
     {
@@ -414,8 +462,8 @@
       "category": "economics",
       "region": "France",
       "lang": "FR",
-      "published": "2026-08-22T16:19:55+00:00",
-      "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes à l’acier et aux produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
+      "published": "2026-08-22T16:19:54+00:00",
+      "summary": "En représailles aux nouvelles surtaxes américaines, entrées en vigueur samedi, le Canada va appliquer à son tour des surtaxes sur l’acier et les produits laitiers américains à partir du 8 septembre, a annoncé Ottawa.",
       "headline_only": false
     },
     {
@@ -467,16 +515,16 @@
       "headline_only": false
     },
     {
-      "title": "Carney calls Trump's fresh tariffs a 'miscalculation' after trade talks collapse",
-      "link": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
+      "title": "France agrees to accelerate air defence deliveries to Ukraine, Zelenskiy says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbFdqVktrVmFsQ09keFFUalBaQVBlbkVLSlo1dEM1MExpaURaNkw4bmlTSFpfbGJpcjN1T3R4Z2dpUTNzQWlwc3hUNFhQTlhidTlOZ0ZWZGRleXp0YUdXRmdFS1hXVUY5X0t5d3c2eVdUQ2dFRi1ZRlZ0QUlwdS1UbWZnQ2h6TWhnRmZQSmlSUmZJaGRVaUM2Nk8yM1REOHF6SmpfbU1Wa05rN19nNUpOSE9sdw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
       "category": "politics",
-      "region": "UK/Global",
+      "region": "Global",
       "lang": "EN",
-      "published": "2026-08-22T16:05:04+00:00",
-      "summary": "In a speech on Saturday morning, Prime Minister Mark Carney said Canada walked away from the negotiation table to protect its sovereignty.",
-      "headline_only": false
+      "published": "2026-08-22T16:06:10+00:00",
+      "summary": "France agrees to accelerate air defence deliveries to Ukraine, Zelenskiy says &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Thousands of sex offenders in England and Wales could get libido-suppressing drugs",
@@ -487,7 +535,7 @@
       "region": "UK",
       "lang": "EN",
       "published": "2026-08-22T16:00:07+00:00",
-      "summary": "Voluntary use of sex drive-suppressing medication to expand to 20 prisons and expert says it could be rolled out widely by late 2028 Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders Drugs that help control the libidos of people who have…",
+      "summary": "Exclusive: Voluntary use of sex drive-suppressing medication to expand to 20 prisons and expert says it could be rolled out widely by late 2028 Chemical suppression: why the UK is exploring libido control drugs to treat sex offenders Drugs that help control the libidos of…",
       "headline_only": false
     },
     {
@@ -503,7 +551,7 @@
       "headline_only": true
     },
     {
-      "title": "Fontainebleau forest reopens after devastating wildfire",
+      "title": "Fontainebleau forest near Paris reopens after devastating wildfire",
       "link": "https://www.france24.com/en/france/20260822-fontainebleau-forest-reopens-after-devastating-wildfire",
       "source": "France 24",
       "source_id": "france24",
@@ -779,7 +827,7 @@
       "headline_only": false
     },
     {
-      "title": "Sword attack in Sweden that killed 1 prompts probe into social media",
+      "title": "Sword attack that killed 1 at Sweden high school prompts social media probe",
       "link": "https://www.scmp.com/news/world/europe/article/3364939/sword-attack-sweden-killed-one-prompts-probe-social-media?utm_source=rss_feed",
       "source": "South China Morning Post",
       "source_id": "scmp",
@@ -1067,18 +1115,6 @@
       "headline_only": false
     },
     {
-      "title": "Fans and police injured in pitch invasion during ‘high risk’ German Cup tie",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/fans-and-police-injured-in-pitch-invasion-during-high-risk-german-cup-tie?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T13:44:02+00:00",
-      "summary": "Waldhof Mannheim and Kaiserslautern game halted for 30 minutes as eight people hospitalised with about 100 injured.",
-      "headline_only": false
-    },
-    {
       "title": "Israel says Syria air base strike motivated by alleged Turkish plans to deploy forces there",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/katz-says-syria-air-base-strike-motivated-alleged-turkish-plans-deploy",
       "source": "Middle East Eye",
@@ -1197,18 +1233,6 @@
       "published": "2026-08-22T13:22:01+00:00",
       "summary": "Two Palestinians wounded in Israeli raid near Nablus, settlers and troops storm towns in Ramallah and Jenin Two people have been wounded by Israeli forces during a military raid on the town of&nbsp;Beit Furik, east of Nablus in the occupied West Bank, Wafa news agency is…",
       "headline_only": false
-    },
-    {
-      "title": "Seven dead in UK after vehicle travelling wrong way hits police car - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcC11SW8wQU1KT0N4d3h5RUI5eVhQcDBUZFdlZXFjQzZPMGJrYi1mYnVGS2tobE9ZV1JkSDJRWTVIWlkxSk1obkpYeHlTZ2ItX0NYWmlXbmdRTjBHeHRocmJaaG9NVktrclNHYTBMZVZaSjdia1BmZDhTNGUtTGZfS0tBNHhveTVfMFZIS3czR0o4SHNQMGpBQmlUUldxUQ?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-22T13:21:20+00:00",
-      "summary": "Seven dead in UK after vehicle travelling wrong way hits police car &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "Ukrainian drones kill several, hit warehouse of Russian online retailer Ozon - Reuters",
@@ -1583,18 +1607,6 @@
       "headline_only": false
     },
     {
-      "title": "EN DIRECT, guerre en Ukraine : Emmanuel Macron dit son « horreur » après les frappes russes à Kryvy Rih et annonce l’envoi de nouveaux missiles intercepteurs",
-      "link": "https://www.lemonde.fr/international/live/2026/08/22/en-direct-guerre-en-ukraine-des-attaques-russes-font-quatre-morts-pres-de-kiev-et-a-zaporijia-une-frappe-de-drones-ukrainiens-fait-trois-morts-en-russie_6746952_3210.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T11:50:39+00:00",
-      "summary": "Des drones russes ont visé vendredi un centre commercial, faisant 16 morts. « Avec ces frappes et celles cette semaine contre Kiev, la Russie poursuit et aggrave le crime de son agression », a dénoncé le président français, qui a annoncé « l’envoi d’intercepteurs » pour…",
-      "headline_only": false
-    },
-    {
       "title": "Myanmar military airstrike kills 14 at Buddhist monastery: reports",
       "link": "https://www.dw.com/en/myanmar-military-airstrike-kills-14-at-buddhist-monastery-reports/a-78468290?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -1811,18 +1823,6 @@
       "headline_only": false
     },
     {
-      "title": "South Africa's former world boxing champion Tete shot dead outside his home - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVDlRa1g4Rkd1OWVuOThwZWZ5STJ4eEtUbV9iWDhDb0x1cmtvRHAwcjNGWnZsSi1WYmxDd1ZKV2I2bzFRLTA1MWQ4Q1hUOGFkc3BfZXVibDhJNXVnRWdraGZ2Sy1VUW0tS0x1bElfbGJYTDA3TzRMd2FyclppVUhPanpWVkNrZlgxbUJsdXVRS0Vuc3hITzJuX0lmWVlMVHFzQ1BPaFJpOC1NV04zc0xBZVNqQ3NhWTNr?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-22T09:32:13+00:00",
-      "summary": "South Africa's former world boxing champion Tete shot dead outside his home &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Un navire sud-coréen à son tour sur la nouvelle route maritime de l'Arctique",
       "link": "https://www.rfi.fr/fr/asie-pacifique/20260822-un-navire-sud-cor%C3%A9en-%C3%A0-son-tour-sur-la-nouvelle-route-maritime-de-l-arctique",
       "source": "RFI",
@@ -2027,15 +2027,15 @@
       "headline_only": false
     },
     {
-      "title": "Germany investigates arms cache found in woods near Berlin",
-      "link": "https://www.dw.com/en/germany-investigates-arms-cache-found-in-woods-near-berlin/a-78371750?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "Industry and residents clash over water near Berlin",
+      "link": "https://www.dw.com/en/industry-and-residents-clash-over-water-near-berlin/a-78428993?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
       "source_id": "dw-all",
       "category": "politics",
       "region": "Germany/Global",
       "lang": "EN",
       "published": "2026-08-22T04:31:00+00:00",
-      "summary": "Handguns and ammunition were found in a forest near Berlin last year. German authorities suspect they were to be used for assassinations on behalf of Russian intelligence.",
+      "summary": "The state surrounding Berlin is drying out, but local Tesla and Red Bull plants are looking to expand. Is Brandenburg running out of water to share?",
       "headline_only": false
     },
     {
