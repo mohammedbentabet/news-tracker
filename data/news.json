@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-22T22:47:43.478382+00:00",
+  "updated_at": "2026-08-22T23:02:44.993390+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:07.686209+00:00"
+      "last_success": "2026-08-22T22:48:27.490097+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:07.806510+00:00"
+      "last_success": "2026-08-22T22:48:27.549382+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:08.108549+00:00"
+      "last_success": "2026-08-22T22:48:27.866275+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:08.413677+00:00"
+      "last_success": "2026-08-22T22:48:28.066529+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:08.568264+00:00"
+      "last_success": "2026-08-22T22:48:28.199124+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:08.816435+00:00"
+      "last_success": "2026-08-22T22:48:28.324775+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:09.312066+00:00"
+      "last_success": "2026-08-22T22:48:28.640198+00:00"
     },
     "france24": {
       "name": "France 24",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:09.530970+00:00"
+      "last_success": "2026-08-22T22:48:28.699028+00:00"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:10.354800+00:00"
+      "last_success": "2026-08-22T22:48:29.158840+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:10.656306+00:00"
+      "last_success": "2026-08-22T22:48:29.218575+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:10.943494+00:00"
+      "last_success": "2026-08-22T22:48:29.377445+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:11.165506+00:00"
+      "last_success": "2026-08-22T22:48:29.427222+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:12.159114+00:00"
+      "last_success": "2026-08-22T22:48:29.596538+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:12.493985+00:00"
+      "last_success": "2026-08-22T22:48:29.797846+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:12.799355+00:00"
+      "last_success": "2026-08-22T22:48:29.895932+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:13.486448+00:00"
+      "last_success": "2026-08-22T22:48:30.404086+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:14.948841+00:00"
+      "last_success": "2026-08-22T22:48:31.735571+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-22T22:27:15.245976+00:00"
+      "status": "error",
+      "error": "<unknown>:3:0: XML or text declaration not at start of entity",
+      "last_success": "using cached data"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:15.701468+00:00"
+      "last_success": "2026-08-22T22:48:32.178348+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:16.009235+00:00"
+      "last_success": "2026-08-22T22:48:32.418087+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:16.748435+00:00"
+      "last_success": "2026-08-22T22:48:33.178387+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:17.117984+00:00"
+      "last_success": "2026-08-22T22:48:33.349941+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:17.341328+00:00"
+      "last_success": "2026-08-22T22:48:33.442005+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:17.534481+00:00"
+      "last_success": "2026-08-22T22:48:33.566183+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:27:18.963689+00:00"
+      "last_success": "2026-08-22T22:48:34.213691+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:47:40.079775+00:00"
+      "last_success": "2026-08-22T23:02:42.865603+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:47:40.871236+00:00"
+      "last_success": "2026-08-22T23:02:43.556741+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,41 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:47:42.060555+00:00"
+      "last_success": "2026-08-22T23:02:44.414252+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:47:42.540250+00:00"
+      "last_success": "2026-08-22T23:02:44.570164+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:47:42.925963+00:00"
+      "last_success": "2026-08-22T23:02:44.862157+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-22T22:47:43.478223+00:00"
+      "last_success": "2026-08-22T23:02:44.993159+00:00"
     }
   },
   "article_count": 298,
   "articles": [
+    {
+      "title": "St Helens beat Castleford despite Hastings red card",
+      "link": "https://www.skysports.com/watch/video/13576143/st-helens-v-castleford-hls-mxf",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-23T00:00:00+00:00",
+      "summary": "Highlights of the Super League clash between St Helens and Castleford Tigers.",
+      "headline_only": false
+    },
     {
       "title": "Saints keep Super League play-off hopes alive over 10-man Castleford",
       "link": "https://www.skysports.com/rugby-league/news/12040/13575914/super-league-st-helens-keep-play-off-hopes-alive-with-victory-against-castleford-as-toulouse-and-hull-both-win",
@@ -275,6 +287,18 @@
       "headline_only": false
     },
     {
+      "title": "I gave birth to my twin brother's baby and saved his life in the process",
+      "link": "https://www.abc.net.au/news/2026-08-23/love-story-how-ellie-helped-brother-adam-surrogacy-baby-gali/107057106",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-22T23:00:00+00:00",
+      "summary": "Twins Adam Braitberg and Ellie Freeman grew up in what they describe as a loving and close-knit family in suburban Melbourne/Naarm. That bond has only grown stronger since Ellie and eldest sister Jess helped Adam and his husband Omer bring daughter Gali into the world.",
+      "headline_only": false
+    },
+    {
       "title": "Pogačar makes ominous start at Spanish Vuelta as history beckons",
       "link": "https://www.abc.net.au/news/2026-08-23/spanish-vuelta-tadej-pogacar-claims-red-jersey/107068230",
       "source": "ABC News Australia",
@@ -287,15 +311,39 @@
       "headline_only": false
     },
     {
-      "title": "Watch Match of the Day",
-      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
+      "title": "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
+      "link": "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
       "lang": "EN",
-      "published": "2026-08-22T22:41:54+00:00",
-      "summary": "Highlights of the opening weekend of the 2026/27 Premier League season.",
+      "published": "2026-08-22T22:31:16+00:00",
+      "summary": "India’s maritime rescue agency lost communication on Saturday with a Panama-flagged cargo vessel that sank off the coast of eastern ‌India, the Indian coastguard said. The vessel had 24 crew on board, including 20 Chinese nationals, three Myanmar nationals and one Bangladeshi,…",
+      "headline_only": false
+    },
+    {
+      "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
+      "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-22T22:29:07+00:00",
+      "summary": "For the second week in a row, Hawaii Island, also known as the Big Island, faces threats from an intensifying storm.",
+      "headline_only": false
+    },
+    {
+      "title": "Evening recap",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/evening-recap-605",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-22T22:28:31+00:00",
+      "summary": "Evening recap Good evening, Middle East Eye readers. If you're just joining us, here are key developments from the day: Tehran warned that it would target the interests of any countries that help the US sanctions against Iran, threatening to block oil exports through Hormuz.…",
       "headline_only": false
     },
     {
@@ -524,18 +572,6 @@
       "lang": "EN",
       "published": "2026-08-22T21:27:22+00:00",
       "summary": "Families are returning to the movies at an open-air cinema in Khartoum, offering residents a brief escape from war.",
-      "headline_only": false
-    },
-    {
-      "title": "The archer who shoots a target he cannot see",
-      "link": "https://www.abc.net.au/news/2026-08-23/story-vision-impaired-gippsland-archer-world-championships/106922438",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-22T21:27:04+00:00",
-      "summary": "After losing his sight, James Griffiths has found a new purpose through vision-impaired archery, using touch, sound and determination to chase a place on the world stage.",
       "headline_only": false
     },
     {
@@ -875,18 +911,6 @@
       "headline_only": false
     },
     {
-      "title": "Spurs crumble as Brentford show brilliance in convincing win",
-      "link": "https://www.skysports.com/watch/video/13576076/brentford-3-0-tottenham-hotspur-premier-league-highlights",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-22T19:28:00+00:00",
-      "summary": "Highlights from the Premier League match between Brentford and Tottenham Hotspur.",
-      "headline_only": false
-    },
-    {
       "title": "Israeli strikes kill two and injure others as Gaza attacks continue",
       "link": "https://www.aljazeera.com/news/2026/8/22/israeli-strikes-kill-two-and-injure-others-as-gaza-attacks-continue?traffic_source=rss",
       "source": "Al Jazeera",
@@ -920,18 +944,6 @@
       "lang": "EN",
       "published": "2026-08-22T19:24:00+00:00",
       "summary": "The Panama‑flagged Ocean Winner reportedly had a crew of 24, at least two of whom appear to have been rescued. The ship is thought to have been carrying iron ore from India to Singapore.",
-      "headline_only": false
-    },
-    {
-      "title": "Envoy says Israel did not give the US notice before strikes on Syrian base",
-      "link": "https://www.aljazeera.com/news/2026/8/22/envoy-says-israel-did-not-give-the-us-notice-before-strikes-on-syrian-base?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T19:18:02+00:00",
-      "summary": "US official Tom Barrack has criticised Israel for failing to give his country adequate warning, a claim Tel Aviv denies.",
       "headline_only": false
     },
     {
@@ -1160,6 +1172,18 @@
       "lang": "FR",
       "published": "2026-08-22T18:07:28+00:00",
       "summary": "Le Premier ministre leur a adressé une missive de quatre pages ce dimanche 22 août pour les exhorter à ne pas censurer le projet de loi de finances. Il met en garde sur «les désordres» que cela pourrait engendrer.",
+      "headline_only": false
+    },
+    {
+      "title": "Tarling third in Vuelta opener after brother's death",
+      "link": "https://www.bbc.co.uk/sport/cycling/articles/cq6d6y0e500o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-22T18:03:45+00:00",
+      "summary": "Britain's Josh Tarling finishes third in the opening stage of the Vuelta a Espana just eight days after his brother Fin lost his life in a crash.",
       "headline_only": false
     },
     {
@@ -1628,30 +1652,6 @@
       "lang": "EN",
       "published": "2026-08-22T14:35:00+00:00",
       "summary": "The blaze, near Valencia, forced more than 1,000 people from their homes. In nearby Catalonia, civil defense teams carried out 200 rescue operations after floods trapped residents in cars and homes.",
-      "headline_only": false
-    },
-    {
-      "title": "Elderly woman allegedly pressured into spending HK$100,000 on beauty products",
-      "link": "https://www.scmp.com/news/hong-kong/society/article/3364937/elderly-woman-allegedly-pressured-spending-hk100000-beauty-products?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T14:34:12+00:00",
-      "summary": "Hong Kong customs is investigating whether an 88-year-old was pressured into spending HK$100,000 (US$12,750) on beauty products at an outlet linked to a company already accused of aggressive sales tactics. In a social media post on Saturday, a woman surnamed Ng wrote that her…",
-      "headline_only": false
-    },
-    {
-      "title": "Syria condemns Israeli strike on 'civilian vehicle' near Damascus",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/syria-condemns-israeli-strike-civilian-vehicle-near-damascus",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-22T14:31:06+00:00",
-      "summary": "Syria condemns Israeli strike on 'civilian vehicle' near Damascus Syria's Ministry of Foreign Affairs has issued a statement condemning \"in the strongest terms\" an Israeli attack on a \"civilian vehicle\" west of Damascus. Syrian media reported earlier that one person was wounded…",
       "headline_only": false
     },
     {
