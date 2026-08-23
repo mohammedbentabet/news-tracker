@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-23T20:38:33.873413+00:00",
+  "updated_at": "2026-08-23T21:08:39.475626+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:20.618416+00:00"
+      "last_success": "2026-08-23T20:47:05.874916+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:20.674140+00:00"
+      "last_success": "2026-08-23T20:47:05.961091+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:20.733446+00:00"
+      "last_success": "2026-08-23T20:47:06.178933+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:20.862032+00:00"
+      "last_success": "2026-08-23T20:47:06.341894+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:20.987138+00:00"
+      "last_success": "2026-08-23T20:47:06.476547+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:21.101294+00:00"
+      "last_success": "2026-08-23T20:47:06.597220+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:21.457854+00:00"
+      "last_success": "2026-08-23T20:47:06.936389+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-23T20:25:21.622749+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:21.989939+00:00"
+      "last_success": "2026-08-23T20:47:07.775736+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:22.163418+00:00"
+      "last_success": "2026-08-23T20:47:08.097839+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:22.262364+00:00"
+      "last_success": "2026-08-23T20:47:08.255490+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:22.317706+00:00"
+      "last_success": "2026-08-23T20:47:08.309266+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:22.774606+00:00"
+      "last_success": "2026-08-23T20:47:08.571238+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:22.914951+00:00"
+      "last_success": "2026-08-23T20:47:08.794013+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:23.159872+00:00"
+      "last_success": "2026-08-23T20:47:08.911698+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:23.651120+00:00"
+      "last_success": "2026-08-23T20:47:09.515298+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:24.505109+00:00"
+      "last_success": "2026-08-23T20:47:10.732911+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:24.615910+00:00"
+      "last_success": "2026-08-23T20:47:10.827140+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:24.923585+00:00"
+      "last_success": "2026-08-23T20:47:11.184353+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:25.158188+00:00"
+      "last_success": "2026-08-23T20:47:11.452418+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:25.632159+00:00"
+      "last_success": "2026-08-23T20:47:11.961061+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:25.790809+00:00"
+      "last_success": "2026-08-23T20:47:12.138511+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:25.901338+00:00"
+      "last_success": "2026-08-23T20:47:12.297292+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:25.995789+00:00"
+      "last_success": "2026-08-23T20:47:12.479831+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:25:26.750555+00:00"
+      "last_success": "2026-08-23T20:47:13.259834+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:38:31.126023+00:00"
+      "last_success": "2026-08-23T21:08:30.618961+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:38:31.947633+00:00"
+      "last_success": "2026-08-23T21:08:31.424621+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,25 +227,25 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:38:32.679426+00:00"
+      "last_success": "2026-08-23T21:08:32.150629+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:38:32.910674+00:00"
+      "last_success": "2026-08-23T21:08:32.370355+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T20:38:33.299468+00:00"
+      "last_success": "2026-08-23T21:08:32.701687+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-23T20:38:33.873229+00:00"
+      "status": "error",
+      "error": "<unknown>:2:252: not well-formed (invalid token)",
+      "last_success": "using cached data"
     }
   },
   "article_count": 298,
@@ -272,6 +272,90 @@
       "lang": "EN",
       "published": "2026-08-23T21:15:00+00:00",
       "summary": "",
+      "headline_only": false
+    },
+    {
+      "title": "Mundi Mundi Bash still ultimate outback adventure, festival goers say",
+      "link": "https://www.abc.net.au/news/2026-08-24/mundi-mundi-bash-continues-despite-rain-and-flooding/107050906",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T21:00:43+00:00",
+      "summary": "Heavy rain and high fuel prices couldn't stop the largest outback music festival in Australia from going ahead.",
+      "headline_only": false
+    },
+    {
+      "title": "The 'heartfelt' spaces drawing crowds away from traditional music venues",
+      "link": "https://www.abc.net.au/news/2026-08-24/nsw-diy-shows-on-the-rise-as-struggling-music-venues-get-grants/107065824",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T21:00:21+00:00",
+      "summary": "The NSW government allocates a fresh round of grants to 33 struggling live music venues across the state as events in alternative spaces such as boxing rings rise in popularity.",
+      "headline_only": false
+    },
+    {
+      "title": "Live: ASX set to lift as Wall Street slump arrested",
+      "link": "https://www.abc.net.au/news/2026-08-24/asx-markets-business-live-news-australian-market-to-lift/107069462",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T20:58:05+00:00",
+      "summary": "Wall Street closed higher on Friday but still shed 1.4pc over the week. The ASX is set to rise ahead of another busy day of corporate reporting. Follow coverage of the day's events and insights from our business reporters on the ABC News live markets blog.",
+      "headline_only": false
+    },
+    {
+      "title": "Pressure on short-stay sector grows as councils powerless to enforce caps",
+      "link": "https://www.abc.net.au/news/2026-08-24/nsw-airbnbs-sydney-short-term-rental-housing-delivery/106972950",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T20:42:17+00:00",
+      "summary": "City of Sydney Deputy Mayor Jess Miller warns there is nothing preventing short-term accommodation investors from exploiting new developments earmarked for NSW.",
+      "headline_only": false
+    },
+    {
+      "title": "Signs that Jaissle's Newcastle are not to be written off",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c80n021k098o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-23T20:38:18+00:00",
+      "summary": "Newcastle United were predicted to struggle from the off by some pundits, but head coach Matthias Jaissle will take encouragement from aspects of their display even after conceding a late equaliser against Liverpool",
+      "headline_only": false
+    },
+    {
+      "title": "Kazakhstan parliamentary vote cements president's power",
+      "link": "https://www.dw.com/en/kazakhstan-parliamentary-vote-cements-president-s-power/a-78474598?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-08-23T20:38:00+00:00",
+      "summary": "Candidates from seven state-approved parties took part in the election, while opposition parties were banned. As Central Asia's largest nation, Kazakhstan maintains a delicate balance between Russia and the West.",
+      "headline_only": false
+    },
+    {
+      "title": "City's drinking water diluted after elevated PFAS levels detected",
+      "link": "https://www.abc.net.au/news/2026-08-24/riverina-water-dilution-regime-underway/107057064",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T20:35:09+00:00",
+      "summary": "Riverina Water is diluting water from two of its Wagga Wagga bores due to elevated detections of so-called \"forever chemicals\", but the source of contamination is a mystery.",
       "headline_only": false
     },
     {
@@ -311,7 +395,7 @@
       "headline_only": false
     },
     {
-      "title": "Trump waves green flag kicking off high-speed IndyCar race through Washington",
+      "title": "Trump waves green flag to start IndyCar race through Washington streets",
       "link": "https://www.bbc.co.uk/news/articles/c0qvq24vlj4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "source_id": "bbc-world",
@@ -359,7 +443,7 @@
       "headline_only": false
     },
     {
-      "title": "Parents of kids with disability more likely to be burnt out, study finds",
+      "title": "'Survival mode': Study reveals toll on parents of children with disability",
       "link": "https://www.abc.net.au/news/2026-08-24/parents-children-disability-experience-psychological-distress/107062176",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -515,18 +599,6 @@
       "headline_only": false
     },
     {
-      "title": "Three Queensland police officers convicted of DV offences escape discipline",
-      "link": "https://www.abc.net.au/news/2026-08-24/qld-ccc-domestic-violence-qps/107059006",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T19:44:12+00:00",
-      "summary": "The Queensland Police Service cannot discipline an officer convicted of a crime if no conviction is recorded due to its interpretation of a recent court decision.",
-      "headline_only": false
-    },
-    {
       "title": "Gaza’s hospitals are running out of oxygen as healthcare nears collapse",
       "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/gazas-hospitals-are-running-out-of-oxygen-as-healthcare-nears-collapse?traffic_source=rss",
       "source": "Al Jazeera",
@@ -548,30 +620,6 @@
       "lang": "EN",
       "published": "2026-08-23T19:38:57+00:00",
       "summary": "Centre-left politician Raphaël Glucksmann on Sunday launched his bid for the French presidency, aiming to unite moderate left-wing voters and challenge Jean-Luc Mélenchon’s influence ahead of France’s 2027 election. With Marine Le Pen leading first-round polls, Glucksmann is…",
-      "headline_only": false
-    },
-    {
-      "title": "'Can you come quickly': Two-hour wait for police shown in Triple Zero logs",
-      "link": "https://www.abc.net.au/news/2026-08-24/near-drowning-two-hour-wait-after-first-triple-zero-call/107067102",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T19:36:38+00:00",
-      "summary": "David Mason almost drowned in waters off Tasmania's north-west in January. Several Triple Zero calls were made by bystanders, but call logs show two hours passed between the first call and police arriving.",
-      "headline_only": false
-    },
-    {
-      "title": "AFL wildcard matches and times confirmed",
-      "link": "https://www.abc.net.au/news/2026-08-24/afl-confirms-date-and-times-for-wildcard-weekend/107069412",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T19:33:25+00:00",
-      "summary": "The AFL has confirmed the times for both wildcard round matches next weekend.",
       "headline_only": false
     },
     {
@@ -623,27 +671,15 @@
       "headline_only": false
     },
     {
-      "title": "Australia's bowling attack can't disguise batting failings forever",
-      "link": "https://www.abc.net.au/news/2026-08-24/australia-beat-bangladesh-but-batting-problems-remain/107069022",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
+      "title": "Norris and McLaren 'don't have car' to fight for title despite Dutch GP win",
+      "link": "https://www.bbc.co.uk/sport/formula1/articles/c1e1e56q4w5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
       "lang": "EN",
-      "published": "2026-08-23T19:22:22+00:00",
-      "summary": "Australia is blessed with a battery of potent fast bowlers while the batters continue to crumble. But a day of reckoning is coming.",
-      "headline_only": false
-    },
-    {
-      "title": "Indonesian police arrest 72 people as fires blanket region in smoke",
-      "link": "https://www.abc.net.au/news/2026-08-24/indonesia-arrests-72-over-wildfires/107069574",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T19:22:16+00:00",
-      "summary": "Authorities say many landowners are lighting fires for land clearing, sending massive plumes into the atmosphere that are choking swathes of South-East Asia.",
+      "published": "2026-08-23T19:23:43+00:00",
+      "summary": "Lando Norris says he and McLaren \"don't have the car I need to fight for a championship\", despite a second consecutive win of the season at the Dutch Grand Prix.",
       "headline_only": false
     },
     {
@@ -716,18 +752,6 @@
       "lang": "EN",
       "published": "2026-08-23T19:03:00+00:00",
       "summary": "Somerset ramped up the pressure on County Championship Division One leaders Nottinghamshire with an eight-wicket victory at home against Essex.",
-      "headline_only": false
-    },
-    {
-      "title": "Brighton dominate 10-man Villa",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c78g8gdkgnzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-23T19:02:54+00:00",
-      "summary": "Brighton start their season with an emphatic win at home against Europa League winners Aston Villa, with four first-half goals.",
       "headline_only": false
     },
     {
@@ -980,6 +1004,18 @@
       "lang": "EN",
       "published": "2026-08-23T18:00:00+00:00",
       "summary": "Group’s chief says vintage web name can help draw younger users",
+      "headline_only": true
+    },
+    {
+      "title": "Why every French politician is now a Gaullist",
+      "link": "https://www.ft.com/content/252df40a-48c0-47b8-850d-698a3d7a6dfd",
+      "source": "Financial Times (headlines only – paywalled)",
+      "source_id": "ft-headlines",
+      "category": "finance",
+      "region": "UK/Europe",
+      "lang": "EN",
+      "published": "2026-08-23T17:58:17+00:00",
+      "summary": "The revival of de Gaulle’s legendary role in the second world war coincides with an increasing number of claims to his legacy",
       "headline_only": true
     },
     {
@@ -1307,7 +1343,7 @@
       "headline_only": false
     },
     {
-      "title": "Thousands struggling without power in Indiana 12 days after severe storms",
+      "title": "Frustration builds in Indiana town struggling without power for 12 days",
       "link": "https://www.bbc.co.uk/news/articles/clyly8vdpdwo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "source_id": "bbc-world",
@@ -1388,18 +1424,6 @@
       "lang": "EN",
       "published": "2026-08-23T15:35:19+00:00",
       "summary": "The Trump administration on Sunday warned that Canada would be “foolish” to think it could win a trade war with the United States, predicting a “devastating” impact on its northern neighbour. Negotiations between Washington and Ottawa broke down late Friday, putting into force…",
-      "headline_only": false
-    },
-    {
-      "title": "Norris beats Antonelli to claim final Dutch GP win",
-      "link": "https://www.bbc.co.uk/sport/formula1/articles/ce8l8jek1k1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-23T15:20:17+00:00",
-      "summary": "Lando Norris and McLaren beats Mercedes' Kimi Antonelli to take a masterful strategic victory in a compelling Dutch Grand Prix.",
       "headline_only": false
     },
     {
@@ -2003,18 +2027,6 @@
       "headline_only": true
     },
     {
-      "title": "Trump’s South Korea snub raises questions in the Asia-Pacific",
-      "link": "https://www.ft.com/content/22530c4a-65b7-49f7-890d-1c8900f63853?syn-25a6b1a6=1",
-      "source": "Financial Times (headlines only – paywalled)",
-      "source_id": "ft-headlines",
-      "category": "finance",
-      "region": "UK/Europe",
-      "lang": "EN",
-      "published": "2026-08-23T11:00:07+00:00",
-      "summary": "Scaling back military exercises has undermined faith in America’s reliability",
-      "headline_only": true
-    },
-    {
       "title": "Jumpy bond markets make it clear: Trump risks driving US into debt crisis | Heather Stewart",
       "link": "https://www.theguardian.com/business/2026/aug/23/jumpy-bond-markets-make-it-clear-trump-risks-driving-us-into-debt-crisis",
       "source": "The Guardian – Business",
@@ -2168,18 +2180,6 @@
       "lang": "EN",
       "published": "2026-08-23T09:20:00+00:00",
       "summary": "Obesity rates climbed in the US for years, but now there are signs this could be changing. Use of weight-loss drugs such as Ozempic and Wegovy has increased rapidly — are they helping?",
-      "headline_only": false
-    },
-    {
-      "title": "What is the 'political firewall' against Germany's far-right AfD?",
-      "link": "https://www.dw.com/en/what-is-the-political-firewall-against-germany-s-far-right-afd/a-78431554?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-08-23T09:15:00+00:00",
-      "summary": "Germany's centrist parties reject any cooperation with the Alternative for Germany (AfD), parts of which are classified as right-wing extremist. However, this policy is coming under increasing pressure.",
       "headline_only": false
     },
     {
