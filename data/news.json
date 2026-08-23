@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-23T02:58:01.929516+00:00",
+  "updated_at": "2026-08-23T03:48:10.961419+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:09.385367+00:00"
+      "last_success": "2026-08-23T03:34:44.577870+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:09.524371+00:00"
+      "last_success": "2026-08-23T03:34:44.666622+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:09.615309+00:00"
+      "last_success": "2026-08-23T03:34:44.744588+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:09.865119+00:00"
+      "last_success": "2026-08-23T03:34:44.901736+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:09.987031+00:00"
+      "last_success": "2026-08-23T03:34:45.022170+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:10.106516+00:00"
+      "last_success": "2026-08-23T03:34:45.138894+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:10.452326+00:00"
+      "last_success": "2026-08-23T03:34:45.523999+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "error",
-      "error": "<unknown>:10:92: not well-formed (invalid token)",
-      "last_success": "using cached data"
+      "status": "ok",
+      "error": null,
+      "last_success": "2026-08-23T03:34:45.730433+00:00"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:11.174131+00:00"
+      "last_success": "2026-08-23T03:34:46.336714+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:11.358912+00:00"
+      "last_success": "2026-08-23T03:34:46.550947+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:11.427097+00:00"
+      "last_success": "2026-08-23T03:34:46.644974+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:11.483826+00:00"
+      "last_success": "2026-08-23T03:34:46.712974+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:11.843414+00:00"
+      "last_success": "2026-08-23T03:34:47.038828+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:12.357928+00:00"
+      "last_success": "2026-08-23T03:34:47.296140+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:12.556695+00:00"
+      "last_success": "2026-08-23T03:34:47.538378+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:13.235359+00:00"
+      "last_success": "2026-08-23T03:34:48.098419+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:14.197166+00:00"
+      "last_success": "2026-08-23T03:34:49.177936+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:14.347029+00:00"
+      "last_success": "2026-08-23T03:34:49.295093+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:14.633802+00:00"
+      "last_success": "2026-08-23T03:34:49.712592+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:14.938168+00:00"
+      "last_success": "2026-08-23T03:34:49.960752+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:15.270193+00:00"
+      "last_success": "2026-08-23T03:34:50.460550+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:15.513219+00:00"
+      "last_success": "2026-08-23T03:34:50.651286+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:15.622766+00:00"
+      "last_success": "2026-08-23T03:34:50.767403+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:15.723993+00:00"
+      "last_success": "2026-08-23T03:34:50.951887+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:37:16.375405+00:00"
+      "last_success": "2026-08-23T03:34:51.824174+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:57:59.753739+00:00"
+      "last_success": "2026-08-23T03:48:09.337615+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:58:00.231849+00:00"
+      "last_success": "2026-08-23T03:48:09.672231+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,209 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:58:01.018714+00:00"
+      "last_success": "2026-08-23T03:48:10.473754+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:58:01.169443+00:00"
+      "last_success": "2026-08-23T03:48:10.568767+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:58:01.454220+00:00"
+      "last_success": "2026-08-23T03:48:10.839430+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T02:58:01.929298+00:00"
+      "last_success": "2026-08-23T03:48:10.961191+00:00"
     }
   },
   "article_count": 298,
   "articles": [
+    {
+      "title": "Palestinian commission: Illegal Israeli settlements in West Bank reach 592 by July",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/palestinian-commission-illegal-israeli-settlements-west-bank-reach-592",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-23T03:25:44+00:00",
+      "summary": "Palestinian commission: Illegal Israeli settlements in West Bank reach 592 by July The number of illegal Israeli settlements and outposts in the occupied West Bank has reached 592 by the end of July, according to the Palestinian Wall and Settlement Resistance Commission. The…",
+      "headline_only": false
+    },
+    {
+      "title": "Hong Kong rules out Wang Fuk Court buy-back extension as 100 owners hesitate",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3364951/hong-kong-rules-out-wang-fuk-court-buy-back-extension-100-owners-hesitate?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-23T03:24:47+00:00",
+      "summary": "About 100 homeowners, or 5 per cent, at fire-ravaged Wang Fuk Court in Hong Kong have yet to accept the government’s buy-back offer with a week left before the deadline, Deputy Financial Secretary Michael Wong Wai-lun has said, stressing that the acquisition scheme will not be…",
+      "headline_only": false
+    },
+    {
+      "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-23T03:16:19+00:00",
+      "summary": "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record.",
+      "headline_only": false
+    },
+    {
+      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
+      "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-08-23T03:08:00+00:00",
+      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
+      "headline_only": false
+    },
+    {
+      "title": "Jordan caught in Iran-US-Israel war crossfire",
+      "link": "https://www.abc.net.au/news/2026-08-23/jordan-caught-in-the-iran-us-israel-war-crossfire/107064774",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T03:04:52+00:00",
+      "summary": "Almost six months after the US and Israel launched strikes on Iran, kickstarting the war in the Middle East, the turmoil wrought by the conflict has continued to rock Jordan.",
+      "headline_only": false
+    },
+    {
+      "title": "Coroner closes investigation into missing man after farmers find human remains",
+      "link": "https://www.abc.net.au/news/2026-08-23/coroner-closes-investigation-missing-jayden-penno-tompsett-skull/107068432",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T03:03:58+00:00",
+      "summary": "For eight years, no one knew the final resting place of missing man Jayden Penno-Tompsett. When his skull was found on a farm, a coronial inquiry reopened.",
+      "headline_only": false
+    },
+    {
+      "title": "Kojonup adds names of long-forgotten soldiers to war memorial",
+      "link": "https://www.abc.net.au/news/2026-08-23/kojonup-adds-forgotten-soldiers-names-to-war-memorial/107067290",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T03:03:51+00:00",
+      "summary": "A WA farming town has paused to honour 14 servicemen from WWI and WWII, at the 100th anniversary of its memorial hall.",
+      "headline_only": false
+    },
+    {
+      "title": "Harry and Meghan's return from California exile a major royal plot twist",
+      "link": "https://www.abc.net.au/news/2026-08-23/harry-and-meghan-and-the-royals-who-stepped-away-from-the-crown/107057976",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T03:00:55+00:00",
+      "summary": "Prince Harry and his wife, Meghan, are relocating to the UK, breaking a historic parallel frequently drawn between them and King Edward VIII and Wallis Simpson.",
+      "headline_only": false
+    },
+    {
+      "title": "Are humanoid robots the future? Chinese makers instead highlight practical design",
+      "link": "https://www.scmp.com/tech/tech-trends/article/3364911/are-humanoid-robots-future-chinese-makers-instead-highlight-practical-design?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-23T03:00:12+00:00",
+      "summary": "Humanoid robots were still among the biggest crowd-pleasers at this year’s World Robot Conference (WRC) in Beijing, though other types of robots, such as wheeled machines, were gaining momentum as the industry moves from demonstration to deployment. At Unitree Robotics’ packed…",
+      "headline_only": false
+    },
+    {
+      "title": "Bites to bytes: Thai street food app feeds into hunger for authenticity",
+      "link": "https://www.scmp.com/week-asia/lifestyle-culture/article/3364869/bites-bytes-thai-street-food-app-feeds-hunger-authenticity?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-23T03:00:07+00:00",
+      "summary": "Bangkok’s best street food has always existed on a kind of mental map for Thai food writer Choltanutkun Tun-atiruj. It is built from habit, cravings and neighbourhood rhythms: the office crowds, the schools, the university nearby and the vendors selling everything from moo ping…",
+      "headline_only": false
+    },
+    {
+      "title": "Aipac told to stay away from pro-Israel Mike Rogers' campaign, report says",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/aipac-told-stay-away-pro-israel-mike-rogers-campaign-report-says",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-23T02:59:36+00:00",
+      "summary": "Aipac told to stay away from pro-Israel Mike Rogers' campaign, report says Allies of Mike Rogers, a Republican Senate nominee in Michigan, have asked the American Israel Public Affairs Committee (Aipac) not to run ads on his behalf, according to Axios. The request came after…",
+      "headline_only": false
+    },
+    {
+      "title": "Soudan: El Niño fait craindre une aggravation de la crise alimentaire provoquée par la guerre",
+      "link": "https://www.rfi.fr/fr/environnement/20260823-soudan-el-ni%C3%B1o-fait-craindre-une-aggravation-de-la-crise-alimentaire-provoqu%C3%A9e-par-la-guerre",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-23T02:59:06+00:00",
+      "summary": "Alors que plus de 40% de la population soudanaise est confrontée à une faim aiguë en raison du conflit qui déchire le pays, certains scientifiques qui étudient le phénomène naturel à l'oeuvre dans l'océan Pacifique estiment que le faible débit des eaux du Nil et l'assèchement…",
+      "headline_only": false
+    },
+    {
+      "title": "Mali: libération de deux ex-paramilitaires du groupe Wagner détenus par des jihadistes et des rebelles touaregs",
+      "link": "https://www.rfi.fr/fr/afrique/20260823-mali-lib%C3%A9ration-de-deux-ex-paramilitaires-du-groupe-wagner-d%C3%A9tenus-par-des-jihadistes-et-des-rebelles-touaregami",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-23T02:58:50+00:00",
+      "summary": "Détenus dans le nord du Mali, les deux hommes avaient été faits prisonniers lors des combats de Tinzaouatène, près de la frontière algérienne, en juillet 2024. Immédiatement après leur libération obtenue « grâce à l'implication de pays amis avec les juntes sahéliennes », selon…",
+      "headline_only": false
+    },
+    {
+      "title": "Lomé s'exprime pour la première fois sur l'arrestation de deux journalistes français au Togo",
+      "link": "https://www.rfi.fr/fr/afrique/20260823-lom%C3%A9-s-exprime-pour-la-premi%C3%A8re-fois-sur-l-arrestation-de-deux-journalistes-fran%C3%A7ais-au-togo",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-23T02:58:33+00:00",
+      "summary": "Dans un communiqué publié samedi 22 août, le gouvernement togolais affirme que la justice dispose « d'indices graves et concordants » à l'encontre de Gaël Mocaër et Sebastian Perez Pezzani. Les deux réalisateurs français partis tourner dans le pays un épisode de l'émission «…",
+      "headline_only": false
+    },
+    {
+      "title": "Sénégal: la Maison des esclaves de Gorée, mémoire vivante des victimes de la traite négrière",
+      "link": "https://www.rfi.fr/fr/afrique/20260823-s%C3%A9n%C3%A9gal-la-maison-des-esclaves-de-gor%C3%A9e-m%C3%A9moire-vivante-des-africains-victimes-de-la-traite-n%C3%A9gri%C3%A8re",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-08-23T02:57:59+00:00",
+      "summary": "Alors que la Journée internationale du souvenir de la traite négrière et de son abolition est célébrée ce dimanche 23 août, l'île de Gorée, dans la baie de Dakar, au Sénégal, est devenue le symbole mondial de l'esclavage transatlantique. Lieu de recueillement et de…",
+      "headline_only": false
+    },
     {
       "title": "'Mainly to support AFLW': Swans fans descend on SCG amid club scandal",
       "link": "https://www.abc.net.au/news/2026-08-23/sydney-swans-fans-react-to-week-at-scg-on-sunday/107068462",
@@ -272,6 +452,18 @@
       "lang": "EN",
       "published": "2026-08-23T02:52:19+00:00",
       "summary": "A playground in WA's Midwest is closed after low levels of the metal thallium were detected in a sand pit, following environmental testing linked to dust emissions.",
+      "headline_only": false
+    },
+    {
+      "title": "Tech paradox: fear of being left behind drives China non-programmers to build own AI tools",
+      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3364949/tech-paradox-fear-being-left-behind-drives-china-non-programmers-build-own-ai-tools?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-23T02:49:19+00:00",
+      "summary": "A growing number of non-programmers across China are developing their own AI tools, primarily motivated by concerns about falling behind as technology reshapes work and daily life. The anxiety surrounding this shift is almost palpable. AI courses and side-hustle tutorials have…",
       "headline_only": false
     },
     {
@@ -383,7 +575,7 @@
       "headline_only": false
     },
     {
-      "title": "Live: Threats of SCG walkouts as Swans men's and women's teams take the field",
+      "title": "Live: Security removes banner as Swans men's and women's teams take the field",
       "link": "https://www.abc.net.au/news/2026-08-23/afl-live-sydney-swans-play-after-pullman-hotel-scandal/107067396",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -391,7 +583,7 @@
       "region": "Australia",
       "lang": "EN",
       "published": "2026-08-23T01:32:57+00:00",
-      "summary": "Sydney's AFLW team takes the field in the first game of a double-header, with some fans threatening to walk out on the following men's game. Follow live.",
+      "summary": "Sydney's AFLW team takes the field in the first game of a double-header, with one banner already removed by security during the game. Follow live.",
       "headline_only": false
     },
     {
@@ -419,18 +611,6 @@
       "headline_only": false
     },
     {
-      "title": "Grafton 12yo takes campaign to politicians to fix beloved skate park",
-      "link": "https://www.abc.net.au/news/2026-08-23/haylee-blair-campaign-to-refurbish-grafton-skate-park/107037938",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T01:12:23+00:00",
-      "summary": "When 12-year-old Haylee Blair found a problem that needed fixing, she knew exactly who to call: her local politicians.",
-      "headline_only": false
-    },
-    {
       "title": "How Opatra’s ‘coercive’ tactics in Hong Kong echo global ‘Dead Sea sales scams’",
       "link": "https://www.scmp.com/news/hong-kong/article/3364938/how-opatras-coercive-tactics-hong-kong-echo-global-dead-sea-sales-scams?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -452,18 +632,6 @@
       "lang": "EN",
       "published": "2026-08-23T00:59:32+00:00",
       "summary": "'Palestinian state already a reality', says Arab Israeli leader Mansour Abbas Mansour Abbas, the conservative leader of the United Arab List (UAL) party in Israel, has called on Israel to recognise an “independent Palestinian state”, saying that it was already “a reality, which…",
-      "headline_only": false
-    },
-    {
-      "title": "Father leaves 7yo son behind on Mount Fuji to continue climb",
-      "link": "https://www.abc.net.au/news/2026-08-23/father-leaves-son-behind-on-mount-fuji-climb/107068276",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T00:50:35+00:00",
-      "summary": "Japanese police say they gave the man a stern warning about leaving his child at the sixth station of the mountain climb.",
       "headline_only": false
     },
     {
@@ -491,18 +659,6 @@
       "headline_only": false
     },
     {
-      "title": "Australia records its first bird flu case in a mammal, minister says",
-      "link": "https://www.abc.net.au/news/2026-08-23/australias-first-bird-flu-case-in-mammal-confirmed-in-sa/107068380",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T00:36:50+00:00",
-      "summary": "A long-nosed fur seal found in South Australia tests positive for bird flu.",
-      "headline_only": false
-    },
-    {
       "title": "Trump posts map showing Hormuz as 'new US territory'",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/trump-posts-map-showing-hormuz-new-us-territory",
       "source": "Middle East Eye",
@@ -512,18 +668,6 @@
       "lang": "EN",
       "published": "2026-08-23T00:32:44+00:00",
       "summary": "Trump posts map showing Hormuz as 'new US territory' US president Donald Trump has posted a map on his Truth Social account marking the Strait of Hormuz as \"NEW U.S. Territory\". It is the second time in a week that Trump has shared the image, but he included no caption or…",
-      "headline_only": false
-    },
-    {
-      "title": "One Nation pursuing migration rate 'not too different' to Labor",
-      "link": "https://www.abc.net.au/news/2026-08-23/one-nation-migration-rates-similar-labor/107068282",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T00:29:58+00:00",
-      "summary": "One Nation MP David Farley also told Insiders One Nation would seek to redirect immigration to regional areas and away from cities.",
       "headline_only": false
     },
     {
@@ -695,18 +839,6 @@
       "headline_only": true
     },
     {
-      "title": "India launches rescue mission as Panama-flagged cargo ship sinks off east coast",
-      "link": "https://www.scmp.com/news/asia/south-asia/article/3364946/india-launches-rescue-mission-panama-flagged-cargo-ship-sinks-east-coast?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T22:31:16+00:00",
-      "summary": "India’s maritime rescue agency lost communication on Saturday with a Panama-flagged cargo vessel that sank off the coast of eastern ‌India, the Indian coastguard said. The vessel had 24 crew on board, including 20 Chinese nationals, three Myanmar nationals and one Bangladeshi,…",
-      "headline_only": false
-    },
-    {
       "title": "Tropical Storm Moke advances towards Hawaii with heavy rain, strong winds",
       "link": "https://www.aljazeera.com/news/2026/8/22/tropical-storm-moke-advances-towards-hawaii-with-heavy-rain-strong-winds?traffic_source=rss",
       "source": "Al Jazeera",
@@ -767,30 +899,6 @@
       "headline_only": false
     },
     {
-      "title": "Canada to hit back with retaliatory tariffs after US trade talks fail",
-      "link": "https://www.dw.com/en/canada-to-hit-back-with-retaliatory-tariffs-after-us-trade-talks-fail/a-78471618?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-08-22T22:12:00+00:00",
-      "summary": "The trade standoff between Ottawa and Washington has escalated as Canada announced tariffs on US products. The move comes in response to the US saying that tariffs would follow the collapse of talks.",
-      "headline_only": false
-    },
-    {
-      "title": "How Pacific nations walk a tightrope between Western security and Chinese trade",
-      "link": "https://www.scmp.com/news/china/diplomacy/article/3364908/how-pacific-nations-walk-tightrope-between-western-security-and-chinese-trade?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T22:00:10+00:00",
-      "summary": "On paper, Western countries are rushing to sign defence pacts in the South Pacific, ensuring their influence in a region long neglected as a geopolitical backwater. But on the water, the island nations are playing a very different game. Instead of taking sides, local leaders…",
-      "headline_only": false
-    },
-    {
       "title": "Papers: Arsenal pair Arteta and Berta in 'frequent contact' with Alvarez",
       "link": "https://www.skysports.com/football/news/12040/13576128/arsenal-transfer-news-mikel-arteta-and-andrea-berta-in-frequent-contact-with-julian-alvarez-amid-hope-of-luring-atletico-madrid-star-paper-talk",
       "source": "Sky Sports",
@@ -815,18 +923,6 @@
       "headline_only": false
     },
     {
-      "title": "Nvidia customers notified of AI-related price rises above 15%",
-      "link": "https://www.scmp.com/tech/big-tech/article/3364945/nvidia-customers-notified-ai-related-price-rises-above-15?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T21:54:25+00:00",
-      "summary": "Some of Nvidia’s biggest customers have been told that the prices of servers containing its artificial intelligence chips are going up more than 15 per cent in many cases with memory chip costs soaring. The price rises will go into effect on systems shipped early next year and…",
-      "headline_only": false
-    },
-    {
       "title": "India launches rescue operation as bulk carrier sinks off east coast - Reuters",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -848,18 +944,6 @@
       "lang": "EN",
       "published": "2026-08-22T21:42:42+00:00",
       "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
-      "headline_only": false
-    },
-    {
-      "title": "Hong Kong must abandon superiority complex over mainland China",
-      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364326/hong-kong-must-abandon-superiority-complex-over-mainland-china?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T21:30:07+00:00",
-      "summary": "After many years in Hong Kong, with some sadness, I left the city for greener pastures, though my link with it remains an emotional one. When I moved my two dogs across the border to Shenzhen, I was told by agents, officials, even artificial intelligence, that the mainland…",
       "headline_only": false
     },
     {
@@ -923,18 +1007,6 @@
       "headline_only": false
     },
     {
-      "title": "Iran threatens to block Hormuz if neighbours join US sanctions",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/iran-threatens-block-hormuz-if-neighbours-join-us-sanctions",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-22T20:53:31+00:00",
-      "summary": "Iran threatens to block Hormuz if neighbours join US sanctions Tehran would target the interests of countries that help the United States in its economic pressure campaign against Iran , the secretary of Iran's Supreme National Security Council, Mohsen Rezaei, stated on…",
-      "headline_only": false
-    },
-    {
       "title": "Téhéran menace de représailles tout pays soutenant les sanctions économiques américaines",
       "link": "https://www.lemonde.fr/international/article/2026/08/22/teheran-menace-de-represailles-tout-pays-soutenant-les-sanctions-economiques-americaines_6753646_3210.html",
       "source": "Le Monde",
@@ -944,30 +1016,6 @@
       "lang": "FR",
       "published": "2026-08-22T20:51:07+00:00",
       "summary": "Le secrétaire américain au Trésor, Scott Bessent, a affirmé la volonté des États-Unis de faire « s’effondrer le régime » iranien par de nouvelles sanctions. Il doit préciser lundi les modalités de cette pression accrue.",
-      "headline_only": false
-    },
-    {
-      "title": "US Postal Service shares mail-in ballot restrictions despite court ruling",
-      "link": "https://www.aljazeera.com/news/2026/8/22/us-postal-service-shares-mail-in-ballot-restrictions-despite-court-ruling?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T20:49:17+00:00",
-      "summary": "US President Donald Trump has called for restrictions on mail-in voting as part of bid to exert control over elections.",
-      "headline_only": false
-    },
-    {
-      "title": "«C'est en train de briser mon rêve»: en France, la hausse des frais d'inscription angoisse les étudiants africains",
-      "link": "https://www.rfi.fr/fr/afrique/20260822-c-est-en-train-de-briser-mon-r%C3%AAve-en-france-la-hausse-des-frais-d-inscription-angoisse-les-%C3%A9tudiants-africains",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T20:43:27+00:00",
-      "summary": "En 2025, près de 500 000 étudiants étrangers se sont inscrits dans l'enseignement supérieur français. Mais pour les étudiants extra-communautaires, originaires de pays hors Union européenne, les frais d'inscription vont fortement augmenter. À partir de la rentrée, les droits…",
       "headline_only": false
     },
     {
@@ -1088,30 +1136,6 @@
       "lang": "EN",
       "published": "2026-08-22T20:00:00+00:00",
       "summary": "Dundee enjoyed another memorable trip across the road as they secured a deserved 2-0 derby victory away to Dundee United to move joint-top of the fledgling Scottish Premiership table.",
-      "headline_only": false
-    },
-    {
-      "title": "En Mongolie, une forêt plantée par l’homme dans l'espoir de contrer la désertification",
-      "link": "https://www.rfi.fr/fr/podcasts/reportage-international/20260822-en-mongolie-une-for%C3%AAt-plant%C3%A9e-par-l-homme-dans-l-espoir-de-contrer-la-d%C3%A9sertification",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T19:57:28+00:00",
-      "summary": "La Mongolie accueille depuis le 17 août, et jusqu’au 28 août, la COP17 contre la désertification. Un sommet international à Oulan-Bator pour tenter de trouver des solutions et des financements contre ce phénomène exacerbé par le dérèglement climatique, qui touche une grande…",
-      "headline_only": false
-    },
-    {
-      "title": "Israel continues attacks in southern Lebanon",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-continues-attacks-southern-lebanon",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-22T19:50:12+00:00",
-      "summary": "Israel continues attacks in southern Lebanon Israeli attacks on civilian-populated areas in southern Lebanon continued throughout Saturday, according to Lebanese media. Two villages, Majdal Zoun in Tyre and Konin in Bint Jbeil, were struck by Israeli forces, Lebanon's National…",
       "headline_only": false
     },
     {
@@ -1643,18 +1667,6 @@
       "headline_only": false
     },
     {
-      "title": "Colombie: le nouveau gouvernement va relancer les exportations de charbon vers Israël",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20260822-colombie-le-nouveau-gouvernement-va-relancer-les-exportations-de-charbon-vers-isra%C3%ABl",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T15:07:09+00:00",
-      "summary": "La Colombie va relancer ses exportations de charbon vers Israël, a annoncé le ministre colombien du Commerce vendredi 21 août 2026. Une nouvelle étape dans le rapprochement entre les deux pays depuis l'élection d'Aberlardo de la Espriella, nouveau président colombien d'extrême…",
-      "headline_only": false
-    },
-    {
       "title": "102 senior diplomats urge West Bank action against Israeli 'ethnic cleansing'",
       "link": "https://www.france24.com/en/102-senior-diplomats-urge-west-bank-action-against-israeli-ethnic-cleansing",
       "source": "France 24",
@@ -1847,7 +1859,7 @@
       "headline_only": false
     },
     {
-      "title": "EN DIRECT - L’Iran considère comme «ennemi» tout pays participant à la «guerre économique» de Washington",
+      "title": "L’Iran considère comme «ennemi» tout pays participant à la «guerre économique» de Washington",
       "link": "https://www.rfi.fr/fr/moyen-orient/20260822-en-direct-le-trafic-dans-le-d%C3%A9troit-d-ormuz-toujours-au-centre-du-bras-de-fer-irano-am%C3%A9ricain",
       "source": "RFI",
       "source_id": "rfi-fr",
@@ -1855,7 +1867,7 @@
       "region": "France",
       "lang": "FR",
       "published": "2026-08-22T12:58:24+00:00",
-      "summary": "L'Iran a accordé des autorisations spéciales à certains pétroliers irakiens pour qu'ils puissent franchir le détroit stratégique d'Ormuz depuis le début de la guerre au Moyen-Orient, a rapporté le 22 août l'agence de presse officielle Irna. L'Iran a pris le contrôle de ce…",
+      "summary": "Alors que Washington menace Téhéran de renforcer ses sanctions économiques contre l'Iran, le secrétaire du Conseil suprême de sécurité nationale iranien, Mohsen Rezaï, s'est exprimé à la télévision d'État, samedi 22 août. « Tout pays participant à la mise en place de…",
       "headline_only": false
     },
     {
@@ -2012,18 +2024,6 @@
       "lang": "EN",
       "published": "2026-08-22T11:49:00+00:00",
       "summary": "Around 100 people were attending a meditation retreat in central Myanmar when the building was targeted by military planes, witnesses said.",
-      "headline_only": false
-    },
-    {
-      "title": "Chine: comment Pékin se retrouve en position de force sur l'Iran",
-      "link": "https://www.rfi.fr/fr/asie-pacifique/20260822-chine-comment-la-chine-se-retrouve-en-position-de-force-sur-l-iran",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-08-22T11:16:00+00:00",
-      "summary": "Les menaces de nouvelles sanctions américaines contre l'Iran et ses soutiens ne perturbent pas Pékin. Alors que Donald Trump a appelé la Chine a rejoindre sa politique de coercition économique contre Téhéran, le pays a rejeté cette proposition américaine. Même si Pékin,…",
       "headline_only": false
     },
     {
