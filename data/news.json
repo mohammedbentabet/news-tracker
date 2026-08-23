@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-23T01:24:19.668501+00:00",
+  "updated_at": "2026-08-23T02:58:01.929516+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:10.874948+00:00"
+      "last_success": "2026-08-23T02:37:09.385367+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:10.943311+00:00"
+      "last_success": "2026-08-23T02:37:09.524371+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:11.211256+00:00"
+      "last_success": "2026-08-23T02:37:09.615309+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:11.368172+00:00"
+      "last_success": "2026-08-23T02:37:09.865119+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:11.462501+00:00"
+      "last_success": "2026-08-23T02:37:09.987031+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:11.956414+00:00"
+      "last_success": "2026-08-23T02:37:10.106516+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:12.584761+00:00"
+      "last_success": "2026-08-23T02:37:10.452326+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-23T01:10:12.719196+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:13.293038+00:00"
+      "last_success": "2026-08-23T02:37:11.174131+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:13.520669+00:00"
+      "last_success": "2026-08-23T02:37:11.358912+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:13.669511+00:00"
+      "last_success": "2026-08-23T02:37:11.427097+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:13.891549+00:00"
+      "last_success": "2026-08-23T02:37:11.483826+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:10:14.198126+00:00"
+      "last_success": "2026-08-23T02:37:11.843414+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:16.744082+00:00"
+      "last_success": "2026-08-23T02:37:12.357928+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:16.855274+00:00"
+      "last_success": "2026-08-23T02:37:12.556695+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:17.395294+00:00"
+      "last_success": "2026-08-23T02:37:13.235359+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:18.698714+00:00"
+      "last_success": "2026-08-23T02:37:14.197166+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:18.785426+00:00"
+      "last_success": "2026-08-23T02:37:14.347029+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:19.122932+00:00"
+      "last_success": "2026-08-23T02:37:14.633802+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:19.412576+00:00"
+      "last_success": "2026-08-23T02:37:14.938168+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:19.925226+00:00"
+      "last_success": "2026-08-23T02:37:15.270193+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:20.112768+00:00"
+      "last_success": "2026-08-23T02:37:15.513219+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:20.272964+00:00"
+      "last_success": "2026-08-23T02:37:15.622766+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:20.409359+00:00"
+      "last_success": "2026-08-23T02:37:15.723993+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:11:21.081122+00:00"
+      "last_success": "2026-08-23T02:37:16.375405+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:24:16.898389+00:00"
+      "last_success": "2026-08-23T02:57:59.753739+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:24:17.674915+00:00"
+      "last_success": "2026-08-23T02:58:00.231849+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,29 +227,197 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:24:18.565746+00:00"
+      "last_success": "2026-08-23T02:58:01.018714+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:24:18.755819+00:00"
+      "last_success": "2026-08-23T02:58:01.169443+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:24:19.102508+00:00"
+      "last_success": "2026-08-23T02:58:01.454220+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-23T01:24:19.668337+00:00"
+      "last_success": "2026-08-23T02:58:01.929298+00:00"
     }
   },
   "article_count": 298,
   "articles": [
+    {
+      "title": "'Mainly to support AFLW': Swans fans descend on SCG amid club scandal",
+      "link": "https://www.abc.net.au/news/2026-08-23/sydney-swans-fans-react-to-week-at-scg-on-sunday/107068462",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T02:53:48+00:00",
+      "summary": "Sydney Swans fans react to an emotional week, where a scandal continues to engulf the club, as they prepare to watch a historic double-header at the SCG.",
+      "headline_only": false
+    },
+    {
+      "title": "'Low-level' metal traces linked to WA playground closure",
+      "link": "https://www.abc.net.au/news/2026-08-23/geralton-playground-closed-dust-investigation/107067332",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T02:52:19+00:00",
+      "summary": "A playground in WA's Midwest is closed after low levels of the metal thallium were detected in a sand pit, following environmental testing linked to dust emissions.",
+      "headline_only": false
+    },
+    {
+      "title": "Canada to hit US with retaliatory tariffs as trade war escalates",
+      "link": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-23T02:34:49+00:00",
+      "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
+      "headline_only": false
+    },
+    {
+      "title": "Selwyn calls early end to 'challenging' ski season",
+      "link": "https://www.abc.net.au/news/2026-08-23/selwyn-closes-2026-winter-season/107068352",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T02:33:10+00:00",
+      "summary": "The first of four ski resorts in the NSW alps decides to call a wrap on winter, saying it has been one of the most challenging seasons in recent years due to the lack of snow.",
+      "headline_only": false
+    },
+    {
+      "title": "Bristol City striker's stunning backheel goal in England goes viral",
+      "link": "https://www.abc.net.au/news/2026-08-23/dom-ballard-goal-stuns-for-bristol-city/107068532",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T02:24:49+00:00",
+      "summary": "Bristol City's Dom Ballard scores a goal that's left many fans saying the Puskás Award may already be over for the season.",
+      "headline_only": false
+    },
+    {
+      "title": "Macron to host Saudi crown prince for talks on Middle East, energy",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/macron-host-saudi-crown-prince-talks-middle-east-energy",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-23T02:20:00+00:00",
+      "summary": "Macron to host Saudi crown prince for talks on Middle East, energy French President Emmanuel Macron will be hosting Saudi crown prince Mohammed bin Salman on Sunday for a two-day visit set to range from esports to the war in the Middle East. Several agreements on health,…",
+      "headline_only": false
+    },
+    {
+      "title": "China builds world’s first custom plant immunity system for epidemic response",
+      "link": "https://www.scmp.com/news/china/science/article/3364933/china-builds-worlds-first-custom-plant-immunity-system-epidemic-response?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-23T02:00:10+00:00",
+      "summary": "Chinese scientists have created an AI-guided platform to engineer custom plant immune receptors to rapidly combat emerging diseases that threaten plants, including commercial crops vulnerable to devastating outbreaks. Their programmable synthetic immune receptors can be…",
+      "headline_only": false
+    },
+    {
+      "title": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/thousands-flee-sudans-kordofan-fighting-for-relative-safety-of-el-obeid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-08-23T01:51:47+00:00",
+      "summary": "Thousands flee Sudan’s Kordofan fighting for relative safety of El Obeid.",
+      "headline_only": false
+    },
+    {
+      "title": "Tear gas shelling, detentions, property theft reported during West Bank raids",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/tear-gas-shelling-detentions-property-theft-reported-during-west-bank",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-08-23T01:50:54+00:00",
+      "summary": "Tear gas shelling, detentions, property theft reported during West Bank raids Israeli settlers and the military have continued raids in the occupied West Bank, including the one in which eleven 11 Palestinians, four children among them, suffered from suffocation caused by tear…",
+      "headline_only": false
+    },
+    {
+      "title": "Canada’s Carney refuses to take Trump’s ‘bait’, confronting US in trade war",
+      "link": "https://www.scmp.com/news/world/united-states-canada/article/3364948/canadas-carney-refuses-take-trumps-bait-confronting-us-trade-war?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-23T01:46:24+00:00",
+      "summary": "Siding with Canadians weary of provocations from Washington, Prime Minister Mark Carney stood up to US President Donald Trump, rejecting what he called an “unfair” trade deal – a gamble that could prove economically risky. “We will not allow any nation to determine our future.…",
+      "headline_only": false
+    },
+    {
+      "title": "Swedish sword attack victim was 17-year-old girl, police say",
+      "link": "https://www.bbc.co.uk/news/articles/c8jnjp0lwlwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-08-23T01:34:15+00:00",
+      "summary": "Two boys aged 12 and 17 were also injured in the attack, while an 18-year-old suspect has been detained.",
+      "headline_only": false
+    },
+    {
+      "title": "Live: Threats of SCG walkouts as Swans men's and women's teams take the field",
+      "link": "https://www.abc.net.au/news/2026-08-23/afl-live-sydney-swans-play-after-pullman-hotel-scandal/107067396",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T01:32:57+00:00",
+      "summary": "Sydney's AFLW team takes the field in the first game of a double-header, with some fans threatening to walk out on the following men's game. Follow live.",
+      "headline_only": false
+    },
+    {
+      "title": "NT government pursues Fair Work action over firefighters, corrections dispute",
+      "link": "https://www.abc.net.au/news/2026-08-23/nt-government-pursues-fair-work-action-over-union-dispute/107049684",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-23T01:31:21+00:00",
+      "summary": "The NT government files two applications with the Fair Work Commission over a year-long bargaining dispute with the union representing firefighters and correctional officers, with experts calling it a \"risky move\".",
+      "headline_only": false
+    },
+    {
+      "title": "Hong Kong can open a lucrative new frontier as Chinese tech IP hub",
+      "link": "https://www.scmp.com/opinion/hong-kong-opinion/article/3364571/hong-kong-can-open-lucrative-new-frontier-chinese-tech-ip-hub?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-08-23T01:30:06+00:00",
+      "summary": "Since 2021, Hong Kong’s development as a regional intellectual property (IP) trading centre has featured in China’s five-year plans and the policy addresses of chief executives Carrie Lam Cheng Yuet-ngor and John Lee Ka-chiu. There are good strategic reasons to see considerable…",
+      "headline_only": false
+    },
     {
       "title": "Grafton 12yo takes campaign to politicians to fix beloved skate park",
       "link": "https://www.abc.net.au/news/2026-08-23/haylee-blair-campaign-to-refurbish-grafton-skate-park/107037938",
@@ -287,7 +455,7 @@
       "headline_only": false
     },
     {
-      "title": "Father leaves tired 7yo at station to continue climbing Mount Fuji",
+      "title": "Father leaves 7yo son behind on Mount Fuji to continue climb",
       "link": "https://www.abc.net.au/news/2026-08-23/father-leaves-son-behind-on-mount-fuji-climb/107068276",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -295,7 +463,7 @@
       "region": "Australia",
       "lang": "EN",
       "published": "2026-08-23T00:50:35+00:00",
-      "summary": "Japanese police says they gave the man a stern warning leaving his child at the sixth station of the mountain climb.",
+      "summary": "Japanese police say they gave the man a stern warning about leaving his child at the sixth station of the mountain climb.",
       "headline_only": false
     },
     {
@@ -323,7 +491,7 @@
       "headline_only": false
     },
     {
-      "title": "Breaking: Australia records its first bird flu case in a mammal",
+      "title": "Australia records its first bird flu case in a mammal, minister says",
       "link": "https://www.abc.net.au/news/2026-08-23/australias-first-bird-flu-case-in-mammal-confirmed-in-sa/107068380",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -343,7 +511,7 @@
       "region": "MENA",
       "lang": "EN",
       "published": "2026-08-23T00:32:44+00:00",
-      "summary": "Trump posts map showing Hormuz as 'new US territory' US president Donald Trump has posted a map on his Truth Social account marking the Strait of Hormuz as \"NEW U.S. Territory\". On Friday, Trump told a public rally that he views Hormuz as \"an American territory right now\" and…",
+      "summary": "Trump posts map showing Hormuz as 'new US territory' US president Donald Trump has posted a map on his Truth Social account marking the Strait of Hormuz as \"NEW U.S. Territory\". It is the second time in a week that Trump has shared the image, but he included no caption or…",
       "headline_only": false
     },
     {
@@ -368,18 +536,6 @@
       "lang": "EN",
       "published": "2026-08-23T00:21:19+00:00",
       "summary": "GCC, Abu Dhabi-based Muslim Council of Elders condemn Israeli settlement plans Abu Dhabi-based Muslim Council of Elders and Gulf Cooperation Council have condemned Israeli plans to build a so-called E1 settlement in the occupied West Bank and settlement activities east of…",
-      "headline_only": false
-    },
-    {
-      "title": "WA by-election puts One Nation's growing appeal to the test",
-      "link": "https://www.abc.net.au/news/2026-08-23/wa-by-election-puts-one-nation-growing-appeal-to-the-test/107061162",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-23T00:16:45+00:00",
-      "summary": "One Nation's popularity is skyrocketing in opinion polls across the east coast. But next Saturday's Secret Harbour by-election will be the first clear test of whether that momentum is extending across the Nullarbor.",
       "headline_only": false
     },
     {
@@ -443,18 +599,6 @@
       "headline_only": false
     },
     {
-      "title": "Man driving stolen vehicle killed in head-on crash",
-      "link": "https://www.abc.net.au/news/2026-08-23/man-driving-stolen-vehicle-killed-in-collision-east-melbourne/107068238",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-22T23:43:04+00:00",
-      "summary": "A 46-year-old Melton man has died after the stolen car he was driving collided head-on with two other vehicles.",
-      "headline_only": false
-    },
-    {
       "title": "Gharibabadi says London, Paris ‘deliberately’ participating in Israeli crimes",
       "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gharibabadi-says-london-paris-deliberately-participating-israeli-crimes",
       "source": "Middle East Eye",
@@ -467,18 +611,6 @@
       "headline_only": false
     },
     {
-      "title": "Live: Starc with more new-ball magic after Australia bowled out for 210",
-      "link": "https://www.abc.net.au/news/2026-08-23/australia-vs-bangladesh-live-updates-second-test-day-two/107065186",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-22T23:35:46+00:00",
-      "summary": "Mitchell Starc takes wickets with back-to-back balls with Bangladesh on the ropes in Mackay. Follow live.",
-      "headline_only": false
-    },
-    {
       "title": "Iran warns nearby nations against joining US ‘economic war’ efforts",
       "link": "https://www.aljazeera.com/news/2026/8/22/iran-warns-nearby-nations-against-joining-us-economic-war-efforts?traffic_source=rss",
       "source": "Al Jazeera",
@@ -488,18 +620,6 @@
       "lang": "EN",
       "published": "2026-08-22T23:26:15+00:00",
       "summary": "The warning comes as US President Donald Trump threatens to isolate Iran economically to weaken its government.",
-      "headline_only": false
-    },
-    {
-      "title": "Hundreds march to mark 60th anniversary of the historic Wave Hill Walk-Off",
-      "link": "https://www.abc.net.au/news/2026-08-23/hundreds-march-in-freedom-festival-wave-hill-walk-off-60-years/107064186",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-22T23:14:35+00:00",
-      "summary": "On the 60th anniversary of the Wave Hill Walk-Off, more than 1,000 people have marched from Kalkarindji to the banks of the Victoria River to retrace the steps taken by hundreds of stockmen, workers and their families in a pivotal moment for Aboriginal land rights.",
       "headline_only": false
     },
     {
@@ -560,30 +680,6 @@
       "lang": "EN",
       "published": "2026-08-22T23:03:00+00:00",
       "summary": "Rory McIlroy pulled himself back into contention at the BMW Championship with a strong finish for a five-under par third round in St Louis.",
-      "headline_only": false
-    },
-    {
-      "title": "$20m avocado packing shed upgrade halves workforce with robots",
-      "link": "https://www.abc.net.au/news/2026-08-23/avocado-packing-shed-manjimup-robotic-upgrade/107059672",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-22T23:00:20+00:00",
-      "summary": "Robots replace half the casual workforce and double the output capacity at one of Australia's largest avocado packing sheds.",
-      "headline_only": false
-    },
-    {
-      "title": "I gave birth to my twin brother's baby and saved his life in the process",
-      "link": "https://www.abc.net.au/news/2026-08-23/love-story-how-ellie-helped-brother-adam-surrogacy-baby-gali/107057106",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-22T23:00:00+00:00",
-      "summary": "Twins Adam Braitberg and Ellie Freeman grew up in what they describe as a loving and close-knit family in suburban Melbourne/Naarm. That bond has only grown stronger since Ellie and eldest sister Jess helped Adam and his husband Omer bring daughter Gali into the world.",
       "headline_only": false
     },
     {
@@ -779,18 +875,6 @@
       "headline_only": false
     },
     {
-      "title": "Iran condemns US plans to announce new sanctions",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3364944/iran-condemns-us-plans-announce-new-sanctions?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T21:21:14+00:00",
-      "summary": "Iran on Saturday denounced US plans to announce ⁠new sanctions that could put further strain on the Islamic Republic’s economy and have an impact on its most important trading partners including China. Iran on Saturday warned countries against taking part in the United States’…",
-      "headline_only": false
-    },
-    {
       "title": "L'Allemagne envisage d'investir 12 milliards d’euros pour se doter de missiles longue portée",
       "link": "https://www.rfi.fr/fr/europe/20260822-l-allemagne-envisage-d-investir-12-milliards-d-euros-pour-se-doter-de-missiles-longue-port%C3%A9e",
       "source": "RFI",
@@ -971,30 +1055,6 @@
       "headline_only": false
     },
     {
-      "title": "Iran grants permission for some Iraqi oil tankers to pass through Hormuz",
-      "link": "https://www.aljazeera.com/news/2026/8/22/iran-grants-permission-for-some-iraqi-oil-tankers-to-pass-through-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T20:05:52+00:00",
-      "summary": "Iraqi President Nizar Amidi says his country&#039;s territory will not be used to launch attacks against any other state.",
-      "headline_only": false
-    },
-    {
-      "title": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-22T20:03:10+00:00",
-      "summary": "Canada to impose retaliatory tariffs on US steel, electronics, other products, Carney says &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Carney faces crucial test after walking away from Trump's deal",
       "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -1064,30 +1124,6 @@
       "lang": "EN",
       "published": "2026-08-22T19:45:00+00:00",
       "summary": "Lisa Ashton and Fallon Sherrock shared the spoils at Events 17-18 of the PDC Women&#8217;s Series on Saturday, as the duo scooped a title each to reinforce their positions of second and third in the rankings respectively.",
-      "headline_only": false
-    },
-    {
-      "title": "Why is Israel building new illegal settlements?",
-      "link": "https://www.aljazeera.com/video/inside-story/2026/8/22/why-is-israel-building-new-illegal-settlements?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-08-22T19:40:58+00:00",
-      "summary": "Israel opens construction bids for new illegal housing units in the occupied West Bank.",
-      "headline_only": false
-    },
-    {
-      "title": "Israel targets ‘terrorist’ in southern Syria; Damascus condemns attack",
-      "link": "https://www.scmp.com/news/world/middle-east/article/3364943/israel-targets-terrorist-southern-syria-damascus-condemns-attack?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T19:31:47+00:00",
-      "summary": "Israel said it targeted a “terrorist” ⁠in southern Syria ⁠on Saturday in ⁠what Syria’s foreign ministry said was a drone strike on a civilian vehicle on the outskirts of Damascus in a “blatant” violation of its ‌territory. The Syrian foreign ministry said the drone had hit a…",
       "headline_only": false
     },
     {
@@ -1283,30 +1319,6 @@
       "headline_only": true
     },
     {
-      "title": "7 dead in UK after vehicle travelling in wrong direction hits police car",
-      "link": "https://www.scmp.com/news/world/europe/article/3364942/7-dead-uk-after-vehicle-travelling-wrong-direction-hits-police-car?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-08-22T18:39:59+00:00",
-      "summary": "Seven people, including two police officers, died in a car crash in northeast England on Saturday after a car heading the wrong ‌way down a major road hit a marked police armed response car, the local police force said. Cleveland Police said the incident took place in the early…",
-      "headline_only": false
-    },
-    {
-      "title": "Israel has no intention of escalating tensions with Turkey, foreign minister says",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israel-has-no-intention-escalating-tensions-turkey-foreign-minister-says",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-22T18:38:21+00:00",
-      "summary": "Israel has no intention of escalating tensions with Turkey, foreign minister says Israeli Foreign Minister Gideon Saar said on Saturday that Israel does not seek escalation with Turkey, but \"will not accept\" Turkish presence in Syria. \"We are committed to preserving the status…",
-      "headline_only": false
-    },
-    {
       "title": "Israel’s Syria strike may have been bid to provoke Turkey conflict, US envoy says",
       "link": "https://www.ft.com/content/d770cdbf-46b1-4928-9ec7-e1155db679d2",
       "source": "Financial Times (headlines only – paywalled)",
@@ -1317,18 +1329,6 @@
       "published": "2026-08-22T18:17:56+00:00",
       "summary": "Washington’s ambassador to Ankara says attack on air base could have been ‘aggressive . . . pre-election concept’ ahead of October polls",
       "headline_only": true
-    },
-    {
-      "title": "US 'economic terrorism' will not break people's will: Iranian Vice President",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/us-economic-terrorism-will-not-break-peoples-will-iranian-vice-president",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-08-22T18:17:23+00:00",
-      "summary": "US 'economic terrorism' will not break people's will: Iranian Vice President Iran's First Vice President Mohammad Reza Aref said on Saturday that the government will not allow what he called \"America's economic terrorism\" to undermine the country's economic stability and…",
-      "headline_only": false
     },
     {
       "title": "Sébastien Lecornu met en garde les parlementaires : « Choisir d’attendre l’élection présidentielle pour adopter un budget pour 2027, c’est choisir le désordre »",
@@ -1571,6 +1571,18 @@
       "headline_only": false
     },
     {
+      "title": "Canada to retaliate for US tariffs, worsening ties after talks fail - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2ZPTUg0NjVrWlY5aVBzbS1ucUhqc014UGZYMkhlX3R1bkpDMnlXMmZyT2hCVEs1dXZNbkE4Nlc1aXZQemtvNUJFWFVyLWJBb1BWelBfVmJBRVlUMk4tR2lNVWw5NW11NG5SOUtGZVZNZ0lIXzJYVlJsNFE0Vlh3TExaMnJmOGhJNmNWSkd1MkE1QmpjeHl1TXQwYUkydWRkSUVxU21UV3VBdHVJZUV2U05NaGI2d1RuNUJvMg?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-22T15:39:00+00:00",
+      "summary": "Canada to retaliate for US tariffs, worsening ties after talks fail &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
       "title": "Matthieu Pigasse assure qu’il y a « pas mal de convergences » entre lui et les « insoumis », pendant les universités d’été de LFI",
       "link": "https://www.lemonde.fr/politique/article/2026/08/22/matthieu-pigasse-assure-qu-il-y-a-pas-mal-de-convergences-entre-lui-et-les-insoumis-pendant-les-universites-d-ete-de-lfi_6753471_823448.html",
       "source": "Le Monde",
@@ -1665,6 +1677,18 @@
       "published": "2026-08-22T14:42:00+00:00",
       "summary": "Kazakhstan, where power is being continuously consolidated in the president's hands, will have to continue its tough balancing act between the EU, Russia and China following the parliamentary elections this Sunday.",
       "headline_only": false
+    },
+    {
+      "title": "PODCAST: Trump tariffs hit Canada, ballroom reprieve, Stars and Stripes and Somali piracy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMEtvNE9qRjAxTWd1WHN1RDZCYUNXaTRkV0Uzd3MxWkQ2TjkwX3VyQVlfOWNBeGhNX1E5dmxRWGRLRDllVWZSUDdpeElTVkZQQ2NpaENEVXBtOVd4Z3dISHRJdFFGYUVqZ0pyUWJtUHVScTRjU2NpODVGMjVMdmNiME56ODNjTlNCbDNrTkFHUzVQMUNzM2U0anRXYTFaZl9pQTRTWklMZXU1TXNDZXFseTA0NXFOdw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-22T14:41:00+00:00",
+      "summary": "PODCAST: Trump tariffs hit Canada, ballroom reprieve, Stars and Stripes and Somali piracy &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "En Ukraine, une nouvelle attaque sur des civils dans un été meurtrier",
@@ -1809,18 +1833,6 @@
       "published": "2026-08-22T13:26:28+00:00",
       "summary": "This Saturday saw a continued exchange of fire between Kyiv and Moscow. French President Emmanuel Macron announced Paris would deliver new interceptor missiles to Ukraine, whose air defences are running short after the latest round of deadly Russian attacks. Details from the…",
       "headline_only": false
-    },
-    {
-      "title": "Swedish police probe online networks after teenage girl killed in school sword attack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-22T13:22:35+00:00",
-      "summary": "Swedish police probe online networks after teenage girl killed in school sword attack &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
@@ -2900,18 +2912,6 @@
       "lang": "EN",
       "published": "2026-08-21T05:01:00+00:00",
       "summary": "Click to expand Image Two of the migrants and asylum seekers who swam to Ceuta in July 2026, walk on Trampolín beach, August 2026. © 2026 José Antonio Sempere Gálvez for Human Rights Watch (Milan) – The Spanish government and local authorities in its North African enclave Ceuta…",
-      "headline_only": false
-    },
-    {
-      "title": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "link": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-08-21T05:00:57+00:00",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
       "headline_only": false
     },
     {
