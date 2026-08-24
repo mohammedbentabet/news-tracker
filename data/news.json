@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-08-24T23:38:40.424373+00:00",
+  "updated_at": "2026-08-24T23:58:13.290717+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:36.146824+00:00"
+      "last_success": "2026-08-24T23:44:44.773679+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:36.214866+00:00"
+      "last_success": "2026-08-24T23:44:44.873329+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:36.298337+00:00"
+      "last_success": "2026-08-24T23:44:44.948246+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:36.467210+00:00"
+      "last_success": "2026-08-24T23:44:45.168167+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:36.610674+00:00"
+      "last_success": "2026-08-24T23:44:45.307066+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:36.729999+00:00"
+      "last_success": "2026-08-24T23:44:45.549273+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:37.124633+00:00"
+      "last_success": "2026-08-24T23:44:45.816691+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "ok",
-      "error": null,
-      "last_success": "2026-08-24T23:17:37.249271+00:00"
+      "status": "error",
+      "error": "<unknown>:10:92: not well-formed (invalid token)",
+      "last_success": "using cached data"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:37.468545+00:00"
+      "last_success": "2026-08-24T23:44:46.294616+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:37.775299+00:00"
+      "last_success": "2026-08-24T23:44:46.554588+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:37.943449+00:00"
+      "last_success": "2026-08-24T23:44:46.688338+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:38.015720+00:00"
+      "last_success": "2026-08-24T23:44:46.746671+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:38.630310+00:00"
+      "last_success": "2026-08-24T23:44:47.146050+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:38.880003+00:00"
+      "last_success": "2026-08-24T23:44:47.382168+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:39.047745+00:00"
+      "last_success": "2026-08-24T23:44:47.579750+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:39.770617+00:00"
+      "last_success": "2026-08-24T23:44:48.086186+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:41.011155+00:00"
+      "last_success": "2026-08-24T23:44:49.105866+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:41.135236+00:00"
+      "last_success": "2026-08-24T23:44:49.210883+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:41.490206+00:00"
+      "last_success": "2026-08-24T23:44:49.673640+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:41.745033+00:00"
+      "last_success": "2026-08-24T23:44:49.911875+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:42.305584+00:00"
+      "last_success": "2026-08-24T23:44:50.397599+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:42.550115+00:00"
+      "last_success": "2026-08-24T23:44:50.567872+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:42.722503+00:00"
+      "last_success": "2026-08-24T23:44:50.718212+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:42.928142+00:00"
+      "last_success": "2026-08-24T23:44:50.883591+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:17:43.784279+00:00"
+      "last_success": "2026-08-24T23:44:51.693254+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:38:37.927381+00:00"
+      "last_success": "2026-08-24T23:58:09.936234+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:38:38.646738+00:00"
+      "last_success": "2026-08-24T23:58:11.876374+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,25 +227,25 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:38:39.405948+00:00"
+      "last_success": "2026-08-24T23:58:12.722877+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:38:39.670623+00:00"
+      "last_success": "2026-08-24T23:58:12.913921+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:38:39.933775+00:00"
+      "last_success": "2026-08-24T23:58:13.195907+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-08-24T23:38:40.424172+00:00"
+      "last_success": "2026-08-24T23:58:13.290505+00:00"
     }
   },
   "article_count": 298,
@@ -272,6 +272,30 @@
       "lang": "EN",
       "published": "2026-08-24T23:58:00+00:00",
       "summary": "Ian Poulter hasn't made up his mind on whether he will continue to play on LIV Golf next season, but hopes the league could continue to operate next year, amid concerns over its funding.",
+      "headline_only": false
+    },
+    {
+      "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
+      "link": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-08-24T23:48:50+00:00",
+      "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
+      "headline_only": false
+    },
+    {
+      "title": "'Put your weapons down': Dons icon calls for unity after latest Hird snub",
+      "link": "https://www.abc.net.au/news/2026-08-25/afl-essendon-mark-mcveigh-unveiling-tim-watson-plea/107074282",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-08-24T23:46:46+00:00",
+      "summary": "Tim Watson calls for Essendon to stop the infighting as the decision to appoint Mark McVeigh as its new coach splits the fan base.",
       "headline_only": false
     },
     {
@@ -344,6 +368,30 @@
       "lang": "EN",
       "published": "2026-08-24T23:15:29+00:00",
       "summary": "A federal judge on Monday postponed a trial in the US for a former Libyan intelligence official charged in the 1988 bombing of Pan Am Flight 103, citing the discovery of new evidence that defence lawyers want to examine in the nearly 40-year-old case. Jury selection was…",
+      "headline_only": false
+    },
+    {
+      "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-24T23:12:09+00:00",
+      "summary": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Watson among Britons through in US Open qualifying",
+      "link": "https://www.bbc.co.uk/sport/tennis/articles/cj0689mmp16o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-08-24T23:11:21+00:00",
+      "summary": "Heather Watson is among the British winners in the first round of US Open qualifying as she bids for a first New York main-drawn appearance in five years.",
       "headline_only": false
     },
     {
@@ -683,7 +731,7 @@
       "headline_only": false
     },
     {
-      "title": "'Economic onslaught': What is the US's new plan for Iran?",
+      "title": "'Economic onslaught': What is the new US plan for Iran?",
       "link": "https://www.abc.net.au/news/2026-08-25/operation-economic-outcast-new-us-plan-for-iran/107073902",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -743,18 +791,6 @@
       "headline_only": false
     },
     {
-      "title": "Main Street Sports sues Comcast, Charter for underpaid licensing fees",
-      "link": "https://www.cnbc.com/2026/08/24/main-street-sports-comcast-charter-lawsuit-payments.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-08-24T21:53:25+00:00",
-      "summary": "Main Street has been in the process of winding down its portfolio of regional sports networks since the the NHL and NBA seasons ended earlier this year.",
-      "headline_only": false
-    },
-    {
       "title": "Palmer impresses as Chelsea edge past Fulham to give Alonso first win",
       "link": "https://www.bbc.co.uk/sport/football/videos/ckgx2ke9jgvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -765,18 +801,6 @@
       "published": "2026-08-24T21:53:24+00:00",
       "summary": "Cole Palmer scores and sets up Joao Pedro as Chelsea give Xabi Alonso a winning start against Alvaro Arbeloa's Fulham at Craven Cottage in the Premier League.",
       "headline_only": false
-    },
-    {
-      "title": "US Supreme Court hands a win to Trump over mail-in ballot restrictions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOSDlTTzEtMWJjdWlZbnV5THl6V3VzcE5rQ2VwN3VTaEJIa3l0bVU2dkdmQXU4LUZYX2psOEFwTTh6MEYzb1pCREJSQnhDRGxLaF9FTENEZlVTOHp0MnB6M2RScG1WOWlJdS1HM0d6aEZaT1lGaXdwQWNyM2p3YTc3UHdITGstQ3hHQzF2YUlUcDE3VkJZZnBqOUZreFpVX0FwWUllVTdUajZObi1n?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-24T21:52:37+00:00",
-      "summary": "US Supreme Court hands a win to Trump over mail-in ballot restrictions &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "Chelsea's electric front three edge out Fulham in pulsating MNF opener",
@@ -947,7 +971,7 @@
       "headline_only": false
     },
     {
-      "title": "Live: Coles reports $1.1b annual profit, US imposes 'economic D-Day' sanctions to isolate Iran",
+      "title": "Live: Coles reports $1.1b annual profit, sets aside $235m to address worker underpayments",
       "link": "https://www.abc.net.au/news/2026-08-25/asx-markets-business-live-news-25-august-2026/107074088",
       "source": "ABC News Australia",
       "source_id": "abc-au",
@@ -992,18 +1016,6 @@
       "lang": "EN",
       "published": "2026-08-24T21:26:00+00:00",
       "summary": "",
-      "headline_only": false
-    },
-    {
-      "title": "'A dangerous individual': Ex-snooker champ convicted of child sex abuse",
-      "link": "https://www.abc.net.au/news/2026-08-25/snooker-graeme-dott-convinced-of-sexually-abusing-children/107074090",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-08-24T21:24:01+00:00",
-      "summary": "Former world snooker champion Graeme Dott has been convicted of sexually abusing two primary school children in Scotland in the 1990s and early 2000s.",
       "headline_only": false
     },
     {
@@ -1115,18 +1127,6 @@
       "headline_only": false
     },
     {
-      "title": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYkRkNWJWcGl4bFZlUjZrZEpaMGJIMGljWUk3MTU4M2tuc1ZvcnZMMlNOMVM1NFlGUGp6eVRXbTBnSHVFVWV6YjJ1dmNGV1g3ajJJbWUzcGw4U0kyZDkzbjF5LTlxS1R2aUV0RkNKN1Z5QWVqY082ei1lMzFmSFZfVC1QLUUwbFY5SmlDdlZyZnhIRmN6Ul91cVhtbWRrdnl6S2ROc0JRMk9mdjZzaTBvMURfcXNMbE9OWnpkU0tMbw?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-08-24T20:56:55+00:00",
-      "summary": "Trump's approval holds at record low as US support for Iran war falls, Reuters Ipsos poll finds &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "What’s behind domestic political pressure on Ukraine’s president?",
       "link": "https://www.aljazeera.com/video/inside-story/2026/8/24/whats-behind-domestic-political-pressure-on-ukraines-president?traffic_source=rss",
       "source": "Al Jazeera",
@@ -1233,6 +1233,18 @@
       "published": "2026-08-24T20:15:58+00:00",
       "summary": "Deux centres d’hébergement ont été ouverts aux victimes pour la nuit. Plus de 120 sapeurs-pompiers sont mobilisés et des renforts sont attendus.",
       "headline_only": false
+    },
+    {
+      "title": "Federer playing Flushing Meadows exhibition in long overdue US Open sendoff - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRG43cTBqLXIxM21neWNpNjVLekpHWGFYa0NPd0lIY01vYTJmaWZRejB4SXRFdTV1Q1BaamdmSENBcU1vcEFqb0t1VVJobVIzUkJiQnR4QVlDYTRhUWJYZ1JsZS1TMjg2bmZPcGU3XzdDMmNSR0h2V3dzYjRvcWFFcWdGXzNxM0ZmYnFTc2dYNGFJdl80NG42b2h6dk42UkFLdUMyVFVzMzdCbmpLMTkyZ2ZkTU81RFFKajhrMzE3NA?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-08-24T20:12:19+00:00",
+      "summary": "Federer playing Flushing Meadows exhibition in long overdue US Open sendoff &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "US public approval of Iran war falls to lowest level since early days of conflict",
@@ -1461,18 +1473,6 @@
       "published": "2026-08-24T19:12:22+00:00",
       "summary": "US Treasury secretary had billed announcement as ‘D-Day’ for Tehran but stopped short of sweeping action",
       "headline_only": true
-    },
-    {
-      "title": "Forest working on deal for Chelsea striker Delap",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8xkl50ylweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-08-24T19:12:07+00:00",
-      "summary": "Nottingham Forest are working on a deal to sign Chelsea striker Liam Delap.",
-      "headline_only": false
     },
     {
       "title": "US announces bid to further isolate Iran economically",
