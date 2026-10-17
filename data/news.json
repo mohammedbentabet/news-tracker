@@ -1,41 +1,41 @@
 {
-  "updated_at": "2026-10-17T13:24:54.213840+00:00",
+  "updated_at": "2026-10-17T16:41:44.828399+00:00",
   "source_status": {
     "bbc-world": {
       "name": "BBC News",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:46.346664+00:00"
+      "last_success": "2026-10-17T16:24:07.314746+00:00"
     },
     "bbc-business": {
       "name": "BBC Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:46.441597+00:00"
+      "last_success": "2026-10-17T16:24:07.480839+00:00"
     },
     "bbc-sport": {
       "name": "BBC Sport",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:46.680236+00:00"
+      "last_success": "2026-10-17T16:24:07.604846+00:00"
     },
     "guardian-world": {
       "name": "The Guardian – World",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:46.830093+00:00"
+      "last_success": "2026-10-17T16:24:07.732431+00:00"
     },
     "guardian-business": {
       "name": "The Guardian – Business",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:47.052651+00:00"
+      "last_success": "2026-10-17T16:24:07.838214+00:00"
     },
     "guardian-society": {
       "name": "The Guardian – Society",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:47.554803+00:00"
+      "last_success": "2026-10-17T16:24:07.912448+00:00"
     },
     "guardian-investigations": {
       "name": "The Guardian – Investigations",
@@ -47,55 +47,55 @@
       "name": "Al Jazeera",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:48.172482+00:00"
+      "last_success": "2026-10-17T16:24:08.294768+00:00"
     },
     "france24": {
       "name": "France 24",
-      "status": "error",
-      "error": "<unknown>:2:434: not well-formed (invalid token)",
-      "last_success": "using cached data"
+      "status": "ok",
+      "error": null,
+      "last_success": "2026-10-17T16:24:08.570448+00:00"
     },
     "dw-all": {
       "name": "Deutsche Welle",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:49.331058+00:00"
+      "last_success": "2026-10-17T16:24:09.387079+00:00"
     },
     "rfi-fr": {
       "name": "RFI",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:49.469806+00:00"
+      "last_success": "2026-10-17T16:24:09.526525+00:00"
     },
     "lemonde-une": {
       "name": "Le Monde",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:49.705013+00:00"
+      "last_success": "2026-10-17T16:24:09.669577+00:00"
     },
     "lemonde-decodeurs": {
       "name": "Le Monde – Les Décodeurs",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:49.922592+00:00"
+      "last_success": "2026-10-17T16:24:09.837796+00:00"
     },
     "liberation": {
       "name": "Libération",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:50.553679+00:00"
+      "last_success": "2026-10-17T16:24:10.690041+00:00"
     },
     "mediapart": {
       "name": "Mediapart",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:50.763751+00:00"
+      "last_success": "2026-10-17T16:24:10.982661+00:00"
     },
     "middleeasteye": {
       "name": "Middle East Eye",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:50.909907+00:00"
+      "last_success": "2026-10-17T16:24:11.158510+00:00"
     },
     "arabnews": {
       "name": "Arab News",
@@ -107,7 +107,7 @@
       "name": "The Conversation",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:51.503928+00:00"
+      "last_success": "2026-10-17T16:24:11.797887+00:00"
     },
     "globalwitness": {
       "name": "Global Witness",
@@ -119,25 +119,25 @@
       "name": "Amnesty International",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:53.183855+00:00"
+      "last_success": "2026-10-17T16:24:13.213349+00:00"
     },
     "hrw": {
       "name": "Human Rights Watch",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:53.421003+00:00"
+      "last_success": "2026-10-17T16:24:13.363686+00:00"
     },
     "propublica": {
       "name": "ProPublica",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:53.682427+00:00"
+      "last_success": "2026-10-17T16:24:13.628009+00:00"
     },
     "bellingcat": {
       "name": "Bellingcat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:53.921962+00:00"
+      "last_success": "2026-10-17T16:24:13.850921+00:00"
     },
     "occrp": {
       "name": "OCCRP",
@@ -149,31 +149,31 @@
       "name": "The Intercept",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:54.444054+00:00"
+      "last_success": "2026-10-17T16:24:14.260525+00:00"
     },
     "politico": {
       "name": "Politico",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:54.644921+00:00"
+      "last_success": "2026-10-17T16:24:14.471764+00:00"
     },
     "foreignpolicy": {
       "name": "Foreign Policy",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:54.764448+00:00"
+      "last_success": "2026-10-17T16:24:14.623818+00:00"
     },
     "thediplomat": {
       "name": "The Diplomat",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:54.903706+00:00"
+      "last_success": "2026-10-17T16:24:14.796933+00:00"
     },
     "scmp": {
       "name": "South China Morning Post",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:11:55.422125+00:00"
+      "last_success": "2026-10-17T16:24:15.394466+00:00"
     },
     "nikkei-asia": {
       "name": "Nikkei Asia",
@@ -203,7 +203,7 @@
       "name": "ABC News Australia",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:24:51.541118+00:00"
+      "last_success": "2026-10-17T16:41:41.870456+00:00"
     },
     "globe-mail-business": {
       "name": "Globe and Mail – Report on Business",
@@ -215,7 +215,7 @@
       "name": "CNBC",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:24:52.264819+00:00"
+      "last_success": "2026-10-17T16:41:42.539400+00:00"
     },
     "economic-times": {
       "name": "The Economic Times",
@@ -227,52 +227,1012 @@
       "name": "ESPN",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:24:53.071642+00:00"
+      "last_success": "2026-10-17T16:41:43.447508+00:00"
     },
     "sky-sports": {
       "name": "Sky Sports",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:24:53.230820+00:00"
+      "last_success": "2026-10-17T16:41:43.803992+00:00"
     },
     "ft-headlines": {
       "name": "Financial Times (headlines only – paywalled)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:24:53.581599+00:00"
+      "last_success": "2026-10-17T16:41:44.302395+00:00"
     },
     "reuters-via-gnews": {
       "name": "Reuters (via Google News – no native RSS)",
       "status": "ok",
       "error": null,
-      "last_success": "2026-10-17T13:24:54.213656+00:00"
+      "last_success": "2026-10-17T16:41:44.828181+00:00"
     }
   },
-  "article_count": 300,
+  "article_count": 299,
   "articles": [
     {
-      "title": "Robinson returns for Fulham as Belloumi handed Hull start LIVE!",
-      "link": "https://www.skysports.com/football/fulham-vs-hull-city/live/559508",
+      "title": "Wrexham thump four past dismal Preston",
+      "link": "https://www.skysports.com/football/wrexham-vs-preston-north-end/report/560629",
       "source": "Sky Sports",
       "source_id": "sky-sports",
       "category": "sports",
       "region": "UK",
       "lang": "EN",
-      "published": "2026-10-17T13:25:00+00:00",
-      "summary": "",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "Wrexham eased the pressure on Phil Parkinson with a 4-1 Sky Bet Championship win over rock-bottom Preston.",
       "headline_only": false
     },
     {
-      "title": "England stunned by Tonga in World Cup opener",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c83vqd73k0xlo?at_medium=RSS&at_campaign=rss",
+      "title": "Sorry Derby beaten at home by Stoke",
+      "link": "https://www.skysports.com/football/derby-county-vs-stoke-city/report/560621",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "Luke Graham scored his first goal for Stoke as they won 1-0 at Pride Park to pile more pressure on struggling Derby.",
+      "headline_only": false
+    },
+    {
+      "title": "Sheff Utd battle to narrow win at Bristol City",
+      "link": "https://www.skysports.com/football/bristol-city-vs-sheffield-united/report/560619",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "Oliver Arblaster's early strike and a strong defensive display saw Sheffield United take all three points from a 1-0 Championship victory over Bristol City at Ashton Gate.",
+      "headline_only": false
+    },
+    {
+      "title": "Millar double fires Birmingham past QPR",
+      "link": "https://www.skysports.com/football/birmingham-city-vs-queens-park-rangers/report/560618",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "Liam Millar scored twice as Birmingham won a crucial Sky Bet Championship clash 3-0 with QPR at St Andrew's.",
+      "headline_only": false
+    },
+    {
+      "title": "Struggling Norwich beaten by Portsmouth",
+      "link": "https://www.skysports.com/football/norwich-city-vs-portsmouth/report/560624",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "Portsmouth piled on the misery for struggling Norwich as they made it back-to-back Championships victories with a 1-0 triumph at Carrow Road.",
+      "headline_only": false
+    },
+    {
+      "title": "West Brom hit back to beat Blackburn in five-goal thriller",
+      "link": "https://www.skysports.com/football/west-bromwich-albion-vs-blackburn-rovers/report/560628",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "West Brom completed a stunning comeback after conceding two early goals as they beat Blackburn 3-2 in the Sky Bet Championship.",
+      "headline_only": false
+    },
+    {
+      "title": "West Ham win at Championship leaders Swansea",
+      "link": "https://www.skysports.com/football/swansea-city-vs-west-ham-united/report/560626",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "West Ham ended Swansea's four-match winning streak with a 1-0 away success that reduced the gap at the top of the Sky Bet Championship to a single point.",
+      "headline_only": false
+    },
+    {
+      "title": "Southampton frustrated at home by Bolton",
+      "link": "https://www.skysports.com/football/southampton-vs-bolton-wanderers/report/560625",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T17:15:00+00:00",
+      "summary": "James Bree, Lewis Dobbin and Leo Scienza all squandered chances as Southampton dropped points at home for the first time this season with a 0-0 draw against Bolton.",
+      "headline_only": false
+    },
+    {
+      "title": "Ombudsman simply supreme in Champion Stakes",
+      "link": "https://www.skysports.com/racing/news/12040/13600297/ascot-ombudsman-simply-supreme-in-champion-stakes-for-gosden-team",
+      "source": "Sky Sports",
+      "source_id": "sky-sports",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T16:53:00+00:00",
+      "summary": "Ombudsman exacted Qatar Racing Champion Stakes revenge on Calandagan to come out on top with a show-stopping performance at Ascot.",
+      "headline_only": false
+    },
+    {
+      "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says",
+      "link": "https://www.cnbc.com/2026/10/17/south-korea-semiconductor-outlook-lee-hyoung-il.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-10-17T16:31:29+00:00",
+      "summary": "South Korea's finance minister said semiconductor growth can last at least through 2027 as supply remains tight despite a global chip sell-off.",
+      "headline_only": false
+    },
+    {
+      "title": "Investors are buying up vast tracts of timberland across U.S. in one of market's longest-term bets",
+      "link": "https://www.cnbc.com/2026/10/17/timberland-investing-returns-risk.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-10-17T16:31:06+00:00",
+      "summary": "Timberland managers buying for pension funds and other institutional investors can wait decades for returns, but the market can also be a profit trap.",
+      "headline_only": false
+    },
+    {
+      "title": "Saudi strikes on Yemen kill 12, Houthis say",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-strikes-yemen-kill-12-houthis-say",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T16:15:55+00:00",
+      "summary": "Saudi strikes on Yemen kill 12, Houthis say Saudi strikes that began overnight have killed at least 12 people in Yemen , three of them children, Houthi media reported on Saturday. Saudi warplanes targeted \"civilian homes\" in Taiz governorate on Saturday, killing nine people and…",
+      "headline_only": false
+    },
+    {
+      "title": "EN DIRECT – Mouvement du 17 octobre «contre la vie chère» : un manifestant a eu la main arrachée par une grenade policière à Saint-Etienne",
+      "link": "https://www.liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T16:10:27+00:00",
+      "summary": "Plus d’un an après «Bloquons tout» et plusieurs semaines de mobilisation lycéenne, la France a connu une nouvelle journée d’intense contestation sociale, ce samedi. Selon la CGT, 500 000 manifestants ont défilé.",
+      "headline_only": false
+    },
+    {
+      "title": "Brazil: Amazon deforestation at 40-year low",
+      "link": "https://www.france24.com/en/video/20261017-brazil-amazon-deforestation-at-40-year-low",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T16:07:46+00:00",
+      "summary": "In Brazil, deforestation in the Amazon has reached its lowest level in 40 years. President Lula is bolstering his environmental record just over a week before the second round of the presidential election, in which he faces Flávio Bolsonaro.",
+      "headline_only": false
+    },
+    {
+      "title": "Albanian police fire rubber bullets as student protesters call for PM to quit",
+      "link": "https://www.scmp.com/news/world/europe/article/3371273/albanian-police-fire-rubber-bullets-student-protesters-call-pm-quit?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-10-17T16:05:10+00:00",
+      "summary": "Police in Albania fired what appeared to be rubber bullets at protesters on Saturday, the fifth day of mass student protests demanding Prime Minister Edi Rama step down. Reuters video footage showed police firing a shotgun towards crowds outside the education ministry during…",
+      "headline_only": false
+    },
+    {
+      "title": "En Albanie, la «révolution des flamants roses» se radicalise, cinquième jour de violentes manifestations à Tirana",
+      "link": "https://www.liberation.fr/international/europe/en-albanie-la-revolution-des-flamants-roses-se-radicalise-cinquieme-jour-de-violentes-manifestations-a-tirana-20261017_EBABEGT77VBTVCMWUEH6N4YWJM/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T16:02:55+00:00",
+      "summary": "Initialement déclenchés par un projet d’hôtel de luxe lié à Ivanka Trump, devenu le symbole de la corruption présumée et des inégalités, les cortèges ont pris un tour violent mardi.",
+      "headline_only": false
+    },
+    {
+      "title": "Chelsea's Martinez taken to hospital for 'precautionary tests'",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6rryqq00yp4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
       "source_id": "bbc-sport",
       "category": "sports",
       "region": "UK",
       "lang": "EN",
-      "published": "2026-10-17T13:09:41+00:00",
-      "summary": "England 's men fall to defeat in their Rugby League World Cup opener as Tonga take their chances in Perth.",
+      "published": "2026-10-17T16:02:31+00:00",
+      "summary": "Goalkeeper Emiliano Martinez was taken to hospital as Chelsea's 2-0 win at Everton on Saturday meant they secured their first clean sheet in nine months.",
       "headline_only": false
+    },
+    {
+      "title": "Belgium condemns Israeli settler attack on European diplomats in West Bank",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/belgium-condemns-settler-attack-european-envoy-israel-faults-diplomats",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T15:58:41+00:00",
+      "summary": "Belgium condemns Israeli settler attack on European diplomats in West Bank Belgium on Saturday condemned an attack by Israeli settlers on a convoy of European diplomats in the occupied West Bank, during which a visiting French mayor was beaten. Israeli Foreign Minister Gideon…",
+      "headline_only": false
+    },
+    {
+      "title": "Ukraine war: \"Mothers of Kherson\" opera opens in Poland",
+      "link": "https://www.france24.com/en/video/20261017-ukraine-war-mothers-of-kherson-opera-opens-in-poland",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:57:33+00:00",
+      "summary": "\"Mothers of Kherson\" has opened at Poland's National Opera. The performance was co-produced with New York's Metropolitan Opera and created in close association with Save Ukraine, a group helping to bring back Ukrainian children who remain in Russia. More than four years after…",
+      "headline_only": false
+    },
+    {
+      "title": "Hong Kong orders lift contractors to review doors installed over past 10 years",
+      "link": "https://www.scmp.com/news/hong-kong/society/article/3371272/hong-kong-orders-lift-contractors-review-doors-installed-over-past-10-years?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-10-17T15:57:09+00:00",
+      "summary": "Hong Kong authorities have ordered all lift contractors to review the design and construction of landing doors installed over the past 10 years, after a government investigation found missing fire-safety components in lifts in at least 78 private buildings and two public…",
+      "headline_only": false
+    },
+    {
+      "title": "Protests in France: \"Two fires broke out in Place de la République\"",
+      "link": "https://www.france24.com/en/video/20261017-protests-in-france-two-fires-broke-out-in-place-de-la-r%C3%A9publique",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:53:30+00:00",
+      "summary": "Police and protesters clashed in Paris and other French cities on Saturday, with smoke from fires and tear gas filling the air at demonstrations nationwide against high prices, ahead of elections to replace President Emmanuel Macron. \"Two fires broke out in Place de la…",
+      "headline_only": false
+    },
+    {
+      "title": "Albanian police fire rubber bullets as student protests rage - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVlJCekoweVlrYktkQmJZZ2V4aFFnRFpHdnRBMlYzZDlJS0xFS1JWQVMtOVNvbURNdUNHU09BTnBkNjBwdi0yaFVNR2Nqbm9sTUxHTFZQQk1PWkU2ZzdVeC04UVdLb2lJNFoxWHVsSWJJQTlrNXBYZ0NfNWJ4YTdENjlBYmwtdDlOMHhMOWtJY2NxUDJHRlJ1emtpa2h4UmFwZlBOQ0dEQlBORTREQ0E?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:42:29+00:00",
+      "summary": "Albanian police fire rubber bullets as student protests rage &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Egyptian parliament to hold emergency session as Sisi seeks approval to defend Saudi Arabia",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egyptian-parliament-hold-emergency-session-sisi-seeks-approval-defend",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T15:38:29+00:00",
+      "summary": "Egyptian parliament to hold emergency session as Sisi seeks approval to defend Saudi Arabia Egypt's parliament will hold an emergency session on Sunday after President Abdel Fattah el-Sisi requested authorisation that could allow Egypt to help defend&nbsp; Saudi Arabia &nbsp;if…",
+      "headline_only": false
+    },
+    {
+      "title": "Injured Swiatek goes down fighting in Wuhan Open semi-final - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOLWFMdE8waHNobEdaMlNJNGtCclJHSk0xb0tMMGx5T3ZQTFRsbTV3NEh6RzZqR3J5WHJlRjNMYzlteEpITVhBWWk0QW1VaFktQjhnQ0phdjZSS3Y0NzIzZk1pZXpvSV84dS1pQ09OMjlzRXNNM2ozUFU1TEtvdldoQzdqRmVOWEY0a2dmQVpfR283Y2R0cHVHc3FVc0QzMlNJUTg2X1RzV1Nrdw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:28:20+00:00",
+      "summary": "Injured Swiatek goes down fighting in Wuhan Open semi-final &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "🔴 Live: Protester’s hand blown off by police grenade as unions say half a million march across France",
+      "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:25:51+00:00",
+      "summary": "",
+      "headline_only": false
+    },
+    {
+      "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T15:25:27+00:00",
+      "summary": "Argentinian international taken to hospital for precautionary tests after head clash with Everton&#039;s Jarrad Branthwaite.",
+      "headline_only": false
+    },
+    {
+      "title": "How big is Russia's threat against Germany?",
+      "link": "https://www.dw.com/en/how-big-is-russia-s-threat-against-germany/a-79688426?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:23:00+00:00",
+      "summary": "Experts believe that, so far, Germany has been ill-prepared — both militarily and mentally — for Russian provocations. They also warn against the idea that ending support for Ukraine would make Germany safer.",
+      "headline_only": false
+    },
+    {
+      "title": "Kenya confirms four new Ebola cases, bringing total number to seven - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOUTZzMGJpaXBieHFQeHRDYkRPM1BGLUtyVWRUd1UxVDE1TF92ZDZHMXF6WjB0YmhLNlpuZkhhVTN4TGc5MVBCaS1SSmNzTnk1YXhhYTE4NWlmLXU0ejhDUTFtOG9ROTF5Qkl3LUw2bkRnT1p3VlJWbEdfRVZlSGF2dC1RRk9semdrMWtBTEZiUE1kSkFqV2M2R3ByWmZEVHRyOHZiU1FYTW1ZbEdBTWtJZzhhQ19RTmt6XzFaWDBLTE9tZHRrUW5Mb21WMDByaXJm?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:21:43+00:00",
+      "summary": "Kenya confirms four new Ebola cases, bringing total number to seven &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Ilhan Omar’s lawyers demand the return of property seized in house raid",
+      "link": "https://www.aljazeera.com/news/2026/10/17/ilhan-omars-lawyers-demand-the-return-of-property-seized-in-house-raid?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T15:20:27+00:00",
+      "summary": "Omar’s legal team says the search violated safeguards designed to protect constitutional rights of members of Congress.",
+      "headline_only": false
+    },
+    {
+      "title": "US: Four killed in Oregon school shooting",
+      "link": "https://www.france24.com/en/video/20261017-us-four-killed-in-oregon-school-shooting",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:16:26+00:00",
+      "summary": "The teenage gunman who shot dead three children and a teacher in an Oregon school was a former special needs student there, officials said Friday, as they praised the heroism of people who helped to shorten the rampage.",
+      "headline_only": false
+    },
+    {
+      "title": "Glasgow get bonus-point win at emotion-filled Sale",
+      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cqpvgj4837r1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T15:13:21+00:00",
+      "summary": "Glasgow Warriors pull away to record an impressive bonus-point victory over Sale Sharks in the Investec Champions Cup at an emotional CorpAcq Stadium.",
+      "headline_only": false
+    },
+    {
+      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-10-17T15:11:30+00:00",
+      "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "headline_only": false
+    },
+    {
+      "title": "Protests in France: \"Living conditions are too harsh\"",
+      "link": "https://www.france24.com/en/video/20261017-protests-in-france-living-conditions-are-too-harsh",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:10:44+00:00",
+      "summary": "Saturday’s mobilisation in France follows calls on social media to revive the Yellow Vests movement, which emerged in 2018 against social injustice. Student groups protesting since mid-September have urged supporters to join. We discuss this with our journalist on the ground,…",
+      "headline_only": false
+    },
+    {
+      "title": "Au Maroc, un nouveau gouvernement formé, mais peu de changement, sauf pour les femmes",
+      "link": "https://www.lemonde.fr/international/article/2026/10/17/au-maroc-un-nouveau-gouvernement-forme-mais-peu-de-changement-sauf-pour-les-femmes_6796443_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T15:08:53+00:00",
+      "summary": "Trente-deux ministres ont prêté serment devant le roi du pays, Mohammed VI, vendredi 16 octobre, mais 40 % d’entre eux étaient déjà en poste. Les femmes, elles, reculent dans la hiérarchie gouvernementale.",
+      "headline_only": false
+    },
+    {
+      "title": "Cisjordanie occupée: des colons israéliens attaquent un convoi diplomatique européen et frappent un maire français",
+      "link": "https://www.rfi.fr/fr/moyen-orient/20261017-cisjordanie-occup%C3%A9e-des-colons-isra%C3%A9liens-attaquent-un-convoi-diplomatique-europ%C3%A9en-et-frappent-un-maire-fran%C3%A7ais",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T15:08:08+00:00",
+      "summary": "Des colons israéliens ont attaqué, samedi 17 octobre, un convoi de diplomates européens qui effectuaient une visite en Cisjordanie occupée, rouant de coups un maire français, ont indiqué à l'AFP un témoin et deux sources diplomatiques. Sur une vidéo consultée par l'AFP, Bernard…",
+      "headline_only": false
+    },
+    {
+      "title": "France: What's different about today's protests?",
+      "link": "https://www.france24.com/en/video/20261017-france-what-s-different-about-today-s-protests",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T15:07:08+00:00",
+      "summary": "In France, protests are under way across the country this Saturday. Demonstrators are protesting against the high cost of living, as well as poor working and studying conditions. We discuss this with France 24's Jamie Smith-Maillet.",
+      "headline_only": false
+    },
+    {
+      "title": "Why Britain should reject the lure of cheap – and  scary – Chinese AI",
+      "link": "https://www.theguardian.com/business/2026/oct/17/why-britain-should-reject-the-lure-of-cheap-and-scary-chinese-ai",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
+      "category": "finance",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T15:00:33+00:00",
+      "summary": "In the west the technology comes with at least some effort to provide security and a benign intent – not so from China There is much to fear from artificial intelligence developed in China and handed to businesses and governments in the west almost free of charge. Every month…",
+      "headline_only": false
+    },
+    {
+      "title": "Une omoplate de Néandertalien perforée par un projectile de bois découverte",
+      "link": "https://www.lemonde.fr/sciences/article/2026/10/17/une-omoplate-de-neandertalien-perforee-par-un-projectile-de-bois-decouverte_6796409_1650684.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T15:00:07+00:00",
+      "summary": "Les restes d’un individu inhumé il y a 75 000 ans dans la grotte de Shanidar, dans le Kurdistan irakien, portent les traces de graves blessures, dont la dernière a été fatale.",
+      "headline_only": false
+    },
+    {
+      "title": "'Dead money’ for a decade: Why this hedge fund approach may deliver an advantage over bonds",
+      "link": "https://www.cnbc.com/2026/10/17/dead-money-for-a-decade-hedge-fund-approach-that-may-trump-bonds.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-10-17T15:00:01+00:00",
+      "summary": "Investors may want to rethink their bond allocation and opt for managed futures exposure.",
+      "headline_only": false
+    },
+    {
+      "title": "🔴 Israeli settlers beat French mayor, attack European diplomatic cars in West Bank",
+      "link": "https://www.france24.com/en/middle-east/20261017-israeli-settlers-attack-european-delegation-convoy-in-west-bank-beat-french-mayor",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T14:58:54+00:00",
+      "summary": "",
+      "headline_only": false
+    },
+    {
+      "title": "Thousands rally for biggest protest in years against Tunisia’s Saied",
+      "link": "https://www.aljazeera.com/news/2026/10/17/thousands-rally-for-biggest-protest-in-years-against-tunisias-saied?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:57:24+00:00",
+      "summary": "Unions, opposition groups unite to demonstrate against poor living conditions and restrictions on political freedoms.",
+      "headline_only": false
+    },
+    {
+      "title": "Premier League again refuses Sudan war petition urging UAE action",
+      "link": "https://www.middleeasteye.net/news/premier-league-again-refuses-sudan-war-petition-urging-uae-action",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:53:02+00:00",
+      "summary": "Premier League again refuses Sudan war petition urging UAE action Submitted by Oscar Rickett on Sat, 10/17/2026 - 15:05 A petition calling on the English league to raise concerns over UAE involvement in Sudan with Manchester City's owner was refused for a third time A general…",
+      "headline_only": false
+    },
+    {
+      "title": "EN DIRECT, guerre en Ukraine : Donald Trump exempte la Russie de nouvelles sanctions, Kiev dénonce un encouragement à poursuivre les attaques",
+      "link": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-donald-trump-exempte-la-russie-de-nouvelles-sanctions-kiev-denonce-un-encouragement-a-poursuivre-les-attaques_6791198_3210.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T14:51:49+00:00",
+      "summary": "Dans un décret publié vendredi soir par la Maison Blanche, le président américain « exempte l’application des sanctions, restrictions et droits de douane prévue dans le Graham Act ». Cette loi constituait la première action majeure du Congrès contre Moscou depuis le retour au…",
+      "headline_only": false
+    },
+    {
+      "title": "China's influence in the gaming industry is growing",
+      "link": "https://www.dw.com/en/china-s-influence-in-the-gaming-industry-is-growing/a-79484755?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-10-17T14:49:00+00:00",
+      "summary": "Home to more than 700 million gamers, China is the world's largest gaming market — but it's also one of the most tightly regulated. The effects reach far beyond China, impacting players around the world.",
+      "headline_only": false
+    },
+    {
+      "title": "France: \"We've seen extremely high tensions between protesters and law enforcement\"",
+      "link": "https://www.france24.com/en/video/20261017-france-we-ve-seen-extremely-high-tensions-between-protesters-and-law-enforcement",
+      "source": "France 24",
+      "source_id": "france24",
+      "category": "politics",
+      "region": "France/Global",
+      "lang": "EN",
+      "published": "2026-10-17T14:46:52+00:00",
+      "summary": "Protesters across France called for street demonstrations on Saturday against rising living costs. France 24's Antonia Kerrigan reports from Paris. \"The march from here to Place de Clichy isn't set to start for another hour. However, we've seen it kicking off extremely early…",
+      "headline_only": false
+    },
+    {
+      "title": "Pope Leo leaves hospital for Vatican four days after lung cancer surgery",
+      "link": "https://www.abc.net.au/news/2026-10-18/pope-leo-leaves-hospital-after-surgery/107279894",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-10-17T14:45:08+00:00",
+      "summary": "Pope Leo has returned to the Vatican from hospital following surgery for lung cancer four days ago.",
+      "headline_only": false
+    },
+    {
+      "title": "Sullivan walks the line with Trump in Alaska Senate race",
+      "link": "https://www.politico.com/news/2026/10/17/alaska-senate-sullivan-trump-peltola-01125231",
+      "source": "Politico",
+      "source_id": "politico",
+      "category": "politics",
+      "region": "US/Europe",
+      "lang": "EN",
+      "published": "2026-10-17T14:45:00+00:00",
+      "summary": "Sen. Dan Sullivan in an interview with POLITICO declined to put distance between himself and President Donald Trump.",
+      "headline_only": false
+    },
+    {
+      "title": "Protesters clash with police in Brussels - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWEJmRHZXRTB5bU1Xb1FoXzVTVG4yTkVQUmM2cS1oZzZrcGZIbjVnRU5MMFBtc0FVQjBOTUFFdU1YbldSSkpTWm40Vll2YmtMaDFVRTVvREN1ODJsQ2FRaU5lRmM1cnp3d2FnU1Fsc1MtNmVzX2JrenRfM3lnQ0k1Vk1GeEExZw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T14:42:07+00:00",
+      "summary": "Protesters clash with police in Brussels &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Gunmen fire on tanker off Yemen's coast southeast of al-Mukalla",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/gunmen-fire-tanker-yemens-coast-southeast-al-mukalla",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:37:43+00:00",
+      "summary": "Gunmen fire on tanker off Yemen's coast southeast of al-Mukalla A tanker has been fired at off the coast of Yemen, according to the United ⁠Kingdom ⁠Maritime Trade Operations agency. The ‌captain of the LNG tanker said that a small skiff with seven people onboard approached the…",
+      "headline_only": false
+    },
+    {
+      "title": "EN DIRECT, manifestations du 17 octobre : la CGT annonce 500 000 manifestants en France, où des cortèges paisibles côtoient de nombreuses scènes de chaos",
+      "link": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-a-paris-et-dans-les-grandes-villes-de-france-des-corteges-calmes-et-des-scenes-d-affrontements-avec-les-forces-de-l-ordre_6795855_3224.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T14:36:57+00:00",
+      "summary": "Dans la capitale, mais aussi à Lille, Lyon et Marseille, de fortes tensions ont été signalées par nos journalistes sur le terrain. Des destructions ont aussi été observées dans les grandes villes.",
+      "headline_only": false
+    },
+    {
+      "title": "Why adults are going back to summer camp",
+      "link": "https://www.aljazeera.com/features/longform/2026/10/17/why-adults-are-going-back-to-summer-camp?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:36:25+00:00",
+      "summary": "Loneliness and burnout are sending adults around the world back to bunk beds and bonfires.",
+      "headline_only": false
+    },
+    {
+      "title": "European Council warns companies against Israel's E1 settlement construction",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/european-council-warns-companies-against-israels-e1-settlement",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:33:30+00:00",
+      "summary": "European Council warns companies against Israel's E1 settlement construction The European Council has warned companies they could face \"legal, economic and reputational consequences\" if they involve themselves with East 1 (East 1) settlement construction in the&nbsp; Israeli…",
+      "headline_only": false
+    },
+    {
+      "title": "Brown scores stunner as England thrash World Cup debutants Wales",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cw62ydry8kj2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T14:30:03+00:00",
+      "summary": "England beat Women;s Rugby League World Cup debutants Wales 70-6 in their Group A opening game in Perth, Australia.",
+      "headline_only": false
+    },
+    {
+      "title": "Hurricane Trudy makes its way towards Mexico, threatening heavy rain",
+      "link": "https://www.aljazeera.com/news/2026/10/17/hurricane-trudy-makes-its-way-towards-mexico-threatening-heavy-rain?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:28:07+00:00",
+      "summary": "Trudy is the latest in successive storms that have hit Mexico&#039;s Pacific coast this year.",
+      "headline_only": false
+    },
+    {
+      "title": "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ013QTYtQ0JudFVITVllWWh1Y3Y4WXVXOW80UmlXbEw1YXcxSG5RUkc4djV1X255M3BrWFl1ektoZU5vS1pMYzd4MW5jQ19wS3o4NEFDdHEyT3BsdGl6dDRTNXRDTGVKUnFlVkxSamlaVXRRaGhCeTBCblhQaDZUbHh2TlFRbHYzWUQtODRtVDFjdGlyRUxJR3A1OGdXWU1NalRGRnlhTExDbktfdHpWMmpoY1ZpdTlacmtiN0o1TEJaZ28?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T14:23:45+00:00",
+      "summary": "Egypt's Sisi seeks parliament's backing to help defend Saudi Arabia if asked &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Premières discussions entre l'AES et la Cédéao au Sénégal pour une future collaboration",
+      "link": "https://www.rfi.fr/fr/afrique/20261017-premi%C3%A8res-discussions-entre-l-aes-et-la-c%C3%A9d%C3%A9ao-au-s%C3%A9n%C3%A9gal-pour-une-future-collaboration",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T14:21:53+00:00",
+      "summary": "C'est au Sénégal qu'ont débuté, samedi 17 octobre, les premières discussions entre l'Alliance des États du Sahel (AES) et la Communauté économique des États de l'Afrique de l'Ouest (Cédéao) depuis l'annonce du retrait du Mali, du Burkina Faso et du Niger de l'organisation, le…",
+      "headline_only": false
+    },
+    {
+      "title": "chest., Gurl, Arandel, Larosée... la playlist du cahier musique de «Libération»",
+      "link": "https://www.liberation.fr/culture/musique/chest-gurl-arandel-larosee-la-playlist-du-cahier-musique-de-liberation-20261017_UIE4ZE6BTRECDFXUQEO2BHOHWY/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T14:19:00+00:00",
+      "summary": "Chaque week-end, la web radio de «Tsugi» accompagne le cahier musique de «Libération»",
+      "headline_only": false
+    },
+    {
+      "title": "Burning buildings and tear gas mark 29th day of French student protests",
+      "link": "https://www.abc.net.au/news/2026-10-18/france-protests-education-cost-of-living/107279688",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-10-17T14:15:14+00:00",
+      "summary": "The tourism building in Lyon was set ablaze, and tear gas deployed by police as nationwide rallies over declining public services in France continue.",
+      "headline_only": false
+    },
+    {
+      "title": "McDermott seeks fix as England fight to save their World Cup",
+      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/crwyqgjg5y8wo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC Sport",
+      "source_id": "bbc-sport",
+      "category": "sports",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T14:12:33+00:00",
+      "summary": "Brian McDermott says he can fix the errors that led to England's Rugby League World Cup defeat by Tonga - but is it already too late?",
+      "headline_only": false
+    },
+    {
+      "title": "Nottingham Forest vs Arsenal: Premier League – preview, teams, prediction",
+      "link": "https://www.aljazeera.com/sports/2026/10/17/nottingham-forest-vs-arsenal-premier-league-preview-teams?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:06:41+00:00",
+      "summary": "The Gunners failed to score in their last two visits to the City Ground, as both matches ended in goalless draws.",
+      "headline_only": false
+    },
+    {
+      "title": "Hurricane Trudy threatens western Mexico with heavy rain, coastal flooding - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQQUdGblRuOW5ZdjFTRUR1WkFYdEZKeDAxbjVscWNybm1RS3ZwelZlT084SVFHOFFRcDY5U1dlNUYtNkJKdHJUZEJITmZBeFBCSEZsR1RfNzdwcTY4ejNON0JycmgxN21xSTRPUjRFM2Uyd1ViNkdaZWdPQUJrUTRZd1dUVWIxOGI0Z1UxYjVkaDlZYUVzN3psc3g0bzF3OGo4MkF0NU9ZTmkzZC1zM0g4SUhRWTRqYUI0NWNaYmljYTFVSHM1eHU3d2pR?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T14:04:09+00:00",
+      "summary": "Hurricane Trudy threatens western Mexico with heavy rain, coastal flooding &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Egypt’s Sisi seeks authorisation for defence assistance to Saudi Arabia",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/egypts-sisi-seeks-authorisation-for-defence-assistance-to-saudi-arabia?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T14:00:24+00:00",
+      "summary": "Egyptian president pledges &#039;any measure&#039; to help defend Saudi Arabia &#039;if it is requested of us&#039;.",
+      "headline_only": false
+    },
+    {
+      "title": "How Taiwan’s new AI satellite system aims to speed up early warning against PLA moves",
+      "link": "https://www.scmp.com/news/china/military/article/3371252/how-taiwans-new-ai-satellite-system-aims-speed-early-warning-against-pla-moves?utm_source=rss_feed",
+      "source": "South China Morning Post",
+      "source_id": "scmp",
+      "category": "economics",
+      "region": "Hong Kong/Asia",
+      "lang": "EN",
+      "published": "2026-10-17T14:00:07+00:00",
+      "summary": "Taiwan will acquire an AI-powered satellite imagery system capable of rapidly identifying People’s Liberation Army ships, aircraft and missile launchers, as it seeks to boost early-warning capabilities in the face of growing military pressure from Beijing. The NT$46.55 million…",
+      "headline_only": false
+    },
+    {
+      "title": "Not all Republicans want to show Trump off",
+      "link": "https://www.politico.com/news/2026/10/17/trump-candidates-ads-midterms-01124957",
+      "source": "Politico",
+      "source_id": "politico",
+      "category": "politics",
+      "region": "US/Europe",
+      "lang": "EN",
+      "published": "2026-10-17T14:00:00+00:00",
+      "summary": "GOP candidates are avoiding talking about Trump in their ads, including in deep-red districts where they used to feature him. Some don’t even want to join him at events.",
+      "headline_only": false
+    },
+    {
+      "title": "Pope Leo leaves hospital after cancer surgery",
+      "link": "https://www.dw.com/en/pope-leo-leaves-hospital-after-cancer-surgery/a-79688162?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
+      "lang": "EN",
+      "published": "2026-10-17T13:59:00+00:00",
+      "summary": "Four days after undergoing surgery for lung cancer, Pope Leo left the hospital in Rome. His doctors said he was well enough to return home.",
+      "headline_only": false
+    },
+    {
+      "title": "Journée de mobilisation en France :«La violence va plutôt étouffer les mouvements sociaux»",
+      "link": "https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20261017-journ%C3%A9e-de-mobilisation-en-france-la-violence-va-plut%C3%B4t-%C3%A9touffer-les-mouvements-sociaux",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T13:58:39+00:00",
+      "summary": "Gilets jaunes, lycéens, étudiants, syndicats : des manifestants aux profils très différents se mobilisent contre la vie chère, les inégalités et la dégradation des services publics samedi 17 octobre. Pour en parler, nous recevons Laurent Frajerman, professeur agrégé d'histoire,…",
+      "headline_only": false
+    },
+    {
+      "title": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T13:56:29+00:00",
+      "summary": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed.",
+      "headline_only": false
+    },
+    {
+      "title": "«Iran, la démocratie oubliée: une contre-histoire de la révolution islamique» de Ladan Bouroumand",
+      "link": "https://www.rfi.fr/fr/podcasts/livre-international/20261017-iran-la-d%C3%A9mocratie-oubli%C3%A9e-une-contre-histoire-de-la-r%C3%A9volution-islamique-de-ladan-bouroumand",
+      "source": "RFI",
+      "source_id": "rfi-fr",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T13:56:12+00:00",
+      "summary": "Depuis l'agression israélo-américaine en Iran, la guerre a pris le pas sur les aspirations démocratiques du peuple iranien. Pourtant, en janvier, de nouvelles manifestations appelaient à la fin du régime de la République islamique. Dans son livre Iran, la démocratie oubliée :…",
+      "headline_only": false
+    },
+    {
+      "title": "«Heures sauvages» de Marie Petitcuénot : portrait de l’artiste en victime expiatoire",
+      "link": "https://www.liberation.fr/culture/livres/heures-sauvages-de-marie-petitcuenot-portrait-de-lartiste-en-victime-expiatoire-20261017_THDWJHDLPJDUHBV5XNGUNREIEY/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T13:54:00+00:00",
+      "summary": "L’autrice revient sur la performance de Marina Abramovic, livrée à la moindre envie des visiteurs d’une galerie d’art en 1974.",
+      "headline_only": false
+    },
+    {
+      "title": "Pope discharged from hospital days after lung cancer surgery",
+      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News",
+      "source_id": "bbc-world",
+      "category": "politics",
+      "region": "UK/Global",
+      "lang": "EN",
+      "published": "2026-10-17T13:51:36+00:00",
+      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
+      "headline_only": false
+    },
+    {
+      "title": "Starlink speed restrictions ground interceptors as Russian strikes batter Ukraine",
+      "link": "https://www.abc.net.au/news/2026-10-18/ukraine-grapples-with-starlink-restrictions/107279672",
+      "source": "ABC News Australia",
+      "source_id": "abc-au",
+      "category": "society",
+      "region": "Australia",
+      "lang": "EN",
+      "published": "2026-10-17T13:48:35+00:00",
+      "summary": "Ukraine is grappling with Starlink restrictions vital to operating its interceptors as Trump pauses some Russian sanctions.",
+      "headline_only": false
+    },
+    {
+      "title": "Protesters clash with police during nationwide demonstrations in France",
+      "link": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T13:44:42+00:00",
+      "summary": "Thousands rally in Paris and other cities for demonstrations set to unite students, teachers, unions and &#039;yellow vests&#039;.",
+      "headline_only": false
+    },
+    {
+      "title": "Why Trump’s latest White House press secretary lasted just five days",
+      "link": "https://www.aljazeera.com/news/2026/10/17/why-trumps-latest-white-house-press-secretary-lasted-just-five-days?traffic_source=rss",
+      "source": "Al Jazeera",
+      "source_id": "aljazeera-all",
+      "category": "politics",
+      "region": "Global/MENA",
+      "lang": "EN",
+      "published": "2026-10-17T13:41:49+00:00",
+      "summary": "Katie Zacharia is the shortest-serving White House press secretary after a rocky tenure, but she&#039;s not the first to go.",
+      "headline_only": false
+    },
+    {
+      "title": "Settlers attack diplomatic delegation in West Bank, including French consul",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/settlers-attack-diplomatic-delegation-west-bank-including-french-consul",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T13:37:15+00:00",
+      "summary": "Settlers attack diplomatic delegation in West Bank, including French consul Israeli settlers have attacked a diplomatic delegation, including the French consul, in the occupied West Bank village of Taybeh. The village’s mayor, Suleiman Khourieh, told Al Jazeera that the attack…",
+      "headline_only": false
+    },
+    {
+      "title": "Après son opération, Léon XIV «jugé apte» à quitter l’hôpital",
+      "link": "https://www.liberation.fr/societe/religions/apres-son-operation-leon-xiv-juge-apte-a-quitter-lhopital-20261017_IQXK3FLFZFBPNDFXB4JV5QMSKA/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T13:30:57+00:00",
+      "summary": "Le souverain pontife devait quitter ce samedi en début d’après-midi la polyclinique où il s’est fait opérer d’une tumeur cancéreuse au poumon, ont annoncé le même jour ses médecins. Son voyage en novembre en Amérique du Sud reste en suspens.",
+      "headline_only": false
+    },
+    {
+      "title": "Trump's student loan overhaul could lead to more bankruptcy filings, former judge says",
+      "link": "https://www.cnbc.com/2026/10/17/trump-student-loans-bankruptcy.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-10-17T13:30:01+00:00",
+      "summary": "After nearly three decades as a bankruptcy judge, Sarah Sharer Curley writes about the legal process in her new book, \"The Price of Forgiveness.\"",
+      "headline_only": false
+    },
+    {
+      "title": "Paroles de lycéens : «Sur mon téléphone, je pose des questions que je n’oserais pas poser aux adultes»",
+      "link": "https://www.liberation.fr/societe/paroles-de-lyceens-sur-mon-telephone-je-pose-des-questions-que-je-noserais-pas-poser-aux-adultes-20261017_TTDJPHTQDJF7JKAWY7TY7TVBL4/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T13:28:00+00:00",
+      "summary": "Au-delà de la mobilisation, comment vont et vivent les adolescents ? «Libé» donne la parole à des élèves de toute la France. Elise, 17 ans, élève à Blanquefort, en Gironde, nous raconte son rapport aux écrans, aux réseaux sociaux et sa quête pour trouver un meilleur équilibre.",
+      "headline_only": false
+    },
+    {
+      "title": "US media contributor calls for investigation into journalist attacked by Israeli settlers",
+      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/atlantic-contributor-says-us-journalist-attacked-israeli-settlers-should",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T13:26:10+00:00",
+      "summary": "US media contributor calls for investigation into journalist attacked by Israeli settlers A contributor to The Atlantic, The Wall Street Journal and Foreign Policy has called on the Israeli army to investigate Washington Post journalists who were attacked by Israeli settlers in…",
+      "headline_only": false
+    },
+    {
+      "title": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNaWJaVEpSZWhMYmlHSWRXQzVMdzdYcTNhWHUyekU3djBGWFk1aEI4NTRqVnZTUURaZWFMZUhicERRQXFYQXRKNHRJUGhXaE5WVzl0WUg3UC1SS29UQ0I4YkRydFZzZjU0azhxd1VPa2p0UXRhLWJkRkJzdUJiMGNLenA5TmJoTVozMjVUa0ZHaWFpQ0xiVkZUdjQwRWptSW5lQ0Y3c1hWSEc3YmVoSTVJa0pTUHBTdkZXaVhUMFgwTk5UZw?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T13:21:35+00:00",
+      "summary": "Zelenskiy asked neighbours to let grain cargoes through, Hungary PM Magyar says &nbsp;&nbsp; Reuters",
+      "headline_only": true
+    },
+    {
+      "title": "Ménopause : la parole est libérée mais les besoins des femmes sont méprisés",
+      "link": "https://www.liberation.fr/lifestyle/intimites/menopause-la-parole-est-liberee-mais-les-besoins-des-femmes-sont-meprises-20261017_XO6OYRBXS5CQJF6CXOW4C2YG7I/",
+      "source": "Libération",
+      "source_id": "liberation",
+      "category": "society",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T13:20:54+00:00",
+      "summary": "La ménopause est un sujet «chaud», dans tous les sens du terme. Ces dernières années, les livres se multiplient… brisant la loi du silence qui protégeait jusqu’ici les femmes du stigmate de la «détraquée». Les droits suivront-ils la levée du tabou ?",
+      "headline_only": false
+    },
+    {
+      "title": "European Council warns companies not to finance Israel's E1 West Bank settlement construction",
+      "link": "https://www.middleeasteye.net/news/european-council-warns-companies-not-finance-israels-e1-west-bank-settlement-construction",
+      "source": "Middle East Eye",
+      "source_id": "middleeasteye",
+      "category": "osint",
+      "region": "MENA",
+      "lang": "EN",
+      "published": "2026-10-17T13:15:07+00:00",
+      "summary": "European Council warns companies not to finance Israel's E1 West Bank settlement construction Submitted by MEE staff on Sat, 10/17/2026 - 12:11 The body that sets the EU's political direction says companies could face 'legal, economic and reputational consequences' Vehicles…",
+      "headline_only": false
+    },
+    {
+      "title": "Zelenskiy hopes for meeting with US and Russia during G20 summit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdDM2a0NkRFJYMExTcDFiNXZseFl3dXd3MHRMNU1ISjhoZDNieUZ2MTJaY1FvZFlqS190cEhpOTRsR2hqLUF5cFhadjF4MGptZlExUWJORDFHSlR1anN1ZmhBa2NXdXV2c0VDSHFpR0hMa09FS1BNT283X1VHLVJkN05GcHU1VlBYQlNJTVFQUVFCeVBDT09hYm90VWlyRlJaLXlKR2dlZnI?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T13:07:09+00:00",
+      "summary": "Zelenskiy hopes for meeting with US and Russia during G20 summit &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "La répression des manifestations lycéennes est une leçon de fascisme, par Paul B. Preciado",
@@ -299,19 +1259,7 @@
       "headline_only": false
     },
     {
-      "title": "EN DIRECT – Mouvement du 17 octobre «contre la vie chère» : «République sous les gaz lacrymo devient un piège géant», situation tendue au départ de la manifestation parisienne",
-      "link": "https://www.liberation.fr/societe/education/en-direct-mouvement-du-17-octobre-contre-la-vie-chere-les-jeunes-et-les-jaunes-se-mobilisent-20261017_GH4UURZMZJHZ3HG7ZHNPSP7GDE/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T13:01:50+00:00",
-      "summary": "Plus d’un an après «Bloquons tout» et plusieurs semaines de mobilisation lycéenne, la France connaît une nouvelle journée d’intense contestation sociale, ce samedi. L’Intérieur annonce «140 actions avec 32 800 personnes en province à midi».",
-      "headline_only": false
-    },
-    {
-      "title": "China’s embassy issues fresh Thailand travel warning over kidnappings, job scams",
+      "title": "China’s embassy issues fresh Thailand travel alert over kidnappings, job scams",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3371266/chinas-embassy-issues-fresh-thailand-travel-warning-over-kidnappings-job-scams?utm_source=rss_feed",
       "source": "South China Morning Post",
       "source_id": "scmp",
@@ -335,19 +1283,19 @@
       "headline_only": false
     },
     {
-      "title": "'Everyone laughed' when he started a pumpkin farm—now it brings in $2 million a year",
-      "link": "https://www.cnbc.com/make-it/2026/10/17/great-pumpkin-farm-new-york-2-million-revenue.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
+      "title": "India news: CJP founder released a day after detention",
+      "link": "https://www.dw.com/en/india-news-cjp-founder-released-a-day-after-detention/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
+      "source": "Deutsche Welle",
+      "source_id": "dw-all",
+      "category": "politics",
+      "region": "Germany/Global",
       "lang": "EN",
-      "published": "2026-10-17T13:00:01+00:00",
-      "summary": "Kelly Schultz bought a pumpkin farm in 1996. He transformed it into a seasonal attraction that draws in 100,000 visitors each fall.",
+      "published": "2026-10-17T13:00:00+00:00",
+      "summary": "India's \"Cockroach\" movement founder, Abhijeet Dipke, was released after agreeing to certain conditions, according to the CJP's head of legal affairs. DW has more.",
       "headline_only": false
     },
     {
-      "title": "Isak and Szoboszlai start for Liverpool against Brentford LIVE!",
+      "title": "Liverpool win at nine-man Brentford LIVE!",
       "link": "https://www.skysports.com/football/brentford-vs-liverpool/live/559505",
       "source": "Sky Sports",
       "source_id": "sky-sports",
@@ -369,6 +1317,18 @@
       "published": "2026-10-17T12:59:50+00:00",
       "summary": "Dans un discours à Avignon samedi 17 octobre, l’ancien Premier ministre, exclu de la vie politique après sa déroute à la présidentielle 2017, a dit son soutien à Bruno Retailleau, dont il fut le mentor.",
       "headline_only": false
+    },
+    {
+      "title": "Ukraine says Russia's claimed territorial advances are 'an illusion' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSnRmWGFHY2E5VUVuby10c1hDVllKMlRaWTlQWnViTGxiR3ZLYXYzeWQwTmRHMExGMzhUNXdxdE5sWnd0c3RPUUlUekpMd1haZ3V3bE9EbUxLY2MtWVpiN01pdGw5RkNHaGV4THNkYkRlYlE2UF8zRktxelNxeEx0bkIwM0Z6VW1QamhyMnNOUGlsRWw0X21OMUswNG1EcEdxZU1oNWFDMkUtTzdtZjNFVHFNMS0?oc=5",
+      "source": "Reuters (via Google News – no native RSS)",
+      "source_id": "reuters-via-gnews",
+      "category": "politics",
+      "region": "Global",
+      "lang": "EN",
+      "published": "2026-10-17T12:59:43+00:00",
+      "summary": "Ukraine says Russia's claimed territorial advances are 'an illusion' &nbsp;&nbsp; Reuters",
+      "headline_only": true
     },
     {
       "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
@@ -407,18 +1367,6 @@
       "headline_only": false
     },
     {
-      "title": "Child, four women among Palestinians injured in West Bank pogroms",
-      "link": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T12:48:03+00:00",
-      "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
-      "headline_only": false
-    },
-    {
       "title": "Couzens wins individual pursuit in all-British final",
       "link": "https://www.bbc.co.uk/sport/cycling/videos/c6m2d0gznpl0o?at_medium=RSS&at_campaign=rss",
       "source": "BBC Sport",
@@ -428,18 +1376,6 @@
       "lang": "EN",
       "published": "2026-10-17T12:47:04+00:00",
       "summary": "Great Britain's Millie Couzens beats her compatriot Josie Knight in the final of the women's individual pursuit at the Track Cycling World Championships in Shanghai.",
-      "headline_only": false
-    },
-    {
-      "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
-      "link": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T12:46:48+00:00",
-      "summary": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.",
       "headline_only": false
     },
     {
@@ -455,30 +1391,6 @@
       "headline_only": false
     },
     {
-      "title": "Philippe Lazzarini, ancien patron de l’Unrwa : «Sur la question palestinienne, un changement fondamental est en train de s’opérer»",
-      "link": "https://www.liberation.fr/international/moyen-orient/philippe-lazzarini-ancien-patron-de-lunrwa-sur-la-question-palestinienne-un-changement-fondamental-est-en-train-de-soperer-20261017_DOYJMJT7HBDT7KUSNYT42GFLLY/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T12:40:00+00:00",
-      "summary": "L’ancien commissaire général de l’agence onusienne publie «Témoin de Gaza», récit de son combat face à la destruction de l’enclave et à l’inaction internationale. Il dénonce l’absence de perspective politique pour les Palestiniens et alerte sur leur avenir.",
-      "headline_only": false
-    },
-    {
-      "title": "Pope to be discharged days after lung cancer surgery",
-      "link": "https://www.bbc.co.uk/news/articles/c5x2vkddrkrko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News",
-      "source_id": "bbc-world",
-      "category": "politics",
-      "region": "UK/Global",
-      "lang": "EN",
-      "published": "2026-10-17T12:37:26+00:00",
-      "summary": "The pontiff will give the traditional Angelus prayer and blessing in St Peter's Square on Sunday.",
-      "headline_only": false
-    },
-    {
       "title": "Tunisians stage biggest protest in years against President Saied - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTGtlSEpxTllGcXRnWVFBMmRwX1VYX3dackZjTzFGTlRXOXdRQXhuOXZDdGw1YTl0aGt4X25UTWk1V2VoLVdpMFp3eTNOdGdSSE84QklxZXYwek5YVW4tamtMYXdOd0dvMVlfX1czQ2xZc2ozR0pDMVFaNElGbWdSczFrc0JqaTNyUS1UQlJqMm5nUXQ1WVpNU29xdTNRZEVqSy04cnBORzF6V2xoX0dhb1Y2S0dWZnB1bjFMZA?oc=5",
       "source": "Reuters (via Google News – no native RSS)",
@@ -489,18 +1401,6 @@
       "published": "2026-10-17T12:33:39+00:00",
       "summary": "Tunisians stage biggest protest in years against President Saied &nbsp;&nbsp; Reuters",
       "headline_only": true
-    },
-    {
-      "title": "England crush Women's World Cup debutants Wales",
-      "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6djvxmx0z1po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T12:32:21+00:00",
-      "summary": "England scored seven tries before the break, and 13 in total on their way to a comprehensive victory over Wales in their Group A opener.",
-      "headline_only": false
     },
     {
       "title": "Présidentielle 2027 : François Fillon apporte son soutien à Bruno Retailleau, « seul candidat crédible qui soit clairement à droite »",
@@ -515,43 +1415,7 @@
       "headline_only": false
     },
     {
-      "title": "L’exposition Paul McCartney à Aix-en-Provence : le regard des tournées",
-      "link": "https://www.liberation.fr/culture/lexposition-paul-mccartney-a-aix-en-provence-le-regard-des-tournees-20261017_6MMAOC5QS5B35COHZOFE24K54Y/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T12:30:00+00:00",
-      "summary": "Exposées à Aix-en-Provence jusqu’au 3 janvier, les photos, plus historiques qu’iconiques, du membre des Beatles documentent leur succès à l’international durant la période 1963-1964.",
-      "headline_only": false
-    },
-    {
-      "title": "'A huge milestone' - Kartal becomes second Brit ever to reach WTA 1000 final",
-      "link": "https://www.skysports.com/tennis/news/12040/13600120/sonay-kartal-british-star-digs-deep-to-beat-jelena-ostapenko-and-secure-a-spot-in-her-first-ever-wta-1000-final",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T12:28:00+00:00",
-      "summary": "Britain's Sonay Kartal was forced to dig deep to beat Jelena Ostapenko and secure a spot in her first-ever WTA 1000 final on Saturday.",
-      "headline_only": false
-    },
-    {
-      "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
-      "link": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T12:27:49+00:00",
-      "summary": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
-      "headline_only": false
-    },
-    {
-      "title": "L’ex-président sénégalais Macky Sall retire sa candidature au poste de secrétaire général de l’ONU",
+      "title": "L’ex-président sénégalais Macky Sall retire sa candidature au poste de secrétaire général de l'ONU",
       "link": "https://www.rfi.fr/fr/afrique/20261017-l-ex-pr%C3%A9sident-s%C3%A9n%C3%A9galais-macky-sall-retire-sa-candidature-au-poste-de-secr%C3%A9taire-g%C3%A9n%C3%A9ral-de-l-onu",
       "source": "RFI",
       "source_id": "rfi-fr",
@@ -559,43 +1423,19 @@
       "region": "France",
       "lang": "FR",
       "published": "2026-10-17T12:27:37+00:00",
-      "summary": "Ce retrait intervient au lendemain d’un vote indicatif où les sept candidats encore en lice ont tous reçu au moins un avis défavorable d’un membre permanent du Conseil de sécurité, l’équivalent d’un veto.",
+      "summary": "Ce retrait de la candidature de Macky Sall intervient samedi 17 octobre, au lendemain d'un vote indicatif où les sept candidats encore en lice ont tous reçu au moins un avis défavorable d'un membre permanent du Conseil de sécurité, l'équivalent d’un veto.",
       "headline_only": false
     },
     {
-      "title": "France tackles new wave of nationwide protests",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/france-tackles-new-wave-of-nationwide-protests?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T12:18:55+00:00",
-      "summary": "France is tackling nationwide protests, as students, unions, and activists rally against high prices and inequality.",
-      "headline_only": false
-    },
-    {
-      "title": "Smith worldie brings Arsenal level vs Birmingham LIVE!",
-      "link": "https://www.skysports.com/football/arsenal-women-vs-birmingham-city-women/live/575791",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
+      "title": "Bank of England governor walks out of IMF summit in protest against Russia",
+      "link": "https://www.theguardian.com/business/2026/oct/17/bank-of-england-governor-andrew-bailey-walks-out-imf-summit-protest-russia",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
+      "category": "finance",
       "region": "UK",
       "lang": "EN",
-      "published": "2026-10-17T12:15:00+00:00",
-      "summary": "",
-      "headline_only": false
-    },
-    {
-      "title": "Les groupes de parole de Terreur Graphique : «Bonjour, je m’appelle Chacha Groluq et je n’en peux plus des jeunes»",
-      "link": "https://www.liberation.fr/culture/bd/les-groupes-de-parole-de-terreur-graphique-bonjour-je-mappelle-chacha-groluq-et-je-nen-peux-plus-des-jeunes-20261017_4GNRB4OOKRAFNL4JGX7RUYIEPY/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T12:14:00+00:00",
-      "summary": "Parce que ça va mieux en le disant, tour d’horizon des groupes de parole.",
+      "published": "2026-10-17T12:15:37+00:00",
+      "summary": "Andrew Bailey among finance leaders to leave session in Bangkok when Russian finance minister addressed group The Bank of England governor, Andrew Bailey, has taken part in a walkout of finance leaders who left an International Monetary Fund meeting in protest against Russian…",
       "headline_only": false
     },
     {
@@ -611,40 +1451,16 @@
       "headline_only": false
     },
     {
-      "title": "US and Iran both claim control of Strait of Hormuz amid attacks on vessels",
-      "link": "https://www.aljazeera.com/news/2026/10/17/us-and-iran-both-claim-control-of-strait-of-hormuz-amid-attacks-on-vessels?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
+      "title": "From 3,000 feathers to pet portraits, Rolls-Royce rides high on custom craze",
+      "link": "https://www.theguardian.com/business/2026/oct/17/rolls-royce-customised-cars",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
+      "category": "finance",
+      "region": "UK",
       "lang": "EN",
-      "published": "2026-10-17T12:10:56+00:00",
-      "summary": "Two vessels have been struck with naval mines in the Strait of Hormuz this week.",
+      "published": "2026-10-17T12:00:29+00:00",
+      "summary": "In our second in a series on high-end UK manufacturing, we visit the artisans producing rich clients’ bespoke luxury cars ‘Our town is making jeans again’: meet the firm reviving jobs and skills in Wales They are the plaything of kings, presidents and A-listers, with…",
       "headline_only": false
-    },
-    {
-      "title": "Women protest in New Delhi against police brutality",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T12:07:15+00:00",
-      "summary": "Women protest in New Delhi against police brutality",
-      "headline_only": false
-    },
-    {
-      "title": "Trump faults aides as Republican midterm prospects dim - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYTNjQm5xUlNLTTVIZHJ5eXBnMUZlY211OWQzdjJSLWFqMDRrMVZlaXFjUmUtVDFkVXYyVUwzajB4TXNQNE1NblU4RFhGeDNyak4tX1FsZXZtTXpYamZValBXUHc0RXNhc2J6Vk4wZEFNV2FxNHBlYmNvOFVEdThjakZ5Q0g3UXpySk9maHZhYTFXSzVMeXdxMXZ5c1M?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T12:05:14+00:00",
-      "summary": "Trump faults aides as Republican midterm prospects dim &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "Présidentielle 2027 : autour de la candidature de David Lisnard, « il se passe quelque chose », mais quoi ?",
@@ -659,6 +1475,30 @@
       "headline_only": false
     },
     {
+      "title": "« Beaucoup de gens ne mangeraient pas s’ils ne venaient pas là » : à Alès, une cantine solidaire contre la vie chère",
+      "link": "https://www.lemonde.fr/economie/article/2026/10/17/beaucoup-de-gens-ne-mangeraient-pas-s-ils-ne-venaient-pas-la-a-ales-une-cantine-solidaire-contre-la-vie-chere_6796306_3234.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T12:00:12+00:00",
+      "summary": "Dans la sous-préfecture du Gard, où 30 % de la population vit sous le seuil de pauvreté, un lieu associatif propose des repas pour quelques euros aux personnes aux revenus modestes. Depuis le début de la crise énergétique et les tensions sur le pouvoir d’achat, un nouveau…",
+      "headline_only": false
+    },
+    {
+      "title": "Abel Ferrara : « Avant il y avait encore un business pour le cinéma. Maintenant, c’est fini, tout est entre les mains d’Amazon ou de Netflix »",
+      "link": "https://www.lemonde.fr/cinema/article/2026/10/17/abel-ferrara-avant-il-y-avait-encore-un-business-pour-le-cinema-maintenant-c-est-fini-tout-est-entre-les-mains-d-amazon-ou-de-netflix_6796305_3476.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T12:00:09+00:00",
+      "summary": "A l’occasion de la sortie de ses Mémoires, le cinéaste américain revient sur une filmographie marquée par la violence, le crime et la masculinité destructrice.",
+      "headline_only": false
+    },
+    {
       "title": "Coming up roses? How Trump planted a new seed for Chinese gift diplomacy",
       "link": "https://www.scmp.com/news/china/diplomacy/article/3371233/coming-roses-how-trump-planted-new-seed-chinese-gift-diplomacy?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -669,42 +1509,6 @@
       "published": "2026-10-17T12:00:06+00:00",
       "summary": "Donald Trump was apparently captivated by the “beautiful” roses in the garden of the Communist Party’s leadership compound when he visited Beijing in May. It was a relaxed moment between the US and Chinese leaders – otherwise locked in disputes ranging from trade to technology…",
       "headline_only": false
-    },
-    {
-      "title": "Bending Spoons wants to revive software castoffs. Berkshire is backing the plan",
-      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-10-17T12:00:01+00:00",
-      "summary": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
-      "headline_only": false
-    },
-    {
-      "title": "England thumped by Tonga in World Cup opener",
-      "link": "https://www.skysports.com/rugby-league/england-vs-tonga/report/64270",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T12:00:00+00:00",
-      "summary": "England were handed a Rugby League World Cup reality check after a 30-12 thumping by Tonga in their tournament opener.",
-      "headline_only": false
-    },
-    {
-      "title": "Trump-Zelenskiy rift threatens vital support for Kyiv - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOS1zSXlGaS1sbWV1RHJiN2s1S1o5WWQxY01nZmh0ZVA2ZHo3cEZ0NUhERFZFT2kzT0FPQXgxVmFqNzhlNUNtNFB1WkFENHZEU2xKdWRuYmt5ZUhTcUJrY1ktbXEtSU1mOGUyZkxYOVF6Y1hqYkFZSGJuZ2s4MWZ1NmRZY09kQThIZXlndE1GRFlIVkNvTWFzbUxhaDJaNEE?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T11:57:08+00:00",
-      "summary": "Trump-Zelenskiy rift threatens vital support for Kyiv &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -731,18 +1535,6 @@
       "headline_only": false
     },
     {
-      "title": "Kartal reaches Wuhan final as dream week continues",
-      "link": "https://www.bbc.co.uk/sport/tennis/articles/c9dr83p610vno?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T11:41:54+00:00",
-      "summary": "Britain's Sonay Kartal beats former French Open winner Jelena Ostapenko to reach the Wuhan Open final in only her third event after a six-month injury lay-off.",
-      "headline_only": false
-    },
-    {
       "title": "Russia wants blackout in Ukraine as winter comes — Zelenskyy",
       "link": "https://www.dw.com/en/russia-wants-blackout-in-ukraine-as-winter-comes-zelenskyy/a-79686703?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -752,6 +1544,18 @@
       "lang": "EN",
       "published": "2026-10-17T11:34:00+00:00",
       "summary": "Ukrainian President Zelenskyy says Russia is trying to cut electricity and heating to civilians ahead of winter. He also called the US president's waiver of new sanctions on Moscow a boost for Vladimir Putin.",
+      "headline_only": false
+    },
+    {
+      "title": "The power of AI is worrying senior Labour figures – as is the fear of ‘falling behind the public’",
+      "link": "https://www.theguardian.com/technology/2026/oct/17/artificial-intelligence-ai-labour-government-safety-uk-extremism",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
+      "category": "finance",
+      "region": "UK",
+      "lang": "EN",
+      "published": "2026-10-17T11:33:20+00:00",
+      "summary": "Westminster appears to be waking up to warnings over AI safety, with concerns over its use by extremist groups and bad actors “I have this sense that, within a few months, AI is going to be all anyone is talking about,” said one cabinet minister, with an ominous stare. It was…",
       "headline_only": false
     },
     {
@@ -779,42 +1583,6 @@
       "headline_only": false
     },
     {
-      "title": "Lamia El Aaraje et Julien Parelon livrent le quotidien d’un couple face à la maladie de Charcot",
-      "link": "https://www.liberation.fr/societe/sante/elle-est-devenue-mon-punching-ball-lamia-el-aaraje-et-julien-parelon-livrent-le-quotidien-dun-couple-face-a-la-maladie-de-charcot-20261017_GZ5GABPRSZGWXIVDGJK4I7GG3Y/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T11:30:00+00:00",
-      "summary": "La première adjointe à la mairie de Paris et son époux retracent, dans le livre «les Empêchés», paru jeudi 15 octobre, leur combat face à la pathologie neurodégénérative. Lui en tant que malade, et elle en tant qu’aidante. «Libé» les a rencontrés.",
-      "headline_only": false
-    },
-    {
-      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T11:22:41+00:00",
-      "summary": "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.",
-      "headline_only": false
-    },
-    {
-      "title": "Protests spread across France as ‘yellow vests’ set to join",
-      "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T11:21:32+00:00",
-      "summary": "Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.",
-      "headline_only": false
-    },
-    {
       "title": "Bangladesh tourist resort fire kills 10",
       "link": "https://www.scmp.com/news/asia/south-asia/article/3371264/bangladesh-tourist-resort-fire-kills-10?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -824,42 +1592,6 @@
       "lang": "EN",
       "published": "2026-10-17T11:18:20+00:00",
       "summary": "At least 10 tourists have been killed in a fire at a seaside resort in the southeastern Bangladeshi district of Cox’s Bazar, the country’s largest travel destination, officials said on Saturday. Dolon Acharya, an officer at the Fire Service and Civil Defence department, said…",
-      "headline_only": false
-    },
-    {
-      "title": "Evans: Raducanu will win Wimbledon one day",
-      "link": "https://www.skysports.com/tennis/news/12040/13600119/emma-raducanu-retired-brit-dan-evans-predicts-former-us-open-champion-will-win-wimbledon-despite-injuries-and-fitness-issues",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T11:18:00+00:00",
-      "summary": "Former British No 1 Dan Evans claims Emma Raducanu will add to her US Open triumph by winning Wimbledon - despite her recent injury woes.",
-      "headline_only": false
-    },
-    {
-      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T11:10:22+00:00",
-      "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
-      "headline_only": false
-    },
-    {
-      "title": "Burn-out dans l’industrie musicale : «Le métier passion est un excellent carburant mais un très mauvais contrat de travail»",
-      "link": "https://www.liberation.fr/culture/musique/burn-out-dans-lindustrie-musicale-le-metier-passion-est-un-excellent-carburant-mais-un-tres-mauvais-contrat-de-travail-20261017_KM6SDP4AK5A5PBZVYTQEOBFK5M/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T11:09:00+00:00",
-      "summary": "Cumul des casquettes, management toxique, dévotion sacrificielle, confusion entre vie professionnelle et vie privée… Des travailleuses et travailleurs, dans tous les secteurs liés à la musique, témoignent d’un épuisement professionnel profond.",
       "headline_only": false
     },
     {
@@ -875,30 +1607,6 @@
       "headline_only": false
     },
     {
-      "title": "IRGC declares Strait of Hormuz closed after tankers hit",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/irgc-declares-strait-hormuz-closed-after-tankers-hit",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T11:06:43+00:00",
-      "summary": "IRGC declares Strait of Hormuz closed after tankers hit Iran's Islamic Revolutionary Guard Corps Navy has again declared that \"the Strait of Hormuz is closed, and the passage of ships of various nationalities through the strait is prohibited”, according to the official…",
-      "headline_only": false
-    },
-    {
-      "title": "Egypt's Sisi declares his presidency will end in 2030",
-      "link": "https://www.middleeasteye.net/news/egypt-sisi-declares-his-presidency-will-end-2030",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T11:00:56+00:00",
-      "summary": "Egypt's Sisi declares his presidency will end in 2030 Submitted by MEE staff on Sat, 10/17/2026 - 11:23 'The Egyptian constitution will not be touched,' the president says in a speech at the Egyptian Military Academy Egyptian President Abdel Fattah el-Sisi attends a bilateral…",
-      "headline_only": false
-    },
-    {
       "title": "Corrupt officials have nowhere to hide, China’s anti-graft watchdog warns",
       "link": "https://www.scmp.com/news/china/politics/article/3371257/corrupt-officials-have-nowhere-hide-chinas-anti-graft-watchdog-warns?utm_source=rss_feed",
       "source": "South China Morning Post",
@@ -911,7 +1619,7 @@
       "headline_only": false
     },
     {
-      "title": "Kansas Republicans fear Roger Marshall may be running out of time",
+      "title": "A sleeper Senate battleground has turned into a real Republican liability",
       "link": "https://www.politico.com/news/2026/10/17/kansas-senate-roger-marshall-struggles-01122060",
       "source": "Politico",
       "source_id": "politico",
@@ -920,42 +1628,6 @@
       "lang": "EN",
       "published": "2026-10-17T11:00:00+00:00",
       "summary": "The newest addition to the Senate map is giving Republicans headaches.",
-      "headline_only": false
-    },
-    {
-      "title": "La faculté des lettres de Rouen touchée par un incendie, les enquêteurs soupçonnent une «origine criminelle»",
-      "link": "https://www.liberation.fr/societe/police-justice/la-faculte-des-lettres-de-rouen-touchee-par-un-incendie-les-enqueteurs-soupconnent-une-origine-criminelle-20261017_PF5MGJYJS5BXDJHNVTIHOXH2IA/",
-      "source": "Libération",
-      "source_id": "liberation",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T10:54:26+00:00",
-      "summary": "Selon les premières constatations, le feu est parti d’un tas de détritus déposé devant le bâtiment, dans la nuit de vendredi à samedi. Deux étages et 300 mètres carrés de toiture ont été sinistrés.",
-      "headline_only": false
-    },
-    {
-      "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss",
-      "source": "Al Jazeera",
-      "source_id": "aljazeera-all",
-      "category": "politics",
-      "region": "Global/MENA",
-      "lang": "EN",
-      "published": "2026-10-17T10:50:39+00:00",
-      "summary": "We asked students what they think.",
-      "headline_only": false
-    },
-    {
-      "title": "EN DIRECT, manifestations du 17 octobre : à Paris, le cortège s’est élancé de la place de la République malgré de fortes tensions ; des affrontements à Lyon, Bordeaux et Toulouse",
-      "link": "https://www.lemonde.fr/societe/live/2026/10/17/en-direct-manifestations-du-17-octobre-plusieurs-actions-contestaires-se-mettent-en-place-a-travers-la-france-avec-une-forte-presence-policiere_6795855_3224.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T10:48:55+00:00",
-      "summary": "Un cortège protéiforme contre la « vie chère » est parti de la place de la République à Paris, où la situation est tendue depuis samedi matin. Les forces de l’ordre ont fait usage à plusieurs reprises de gaz lacrymogènes face à plusieurs centaines de manifestants, dont certains…",
       "headline_only": false
     },
     {
@@ -971,18 +1643,6 @@
       "headline_only": false
     },
     {
-      "title": "Egypt's Sisi says his presidency will end in 2030 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM3NvbzVWSnc2ZlZISTRVY1BTaXo5ejd4dHJXTXZ2UlBxTkZzSWx3ZWlRY0hfeHlsLXJIR3M0aEVHcVBTckJDUk43TktZUHYwblZCX0xkNmdVSTZsTnA4bW1fQ3JJYVRwaWJHdTZ3TE4tbzRDQWoxcWJ3ZUVVZ3A5a1VnVVEyNEdXZ2E2UnFGb2hnVmJSQ2s2a1p3?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T10:37:43+00:00",
-      "summary": "Egypt's Sisi says his presidency will end in 2030 &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
       "title": "Germany news: Merz faces conservative youth wing in Bonn",
       "link": "https://www.dw.com/en/germany-news-merz-faces-conservative-youth-wing-in-bonn/live-79686913?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
@@ -992,30 +1652,6 @@
       "lang": "EN",
       "published": "2026-10-17T10:34:00+00:00",
       "summary": "Friedrich Merz, who has struggled for support within his party, on Saturday meets with the CDU/CSU's 90,000-strong Young Union. In Schleswig-Holstein, 3,000 people are expected at an AfD youth rally. DW has more.",
-      "headline_only": false
-    },
-    {
-      "title": "Pope Leo to leave hospital on Saturday, four days after lung cancer surgery - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEhiTWpBVEdDa1JjQmtQUDBZR1RGVHF4VmxwaTEzRHhtczZOcHlJZE9idHNKOFpxdnpndFYwLUk5Zy1lZFRFWTUtaHlEdW44aVZKZjlXenBveTRvN29sRzI1RG1JVm0wMGlRcFpoeS1hX0dCZE1WVGdVc3plR3FZay0xeUtSYjg2dk9SZVpUSEJUdw?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T10:33:29+00:00",
-      "summary": "Pope Leo to leave hospital on Saturday, four days after lung cancer surgery &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
-      "title": "Sarah Helm is speaking 'common sense' on Palestine Action, says Zack Polanski",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/sarah-helm-speaking-common-sense-palestine-action-says-zack-polanski",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T10:32:57+00:00",
-      "summary": "Sarah Helm is speaking 'common sense' on Palestine Action, says Zack Polanski Prominent journalist and author Sarah Helm has remained defiant after pro-Israel groups urged the Metropolitan Police to investigate her over a post on X backing Sally Rooney, the Irish author whose…",
       "headline_only": false
     },
     {
@@ -1031,18 +1667,6 @@
       "headline_only": false
     },
     {
-      "title": "Pope Leo to leave hospital on Saturday, 4 days after lung cancer surgery",
-      "link": "https://www.scmp.com/news/world/europe/article/3371256/pope-leo-leave-hospital-saturday-after-lung-cancer-surgery?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-10-17T10:26:27+00:00",
-      "summary": "Pope Leo is expected to leave hospital on Saturday afternoon following surgery for lung cancer, the Vatican said, after blood tests and ‌chest imaging found him fit to return home four days after his operation. The 71-year-old pontiff, who has not been seen in public since a…",
-      "headline_only": false
-    },
-    {
       "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
       "link": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
       "source": "CNBC",
@@ -1055,30 +1679,6 @@
       "headline_only": false
     },
     {
-      "title": "Sarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery'",
-      "link": "https://www.middleeasteye.net/news/sarah-helm-doubles-down-pro-israel-groups-urge-police-action-and-zack-polanski-praises-her",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T10:20:09+00:00",
-      "summary": "Sarah Helm doubles down as pro-Israel groups urge police action and Zack Polanski praises her 'bravery' Submitted by Imran Mulla on Sat, 10/17/2026 - 10:25 The journalist and wife of the British prime minister's national security adviser, Jonathan Powell, posted: 'God help us…",
-      "headline_only": false
-    },
-    {
-      "title": "Tear gas, clashes hit French cities in cost-of-living protests",
-      "link": "https://www.scmp.com/news/world/europe/article/3371255/french-protesters-take-streets-over-rising-prices-social-strain?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-10-17T10:12:29+00:00",
-      "summary": "Police fired tear gas and clashed with protesters in several French cities on Saturday as some of the most violent protests in years over living costs and public services drew thousands onto the streets. French authorities said 140 protests involving 32,800 people had been…",
-      "headline_only": false
-    },
-    {
       "title": "‘Countries are defying gravity’: how much longer can global economy resist chaos?",
       "link": "https://www.theguardian.com/business/2026/oct/17/imf-warns-scale-subsidies-weather-global-chaos-untenable",
       "source": "The Guardian – Business",
@@ -1088,18 +1688,6 @@
       "lang": "EN",
       "published": "2026-10-17T10:00:27+00:00",
       "summary": "Sky-high oil prices and geopolitical turmoil have made less of a dent than feared … just don’t bank on it to last Inside the vast, glass-walled Queen Sirikit conference centre in Bangkok, the air-conditioned atmosphere was calm as policymakers from more than 100 countries…",
-      "headline_only": false
-    },
-    {
-      "title": "Strangers and railway staff help Chinese couple bring quintuplets home by train",
-      "link": "https://www.scmp.com/news/people-culture/trending-china/article/3371231/strangers-and-railway-staff-help-chinese-couple-bring-quintuplets-home-train?utm_source=rss_feed",
-      "source": "South China Morning Post",
-      "source_id": "scmp",
-      "category": "economics",
-      "region": "Hong Kong/Asia",
-      "lang": "EN",
-      "published": "2026-10-17T10:00:14+00:00",
-      "summary": "When a couple from Xinjiang took their quintuplets home on a 36-hour train journey, the babies became favourites of both the train crew and fellow passengers, who took turns caring for them. The five babies were born on February 26 at a major hospital in Wuhan, in central…",
       "headline_only": false
     },
     {
@@ -1127,19 +1715,7 @@
       "headline_only": false
     },
     {
-      "title": "Deux inspecteurs du travail de Grenoble sanctionnés pour insubordination",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/17/deux-inspecteurs-du-travail-de-grenoble-sanctionnes-pour-insubordination_6796202_3224.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T10:00:01+00:00",
-      "summary": "Rendues publiques jeudi, les mesures disciplinaires prises à l’encontre de ces agents sont dénoncées par une intersyndicale qui y voit une « procédure-bâillon ».",
-      "headline_only": false
-    },
-    {
-      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
       "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "source_id": "bbc-world",
@@ -1175,18 +1751,6 @@
       "headline_only": true
     },
     {
-      "title": "Egypt's Sisi says his presidency will end in 2030",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/egypts-sisi-says-his-presidency-will-end-2030",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T09:46:22+00:00",
-      "summary": "Egypt's Sisi says his presidency will end in 2030 Egyptian President Abdel Fattah al-Sisi said on Saturday that his presidential term would end in 2030 and that the question of his departure from office was “settled and will not be discussed”, reaffirming that Egypt's…",
-      "headline_only": false
-    },
-    {
       "title": "Maroc: un système inédit de surveillance de voix dissidentes révélé par Amnesty",
       "link": "https://www.rfi.fr/fr/afrique/20261017-maroc-un-syst%C3%A8me-in%C3%A9dit-de-surveillance-de-voix-dissidentes-r%C3%A9v%C3%A9l%C3%A9-par-amnesty",
       "source": "RFI",
@@ -1196,30 +1760,6 @@
       "lang": "FR",
       "published": "2026-10-17T09:38:29+00:00",
       "summary": "Après des années d’enquête, l’ONG de défense des droits de l’homme sort un rapport inédit sur le fonctionnement du système de surveillance marocain pour réprimer des militants de la liberté d’expression et des journalistes.",
-      "headline_only": false
-    },
-    {
-      "title": "South Africa look to re-establish Test credentials after Australia mauling",
-      "link": "https://www.skysports.com/cricket/news/12040/13600114/south-africa-vs-australia-hosts-welcome-8203back-paceman-kagiso-rabada-for-his-first-outing-since-ipl",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T09:35:00+00:00",
-      "summary": "South Africa will seek to show their heady ascent to the &#8204;top of the Test cricket pile was no accident as they bid to level the series against &#8203;Australia in the second Test, starting on Sunday in Gqeberha.",
-      "headline_only": false
-    },
-    {
-      "title": "Why Israel's claims cannot be accepted at face value",
-      "link": "https://www.middleeasteye.net/opinion/why-israels-claims-cannot-be-accepted-face-value",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T09:34:55+00:00",
-      "summary": "Why Israel's claims cannot be accepted at face value Submitted by Faisal Hanif on Fri, 10/16/2026 - 14:00 Any statement from Netanyahu, who has a long and troubling history of twisting the media to serve his agenda, deserves rigorous scrutiny People walk through the entrance to…",
       "headline_only": false
     },
     {
@@ -1259,42 +1799,6 @@
       "headline_only": false
     },
     {
-      "title": "Zelensky drums up European backing as Trump ties slump",
-      "link": "https://www.france24.com/en/video/20261017-zelensky-drums-up-european-backing-as-trump-ties-slump",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-17T09:25:20+00:00",
-      "summary": "Ukrainian President Volodymyr Zelensky urged EU leaders Friday to keep financing Kyiv's fight with nearly $80 billion more next year, as he insisted he was standing up for his country amid a fresh row with US President Donald Trump.",
-      "headline_only": false
-    },
-    {
-      "title": "Trump waives new Russia sanctions as Ukraine ties slump",
-      "link": "https://www.france24.com/en/video/20261017-trump-waives-new-russia-sanctions-as-ukraine-ties-slump",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-17T09:23:52+00:00",
-      "summary": "President Donald Trump signed an executive order on Friday that waived sweeping US sanctions and tariffs targeting Russia's energy revenues, marking a new low in Washington's ties with war-torn Ukraine. Our correspondent Gulliver Cragg tells us more.",
-      "headline_only": false
-    },
-    {
-      "title": "EN DIRECT, guerre en Ukraine : Donald Trump exempte la Russie de nouvelles sanctions, Kiev dénonce un encouragement à poursuivre les attaques",
-      "link": "https://www.lemonde.fr/international/live/2026/10/17/en-direct-guerre-en-ukraine-donald-trump-exempte-la-russie-de-nouvelles-sanctions-suivez-les-reactions-internationales_6791198_3210.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T09:22:13+00:00",
-      "summary": "Dans un décret publié vendredi soir par la Maison Blanche, le président américain « exempte l’application des sanctions, restrictions et droits de douane prévue dans le Graham Act ». Cette loi constituait la première action majeure du Congrès contre Moscou depuis le retour au…",
-      "headline_only": false
-    },
-    {
       "title": "World Cup heartbreak for Kangaroos half as Tonga notches first win over England",
       "link": "https://www.abc.net.au/news/2026-10-17/rugby-league-world-cup-mitchell-moses-injury/107279314",
       "source": "ABC News Australia",
@@ -1319,15 +1823,15 @@
       "headline_only": false
     },
     {
-      "title": "Students, trade unions and Yellow Vests set to protest across France",
-      "link": "https://www.france24.com/en/video/20261017-students-trade-unions-and-yellow-vests-set-to-protest-across-france",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
+      "title": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
+      "link": "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
+      "source": "The Guardian – Business",
+      "source_id": "guardian-business",
+      "category": "finance",
+      "region": "UK",
       "lang": "EN",
-      "published": "2026-10-17T09:11:24+00:00",
-      "summary": "Tens of thousands of ⁠people are expected to ​protest across France on Saturday, as students, trade unionists and remnants of the Yellow Vest movement join forces to demonstrate against high prices and ​the country's fraying social model.",
+      "published": "2026-10-17T09:00:26+00:00",
+      "summary": "Owner and mechanics fear for their health and future of the Herne Hill shop with no date for fixing problem The leafy south London neighbourhood of Herne Hill is a haven for cyclists who can often be seen lapping the local parks and refuelling at the many cafes that line the…",
       "headline_only": false
     },
     {
@@ -1343,31 +1847,7 @@
       "headline_only": false
     },
     {
-      "title": "Stinky business: south London bike shop hit by ‘unbearable’ stench from Thames Water sewer",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/17/south-london-bike-shop-stench-thames-water-sewer-herne-hill",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T09:00:26+00:00",
-      "summary": "Owner and mechanics fear for their health and future of the Herne Hill shop with no date for fixing problem The leafy south London neighbourhood of Herne Hill is a haven for cyclists who can often be seen lapping the local parks and refuelling at the many cafes that line the…",
-      "headline_only": false
-    },
-    {
-      "title": "'Our land, our Albania': young lawmaker demands new future as protests rage - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbC1qYWlqcW1qUTM3TllqMnBDSmRaRFJiaW03WDZJOU5KNUx4U1U5US1iMktLZmVlMEctLWR2WC1NbkJTMHN3LWQ0RDRtY3FFZkV6aGFvWkNIRC1qLXQwQUtjYVk3aW9jZ3g2bHdNOFBPSk1TRTZ6RUJUbW5vTlBOWERCc0VEdmlSUnI5UXUwaEhTaGRvZ2hpMzJtdFpvMnlFMjIxR2pfTFQ3UEJLbzVKTi1ac1ZyNnFS?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T08:43:31+00:00",
-      "summary": "'Our land, our Albania': young lawmaker demands new future as protests rage &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
-      "title": "DIRECT - Journée de mobilisation en France: la manifestation parisienne a commencé, malgré des affrontements",
+      "title": "DIRECT - Journée de mobilisation en France: «plus de 500000» manifestants, selon la CGT",
       "link": "https://www.rfi.fr/fr/france/20261017-direct-lyc%C3%A9ens-gilets-jaunes-suivez-la-journ%C3%A9e-de-mobilisation-%C3%A0-travers-la-france",
       "source": "RFI",
       "source_id": "rfi-fr",
@@ -1375,7 +1855,7 @@
       "region": "France",
       "lang": "FR",
       "published": "2026-10-17T08:43:17+00:00",
-      "summary": "Des centaines d'actions, de blocages et de rassemblements étaient prévus ce samedi 17 octobre partout en France. Anciens « gilets jaunes », lycéens, étudiants, militants du climat et agriculteurs entendent faire converger leurs colères contre la vie chère, le manque de moyens…",
+      "summary": "Des dizaines de milliers de personnes ont défilé samedi 17 octobre à travers la France pour dénoncer la vie chère et la dégradation des services publics, à l'appel d'un mouvement réunissant anciens « gilets jaunes », lycéens, étudiants, syndicats ou encore agriculteurs. La CGT…",
       "headline_only": false
     },
     {
@@ -1415,40 +1895,16 @@
       "headline_only": false
     },
     {
-      "title": "Russian defence ministry says it hit Ukrainian steel plants, power infrastructure overnight - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSFVaMHlsTTJLMm1FdGE0VlhXN0JmRGhQSzk3SzNNRzBaN3ZmTWV6VmEzeFMzNTJSY3FrcWwyQ1ZSNjVSUGdBOGNoc0ZkZW9Fcldrem1TOGk5Z1hQOUYzNlBmaTNtWUhTU1JEN3M5cXFCRUdzSllIeWZoMDBOOWxIU3NQdUZqNWlibnFEQ0puME9Cenp1bU11aS1tWko4a0JrTnJLSVBSWVQzaUZsbG52cWlrbnlQUi1kQmxSVWpldw?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T08:03:53+00:00",
-      "summary": "Russian defence ministry says it hit Ukrainian steel plants, power infrastructure overnight &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
-      "title": "France braces for nationwide protests",
-      "link": "https://www.dw.com/en/france-braces-for-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
+      "title": "France: Police and protesters clash in nationwide protests",
+      "link": "https://www.dw.com/en/france-police-and-protesters-clash-in-nationwide-protests/a-79685584?maca=en-rss-en-all-1573-xml-mrss",
       "source": "Deutsche Welle",
       "source_id": "dw-all",
       "category": "politics",
       "region": "Germany/Global",
       "lang": "EN",
       "published": "2026-10-17T08:02:00+00:00",
-      "summary": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Authorities say they fear the rallies could turn violent.",
+      "summary": "Students, trade unionists and Yellow Vest activists are taking to French streets to protest high prices and inequality. Police and protesters have already clashed in Paris and Marseille.",
       "headline_only": false
-    },
-    {
-      "title": "ECB's Lagarde says bond selloff will slow inflation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORnNpbWFQTVJFZTQ1NDEzNVA1QlMyNThGdl8tR19Bd0UtQTAyVnBGRFBldDVOMFFnRHR0WkRHaS1CODVMSUFvSTZJdzN5a2NSbHFLbHA2bnZ0ZVBXYUprYS1oeGN6eF9lakVpVmRTSVB6VkpwUzlOVXZCME5ldGVmNmZPTUtuSGVnRTZzbENrQ1pGcFlScVZ1Sl9rQ1pHWUo1c1l4VUJn?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T08:01:43+00:00",
-      "summary": "ECB's Lagarde says bond selloff will slow inflation &nbsp;&nbsp; Reuters",
-      "headline_only": true
     },
     {
       "title": "«Hacker la tech»: ce que les géants du numérique font au monde et comment les vaincre",
@@ -1460,6 +1916,18 @@
       "lang": "FR",
       "published": "2026-10-17T08:01:07+00:00",
       "summary": "«Mediapart» organise un grand événement public à Paris avec celles et ceux qui, partout dans le monde, se mobilisent pour dénoncer l’emprise des géants du numérique. En partenariat avec «The Guardian», avec notamment la participation de Naomi Klein et d’Alain Damasio. À suivre…",
+      "headline_only": false
+    },
+    {
+      "title": "Thomas Piketty : « Des centaines de milliers de jeunes travaillent dur pour obtenir leur bac, mais rien n’est prévu pour les accueillir dans le supérieur »",
+      "link": "https://www.lemonde.fr/la-chronique-de-thomas-piketty/article/2026/10/17/thomas-piketty-des-centaines-de-milliers-de-jeunes-travaillent-dur-pour-obtenir-leur-bac-mais-rien-n-est-prevu-pour-les-accueillir-dans-le-superieur_6796094_6649149.html",
+      "source": "Le Monde",
+      "source_id": "lemonde-une",
+      "category": "economics",
+      "region": "France",
+      "lang": "FR",
+      "published": "2026-10-17T08:00:17+00:00",
+      "summary": "Le budget par étudiant a baissé de 20 % depuis l’arrivée d’Emmanuel Macron à l’Elysée : une catastrophe, décrit l’économiste dans sa chronique au « Monde », qui considère qu’un réinvestissement dans l’éducation devrait être un enjeu central en France.",
       "headline_only": false
     },
     {
@@ -1475,18 +1943,6 @@
       "headline_only": false
     },
     {
-      "title": "True Crime Community : un deuxième adolescent, âgé de 13 ans, mis en examen après l’attentat dans un collège d’Aubagne",
-      "link": "https://www.lemonde.fr/societe/article/2026/10/17/c-est-parti-je-t-aime-apres-l-attentat-dans-un-college-d-aubagne-un-deuxieme-adolescent-mis-en-examen-pour-complicite-de-tentatives-d-assassinats_6796058_3224.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T07:40:22+00:00",
-      "summary": "Selon les informations du « Monde », ce jeune, mis en examen pour complicité de tentatives d’assassinats, discutait avec l’auteur de l’attaque de son projet de tuerie scolaire depuis le mois d’août. Cet attentat, sans arrière-fond idéologique, est caractéristique de la mouvance…",
-      "headline_only": false
-    },
-    {
       "title": "More teens arrested over alleged assault of 15yo boy",
       "link": "https://www.abc.net.au/news/2026-10-17/two-more-teenagers-arrested-over-alleged-stawell-assault/107279482",
       "source": "ABC News Australia",
@@ -1496,30 +1952,6 @@
       "lang": "EN",
       "published": "2026-10-17T07:30:40+00:00",
       "summary": "Victoria Police arrest another two teenagers over the alleged assault of a 15-year-old boy in the state's west.",
-      "headline_only": false
-    },
-    {
-      "title": "«Je n'abandonnerai jamais de documenter l'invasion russe en Ukraine», promet le photographe Adrien Vautier",
-      "link": "https://www.rfi.fr/fr/europe/20261017-je-n-abandonnerai-jamais-de-documenter-l-invasion-russe-en-ukraine-promet-le-photographe-adrien-vautier",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T07:29:08+00:00",
-      "summary": "Dans le cadre du Prix Bayeux Calvados-Normandie, l'exposition photo « Si tu traverses l'hiver » d’Adrien Vautier en Ukraine est affichée dans les rues de la ville normande. Présent depuis les premiers jours de l’agression russe en 2022, il tente de synthétiser ce qu’il a pu…",
-      "headline_only": false
-    },
-    {
-      "title": "Midterms 2026: quels sont les scrutins qui attendent les Américains ce 3 novembre?",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261017-midterms-2026-quels-sont-les-scrutins-qui-attendent-les-am%C3%A9ricains-ce-3-novembre",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T07:26:21+00:00",
-      "summary": "Le 3 novembre prochain, les Américains ne voteront pas seulement pour renouveler une partie du Congrès. Gouverneurs, élus locaux, référendums… Les élections de mi-mandat se jouent aussi à l’échelle des États. Tour d’horizon de ce que les électeurs trouveront sur leur bulletin…",
       "headline_only": false
     },
     {
@@ -1559,42 +1991,6 @@
       "headline_only": false
     },
     {
-      "title": "Williams: England have a lot to work on",
-      "link": "https://www.skysports.com/rugby-league/live-blog/12040/13600058/rugby-league-world-cup-2026-live-updates-from-england-men-vs-tonga-and-women-vs-wales-in-opening-games-of-the-tournament",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T07:00:00+00:00",
-      "summary": "",
-      "headline_only": false
-    },
-    {
-      "title": "Morning update",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/morning-update-643",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T06:56:49+00:00",
-      "summary": "Morning update Good morning, Middle East Eye readers, If you are just joining us, here are key developments from across the region and beyond: Iran’s Islamic Revolutionary Guard Corps Navy has said a supertanker carrying more than 2 million barrels of crude oil struck a sea…",
-      "headline_only": false
-    },
-    {
-      "title": "UKMTO says unknown projectile hit tanker off Saudi Arabia's coast",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/ukmto-says-unknown-projectile-hit-tanker-saudi-arabias-coast",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T06:51:03+00:00",
-      "summary": "UKMTO says unknown projectile hit tanker off Saudi Arabia's coast The United Kingdom Maritime Trade Operations (UKMTO) has said that a&nbsp;tanker has been struck by an unknown projectile 68 nautical miles northeast of Al Jubail, Saudi Arabia, on Friday. All crew members were…",
-      "headline_only": false
-    },
-    {
       "title": "'Terrible to watch': Ohope Wins euthanased after fall in Caulfield Cup",
       "link": "https://www.abc.net.au/news/2026-10-17/half-yours-ohope-wins-caulfield-cup-fall/107279316",
       "source": "ABC News Australia",
@@ -1616,30 +2012,6 @@
       "lang": "EN",
       "published": "2026-10-17T06:28:03+00:00",
       "summary": "Figures from the boxing world give their predictions for Saturday's heavyweight world title rematch between Fabio Wardley and Daniel Dubois.",
-      "headline_only": false
-    },
-    {
-      "title": "Israeli forces arrest two Palestinians, settlers open fire at farmers in West Bank",
-      "link": "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-forces-arrest-two-palestinians-settlers-open-fire-farmers-west",
-      "source": "Middle East Eye",
-      "source_id": "middleeasteye",
-      "category": "osint",
-      "region": "MENA",
-      "lang": "EN",
-      "published": "2026-10-17T06:21:05+00:00",
-      "summary": "Israeli forces arrest two Palestinians, settlers open fire at farmers in West Bank Israeli settlers opened fire at and attacked Palestinian farmers in the village of Deir Jarir, east of Ramallah in the occupied West Bank, Al Jazeera reported. Three people were injured in a…",
-      "headline_only": false
-    },
-    {
-      "title": "India news: 'Cockroach' party founder Abhijeet Dipke under preventive arrest",
-      "link": "https://www.dw.com/en/india-news-cockroach-party-founder-abhijeet-dipke-under-preventive-arrest/live-79685143?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-10-17T06:21:00+00:00",
-      "summary": "CJP's Abhijeet Dipke is due to appear before a Special Executive Magistrate later in the day. Dipke was detained ahead of a demonstration in New Delhi on Friday. DW has more.",
       "headline_only": false
     },
     {
@@ -1667,114 +2039,6 @@
       "headline_only": false
     },
     {
-      "title": "Yemen's Houthis claim responsibility for fresh missile strike on Aden airport",
-      "link": "https://www.france24.com/en/middle-east/20261017-yemen-s-houthis-claim-responsibility-for-fresh-missile-strike-on-aden-airport",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-17T06:00:32+00:00",
-      "summary": "Yemen's Iran-aligned Houthi group claimed responsibility after two missiles struck Aden International Airport on Friday, saying they had targeted a weapons depot as well as a military command headquarters. The Aden Security Department said a Yemenia Airways flight bound for…",
-      "headline_only": false
-    },
-    {
-      "title": "Palantir patient data tech rejected by many NHS trusts in England",
-      "link": "https://www.theguardian.com/technology/2026/oct/17/palantir-patient-data-tech-rejected-by-many-nhs-trusts-in-england",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T06:00:24+00:00",
-      "summary": "Exclusive: health bodies across country say controversial US firm’s data platform no better than systems already in use NHS organisations that care for millions of people in England are rejecting Palantir’s patient data technology, according to freedom of information responses…",
-      "headline_only": false
-    },
-    {
-      "title": "Australia's deadliest asylum seeker boat disaster remembered 25 years on",
-      "link": "https://www.abc.net.au/news/2026-10-17/national-service-25-years-siev-x-asylum-seeker-boat-disaster/107278922",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-10-17T05:59:58+00:00",
-      "summary": "On October 19, 2001, 353 people, including 146 children, died when a fishing boat headed to Christmas Island sank in international waters off the coast of Java.",
-      "headline_only": false
-    },
-    {
-      "title": "Cosmetics company data breach affects 340,000 clients",
-      "link": "https://www.abc.net.au/news/2026-10-17/napoleon-perdis-cyber-attack-cosmetics-company-300000/107279426",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-10-17T05:59:12+00:00",
-      "summary": "Napoleon Perdis says customer names, dates of birth, email addresses, phone numbers, postal addresses and purchase histories have been accessed in the data breach.",
-      "headline_only": false
-    },
-    {
-      "title": "Cats underline AFLW premiership credentials as Crows snap Suns' winning run",
-      "link": "https://www.abc.net.au/news/2026-10-17/aflw-crows-suns-bulldogs-carlton-lions-port-eagles-cats/107279312",
-      "source": "ABC News Australia",
-      "source_id": "abc-au",
-      "category": "society",
-      "region": "Australia",
-      "lang": "EN",
-      "published": "2026-10-17T05:32:49+00:00",
-      "summary": "Geelong rose to the top of the AFLW ladder with a 53-point rout of West Coast, while the Crows returned to the finals frame after ending Gold Coast's six-game winning streak.",
-      "headline_only": false
-    },
-    {
-      "title": "IMFC chair says global economy resilient; delegates walk out on Russian official - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOa05jVFdUVTlxcG85OVFRMF94Wmo0TXlmSjRUWXhlb0xYYUVXdXd3ODJ6QWFMXzlSRW0ybkJ1MHgtbmt6ZjhXNzN1UkwwTEFURzJsRk8zSVBlQldrWXlHMGlhSTJoSDdYMjc5UWttN1dDX1VKZ2xTcGRHYVEyRW16TUdGbGpSMVVKck1ITUk5dkpyOHhrODd5bi1vLXJpUy1pR0tUd2V2T1hXOUNQcDJLMlNEMVZXUVl2RlgzVGZJaEV2VUNsSGc?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T05:19:00+00:00",
-      "summary": "IMFC chair says global economy resilient; delegates walk out on Russian official &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
-      "title": "Live: France's Yellow Vests throw their weight behind student protests",
-      "link": "https://www.france24.com/en/france/20261017-live-france-s-yellow-vests-throw-their-weight-behind-mounting-student-protests",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-17T05:17:22+00:00",
-      "summary": "Hundreds of thousands of ⁠people are expected to ​demonstrate across France on Saturday as students, trade union members and remnants of the Yellow Vest movement join forces to protest rising cost of living and ​the country's fraying social model. Follow our liveblog for the…",
-      "headline_only": false
-    },
-    {
-      "title": "Tear gas, clashes hit French cities in cost-of-living protests - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3ZSMTR3dmZDamlnT3EyMWx2U1hma3VycjFxblg3SmxXMi1mUEhibjJVTV8ySGRheTEyVndBWEF4em1sbEdoZ0pKcU0tS0JVSzVVS3VZdUVrOXdHNVNYdThleU0zaDE2RXpwMWxyYURCNGt1akVuRUF0aWhYY1VkQTV6cG9UeWd2eVRjTXV6U2V2NnpCeS1zMUl5M2N3Wk16a0t3ZQ?oc=5",
-      "source": "Reuters (via Google News – no native RSS)",
-      "source_id": "reuters-via-gnews",
-      "category": "politics",
-      "region": "Global",
-      "lang": "EN",
-      "published": "2026-10-17T05:06:00+00:00",
-      "summary": "Tear gas, clashes hit French cities in cost-of-living protests &nbsp;&nbsp; Reuters",
-      "headline_only": true
-    },
-    {
-      "title": "Steve Rosenberg, BBC Moscou: «Travailler en Russie, c’est comme être plongeur en eaux profondes»",
-      "link": "https://www.rfi.fr/fr/podcasts/atelier-des-m%C3%A9dias/20261017-steve-rosenberg-bbc-moscou-travailler-en-russie-c-est-comme-%C3%AAtre-plongeur-en-eaux-profondes",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T05:00:57+00:00",
-      "summary": "Depuis plus de 30 ans, Steve Rosenberg est le correspondant de la BBC à Moscou. En visite en France pour le prix Bayeux Calvados-Normandie des correspondants de guerre, il a accordé un long entretien à L’atelier des médias de RFI pour raconter son quotidien de journaliste…",
-      "headline_only": false
-    },
-    {
       "title": "Muscles, metrosexuals and male tears: the 39 pictures that changed the way we see men (for good and for bad)",
       "link": "https://www.theguardian.com/society/2026/oct/17/39-pictures-that-changed-the-way-we-see-men-for-good-and-for-bad",
       "source": "The Guardian – Society",
@@ -1784,54 +2048,6 @@
       "lang": "EN",
       "published": "2026-10-17T05:00:22+00:00",
       "summary": "From a body-building Arnie to a weeping Frenchman, these 39 groundbreaking images have upended assumptions about how men behave, dress and project power. Introduction by Luke Kennard I have an image of myself in 2011, pushing my newborn son in a big red buggy because he would…",
-      "headline_only": false
-    },
-    {
-      "title": "Some companies give AI to everyone. This CEO is doing the opposite",
-      "link": "https://www.cnbc.com/2026/10/17/ai-workplace-tokenmaxxing-paysend.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-10-17T05:00:01+00:00",
-      "summary": "Paysend CEO Ben Chisell limits AI tools to top performers as other U.K. companies push broader workplace rollouts.",
-      "headline_only": false
-    },
-    {
-      "title": "Olivier Cahn, juriste : « La garde à vue au chalut est désormais utilisée pour réduire le nombre de manifestants et prévenir des troubles »",
-      "link": "https://www.lemonde.fr/idees/article/2026/10/17/olivier-cahn-juriste-la-garde-a-vue-au-chalut-est-desormais-utilisee-pour-reduire-le-nombre-de-manifestants-et-prevenir-des-troubles_6795888_3232.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T04:30:05+00:00",
-      "summary": "Revenant sur la dynamique de judiciarisation du maintien de l’ordre en cours, le professeur de droit pénal s’inquiète, dans un entretien au « Monde », que l’autorité publique impose désormais aux manifestants ses conditions d’exercice de la liberté de manifester.",
-      "headline_only": false
-    },
-    {
-      "title": "Pour les vacances de la Toussaint, ces Français trop contraints par leur budget : « J’ai dû renoncer à ce bol d’air »",
-      "link": "https://www.lemonde.fr/economie/article/2026/10/17/pour-les-vacances-de-la-toussaint-ces-francais-trop-contraints-par-leur-budget-j-ai-du-renoncer-a-ce-bol-d-air_6795889_3234.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T04:30:05+00:00",
-      "summary": "La pause automnale est souvent la première sacrifiée lorsque le pouvoir d’achat est entamé, comme en cet automne soumis à l’inflation et à l’envolée du prix du carburant. Les réservations s’annoncent contrastées en fonction des régions et des types d’hébergement.",
-      "headline_only": false
-    },
-    {
-      "title": "« On me dit toujours que je fais 25 ans » : en quête d’une peau parfaite, ces Françaises qui partent en Corée du Sud pour des traitements dermatologiques de pointe",
-      "link": "https://www.lemonde.fr/m-perso/article/2026/10/17/on-me-dit-toujours-que-je-fais-25-ans-en-quete-d-une-peau-parfaite-elles-partent-en-coree-du-sud-pour-des-traitements-dermatologiques-de-pointe_6795853_4497916.html",
-      "source": "Le Monde",
-      "source_id": "lemonde-une",
-      "category": "economics",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-17T04:00:34+00:00",
-      "summary": "Une peau éclatante, c’est la promesse de la K-beauty, la cosmétique coréenne, dont la promotion inonde les réseaux sociaux. Des milliers de Françaises s’offrent un séjour « soins cutanés » à Séoul, où cette approche de l’esthétique, aux rituels séculaires et aux techniques…",
       "headline_only": false
     },
     {
@@ -1907,18 +2123,6 @@
       "headline_only": false
     },
     {
-      "title": "Trump pauses new Russia sanctions passed by Congress amid deepening row with Ukraine",
-      "link": "https://www.theguardian.com/us-news/2026/oct/17/trump-puts-new-russia-sanctions-passed-by-congress-on-hold-amid-deepening-row-with-ukraine",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-17T02:53:38+00:00",
-      "summary": "President signed the legislation championed by late senator Lindsey Graham last month but has waived the restrictions as they were due to come into effect Donald Trump has put on hold a sweeping new sanctions package targeting the Russian economy, telling Congress the pause on…",
-      "headline_only": false
-    },
-    {
       "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
       "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
       "source": "The Guardian – World",
@@ -1967,18 +2171,6 @@
       "headline_only": false
     },
     {
-      "title": "Trump puts new Russia sanctions on hold",
-      "link": "https://www.dw.com/en/trump-puts-new-russia-sanctions-on-hold/a-79685002?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-10-17T02:09:00+00:00",
-      "summary": "The US president cited national interests for his decision to sign a waiver on sanctions Congress voted to place on Russia.",
-      "headline_only": false
-    },
-    {
       "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
       "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
@@ -2015,39 +2207,15 @@
       "headline_only": true
     },
     {
-      "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-      "link": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+      "title": "Judge throws out child sex abuse charges against actor Timothy Busfield",
+      "link": "https://www.bbc.co.uk/news/articles/c8vgxwq4q5r2o?at_medium=RSS&at_campaign=rss",
       "source": "BBC News",
       "source_id": "bbc-world",
       "category": "politics",
       "region": "UK/Global",
       "lang": "EN",
-      "published": "2026-10-16T23:54:35+00:00",
-      "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it.",
-      "headline_only": false
-    },
-    {
-      "title": "U.S. budget deficit swells to almost $2 trillion for fiscal 2026, up 12% in a single year",
-      "link": "https://www.cnbc.com/2026/10/16/us-budget-deficit-2026.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-10-16T22:34:29+00:00",
-      "summary": "The Treasury Department published the U.S. budget deficit for the 2026 fiscal year.",
-      "headline_only": false
-    },
-    {
-      "title": "Brazil: Amazon deforestation lowest in nearly 40 years",
-      "link": "https://www.dw.com/en/brazil-amazon-deforestation-lowest-in-nearly-40-years/a-79684906?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-10-16T22:30:00+00:00",
-      "summary": "The latest figures show that 3,335 square kilometers of the Amazon rainforest were cleared in the year ending in July, the lowest level since 1988. The drop has been described as an \"historic achievement.\"",
+      "published": "2026-10-17T00:38:34+00:00",
+      "summary": "The judge in the case said on Friday that the prosecutor \"failed to act in a fair and impartial manner\".",
       "headline_only": false
     },
     {
@@ -2087,18 +2255,6 @@
       "headline_only": false
     },
     {
-      "title": "Tous les candidats au poste de chef de l'ONU essuient un veto lors d'un vote indicatif au Conseil de sécurité",
-      "link": "https://www.rfi.fr/fr/am%C3%A9riques/20261016-tous-les-candidats-au-poste-de-chef-de-l-onu-essuient-un-veto-lors-d-un-vote-au-conseil-de-s%C3%A9curit%C3%A9",
-      "source": "RFI",
-      "source_id": "rfi-fr",
-      "category": "society",
-      "region": "France",
-      "lang": "FR",
-      "published": "2026-10-16T21:46:47+00:00",
-      "summary": "Tous les candidats au poste de secrétaire général de l'ONU se sont vu opposer, vendredi 16 octobre, un veto par les membres permanents du Conseil de sécurité, a-t-on appris de source diplomatique. Au terme de ce vote indicatif, aucun des sept candidats n'a réussi à échapper à…",
-      "headline_only": false
-    },
-    {
       "title": "Healey backs pro-growth case for Heathrow third runway after Burnham ducks issue",
       "link": "https://www.theguardian.com/environment/2026/oct/16/healey-pro-growth-heathrow-third-runway-burnham",
       "source": "The Guardian – Business",
@@ -2121,30 +2277,6 @@
       "published": "2026-10-16T21:03:42+00:00",
       "summary": "Deliveries of the $2,000 Duo slip to 2027 within hours of going on sale",
       "headline_only": true
-    },
-    {
-      "title": "Zelensky turns to Europe for backing as ties with Trump deteriorate",
-      "link": "https://www.france24.com/en/europe/20261016-zelensky-turns-to-europe-for-backing-as-ties-with-trump-deteriorate",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-16T20:25:46+00:00",
-      "summary": "Ukrainian President Volodymyr Zelensky turned to his European allies on Friday, asking Brussels for an additional €70 billion to fund the war against Russia next year. Zelensky's relationship with US President Donald Trump deteriorated after the US eased sanctions on Moscow as…",
-      "headline_only": false
-    },
-    {
-      "title": "KENYA CONFIRMS THIRD EBOLA CASE",
-      "link": "https://www.france24.com/en/kenya-confirms-third-ebola-case",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-16T20:25:16+00:00",
-      "summary": "In tonight's programme, Kenya confirms a third case of Ebola, a relative of a man who died earlier this month after travelling from DR Congo. Also,Cameroonian journalist Ambe Macmillan is recovering in hospital after being shot in the legs by gunmen in Bamenda. And we meet…",
-      "headline_only": false
     },
     {
       "title": "Israeli Settlers Launch a Coordinated Attack in the West Bank",
@@ -2183,18 +2315,6 @@
       "headline_only": false
     },
     {
-      "title": "'Finish what we started': After student protests, France braces for return of the Yellow Vests",
-      "link": "https://www.france24.com/en/europe/20261016-finish-what-we-started-after-student-protests-france-braces-return-yellow-vests",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-16T20:10:18+00:00",
-      "summary": "An online movement against rising fuel prices has gained momentum ahead of planned nationwide demonstrations on October 17 with former Yellow Vest figures set to join the protests in support of high-school students. Some are drawing parallels between the latest action and the…",
-      "headline_only": false
-    },
-    {
       "title": "How This Year’s Economics Nobel Winners Shaped the World",
       "link": "https://foreignpolicy.com/2026/10/16/economics-nobel-central-banks-fed-warsh-woodford-hall/",
       "source": "Foreign Policy",
@@ -2219,18 +2339,6 @@
       "headline_only": true
     },
     {
-      "title": "Clashes grip Tirana as Albanian PM blames 'foreign hands' for mounting unrest",
-      "link": "https://www.france24.com/en/europe/20261016-clashes-grip-tirana-as-albanian-pm-blames-foreign-hands",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-16T19:59:23+00:00",
-      "summary": "Albanian Prime Minister Edi Rama on Friday blamed the involvement of “foreign hands” for escalating protests, which he said are aimed at hindering Albania's bid to join the European Union. Thousands of demonstrators have taken to the streets of Albania's capital since Tuesday,…",
-      "headline_only": false
-    },
-    {
       "title": "Chahuté au Mondial de l’auto, Jordan Bardella ne répond toujours pas aux questions sur ses écrits antisémites",
       "link": "https://www.mediapart.fr/journal/france/161026/chahute-au-mondial-de-l-auto-jordan-bardella-ne-repond-toujours-pas-aux-questions-sur-ses-ecrits-antisemit",
       "source": "Mediapart",
@@ -2243,18 +2351,6 @@
       "headline_only": false
     },
     {
-      "title": "Ukrainian President Zelenskyy speaks at EU summit amid spat with Donald Trump",
-      "link": "https://www.dw.com/en/ukrainian-president-zelenskyy-speaks-at-eu-summit-amid-spat-with-donald-trump/a-79684340?maca=en-rss-en-all-1573-xml-mrss",
-      "source": "Deutsche Welle",
-      "source_id": "dw-all",
-      "category": "politics",
-      "region": "Germany/Global",
-      "lang": "EN",
-      "published": "2026-10-16T19:42:00+00:00",
-      "summary": "EU leaders reaffirmed support for Ukraine at the Brussels summit. But souring relations with the US over Russia and Starlink and a big hole in the budget will make for a difficult winter for Ukraine.",
-      "headline_only": false
-    },
-    {
       "title": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
       "link": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
       "source": "The Guardian – World",
@@ -2264,18 +2360,6 @@
       "lang": "EN",
       "published": "2026-10-16T19:37:53+00:00",
       "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-off Deforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows. But whether this globally important success is…",
-      "headline_only": false
-    },
-    {
-      "title": "Trump Vs Zelensky, From the Screen to the Streets, Gen Z protests from Paris to Dehli",
-      "link": "https://www.france24.com/en/tv-shows/the-world-this-week/20261016-trump-vs-zelensky-from-the-screen-to-the-streets-gen-z-protests-from-paris-to-dehli",
-      "source": "France 24",
-      "source_id": "france24",
-      "category": "politics",
-      "region": "France/Global",
-      "lang": "EN",
-      "published": "2026-10-16T19:21:33+00:00",
-      "summary": "In India, the Cockroach movement felt the crushing boot of the state this week. Thousands of Gen Z protesters were rounded up and detained in sports stadiums and community halls turned into makeshift detention centres, while the movement’s founder, Abhijeet Dipke, was arrested…",
       "headline_only": false
     },
     {
@@ -2300,18 +2384,6 @@
       "lang": "EN",
       "published": "2026-10-16T19:00:10+00:00",
       "summary": "Gin branding offers an unexpected window into the invention of tradition.",
-      "headline_only": false
-    },
-    {
-      "title": "No 10 leaves option open to impose Chinese EV tariffs if UK joins EU scheme",
-      "link": "https://www.theguardian.com/politics/2026/oct/16/uk-chinese-electric-vehicle-ev-tariffs-eu-made-in-europe-scheme",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-16T18:09:34+00:00",
-      "summary": "Beijing warns against ‘discriminatory’ step after France drops opposition to British role in Made in Europe package No 10 has left the door open to imposing tariffs on Chinese-made electric vehicles as part of the Made in Europe package, prompting a warning from Beijing that…",
       "headline_only": false
     },
     {
@@ -2348,30 +2420,6 @@
       "lang": "FR",
       "published": "2026-10-16T17:09:57+00:00",
       "summary": "\"\"En toute opacité, de grands groupes industriels réservent des quantités astronomiques d’électricité pour se positionner sur le marché des data centers en France, selon les informations de «Mediapart» et de Lighthouse Reports.",
-      "headline_only": false
-    },
-    {
-      "title": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
-      "link": "https://www.cnbc.com/2026/10/16/tesla-spacex-merger-odds-rise-on-kalshi.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-10-16T17:02:40+00:00",
-      "summary": "Kalshi odds for a Tesla-SpaceX merger rose above 50% for early 2027 as Barclays outlined how a deal could work.",
-      "headline_only": false
-    },
-    {
-      "title": "The Guardian view on the banks: too big to fail cannot mean too big to tax | Editorial",
-      "link": "https://www.theguardian.com/commentisfree/2026/oct/16/the-guardian-view-on-the-banks-too-big-to-fail-cannot-mean-too-big-to-tax",
-      "source": "The Guardian – Business",
-      "source_id": "guardian-business",
-      "category": "finance",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-16T16:52:37+00:00",
-      "summary": "Financiers owe their windfalls and bonuses to higher interest rates. Britain should reclaim more for the public and resist City lobbying John Healey is planning to tax British banks, the Guardian revealed , in the forthcoming budget. It’s about time for the chancellor to act.…",
       "headline_only": false
     },
     {
@@ -2420,18 +2468,6 @@
       "lang": "FR",
       "published": "2026-10-16T15:59:32+00:00",
       "summary": "Face aux accusations de « tri social », le ministre de l’enseignement supérieur, Philippe Baptiste, défend la plateforme avec des chiffres qui ne rendent que partiellement compte des difficultés rencontrées par les néobacheliers.",
-      "headline_only": false
-    },
-    {
-      "title": "Tesla unveils long-delayed Roadster developed with SpaceX, fueling merger speculation",
-      "link": "https://www.cnbc.com/2026/10/15/tesla-roadster-reveal-what-to-know-about-the-delayed-ev.html",
-      "source": "CNBC",
-      "source_id": "cnbc-world",
-      "category": "finance",
-      "region": "US",
-      "lang": "EN",
-      "published": "2026-10-16T15:52:41+00:00",
-      "summary": "Elon Musk first debuted the Roadster refresh concept in 2017 but Tesla has since missed every targeted delivery date.",
       "headline_only": false
     },
     {
@@ -2624,18 +2660,6 @@
       "lang": "EN",
       "published": "2026-10-16T08:45:00+00:00",
       "summary": "The toxic exposures didn’t begin with the flames. Researchers are examining how fires affected a community already harmed by plantation agriculture, development, and colonialism. The post Long After the Maui Fires, Toxic Metals Linger in Residents’ Bodies appeared first on The…",
-      "headline_only": false
-    },
-    {
-      "title": "'It feels like you're days away from death' - the Olympian living with ME",
-      "link": "https://www.bbc.co.uk/sport/olympics/videos/cmgqw3j7eqqwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC Sport",
-      "source_id": "bbc-sport",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-10-16T07:32:26+00:00",
-      "summary": "She's an Olympian, a world record holder and a Commonwealth Games medal winner. She's also bedbound for more than 22 hours a day. Sprinter Beth Dobbin shares her health struggles with BBC Sport months after retiring from the sport for good.",
       "headline_only": false
     },
     {
@@ -3263,18 +3287,6 @@
       "headline_only": false
     },
     {
-      "title": "‘I think Alaska’s turning blue’: Republicans fret Sullivan’s path to reelection",
-      "link": "https://www.politico.com/news/2026/10/14/alaska-sullivan-trump-maga-01118073",
-      "source": "Politico",
-      "source_id": "politico",
-      "category": "politics",
-      "region": "US/Europe",
-      "lang": "EN",
-      "published": "2026-10-14T18:18:37+00:00",
-      "summary": "Alaska strategists and voters acknowledge GOP Sen. Dan Sullivan is facing a difficult road, despite Trump’s support and the outside money pouring in.",
-      "headline_only": false
-    },
-    {
       "title": "Turkish Government Takes Over Independent TV News Channel",
       "link": "https://www.hrw.org/news/2026/10/14/turkish-government-takes-over-independent-tv-news-channel",
       "source": "Human Rights Watch",
@@ -3407,18 +3419,6 @@
       "headline_only": false
     },
     {
-      "title": "House control all but gone, top Republicans privately concede",
-      "link": "https://www.politico.com/news/2026/10/14/house-republicans-private-lost-cause-01117673",
-      "source": "Politico",
-      "source_id": "politico",
-      "category": "politics",
-      "region": "US/Europe",
-      "lang": "EN",
-      "published": "2026-10-14T08:45:00+00:00",
-      "summary": "Republican groups are trying to limit their losses. But few in the party believe they have a good shot at keeping control of Congress.",
-      "headline_only": false
-    },
-    {
       "title": "French High School Student Protests Met with Excessive Force",
       "link": "https://www.hrw.org/news/2026/10/14/french-high-school-student-protests-met-with-excessive-force",
       "source": "Human Rights Watch",
@@ -3476,6 +3476,18 @@
       "lang": "FR",
       "published": "2026-10-13T19:08:19+00:00",
       "summary": "Implication du lobby des pesticides, lien avec la guerre à Gaza, duplicité des élus porteurs du ruban rose… La députée « insoumise » accuse la campagne de sensibilisation au cancer du sein de « cynisme absolu ». Si elle s’appuie sur des faits attestés, elle effectue des…",
+      "headline_only": false
+    },
+    {
+      "title": "Airport attacks put aviation in crosshairs of geopolitical conflicts",
+      "link": "https://www.cnbc.com/2026/10/13/riyadh-airport-attacks-aviation.html",
+      "source": "CNBC",
+      "source_id": "cnbc-world",
+      "category": "finance",
+      "region": "US",
+      "lang": "EN",
+      "published": "2026-10-13T18:33:42+00:00",
+      "summary": "Deadly attacks at Riyadh’s main airport are disrupting airlines, closing airspace and raising new security questions for commercial aviation.",
       "headline_only": false
     },
     {
@@ -3716,30 +3728,6 @@
       "lang": "EN",
       "published": "2026-10-01T13:46:03+00:00",
       "summary": "Earlier this week, several viral social media posts and news articles stated that Google had updated satellite imagery over Gaza. The imagery shared in these posts and articles shows several areas, including the southern city of Rafah. Huge destruction is detailed in the…",
-      "headline_only": false
-    },
-    {
-      "title": "Foden and Bouaddi start for Man City vs Ipswich LIVE!",
-      "link": "https://www.skysports.com/football/manchester-city-vs-ipswich-town/live/559510",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-09-28T10:38:00+00:00",
-      "summary": "",
-      "headline_only": false
-    },
-    {
-      "title": "Chelsea ahead after Rogers avoids red & Martinez stretchered off LIVE!",
-      "link": "https://www.skysports.com/football/everton-vs-chelsea/live/559507",
-      "source": "Sky Sports",
-      "source_id": "sky-sports",
-      "category": "sports",
-      "region": "UK",
-      "lang": "EN",
-      "published": "2026-09-28T10:09:00+00:00",
-      "summary": "",
       "headline_only": false
     },
     {
